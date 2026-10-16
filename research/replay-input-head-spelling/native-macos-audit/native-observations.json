@@ -1,0 +1,261 @@
+{
+  "status": "PASS_NATIVE_MACOS_HEAD_SPELLING",
+  "head": "3cb500b743f36e13d21b6a46f126846bf36bad32",
+  "baseline": "836b19bfa309ceafbc8ee32a15e8c4b10dde7e11",
+  "platform": "macOS-26.5.2-arm64-arm-64bit",
+  "machine": "arm64",
+  "python": "3.12.14",
+  "git": "git version 2.50.1 (Apple Git-155)",
+  "unicode_and_rename": [
+    {
+      "mode": "false",
+      "created_form": "NFC",
+      "unicode_same_file": true,
+      "case_same_file": true,
+      "head_spelling": "src/caf\u00e9.json",
+      "head_utf8_hex": "7372632f636166c3a92e6a736f6e",
+      "diff_nul_hex": "7372632f636166c3a92e6a736f6e00",
+      "alias_rejected_without_output": "src/cafe\u0301.json",
+      "canonical_selected": [
+        "research/alpha"
+      ],
+      "case_rename_selected": [
+        "research/alpha",
+        "research/beta"
+      ],
+      "case_rename_diff_nul_hex": "5352432f6465702e6a736f6e007372632f6465702e6a736f6e00"
+    },
+    {
+      "mode": "false",
+      "created_form": "NFD",
+      "unicode_same_file": true,
+      "case_same_file": true,
+      "head_spelling": "src/cafe\u0301.json",
+      "head_utf8_hex": "7372632f63616665cc812e6a736f6e",
+      "diff_nul_hex": "7372632f63616665cc812e6a736f6e00",
+      "alias_rejected_without_output": "src/caf\u00e9.json",
+      "canonical_selected": [
+        "research/alpha"
+      ],
+      "case_rename_selected": [
+        "research/alpha",
+        "research/beta"
+      ],
+      "case_rename_diff_nul_hex": "5352432f6465702e6a736f6e007372632f6465702e6a736f6e00"
+    },
+    {
+      "mode": "true",
+      "created_form": "NFC",
+      "unicode_same_file": true,
+      "case_same_file": true,
+      "head_spelling": "src/caf\u00e9.json",
+      "head_utf8_hex": "7372632f636166c3a92e6a736f6e",
+      "diff_nul_hex": "7372632f636166c3a92e6a736f6e00",
+      "alias_rejected_without_output": "src/cafe\u0301.json",
+      "canonical_selected": [
+        "research/alpha"
+      ],
+      "case_rename_selected": [
+        "research/alpha",
+        "research/beta"
+      ],
+      "case_rename_diff_nul_hex": "5352432f6465702e6a736f6e007372632f6465702e6a736f6e00"
+    },
+    {
+      "mode": "true",
+      "created_form": "NFD",
+      "unicode_same_file": true,
+      "case_same_file": true,
+      "head_spelling": "src/caf\u00e9.json",
+      "head_utf8_hex": "7372632f636166c3a92e6a736f6e",
+      "diff_nul_hex": "7372632f636166c3a92e6a736f6e00",
+      "alias_rejected_without_output": "src/cafe\u0301.json",
+      "canonical_selected": [
+        "research/alpha"
+      ],
+      "case_rename_selected": [
+        "research/alpha",
+        "research/beta"
+      ],
+      "case_rename_diff_nul_hex": "5352432f6465702e6a736f6e007372632f6465702e6a736f6e00"
+    }
+  ],
+  "full_metadata_alias_comparisons": [
+    {
+      "mode": "false",
+      "created_form": "NFC",
+      "alias": "SRC/dep.json",
+      "baseline_accepts": true,
+      "repair_rejects": true
+    },
+    {
+      "mode": "false",
+      "created_form": "NFC",
+      "alias": "src/DEP.json",
+      "baseline_accepts": true,
+      "repair_rejects": true
+    },
+    {
+      "mode": "false",
+      "created_form": "NFC",
+      "alias": "SRC/DEP.json",
+      "baseline_accepts": true,
+      "repair_rejects": true
+    },
+    {
+      "mode": "false",
+      "created_form": "NFC",
+      "alias": "src/cafe\u0301.json",
+      "baseline_accepts": true,
+      "repair_rejects": true
+    },
+    {
+      "mode": "false",
+      "created_form": "NFD",
+      "alias": "SRC/dep.json",
+      "baseline_accepts": true,
+      "repair_rejects": true
+    },
+    {
+      "mode": "false",
+      "created_form": "NFD",
+      "alias": "src/DEP.json",
+      "baseline_accepts": true,
+      "repair_rejects": true
+    },
+    {
+      "mode": "false",
+      "created_form": "NFD",
+      "alias": "SRC/DEP.json",
+      "baseline_accepts": true,
+      "repair_rejects": true
+    },
+    {
+      "mode": "false",
+      "created_form": "NFD",
+      "alias": "src/caf\u00e9.json",
+      "baseline_accepts": true,
+      "repair_rejects": true
+    },
+    {
+      "mode": "true",
+      "created_form": "NFC",
+      "alias": "SRC/dep.json",
+      "baseline_accepts": true,
+      "repair_rejects": true
+    },
+    {
+      "mode": "true",
+      "created_form": "NFC",
+      "alias": "src/DEP.json",
+      "baseline_accepts": true,
+      "repair_rejects": true
+    },
+    {
+      "mode": "true",
+      "created_form": "NFC",
+      "alias": "SRC/DEP.json",
+      "baseline_accepts": true,
+      "repair_rejects": true
+    },
+    {
+      "mode": "true",
+      "created_form": "NFC",
+      "alias": "src/cafe\u0301.json",
+      "baseline_accepts": true,
+      "repair_rejects": true
+    },
+    {
+      "mode": "true",
+      "created_form": "NFD",
+      "alias": "SRC/dep.json",
+      "baseline_accepts": true,
+      "repair_rejects": true
+    },
+    {
+      "mode": "true",
+      "created_form": "NFD",
+      "alias": "src/DEP.json",
+      "baseline_accepts": true,
+      "repair_rejects": true
+    },
+    {
+      "mode": "true",
+      "created_form": "NFD",
+      "alias": "SRC/DEP.json",
+      "baseline_accepts": true,
+      "repair_rejects": true
+    },
+    {
+      "mode": "true",
+      "created_form": "NFD",
+      "alias": "src/cafe\u0301.json",
+      "baseline_accepts": true,
+      "repair_rejects": true
+    }
+  ],
+  "canonical_metadata_fixtures": [
+    {
+      "mode": "false",
+      "created_form": "NFC",
+      "inputs": [
+        "input.txt",
+        "src/dep.json",
+        "src/caf\u00e9.json"
+      ],
+      "baseline_pass": true,
+      "repair_pass": true
+    },
+    {
+      "mode": "false",
+      "created_form": "NFD",
+      "inputs": [
+        "input.txt",
+        "src/dep.json",
+        "src/cafe\u0301.json"
+      ],
+      "baseline_pass": true,
+      "repair_pass": true
+    },
+    {
+      "mode": "true",
+      "created_form": "NFC",
+      "inputs": [
+        "input.txt",
+        "src/dep.json",
+        "src/caf\u00e9.json"
+      ],
+      "baseline_pass": true,
+      "repair_pass": true
+    },
+    {
+      "mode": "true",
+      "created_form": "NFD",
+      "inputs": [
+        "input.txt",
+        "src/dep.json",
+        "src/caf\u00e9.json"
+      ],
+      "baseline_pass": true,
+      "repair_pass": true
+    }
+  ],
+  "canonical_validator_calls": 8,
+  "fresh_import_cache": true,
+  "source_sha256": {
+    "scripts/research_package.py": "9fa01de454181bee6d52d159e86ea0f1ba462ab5ef08eaec7284de8c84ee5249",
+    "scripts/new_research_package.py": "7d300bf45baffced49d2bbea795ce3abe5f860f0dc1172845fc352b398331f34",
+    "scripts/find_overlap.py": "a11289dc1e0ce3500bddbb28f36fd24d15042808cdc422f14c2564658dbefb61",
+    "scripts/research_baseline.py": "59d9b04dc33e1bb3f81506d187243435de4902138a038b935e36ebaa5f37db67",
+    "scripts/verify_selected_result.py": "c0cc23a8534d91c8d272195315c725213f13279815750ffdef055ec3adfbe911",
+    "tests/test_research_git_spelling.py": "5b21271c1daacb69f9214a4f6f22282cafbd232bf1a31b8e2e3c5c16f5df4153",
+    "tests/test_research_onboarding.py": "9de6225a720146027d4936f332d65d2f50c031279548969f1a8ea31fa3e08b96",
+    "tests/test_research_input_paths.py": "066e44a20ffd314aebb4d0f9c4836e06482c5612318931e6b5aa0756f2dac9d2",
+    "research/replay-input-head-spelling/README.md": "a6167bf5046687ef478d01dd4b9a6679fb645891471e7a0779ca29d2d155daf9",
+    "research/replay-input-head-spelling/SOURCES.json": "ce70cc7c34cda6a771a890e51298a97d54e59ed7dc7755ea76236de48133d7ef",
+    "research/replay-input-head-spelling/TASK.json": "aae6704dbc3a7695648cb7dc7affb96f738eb1665f12ea7c5880c53453b4c1f9",
+    "research/replay-input-head-spelling/VERIFY.json": "61b53c1febfb2caf471622f80bbc845bb5ff531231cec312f39ad430f0198b33",
+    "research/replay-input-head-spelling/verify.py": "9e7ccf78a91242b0532c220ad194df27b1b12f9d62e2e3da0c237817ee45f2b3"
+  },
+  "scope": "Native macOS, precomposeunicode false/true, same-file aliases. No Windows, physical tracked-name collisions, concurrent writers, hosted CI or supplier claim."
+}
