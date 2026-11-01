@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "status": "ready",
+  "python": "3.12",
+  "requirements": [],
+  "inputs": [
+    "research/cubic-pow2-repair/PROOF.md",
+    "research/cubic-pow2-repair/README.md",
+    "research/dyadic-cubic-repair/PROOF.md",
+    "research/dyadic-cubic-repair/sources/pr6200-PROOF.md"
+  ],
+  "commands": [
+    {
+      "argv": [
+        "{python}",
+        "-B",
+        "{package}/verify.py"
+      ],
+      "timeout_seconds": 120,
+      "checks": "Exact r=16 identity, retained-child replay, price-law gaps, pinned disclaimer sentences, and rejection of a perturbed weight or dropped shear. Compare RESULT.json."
+    },
+    {
+      "argv": [
+        "{python}",
+        "-O",
+        "-B",
+        "{package}/verify.py"
+      ],
+      "timeout_seconds": 120,
+      "checks": "Same comparison with assertions disabled."
+    }
+  ]
+}
