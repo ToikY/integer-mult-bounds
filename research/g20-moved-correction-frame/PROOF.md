@@ -101,4 +101,5 @@ frames held fixed are the separate neutral two-step obstruction. The six
 neutral one-step neighbors and the 645 common-frame expansions named in the
 #5708 README still have no executable definition in that package. No
 selected-frontier update follows. The selected conditional exponent remains
-`781451/250000000`.
+`781451/250000000`. Full-history source preflight was not run in this
+shallow checkout; the recorded base commit and input hashes are the pins.

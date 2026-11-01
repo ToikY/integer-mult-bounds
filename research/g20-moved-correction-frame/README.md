@@ -98,6 +98,9 @@ PASS_G20_MOVED_CORRECTION_FRAME candidates=765 moved_trials=28149 missing_edge=2
 Checks raise exceptions, so `-O` does not disable them. Not run: the #5708
 integration replay, the 18-call caller, adjoint columns, moduli 101 and
 10201, ordinary admission, Lean, Docker, and `make frontier6030-verify`.
+`check_research_commit.py --check-source-history` was not run: this checkout
+does not have full Git history. The pinned blobs are objects of the recorded
+base commit in this clone.
 
 ## Open next questions
 
