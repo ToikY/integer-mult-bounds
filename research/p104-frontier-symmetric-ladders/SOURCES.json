@@ -1,0 +1,54 @@
+{
+ "schema_version": 1,
+ "base_commit": "2485805a6d47f36ea83ddde6327d453ac82d44dc",
+ "files": [
+  {
+   "path": "certificates/selected-result.json",
+   "usage": "provenance",
+   "git_blob": "d59b5035e7b4cbaa9d688a1d32dd0d6eb79c466a",
+   "sha256": "9b8d0eea95b3bf0dfcb7938a732a6439b87a2685dec2a5ab9e525b3b34debbfa"
+  },
+  {
+   "path": "docs/research/agent-task-catalog.json",
+   "usage": "provenance",
+   "git_blob": "3404fbdd5e7529a0674eef26114b5071e4586cec",
+   "sha256": "ead6cdc9d0af6d58e8a49744d8ec8c7c15e13d2ba93c276c434bcf9b51b93a81"
+  },
+  {
+   "path": "research/p104-retained-operand-descent/WORD.json.gz",
+   "usage": "input",
+   "git_blob": "f2d3f98964f939e5ca652f9b1453a0604f15f829",
+   "sha256": "68d1ff048bc6d30d85ceaeb38e2557adab87b20a9c67cf73948f95f54104575f"
+  },
+  {
+   "path": "research/p104-retained-operand-descent/pricing.py",
+   "usage": "input",
+   "git_blob": "cd8220ca7a393f03341f08a93b9d1287f0bb3689",
+   "sha256": "bba1611b05b6cc35279aa1667dcc62ce0e7f27f0ba21f20eb68244fa772e0ae7"
+  },
+  {
+   "path": "research/p104-retained-operand-descent/sources.py",
+   "usage": "input",
+   "git_blob": "bef6542243a082755a881dff42097434e6370609",
+   "sha256": "a62fefda1709614157ba440d38c164c366a8b3322ab8f866b6b4bd47b9d83dbc"
+  },
+  {
+   "path": "research/p104-retained-operand-descent/SOURCES.json",
+   "usage": "input",
+   "git_blob": "0c574b6026a7239aac7365c433d3760928748edb",
+   "sha256": "7c7b6fac64005eb8932283a902069d672d98c52bda2b63cc7eaa4a2cac13ce8f"
+  },
+  {
+   "path": "research/p104-retained-operand-descent/RESULT.json",
+   "usage": "input",
+   "git_blob": "9d78529c1ac43faef6b3dff6e4b1262d89a86b40",
+   "sha256": "cffec38f3a5ab0bf5ee1bcd15b2e7bf8bcfd711b57ee57de8ec0fea0c5a823df"
+  },
+  {
+   "path": "research/p104-retained-operand-descent/inputs/pr5827-source.tar",
+   "usage": "input",
+   "git_blob": "1e10936044959f81a4c5fcd5bdb7b9e4c060ec8e",
+   "sha256": "7af5908a4d83e83e28f59523fd7494841f669b7295311cfdbc3027fa65c5826d"
+  }
+ ]
+}
