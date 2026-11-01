@@ -221,13 +221,20 @@ def _close_known_descriptors(descriptors):
 
 
 def _finally_close_known(descriptors, secondaries):
-    """Preflight finally: close all, keep a pending primary, fail if the body succeeded."""
+    """Preflight finally: close all, keep a pending primary, fail if the body succeeded.
+
+    A pending body error stays the propagating primary. Every close failure is
+    then an ordered secondary. If the body succeeded, the first close failure
+    propagates and only the later close failures are secondaries.
+    """
     failures = _close_known_descriptors(descriptors)
-    for item in failures:
-        secondaries.append(item)
     if sys.exc_info()[1] is None and failures:
         error, traceback = failures[0]
+        for item in list(failures)[1:]:
+            secondaries.append(item)
         raise error.with_traceback(traceback)
+    for item in failures:
+        secondaries.append(item)
 
 
 

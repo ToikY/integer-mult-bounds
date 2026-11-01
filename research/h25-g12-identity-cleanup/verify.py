@@ -19,7 +19,7 @@ PREDECESSOR_SHA256 = {
 }
 CORRECTED_SHA256 = {
     "corrected/g12_reference_parent_v2.py":
-        "f01045d402cd993d0173d57d336e2044cbad48c98c19ecfde22b99d636d20177",
+        "176f0ae0748e8f02a9a89b23e0d0fa684b6c6734ad0a68f705a802695046005e",
     "corrected/g12_reference_cold_consumer_v2.py":
         "dc8a0b62d4175ee447469b7e66798160b85777f44e34d34e98b08af83a9f5a6d",
 }
@@ -225,8 +225,8 @@ def check_cleanup(parent):
         pass
     else:
         fail("successful body plus failed close was treated as success")
-    if len(kept) != 1:
-        fail("successful-body close failure was not retained")
+    if kept:
+        fail("the sole close failure was also stored as a secondary")
 
     # Clean closes add no secondary and close both ends.
     one, two = os.pipe()
