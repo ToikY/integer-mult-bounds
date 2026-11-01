@@ -1,0 +1,95 @@
+{
+  "schema_version": 1,
+  "task_id": "uniform-transfer-audit",
+  "priority_revision": 8,
+  "base_commit": "626e936ce4d61f2584316914fc71baf96940c512",
+  "original_card": {
+    "id": "uniform-transfer-audit",
+    "question": "Can one of the selected record's five inherited assumptions be proved at its actual caller?",
+    "starting_points": [
+      "docs/research/current-priorities.md",
+      "docs/research/research-family-status.md",
+      "certificates/selected-result.json",
+      "docs/research/pr-intake-evidence/pr5599-completion/PROOF-REVIEW.md"
+    ],
+    "methods": [
+      "Construct and independently check one source-bound instance of the stated first experiment.",
+      "Seek an exact counterexample or target-specific complete-budget obstruction to that same proposed change."
+    ],
+    "acceptance_gate": "Identify the proposition and what would change downstream; do not equate a finite replay with a universal proof.",
+    "first_step": {
+      "command": [
+        "python3",
+        "-B",
+        "scripts/research_selected_baseline.py"
+      ],
+      "expected": "PASS_RESEARCH_BASELINE_BINDINGS_ONLY",
+      "inspect": "Read revision 8, the selected review and live exact-source handoffs. Then follow this card's bounded first_experiment.",
+      "scope": "Source-bound orientation only, not a supplier replay or theorem proof."
+    },
+    "first_experiment": "Choose one assumption ID (native_all_columns, owned_erasure, compiler, precision_tape, analytic_recovery), one quantified implication and exact dependency closure. Check current handoffs, including #5625 row reentry and #5707 root-prefix lowering, without treating their partial scope as the whole theorem. Prove or falsify that implication with a caller-bound argument; stop at the chosen obligation. Finite tests or root digits do not discharge an all-size statement.",
+    "bottleneck_link": "Judge the actual current supplier contract and complete signed target/paid bill; frozen-profile ceilings require an applicability proof.",
+    "allowed_variations": [
+      "One exact source head, helper/cut region or quantified proposition and changed hypothesis; check live handoffs first. Different seeds are not different scopes."
+    ],
+    "scope_change_triggers": [
+      "Changing source head, helper/cut domain, operation alphabet or caller boundary without recording the new scope.",
+      "Treating an archived proposal or local numerical pass as complete supplier admission."
+    ],
+    "overlap_terms": [
+      "native_all_columns",
+      "owned_erasure",
+      "compiler",
+      "precision_tape",
+      "analytic_recovery"
+    ],
+    "existing_checks": [
+      {
+        "scope": "PR #4100: proposed unconditional construction and finite checks, without independent acceptance.",
+        "evidence": "research/unconditional-batched-crt/README.md",
+        "remaining": "Independent proof audit of one caller-bound all-size implication; all other premises remain explicit.",
+        "status": "author-checked",
+        "source_commit": "337d04939571a637aeab54a0f58f54fde811663a",
+        "selected_record_sha256": "bb2eaa58647b353f88d0aec2eafb9d30df1be53589231b23e12ceef3e4bad129"
+      },
+      {
+        "scope": "Selected PR5599: complete helper-subspace construction and independent caller replay; five framework assumptions remain.",
+        "evidence": "docs/research/pr-intake-evidence/pr5599-completion/PROOF-REVIEW.md",
+        "remaining": "The next experiment must identify uncovered source-specific work. Successor archive intake does not transfer this admission.",
+        "status": "reviewed",
+        "source_commit": "09dd0965711ca7eeb169057a420abab1c9052137",
+        "selected_record_sha256": "2a0220e866417774606e0f991e41b9c1d26b1f43b97857238cf478dbc7d330b5"
+      }
+    ]
+  },
+  "scope_status": "changed",
+  "actual_scope": "Show that one seven-tape inventory carries two rounds of the typed actual-width physical H on the ell=2 witness, with previous-output reset and simultaneous stock F = 6Mr(w+W).",
+  "scope_change_reason": "The revision-8 card asks for one of the five selected assumptions at its caller. Discussion 1166 comment 19016699 is the first structured open handoff, and its typed actual-width return is already on main. This package takes that handoff's remaining stock question, which is open question 1 of research/typed-actual-width-physical-h, instead of a new all-size assumption proof.",
+  "bottleneck_link": "The one-round bill cannot be reused across rounds while auxiliary tapes are allocated per call. A fixed footprint F, rather than 2F, is the stock term a later caller would pay for two rounds of this return. It does not move the selected main_transform outer row.",
+  "budget_minutes": 60,
+  "stop_rule": "Stop after the ell=2 short-axis two-presentation schedule and the ell=2 long-axis two-height schedule. Do not build a variable-g inventory, retain both outputs, attach the PR 3617 diagonal, or run the selected cold replay.",
+  "outcome": "partial",
+  "evidence": "PROOF.md derives F = 6Mr(w+W) and the blank bill n writes and 2(n-1) moves. verify.py matches fresh one-shot tensors and ledgers, checks 624 and 1248 live cells, the reset bill, the predecessor one-shot rejection and the unit-disk rejection.",
+  "author": "unpaidmoon",
+  "ai_assistance": "Substantial assistance from Cursor Grok 4.7. No independent human or formal-kernel acceptance is claimed.",
+  "open_questions": [
+    {
+      "question": "Can one inventory carry rounds whose selected-bit counts differ?",
+      "why_it_matters": "ell=3 with flags (True, False) and k=1 has g=1 followed by g=2, so the exact-length redirect rejects the shorter round.",
+      "first_step": "Pad the g=2 scratch, low, high and paired tapes so the g=1 round uses a checked prefix, then compare both tensors with one-shot calls.",
+      "blocked_by": "This allocator requires each requested length to equal the inventory length."
+    },
+    {
+      "question": "What is the stock if the caller keeps both round outputs?",
+      "why_it_matters": "Previous-output reset is what keeps the live count at F instead of 2F.",
+      "first_step": "Add a second root and consumer pair and compare the retained-pair cell count with F.",
+      "blocked_by": "No second output pair is allocated here."
+    },
+    {
+      "question": "Can one reset output sit under PR 3617's framed diagonal without a fresh stage object?",
+      "why_it_matters": "That is the predecessor's second open question and would price the fixed-h join separately from this stock bound.",
+      "first_step": "Feed one rounded consumer packet into the unchanged diagonal consumer and price the framing.",
+      "blocked_by": "The diagonal pass is not invoked, and initial framing remains unpriced."
+    }
+  ]
+}
