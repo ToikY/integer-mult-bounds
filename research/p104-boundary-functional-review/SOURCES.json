@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "base_commit": "626e936ce4d61f2584316914fc71baf96940c512",
+  "files": [
+    {
+      "path": "certificates/selected-result.json",
+      "usage": "provenance",
+      "git_blob": "d59b5035e7b4cbaa9d688a1d32dd0d6eb79c466a",
+      "sha256": "9b8d0eea95b3bf0dfcb7938a732a6439b87a2685dec2a5ab9e525b3b34debbfa"
+    },
+    {
+      "path": "docs/research/agent-task-catalog.json",
+      "usage": "provenance",
+      "git_blob": "3404fbdd5e7529a0674eef26114b5071e4586cec",
+      "sha256": "ead6cdc9d0af6d58e8a49744d8ec8c7c15e13d2ba93c276c434bcf9b51b93a81"
+    },
+    {
+      "path": "research/p104-two-boundary-helper-split/PROOF.md",
+      "usage": "input",
+      "git_blob": "0eeb4ce7ecb8a558cf62f3052ed4e80c5da198a2",
+      "sha256": "83c86475a632a92497d2c7a149cca189b08412dfbb59efeac5a0967326ef567e"
+    },
+    {
+      "path": "research/p104-two-boundary-helper-split/WITNESS.json",
+      "usage": "input",
+      "git_blob": "88d25590010052ebe4da2b575803f618241500eb",
+      "sha256": "0e78b2fbc34b52662f7b05733e3a3132599c55486dd215d7b96aaaf0c1bff804"
+    },
+    {
+      "path": "research/p104-two-boundary-helper-split/WORD.json.gz",
+      "usage": "input",
+      "git_blob": "4db015aca34ea957dd8b3b4d7ae4fa12b89934f8",
+      "sha256": "cff7196f8b168c4ebf8227185eed98387b66ec5db0179108adfea4045775cc31"
+    },
+    {
+      "path": "research/p104-two-boundary-helper-split/inputs/pr5713-source.tar",
+      "usage": "input",
+      "git_blob": "ec8f4bccaca147bc80cec078147fb95bc515036e",
+      "sha256": "c4d8d0bcd6231eb4539a76d66b0dbd465313cbc50d279ca974a55fecb935d544"
+    }
+  ]
+}
