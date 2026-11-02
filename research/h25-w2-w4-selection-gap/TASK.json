@@ -1,0 +1,103 @@
+{
+  "schema_version": 1,
+  "task_id": "supplier-boundary-audit",
+  "priority_revision": 8,
+  "base_commit": "626e936ce4d61f2584316914fc71baf96940c512",
+  "original_card": {
+    "id": "supplier-boundary-audit",
+    "question": "Does one changed supplier have complete source-bound native, caller, ordinary and outer admission coverage?",
+    "starting_points": [
+      "docs/research/current-priorities.md",
+      "docs/research/research-family-status.md",
+      "certificates/selected-result.json",
+      "docs/research/pr-intake-evidence/pr5599-completion/PROOF-REVIEW.md"
+    ],
+    "methods": [
+      "Construct and independently check one source-bound instance of the stated first experiment.",
+      "Seek an exact counterexample or target-specific complete-budget obstruction to that same proposed change."
+    ],
+    "acceptance_gate": "Pin the current sources and one obligation; the historical owner audit is an example, not evidence of a current bug.",
+    "first_step": {
+      "command": [
+        "python3",
+        "-B",
+        "scripts/research_selected_baseline.py"
+      ],
+      "expected": "PASS_RESEARCH_BASELINE_BINDINGS_ONLY",
+      "inspect": "Read revision 8, the selected review and live exact-source handoffs. Then follow this card's bounded first_experiment.",
+      "scope": "Source-bound orientation only, not a supplier replay or theorem proof."
+    },
+    "first_experiment": "Choose one latest uncovered candidate and build a delta coverage map against the selected review. For P104, #5717 changes owned-lifetime assumptions and #5719 covers exact #5713 causal premises; neither automatically transfers to #5718. For BIT, #5679/#5708 need component admission and compatible outer use. Check controls and exact source identity before reuse; stop with one resolved gap or explicit remaining obligation. A heavy full replay requires a separate serial resource budget.",
+    "bottleneck_link": "Judge the actual current supplier contract and complete signed target/paid bill; frozen-profile ceilings require an applicability proof.",
+    "allowed_variations": [
+      "One exact source head, helper/cut region or quantified proposition and changed hypothesis; check live handoffs first. Different seeds are not different scopes."
+    ],
+    "scope_change_triggers": [
+      "Changing source head, helper/cut domain, operation alphabet or caller boundary without recording the new scope.",
+      "Treating an archived proposal or local numerical pass as complete supplier admission."
+    ],
+    "overlap_terms": [
+      "supplier admission",
+      "5717",
+      "5719",
+      "5708",
+      "owned lifetime"
+    ],
+    "existing_checks": [
+      {
+        "scope": "PR #4088: author-checked local words, native receipts, owner/phase fill and exact moment.",
+        "evidence": "research/staged544-mixed-fourth-entry/README.md",
+        "remaining": "Rebind and validate ordinary/outer admission with all four providers; full mixed release not established.",
+        "status": "author-checked",
+        "source_commit": "72d7efc181edb21806a878f174847c96dd410ab0",
+        "selected_record_sha256": "bb2eaa58647b353f88d0aec2eafb9d30df1be53589231b23e12ceef3e4bad129"
+      },
+      {
+        "scope": "PR #3801: successor scatter-boundary decision package.",
+        "evidence": "research/scatter-boundary-decision/README.md",
+        "remaining": "Consult its exact acceptance scope before any new exporter audit; not proof of a selected failure.",
+        "status": "author-checked",
+        "source_commit": "911f8800ba7a4b03603ef62c5ffc6240e53cb5fd",
+        "selected_record_sha256": "bb2eaa58647b353f88d0aec2eafb9d30df1be53589231b23e12ceef3e4bad129"
+      },
+      {
+        "scope": "Selected PR5599: complete helper-subspace construction and independent caller replay; five framework assumptions remain.",
+        "evidence": "docs/research/pr-intake-evidence/pr5599-completion/PROOF-REVIEW.md",
+        "remaining": "The next experiment must identify uncovered source-specific work. Successor archive intake does not transfer this admission.",
+        "status": "reviewed",
+        "source_commit": "09dd0965711ca7eeb169057a420abab1c9052137",
+        "selected_record_sha256": "2a0220e866417774606e0f991e41b9c1d26b1f43b97857238cf478dbc7d330b5"
+      }
+    ]
+  },
+  "scope_status": "refined",
+  "actual_scope": "On PR6335 head d34b84f1e1d9fb4bdcf26eda8817c3603fea3051, do the two published W2/W4 draft identities and dependency N1 select a closed source and control graph?",
+  "scope_change_reason": "Discussion 1166 comment 19330344 asks for this exact W2/W4 source-selection review against N1. That is one uncovered candidate interface, not a transfer of the #5719 certificate onto #5718 and not a #5717 owned-lifetime replay. The card's first experiment allows one latest candidate and one resolved gap.",
+  "bottleneck_link": "Side result on the H25 serializer admission path. The selected record remains kappa 781451/250000000. An unclosed runtime or control dependency is not zero cost and is not a signed-moment improvement.",
+  "budget_minutes": 60,
+  "stop_rule": "Stop after the N1 selection gap. Do not select F05, implement producers, seal locale data, or run W5.",
+  "outcome": "completed",
+  "evidence": "verify.py recomputes the published SHA-256 values, AST import lists, line 490, and the unselected F05 control constants. N1 is not closed. Four in-process mutants flip the corresponding facts. When the PR6335 commit is in the local Git database, the five vendored inputs match it byte for byte.",
+  "author": "unpaidmoon",
+  "ai_assistance": "Prepared by unpaidmoon with substantial Cursor Grok assistance. The audited drafts and identity records are Chris R / Clear1nsight, PR6335.",
+  "open_questions": [
+    {
+      "question": "Is F05 selected for the W2 control graph?",
+      "why_it_matters": "N1 includes the hash-and-line trace only if F05 is selected, and the identity record has no selection bit. The trace implementation is in the unselected new_failure_controls.py.",
+      "first_step": "Record an explicit select or reject bit. If selected, add that control module, its sys.settrace admission, and TARGET_SHA256 fdeeb791c6cb0c03a5ab15903d51c3eb4cc5ff2a945c50d7f550acfe11376f3d to the identity before any control run.",
+      "blocked_by": "A separate integration assignment. This audit does not admit sys.settrace or execute the control."
+    },
+    {
+      "question": "What is the actual _decimal, Context, and trap closure of the W4 draft under the intended interpreter?",
+      "why_it_matters": "N1 names decimal/_decimal Context/signals/re. The identity field lists the decimal and re modules only. Context, localcontext, and the nine trap types are imported, and _decimal is not a direct import.",
+      "first_step": "After N3's separately admitted provider acquisition, pin the loaded decimal extension and the Context settings used by isolated_decimal_context, then recheck the identity field.",
+      "blocked_by": "N3 current-host acquisition is not granted by PR6335. Source freezing is not a runtime seal."
+    },
+    {
+      "question": "Which trusted request and receipt producers satisfy N2?",
+      "why_it_matters": "The identity record says launcher admission and receipt producers are not implemented, and N2 says the standalone draft is not an installed execution envelope.",
+      "first_step": "Review a new producer proposal against the W4 request and receipt schemas without treating this source round as that producer.",
+      "blocked_by": "No producer module is selected in ACCEPTED-DRAFT-SOURCE-IDENTITIES-v1.json. W5 remains unadmitted."
+    }
+  ]
+}

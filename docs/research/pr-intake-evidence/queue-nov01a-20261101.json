@@ -1,0 +1,2725 @@
+{
+  "schema_version": 1,
+  "baseline": "626e936ce4d61f2584316914fc71baf96940c512",
+  "scope": "12 exact heads: archive source/integrity intake and claim-scope reading, plus one exact-arithmetic prose correction. No submitted scientific verifier, Lean, Docker or supplier replay executed.",
+  "contributions": [
+    {
+      "number": 6336,
+      "head": "605035a6424e53d4236c2699e7aca5fa84d6c24f",
+      "merge_base": "626e936ce4d61f2584316914fc71baf96940c512",
+      "title": "Prove the sharp paid-moment floor for independent four-contact centre\u2026",
+      "author": {
+        "id": "U_kgDOB9csmw",
+        "is_bot": false,
+        "login": "unpaidmoon",
+        "name": "unpaidmoon"
+      },
+      "files": [
+        {
+          "path": "research/independent-centre-quad-trees/PROOF.md",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "7ff72f10b0937083381b0bb474c1389f1188a26e"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        },
+        {
+          "path": "research/independent-centre-quad-trees/README.md",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "2810feac90efec11e09bae4f0d56fbba0d90f532"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        },
+        {
+          "path": "research/independent-centre-quad-trees/SOURCES.json",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "afc995fae111edc075ebb9aae0912c91d409f7fa"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        },
+        {
+          "path": "research/independent-centre-quad-trees/TASK.json",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "ed0d45870521125cc12901f21e6f1b0c841a3861"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        },
+        {
+          "path": "research/independent-centre-quad-trees/VERIFY.json",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "e59fd6405ca77ad80490e537e2c1653cae3c0423"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        },
+        {
+          "path": "research/independent-centre-quad-trees/geometry.py",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "1d92d84d2e8a291626f8467a36b9ec103055540c"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        },
+        {
+          "path": "research/independent-centre-quad-trees/verify.py",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "87aed23f7d5544669d19a0e39388c3c8d684868c"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        }
+      ],
+      "errors": [],
+      "syntax": {
+        "python": 2,
+        "json": 3
+      },
+      "pin_checks": [
+        {
+          "manifest": "research/independent-centre-quad-trees/SOURCES.json",
+          "path": "certificates/selected-result.json",
+          "source_spec": "626e936ce4d61f2584316914fc71baf96940c512:certificates/selected-result.json",
+          "result": "match"
+        },
+        {
+          "manifest": "research/independent-centre-quad-trees/SOURCES.json",
+          "path": "docs/research/agent-task-catalog.json",
+          "source_spec": "626e936ce4d61f2584316914fc71baf96940c512:docs/research/agent-task-catalog.json",
+          "result": "match"
+        },
+        {
+          "manifest": "research/independent-centre-quad-trees/SOURCES.json",
+          "path": "research/sol1337-contact-frontier/build_graph.py",
+          "source_spec": "626e936ce4d61f2584316914fc71baf96940c512:research/sol1337-contact-frontier/build_graph.py",
+          "result": "match"
+        },
+        {
+          "manifest": "research/independent-centre-quad-trees/SOURCES.json",
+          "path": "research/sol1337-contact-frontier/inputs/round3-native.json.gz",
+          "source_spec": "626e936ce4d61f2584316914fc71baf96940c512:research/sol1337-contact-frontier/inputs/round3-native.json.gz",
+          "result": "match"
+        },
+        {
+          "manifest": "research/independent-centre-quad-trees/SOURCES.json",
+          "path": "research/sol1337-contact-frontier/vendor/model.py",
+          "source_spec": "626e936ce4d61f2584316914fc71baf96940c512:research/sol1337-contact-frontier/vendor/model.py",
+          "result": "match"
+        },
+        {
+          "manifest": "research/independent-centre-quad-trees/SOURCES.json",
+          "path": "research/sol1337-contact-frontier/vendor/retained_verify.py",
+          "source_spec": "626e936ce4d61f2584316914fc71baf96940c512:research/sol1337-contact-frontier/vendor/retained_verify.py",
+          "result": "match"
+        }
+      ],
+      "declared_input_checks": [
+        {
+          "manifest": "research/independent-centre-quad-trees/VERIFY.json",
+          "scope": "Canonical input spelling and regular tracked blob presence at exact source head; no scientific replay.",
+          "errors": [],
+          "inputs": [
+            {
+              "path": "research/sol1337-contact-frontier/build_graph.py",
+              "mode": "100644",
+              "oid": "f68c8ea2e6139b02cdc91afd60bae52f9c9d695c"
+            },
+            {
+              "path": "research/sol1337-contact-frontier/inputs/round3-native.json.gz",
+              "mode": "100644",
+              "oid": "46d929df83817b85a5387bcdb9745e0627d6366e"
+            },
+            {
+              "path": "research/sol1337-contact-frontier/vendor/model.py",
+              "mode": "100644",
+              "oid": "a69138e4014424235345f3301fbe6b097caa1b8c"
+            },
+            {
+              "path": "research/sol1337-contact-frontier/vendor/retained_verify.py",
+              "mode": "100644",
+              "oid": "357cbff9874ce920c5b5ad839fd47d3f9c728bcb"
+            }
+          ]
+        }
+      ],
+      "shared": [],
+      "conflicts": [],
+      "independent_scientific_execution": false,
+      "observed_reviews": [],
+      "claim_excerpt": "## Change and mathematical scope\n\nScoped proof with an exact finite certificate. No \u03ba change and no selected-frontier update. The selected record stays \u03ba = 781451/250000000 from PR6030, with the five framework assumptions still in force.\n\nOn the retained 640-input centre graph, every connected induced subgraph on four empty-chart contacts is one of 716 paths, 160 claws, or 62 four-cycles. For every induced path and every induced claw, independently replacing those four empty charts by nontrivial one-transvection neighbours, while keeping incident charges, native maps, boundaries and all 408 productive helper targets fixed, raises the complete paid moment by at least\n\n    3 - 2^theta + 7^theta - 8^theta > 0\n\nfor every `0<theta<1`. The bound is attained for every such theta by path `(11013,11014,11015,11016)` at label 59 on each node. The histogram change is `{0:-2,1:3,2:-1,7:1,8:-1}`. Label 59 is normal 30, tag 1, axis 1054.\n\nClaw prefix minima are exactly `(4,3,3,3,3,3,3,2,2)`, attained by centre `11014` with leaves `10945,11013,11015` at the same label. The 62 induced four-cycles are counted and left unpriced. Unknown native, delivery and restoration costs are not priced as zero; the optimistic paid bill is already strictly higher.\n\n## Task and overlap\n\nBase commit `626e936ce4d61f2584316914fc71baf96940c512`. Task card `complex-rank-shape-decoder`, catalogue revision 8. Scope status: **changed**. The card asks whether a legal decoder or coframe change can improve the full signed moment. This prices one complete changed producer contract on the historical retained-centre int",
+      "roots": [
+        "research/independent-centre-quad-trees"
+      ],
+      "installed": [
+        "research/independent-centre-quad-trees/PROOF.md",
+        "research/independent-centre-quad-trees/README.md",
+        "research/independent-centre-quad-trees/SOURCES.json",
+        "research/independent-centre-quad-trees/TASK.json",
+        "research/independent-centre-quad-trees/VERIFY.json",
+        "research/independent-centre-quad-trees/geometry.py",
+        "research/independent-centre-quad-trees/verify.py"
+      ],
+      "deleted": [],
+      "resolutions": {},
+      "lane": "archive",
+      "reason": "Archive retention only. Independent proof/replay of the sharp four-contact path/claw moment floor remains open; the 62 four-cycles are counted but unpriced. No universal chart obstruction.",
+      "historical_only": false
+    },
+    {
+      "number": 6337,
+      "head": "3b58db981b87f090f2a63886edf78bf641b049ae",
+      "merge_base": "626e936ce4d61f2584316914fc71baf96940c512",
+      "title": "Cursor/g20 moved correction frame 9d0c",
+      "author": {
+        "id": "U_kgDOB9csmw",
+        "is_bot": false,
+        "login": "unpaidmoon",
+        "name": "unpaidmoon"
+      },
+      "files": [
+        {
+          "path": "research/g20-moved-correction-frame/PROOF.md",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "611b3f9a114a881144e9ac0a5d8e404c0e3e3972"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        },
+        {
+          "path": "research/g20-moved-correction-frame/README.md",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "d6ea1189d906569ceec655ab06bd377bded6dd55"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        },
+        {
+          "path": "research/g20-moved-correction-frame/SOURCES.json",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "afa58abad49b24a5643ed2b98ea15f7abd719be6"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        },
+        {
+          "path": "research/g20-moved-correction-frame/TASK.json",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "9c193620a414e1d4a49146b4061266a8c3c73f39"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        },
+        {
+          "path": "research/g20-moved-correction-frame/VERIFY.json",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "0ac9a71a837af56246032796596092060f0fa018"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        },
+        {
+          "path": "research/g20-moved-correction-frame/verify.py",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "0758bd2f7a0697ee35e92a7c6d9f8c81cb092a1a"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        }
+      ],
+      "errors": [],
+      "syntax": {
+        "python": 1,
+        "json": 3
+      },
+      "pin_checks": [
+        {
+          "manifest": "research/g20-moved-correction-frame/SOURCES.json",
+          "path": "docs/research/agent-task-catalog.json",
+          "source_spec": "626e936ce4d61f2584316914fc71baf96940c512:docs/research/agent-task-catalog.json",
+          "result": "match"
+        },
+        {
+          "manifest": "research/g20-moved-correction-frame/SOURCES.json",
+          "path": "certificates/selected-result.json",
+          "source_spec": "626e936ce4d61f2584316914fc71baf96940c512:certificates/selected-result.json",
+          "result": "match"
+        },
+        {
+          "manifest": "research/g20-moved-correction-frame/SOURCES.json",
+          "path": "research/g20-conjugation-admission/WORD.json.gz",
+          "source_spec": "626e936ce4d61f2584316914fc71baf96940c512:research/g20-conjugation-admission/WORD.json.gz",
+          "result": "match"
+        },
+        {
+          "manifest": "research/g20-moved-correction-frame/SOURCES.json",
+          "path": "research/g20-conjugation-admission/PATHS.json",
+          "source_spec": "626e936ce4d61f2584316914fc71baf96940c512:research/g20-conjugation-admission/PATHS.json",
+          "result": "match"
+        },
+        {
+          "manifest": "research/g20-moved-correction-frame/SOURCES.json",
+          "path": "research/g20-conjugation-admission/LOCAL-RESULT.json",
+          "source_spec": "626e936ce4d61f2584316914fc71baf96940c512:research/g20-conjugation-admission/LOCAL-RESULT.json",
+          "result": "match"
+        },
+        {
+          "manifest": "research/g20-moved-correction-frame/SOURCES.json",
+          "path": "research/g20-conjugation-admission/README.md",
+          "source_spec": "626e936ce4d61f2584316914fc71baf96940c512:research/g20-conjugation-admission/README.md",
+          "result": "match"
+        },
+        {
+          "manifest": "research/g20-moved-correction-frame/SOURCES.json",
+          "path": "research/g20-conjugation-admission/PROOF.md",
+          "source_spec": "626e936ce4d61f2584316914fc71baf96940c512:research/g20-conjugation-admission/PROOF.md",
+          "result": "match"
+        },
+        {
+          "manifest": "research/g20-moved-correction-frame/SOURCES.json",
+          "path": "research/g20-conjugation-admission/construct.py",
+          "source_spec": "626e936ce4d61f2584316914fc71baf96940c512:research/g20-conjugation-admission/construct.py",
+          "result": "match"
+        }
+      ],
+      "declared_input_checks": [
+        {
+          "manifest": "research/g20-moved-correction-frame/VERIFY.json",
+          "scope": "Canonical input spelling and regular tracked blob presence at exact source head; no scientific replay.",
+          "errors": [],
+          "inputs": [
+            {
+              "path": "research/g20-conjugation-admission/WORD.json.gz",
+              "mode": "100644",
+              "oid": "3877a72d8a15adb03f6492f7d2fd8fa902ecb639"
+            },
+            {
+              "path": "research/g20-conjugation-admission/PATHS.json",
+              "mode": "100644",
+              "oid": "efbdf632746a971f9a593f57ccbb7d2cc67a6760"
+            },
+            {
+              "path": "research/g20-conjugation-admission/LOCAL-RESULT.json",
+              "mode": "100644",
+              "oid": "29cd42b8baa531f2598b9b8894fd514c754ed17c"
+            },
+            {
+              "path": "research/g20-conjugation-admission/README.md",
+              "mode": "100644",
+              "oid": "b1655b59134ae7a5734628ba1efef6611b2dcd31"
+            },
+            {
+              "path": "research/g20-conjugation-admission/PROOF.md",
+              "mode": "100644",
+              "oid": "b5147598224b8e164e7956e44c6e0fd76b7dc1ef"
+            },
+            {
+              "path": "research/g20-conjugation-admission/construct.py",
+              "mode": "100644",
+              "oid": "c0fe9d080b76171d8ed967cbad337c596d250a23"
+            }
+          ]
+        }
+      ],
+      "shared": [],
+      "conflicts": [],
+      "independent_scientific_execution": false,
+      "observed_reviews": [],
+      "claim_excerpt": "## Change and mathematical scope\n\nNegative result. No new \u03ba. On the emitted local word of PR #5708, every one-to-three-contact A2 conjugation keeps its scalar endpoint when exactly one correction is moved onto a different frame of the published one-edge route table. Of the 28,149 frames that can host that meeting, 28,123 do not emit. The 26 that emit raise the paid-query moment on the whole interval `(0, 1)`, by `H4` or by `5 H2 \u2212 2 H4`.\n\nThis is a paid-profile obstruction in that finite domain. It is not a scalar-only count, a supplier admission, or a change to the selected exponent `781451/250000000`.\n\n## Task and overlap\n\nBase commit: `626e936ce4d61f2584316914fc71baf96940c512` on canonical `CrocSwap/integer-mult-bounds` main. Priority revision 8. Catalogue card `bit-helper-contract`. Scope status: **refined**.\n\nThe card says to review the #5679/#5708 chain and stop when a proposed cut does not improve the paid moment. Session r69 takes item 2 of the ordered eligible list: the BIT row, and within it the moved-frame clause left open by #6290, #6305, and `research/g20-neutral-two-step-obstruction`.\n\nOrdered list, after dropping the delivered 19 October handoff index and work already on main, in open PRs, or on a fork `cursor/*` branch:\n\n1. Complex helpers (`p104-side-correction`, `coverage-law-change`).\n2. **This package.** BIT (`bit-helper-contract`): one moved correction frame.\n3. New decoders and interfaces.\n4. Supplier audit.\n5. All-size audit.\n6. Verification tooling.\n7. `bit-new-register-model`.\n8. `r437-carrier-integration`.\n9. `complex-rank-shape-decoder`.\n10. `comp",
+      "roots": [
+        "research/g20-moved-correction-frame"
+      ],
+      "installed": [
+        "research/g20-moved-correction-frame/PROOF.md",
+        "research/g20-moved-correction-frame/README.md",
+        "research/g20-moved-correction-frame/SOURCES.json",
+        "research/g20-moved-correction-frame/TASK.json",
+        "research/g20-moved-correction-frame/VERIFY.json",
+        "research/g20-moved-correction-frame/verify.py"
+      ],
+      "deleted": [],
+      "resolutions": {},
+      "lane": "archive",
+      "reason": "Archive retention only. Independent replay of the finite length-1..3 single-moved-correction domain remains open; multi-correction and larger domains are excluded from the negative claim.",
+      "historical_only": false
+    },
+    {
+      "number": 6338,
+      "head": "3351f1b59db9c094877227bad16ccd4597bbc8c1",
+      "merge_base": "626e936ce4d61f2584316914fc71baf96940c512",
+      "title": "Prove idle helpers do not lower the span-(m+1) line bound",
+      "author": {
+        "id": "U_kgDOB9csmw",
+        "is_bot": false,
+        "login": "unpaidmoon",
+        "name": "unpaidmoon"
+      },
+      "files": [
+        {
+          "path": "research/span-lemma-idle-helpers/PROOF.md",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "0a52d77f4ce557ad54f452c4a2c78ed130298216"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        },
+        {
+          "path": "research/span-lemma-idle-helpers/README.md",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "6b9a2e17bf4ee19853d7150d8cdf945f60b88df3"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        },
+        {
+          "path": "research/span-lemma-idle-helpers/SOURCES.json",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "b6ac309f765d92aeac93f897ddc8f38eae7aab0b"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        },
+        {
+          "path": "research/span-lemma-idle-helpers/TASK.json",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "4201c8cff67880c20e5feabf558bf1bd361c14e4"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        },
+        {
+          "path": "research/span-lemma-idle-helpers/VERIFY.json",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "b8627edd687b1e8c5bcd57527d301d6447916855"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        },
+        {
+          "path": "research/span-lemma-idle-helpers/verify.py",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "535ef85c2df1729e764c2196817d3be9a581f131"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        }
+      ],
+      "errors": [],
+      "syntax": {
+        "python": 1,
+        "json": 3
+      },
+      "pin_checks": [
+        {
+          "manifest": "research/span-lemma-idle-helpers/SOURCES.json",
+          "path": "certificates/selected-result.json",
+          "source_spec": "626e936ce4d61f2584316914fc71baf96940c512:certificates/selected-result.json",
+          "result": "match"
+        },
+        {
+          "manifest": "research/span-lemma-idle-helpers/SOURCES.json",
+          "path": "docs/research/agent-task-catalog.json",
+          "source_spec": "626e936ce4d61f2584316914fc71baf96940c512:docs/research/agent-task-catalog.json",
+          "result": "match"
+        },
+        {
+          "manifest": "research/span-lemma-idle-helpers/SOURCES.json",
+          "path": "research/bit-one-relation-any-registers/README.md",
+          "source_spec": "626e936ce4d61f2584316914fc71baf96940c512:research/bit-one-relation-any-registers/README.md",
+          "result": "match"
+        },
+        {
+          "manifest": "research/span-lemma-idle-helpers/SOURCES.json",
+          "path": "research/span-lemma-every-dimension/PROOF.md",
+          "source_spec": "626e936ce4d61f2584316914fc71baf96940c512:research/span-lemma-every-dimension/PROOF.md",
+          "result": "match"
+        }
+      ],
+      "declared_input_checks": [
+        {
+          "manifest": "research/span-lemma-idle-helpers/VERIFY.json",
+          "scope": "Canonical input spelling and regular tracked blob presence at exact source head; no scientific replay.",
+          "errors": [],
+          "inputs": [
+            {
+              "path": "research/bit-one-relation-any-registers/README.md",
+              "mode": "100644",
+              "oid": "7453a3f10c9cbaad746f108dc65dcfc514d0fdb5"
+            },
+            {
+              "path": "research/span-lemma-every-dimension/PROOF.md",
+              "mode": "100644",
+              "oid": "5f160fa562dbec44d7f5c388ffc9d0a8972223d3"
+            }
+          ]
+        }
+      ],
+      "shared": [],
+      "conflicts": [],
+      "independent_scientific_execution": false,
+      "observed_reviews": [],
+      "claim_excerpt": "## Change and mathematical scope\n\nScoped proof, no new \u03ba. In the abelian scalar-idempotent model, `t` invertible `m\u00d7m` rational targets plus any number of clean or dirty monomial helper registers still need at least `m t` paid calls when the frame span has dimension at most `m+1` and the normalized extra frame satisfies `|K| \u2260 2`. The direct coordinate word attains `m t` and restores every untouched helper to the group identity.\n\nThis answers open question 3 of `research/span-lemma-every-dimension`: Lemma A's line projection survives identity helper targets. Extra registers do not escape that part of the three-register obstruction. The `|K| = 2` flag case is not extended. The selected record stays `781451/250000000`.\n\n## Task and overlap\n\nBase commit: `626e936ce4d61f2584316914fc71baf96940c512` on canonical `CrocSwap/integer-mult-bounds` main. Priority revision 8.\n\nSession r74, item 7 of the ordered eligible list. The 19 October handoffs are already delivered. Later handoffs whose canonical artifact is an open PR, including the H25 requests on #6321, #6326, #6328, #6332 and #6335, are excluded. The revision-8 next-decision table then supplies six rows, naming `p104-side-correction`, `coverage-law-change` and `bit-helper-contract`. Catalogue cards not named by those rows follow. Item 7 is `bit-new-register-model`.\n\nScope status: **refined**. The card allows a fixed larger register count. The alphabet stays the rational matrix group; the new hypothesis is `r` helper registers with arbitrary monomial outputs. The result is a lower bound, not a native word.\n\nNearest work, and wh",
+      "roots": [
+        "research/span-lemma-idle-helpers"
+      ],
+      "installed": [
+        "research/span-lemma-idle-helpers/PROOF.md",
+        "research/span-lemma-idle-helpers/README.md",
+        "research/span-lemma-idle-helpers/SOURCES.json",
+        "research/span-lemma-idle-helpers/TASK.json",
+        "research/span-lemma-idle-helpers/VERIFY.json",
+        "research/span-lemma-idle-helpers/verify.py"
+      ],
+      "deleted": [],
+      "resolutions": {},
+      "lane": "archive",
+      "reason": "Archive retention only. Independent proof review of the scalar-idempotent line bound remains open; |K|=2, higher span and physical supplier admission remain excluded.",
+      "historical_only": false
+    },
+    {
+      "number": 6339,
+      "head": "608ad23adc6c01264c8195daf7f18e29c17464a7",
+      "merge_base": "626e936ce4d61f2584316914fc71baf96940c512",
+      "title": "Cursor/h25 g12 identity cleanup 5d9d",
+      "author": {
+        "id": "U_kgDOB9csmw",
+        "is_bot": false,
+        "login": "unpaidmoon",
+        "name": "unpaidmoon"
+      },
+      "files": [
+        {
+          "path": "research/h25-g12-identity-cleanup/README.md",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "bf24cf5df36fae8322ef4e606e8a7e2732e15274"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        },
+        {
+          "path": "research/h25-g12-identity-cleanup/SOURCES.json",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "bb049fd6399375a6370c2cdfed80dd3d2a5069f7"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        },
+        {
+          "path": "research/h25-g12-identity-cleanup/TASK.json",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "8abe2135023f9184ae754a2e764fd507990cd9c4"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        },
+        {
+          "path": "research/h25-g12-identity-cleanup/VERIFY.json",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "33928aadf0d71748e411ff0aec184df6ffa6cdb7"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        },
+        {
+          "path": "research/h25-g12-identity-cleanup/corrected/g12_reference_cold_consumer_v2.py",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "a95f079b3c19edd66d26cd1085bfdfd954dd27cd"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        },
+        {
+          "path": "research/h25-g12-identity-cleanup/corrected/g12_reference_parent_v2.py",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "42795e5d3a224a35959df361493211ff0fbea9b1"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        },
+        {
+          "path": "research/h25-g12-identity-cleanup/predecessor/g12_reference_cold_consumer_v1.py.txt",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "19cb9376c2d757e1deb354608a1351c39e4daae1"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        },
+        {
+          "path": "research/h25-g12-identity-cleanup/predecessor/g12_reference_parent_v1.py.txt",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "80482f9a9af1f471bc567c52cc31e6dc8a39c26f"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        },
+        {
+          "path": "research/h25-g12-identity-cleanup/verify.py",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "6f5e891e419b64c6b3092239136d849c9b6a5ec2"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        }
+      ],
+      "errors": [],
+      "syntax": {
+        "python": 3,
+        "json": 3
+      },
+      "pin_checks": [
+        {
+          "manifest": "research/h25-g12-identity-cleanup/SOURCES.json",
+          "path": "certificates/selected-result.json",
+          "source_spec": "626e936ce4d61f2584316914fc71baf96940c512:certificates/selected-result.json",
+          "result": "match"
+        },
+        {
+          "manifest": "research/h25-g12-identity-cleanup/SOURCES.json",
+          "path": "docs/research/agent-task-catalog.json",
+          "source_spec": "626e936ce4d61f2584316914fc71baf96940c512:docs/research/agent-task-catalog.json",
+          "result": "match"
+        },
+        {
+          "manifest": "research/h25-g12-identity-cleanup/SOURCES.json",
+          "path": "research/h25-g12-identity-cleanup/predecessor/g12_reference_parent_v1.py.txt",
+          "source_spec": "09875e02fc3a045689f315ff8a842cb63598372b:research/h25-g12-identity-cleanup/predecessor/g12_reference_parent_v1.py.txt",
+          "result": "match"
+        },
+        {
+          "manifest": "research/h25-g12-identity-cleanup/SOURCES.json",
+          "path": "research/h25-g12-identity-cleanup/predecessor/g12_reference_cold_consumer_v1.py.txt",
+          "source_spec": "09875e02fc3a045689f315ff8a842cb63598372b:research/h25-g12-identity-cleanup/predecessor/g12_reference_cold_consumer_v1.py.txt",
+          "result": "match"
+        },
+        {
+          "manifest": "research/h25-g12-identity-cleanup/SOURCES.json",
+          "path": "research/h25-g12-identity-cleanup/corrected/g12_reference_parent_v2.py",
+          "source_spec": "abb76759d95a297f0b8fd9b394ad1d52fea29dc7:research/h25-g12-identity-cleanup/corrected/g12_reference_parent_v2.py",
+          "result": "match"
+        },
+        {
+          "manifest": "research/h25-g12-identity-cleanup/SOURCES.json",
+          "path": "research/h25-g12-identity-cleanup/corrected/g12_reference_cold_consumer_v2.py",
+          "source_spec": "09875e02fc3a045689f315ff8a842cb63598372b:research/h25-g12-identity-cleanup/corrected/g12_reference_cold_consumer_v2.py",
+          "result": "match"
+        }
+      ],
+      "declared_input_checks": [
+        {
+          "manifest": "research/h25-g12-identity-cleanup/VERIFY.json",
+          "scope": "Canonical input spelling and regular tracked blob presence at exact source head; no scientific replay.",
+          "errors": [],
+          "inputs": [
+            {
+              "path": "research/h25-g12-identity-cleanup/predecessor/g12_reference_parent_v1.py.txt",
+              "mode": "100644",
+              "oid": "80482f9a9af1f471bc567c52cc31e6dc8a39c26f"
+            },
+            {
+              "path": "research/h25-g12-identity-cleanup/predecessor/g12_reference_cold_consumer_v1.py.txt",
+              "mode": "100644",
+              "oid": "19cb9376c2d757e1deb354608a1351c39e4daae1"
+            },
+            {
+              "path": "research/h25-g12-identity-cleanup/corrected/g12_reference_parent_v2.py",
+              "mode": "100644",
+              "oid": "42795e5d3a224a35959df361493211ff0fbea9b1"
+            },
+            {
+              "path": "research/h25-g12-identity-cleanup/corrected/g12_reference_cold_consumer_v2.py",
+              "mode": "100644",
+              "oid": "a95f079b3c19edd66d26cd1085bfdfd954dd27cd"
+            }
+          ]
+        }
+      ],
+      "shared": [],
+      "conflicts": [],
+      "independent_scientific_execution": false,
+      "observed_reviews": [],
+      "claim_excerpt": "## Change and mathematical scope\n\nPartial source repair of two G12 custody defects. This is not a construction, not a paid-profile change, and not a \u03ba improvement. Selected \u03ba stays 781451/250000000. The five framework assumptions stay in force.\n\nThe frozen PR6321 parent emits manifest identity as an ordered six-tuple inside the accepted nine-tuple. The consumer file-record validator requires a string-keyed dictionary, so the raw tuple fails G12-N12. The corrected consumer converts that tuple at the boundary and rejects a dictionary, a bad length, a non-integer, a nonpositive inode, and a non-regular mode. The corrected parent names the packer and still emits the tuple.\n\nTwo parent preflight finally blocks used a bare os.close loop. A close error replaced the pending primary and skipped later descriptors. The successor closes every descriptor, keeps a pending primary, and fails when the body succeeded but a close failed.\n\n## Task and overlap\n\nBase: 626e936ce4d61f2584316914fc71baf96940c512 (priority revision 8; selected record is PR6030). Predecessor: PR6321 ca9d90e93dc495e1e5e5ef6d271ff1e4f089cd0c, blobs 80482f9a9af1f471bc567c52cc31e6dc8a39c26f and 19cb9376c2d757e1deb354608a1351c39e4daae1.\n\nCard portable-replay, scope changed. The card starts from the gzip-container comparison. This package answers the open H25 cache handoff (discussion #1166 comment 19307764, task A) instead. Nearest overlap is PR6321 itself, which publishes the rejected sources and asks for this repair. It does not contain the repair.\n\n## Validation\n\n```sh\npython3 scripts/research_package.py --package rese",
+      "roots": [
+        "research/h25-g12-identity-cleanup"
+      ],
+      "installed": [
+        "research/h25-g12-identity-cleanup/README.md",
+        "research/h25-g12-identity-cleanup/SOURCES.json",
+        "research/h25-g12-identity-cleanup/TASK.json",
+        "research/h25-g12-identity-cleanup/VERIFY.json",
+        "research/h25-g12-identity-cleanup/corrected/g12_reference_cold_consumer_v2.py",
+        "research/h25-g12-identity-cleanup/corrected/g12_reference_parent_v2.py",
+        "research/h25-g12-identity-cleanup/predecessor/g12_reference_cold_consumer_v1.py.txt",
+        "research/h25-g12-identity-cleanup/predecessor/g12_reference_parent_v1.py.txt",
+        "research/h25-g12-identity-cleanup/verify.py"
+      ],
+      "deleted": [],
+      "resolutions": {},
+      "lane": "archive",
+      "reason": "Archive retention only. Isolated successor repairs two G12 defects only. The remaining 18 branches, real adapter path, N22/P07 body credit and P02 implementation remain open; no production runtime is installed.",
+      "historical_only": false
+    },
+    {
+      "number": 6340,
+      "head": "3d7bbbcc469d66ce23bc8a12f528aae3f5c5089e",
+      "merge_base": "626e936ce4d61f2584316914fc71baf96940c512",
+      "title": "Price the r=16 cubic repair against sixteen eager shears (no \u03ba)",
+      "author": {
+        "id": "U_kgDOB9csmw",
+        "is_bot": false,
+        "login": "unpaidmoon",
+        "name": "unpaidmoon"
+      },
+      "files": [
+        {
+          "path": "research/cubic-r16-repair-invoice/PROOF.md",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "c267f18ed3a6712821c9782bf54199f738d6629a"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        },
+        {
+          "path": "research/cubic-r16-repair-invoice/README.md",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "d6dfbbff749d1f84776f26afd4243373518a2713"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        },
+        {
+          "path": "research/cubic-r16-repair-invoice/RESULT.json",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "f71cb9353e00bac510ee2ac9d69d63590e134993"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        },
+        {
+          "path": "research/cubic-r16-repair-invoice/SOURCES.json",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "0fb10a09b5b0cc5e74e0ea2352cef70fc696539c"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        },
+        {
+          "path": "research/cubic-r16-repair-invoice/TASK.json",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "ec1806a48fe781920929849694a9a39d29a7188b"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        },
+        {
+          "path": "research/cubic-r16-repair-invoice/VERIFY.json",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "c2eda6ecf187fc3da6a2c4e080d1b69cb3da12a6"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        },
+        {
+          "path": "research/cubic-r16-repair-invoice/verify.py",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "8dd11f6a6285577cfd5d35bb3a2f4d2b9cdff7b8"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        }
+      ],
+      "errors": [],
+      "syntax": {
+        "python": 1,
+        "json": 4
+      },
+      "pin_checks": [
+        {
+          "manifest": "research/cubic-r16-repair-invoice/SOURCES.json",
+          "path": "certificates/selected-result.json",
+          "source_spec": "626e936ce4d61f2584316914fc71baf96940c512:certificates/selected-result.json",
+          "result": "match"
+        },
+        {
+          "manifest": "research/cubic-r16-repair-invoice/SOURCES.json",
+          "path": "docs/research/agent-task-catalog.json",
+          "source_spec": "626e936ce4d61f2584316914fc71baf96940c512:docs/research/agent-task-catalog.json",
+          "result": "match"
+        },
+        {
+          "manifest": "research/cubic-r16-repair-invoice/SOURCES.json",
+          "path": "research/cubic-pow2-repair/PROOF.md",
+          "source_spec": "626e936ce4d61f2584316914fc71baf96940c512:research/cubic-pow2-repair/PROOF.md",
+          "result": "match"
+        },
+        {
+          "manifest": "research/cubic-r16-repair-invoice/SOURCES.json",
+          "path": "research/cubic-pow2-repair/README.md",
+          "source_spec": "626e936ce4d61f2584316914fc71baf96940c512:research/cubic-pow2-repair/README.md",
+          "result": "match"
+        },
+        {
+          "manifest": "research/cubic-r16-repair-invoice/SOURCES.json",
+          "path": "research/dyadic-cubic-repair/PROOF.md",
+          "source_spec": "626e936ce4d61f2584316914fc71baf96940c512:research/dyadic-cubic-repair/PROOF.md",
+          "result": "match"
+        },
+        {
+          "manifest": "research/cubic-r16-repair-invoice/SOURCES.json",
+          "path": "research/dyadic-cubic-repair/sources/pr6200-PROOF.md",
+          "source_spec": "626e936ce4d61f2584316914fc71baf96940c512:research/dyadic-cubic-repair/sources/pr6200-PROOF.md",
+          "result": "match"
+        }
+      ],
+      "declared_input_checks": [
+        {
+          "manifest": "research/cubic-r16-repair-invoice/VERIFY.json",
+          "scope": "Canonical input spelling and regular tracked blob presence at exact source head; no scientific replay.",
+          "errors": [],
+          "inputs": [
+            {
+              "path": "research/cubic-pow2-repair/PROOF.md",
+              "mode": "100644",
+              "oid": "eb613b0b3c723838caa46c9cebeb71c64b1fcf04"
+            },
+            {
+              "path": "research/cubic-pow2-repair/README.md",
+              "mode": "100644",
+              "oid": "0c855e93f87c99322827b19f2291a2058503bc21"
+            },
+            {
+              "path": "research/dyadic-cubic-repair/PROOF.md",
+              "mode": "100644",
+              "oid": "a1c41a9afc83302f8b664bb45467821b9c088f0f"
+            },
+            {
+              "path": "research/dyadic-cubic-repair/sources/pr6200-PROOF.md",
+              "mode": "100644",
+              "oid": "7209cd0473dece9bb0e4fec2e7f20a5e56ad9ae2"
+            }
+          ]
+        }
+      ],
+      "shared": [],
+      "conflicts": [],
+      "independent_scientific_execution": false,
+      "observed_reviews": [],
+      "claim_excerpt": "## Change and mathematical scope\n\nScoped conditional comparison, not a construction and not a \u03ba improvement. For the existing `r=16` schedule in `research/cubic-pow2-repair`, the displayed repair is cheaper than the eager restoring shears if and only if\n\n\u0394 = Q_{35/16}^a + Q_{85/8}^a + Q_{-205/16}^a + 2 L_{-8} - 16 L_{-1} < 0.\n\nThe shared `16 Q_1^a + 16 L_1` prefix cancels. Under coefficient-blind prices `Q_c=q` and `L_c=\u2113`, this is `\u0394=3q-14\u2113`, a win exactly when `q/\u2113<14/3` (unit prices save `11\u2113`). The same law at the known arity `r=4` gives `\u0394=\u2113>0`, so the repair loses. Under binary synthesis prices `q+\u03c3(c)u` and `\u2113+\u03c3(c)u`, `\u0394=3q+14u-14\u2113`; if `u\u2265\u2113` and `q>0`, synthesis consumes the eleven-event gap before any further residual.\n\nNo numerical backend is supplied by the pinned proofs, so no runtime win and no selected-frontier change is claimed. Selected \u03ba stays 0.003125804. A repair-only residual `E\u22650` outside the six symbols tightens a negative gap to `\u0394+E<0`.\n\n## Task and overlap\n\nBase: `626e936ce4d61f2584316914fc71baf96940c512` (upstream main at submission; priority revision 8).\n\nTask `joint-query-controller`, scope refined. Item 10 of the top-level open questions on packages whose READMEs changed on main since 2026-10-30, excluding unpaidmoon's already delivered topics, H25 open-PR handoffs, and vendored READMEs. The question taken is open question 1 of `research/cubic-pow2-repair`: compare that repair invoice with `r L_-1` at one arity.\n\nNearest work is AAAmirinu's cubic-pow2-repair package and discussion comment 19285638, which state the `r=16` weights and leave the in",
+      "roots": [
+        "research/cubic-r16-repair-invoice"
+      ],
+      "installed": [
+        "research/cubic-r16-repair-invoice/PROOF.md",
+        "research/cubic-r16-repair-invoice/README.md",
+        "research/cubic-r16-repair-invoice/RESULT.json",
+        "research/cubic-r16-repair-invoice/SOURCES.json",
+        "research/cubic-r16-repair-invoice/TASK.json",
+        "research/cubic-r16-repair-invoice/VERIFY.json",
+        "research/cubic-r16-repair-invoice/verify.py"
+      ],
+      "deleted": [],
+      "resolutions": {},
+      "lane": "archive",
+      "reason": "Archive retention only. Independent symbolic invoice review remains open; the r=16 comparison depends on an unspecified backend price law and establishes no runtime win.",
+      "historical_only": false
+    },
+    {
+      "number": 6341,
+      "head": "4ede2382e0bad5dc5932443451b9bcef569ed2ea",
+      "merge_base": "626e936ce4d61f2584316914fc71baf96940c512",
+      "title": "Record that the #5718 boundary functionals differ and force cleanup o\u2026",
+      "author": {
+        "id": "U_kgDOB9csmw",
+        "is_bot": false,
+        "login": "unpaidmoon",
+        "name": "unpaidmoon"
+      },
+      "files": [
+        {
+          "path": "research/p104-boundary-functional-review/PROOF.md",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "2d9d67dfe623012f17b4e088d9226ff875765f77"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        },
+        {
+          "path": "research/p104-boundary-functional-review/README.md",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "4a3c63d594aef932c843dc5d7d2c13ae00539257"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        },
+        {
+          "path": "research/p104-boundary-functional-review/SOURCES.json",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "abaf52f3af33215871f366c4648720976ac3c5ae"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        },
+        {
+          "path": "research/p104-boundary-functional-review/TASK.json",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "09169e29c5f4157241fd64c6ed307a5ffad814b8"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        },
+        {
+          "path": "research/p104-boundary-functional-review/VERIFY.json",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "de0c09f4bc5f035b0882eb5d98e3efa19d177c31"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        },
+        {
+          "path": "research/p104-boundary-functional-review/verify.py",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "a32baa480d6621d14db8f96ee48adeab227b181b"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        }
+      ],
+      "errors": [],
+      "syntax": {
+        "python": 1,
+        "json": 3
+      },
+      "pin_checks": [
+        {
+          "manifest": "research/p104-boundary-functional-review/SOURCES.json",
+          "path": "certificates/selected-result.json",
+          "source_spec": "626e936ce4d61f2584316914fc71baf96940c512:certificates/selected-result.json",
+          "result": "match"
+        },
+        {
+          "manifest": "research/p104-boundary-functional-review/SOURCES.json",
+          "path": "docs/research/agent-task-catalog.json",
+          "source_spec": "626e936ce4d61f2584316914fc71baf96940c512:docs/research/agent-task-catalog.json",
+          "result": "match"
+        },
+        {
+          "manifest": "research/p104-boundary-functional-review/SOURCES.json",
+          "path": "research/p104-two-boundary-helper-split/PROOF.md",
+          "source_spec": "626e936ce4d61f2584316914fc71baf96940c512:research/p104-two-boundary-helper-split/PROOF.md",
+          "result": "match"
+        },
+        {
+          "manifest": "research/p104-boundary-functional-review/SOURCES.json",
+          "path": "research/p104-two-boundary-helper-split/WITNESS.json",
+          "source_spec": "626e936ce4d61f2584316914fc71baf96940c512:research/p104-two-boundary-helper-split/WITNESS.json",
+          "result": "match"
+        },
+        {
+          "manifest": "research/p104-boundary-functional-review/SOURCES.json",
+          "path": "research/p104-two-boundary-helper-split/WORD.json.gz",
+          "source_spec": "626e936ce4d61f2584316914fc71baf96940c512:research/p104-two-boundary-helper-split/WORD.json.gz",
+          "result": "match"
+        },
+        {
+          "manifest": "research/p104-boundary-functional-review/SOURCES.json",
+          "path": "research/p104-two-boundary-helper-split/inputs/pr5713-source.tar",
+          "source_spec": "626e936ce4d61f2584316914fc71baf96940c512:research/p104-two-boundary-helper-split/inputs/pr5713-source.tar",
+          "result": "match"
+        }
+      ],
+      "declared_input_checks": [
+        {
+          "manifest": "research/p104-boundary-functional-review/VERIFY.json",
+          "scope": "Canonical input spelling and regular tracked blob presence at exact source head; no scientific replay.",
+          "errors": [],
+          "inputs": [
+            {
+              "path": "research/p104-two-boundary-helper-split/PROOF.md",
+              "mode": "100644",
+              "oid": "0eeb4ce7ecb8a558cf62f3052ed4e80c5da198a2"
+            },
+            {
+              "path": "research/p104-two-boundary-helper-split/WITNESS.json",
+              "mode": "100644",
+              "oid": "88d25590010052ebe4da2b575803f618241500eb"
+            },
+            {
+              "path": "research/p104-two-boundary-helper-split/WORD.json.gz",
+              "mode": "100644",
+              "oid": "4db015aca34ea957dd8b3b4d7ae4fa12b89934f8"
+            },
+            {
+              "path": "research/p104-two-boundary-helper-split/inputs/pr5713-source.tar",
+              "mode": "100644",
+              "oid": "ec8f4bccaca147bc80cec078147fb95bc515036e"
+            }
+          ]
+        }
+      ],
+      "shared": [],
+      "conflicts": [],
+      "independent_scientific_execution": false,
+      "observed_reviews": [],
+      "claim_excerpt": "## Change and mathematical scope\n\nScoped verification. No new \u03ba. The selected conditional exponent stays `781451/250000000` (`0.003125804`).\n\nOn the pinned PR5718 word, the input nuisance `k` and the output nuisance `g = k - c` are different covectors. The partner covector `c` is nonzero, so a contract that uses the same functional at both boundaries does not describe this split. The three early cleanup operations restore every scalar endpoint only in the published order. Moving `743 -= 146/2` ahead of the 126 and 188 restorations fails exactly rows 126 and 188. Changing only the sign of that 146 correction fails only row 743: the order is what couples the three registers.\n\nThe paid histogram is not changed by this audit, and no new conditional exponent is computed. Native maps, the physical caller, compiler closure, precision and the outer ledger remain the predecessor's obligations. Unknown costs there are not zero.\n\n## Task and overlap\n\nBase commit `626e936ce4d61f2584316914fc71baf96940c512` on canonical `CrocSwap/integer-mult-bounds` main. Priority revision 8. Catalogue card `p104-side-correction`. Scope status: **refined**.\n\nThe card asks whether a legal helper split improves the complete invoice. This package does not search for another split. It answers the first open question of `research/p104-two-boundary-helper-split`: a separate reviewer checks the two boundary functionals and the early cleanup order.\n\nSession selection, in first-mention order of `open_questions` from the `TASK.json` files of packages named by PR number in revision-8 `docs/research/current-priorit",
+      "roots": [
+        "research/p104-boundary-functional-review"
+      ],
+      "installed": [
+        "research/p104-boundary-functional-review/PROOF.md",
+        "research/p104-boundary-functional-review/README.md",
+        "research/p104-boundary-functional-review/SOURCES.json",
+        "research/p104-boundary-functional-review/TASK.json",
+        "research/p104-boundary-functional-review/VERIFY.json",
+        "research/p104-boundary-functional-review/verify.py"
+      ],
+      "deleted": [],
+      "resolutions": {},
+      "lane": "archive",
+      "reason": "Archive retention only. Independent source-bound replay of differing boundary functionals and ordered cleanup remains open. This audits PR5718, not the selected word or a new invoice.",
+      "historical_only": false
+    },
+    {
+      "number": 6342,
+      "head": "f744101c871914c767982484f06bf49cd5ef5d82",
+      "merge_base": "626e936ce4d61f2584316914fc71baf96940c512",
+      "title": "Certify a 624-cell two-round stock for the ell=2 typed-H witness",
+      "author": {
+        "id": "U_kgDOB9csmw",
+        "is_bot": false,
+        "login": "unpaidmoon",
+        "name": "unpaidmoon"
+      },
+      "files": [
+        {
+          "path": "research/two-round-cube-stock/PROOF.md",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "48bdfcc3f46497bdc8c53234c3fc60df8c09fb52"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        },
+        {
+          "path": "research/two-round-cube-stock/README.md",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "032227826a399b0cb500a60bd4827a18942073f4"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        },
+        {
+          "path": "research/two-round-cube-stock/SOURCES.json",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "ff5f99348acebefd227bd658ad33fe53057bb653"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        },
+        {
+          "path": "research/two-round-cube-stock/TASK.json",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "54fc0fac787ec811d10aa555e9b53b6420f9447a"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        },
+        {
+          "path": "research/two-round-cube-stock/VERIFY.json",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "87f8b1c29650ca581a6771bf3be8c800bff5e035"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        },
+        {
+          "path": "research/two-round-cube-stock/stock.py",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "5ee594ebb67a11be24b32fcafe28d06ef3dde22c"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        },
+        {
+          "path": "research/two-round-cube-stock/verify.py",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "cf67223e6120b544a22152c9bec996877fe32865"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        }
+      ],
+      "errors": [],
+      "syntax": {
+        "python": 2,
+        "json": 3
+      },
+      "pin_checks": [
+        {
+          "manifest": "research/two-round-cube-stock/SOURCES.json",
+          "path": "certificates/selected-result.json",
+          "source_spec": "626e936ce4d61f2584316914fc71baf96940c512:certificates/selected-result.json",
+          "result": "match"
+        },
+        {
+          "manifest": "research/two-round-cube-stock/SOURCES.json",
+          "path": "docs/research/agent-task-catalog.json",
+          "source_spec": "626e936ce4d61f2584316914fc71baf96940c512:docs/research/agent-task-catalog.json",
+          "result": "match"
+        },
+        {
+          "manifest": "research/two-round-cube-stock/SOURCES.json",
+          "path": "research/typed-actual-width-physical-h/physical_h.py",
+          "source_spec": "626e936ce4d61f2584316914fc71baf96940c512:research/typed-actual-width-physical-h/physical_h.py",
+          "result": "match"
+        }
+      ],
+      "declared_input_checks": [
+        {
+          "manifest": "research/two-round-cube-stock/VERIFY.json",
+          "scope": "Canonical input spelling and regular tracked blob presence at exact source head; no scientific replay.",
+          "errors": [],
+          "inputs": [
+            {
+              "path": "research/typed-actual-width-physical-h/physical_h.py",
+              "mode": "100644",
+              "oid": "1ff92d44bf2545a158c984442a387cf4f5eaf29d"
+            }
+          ]
+        }
+      ],
+      "shared": [],
+      "conflicts": [],
+      "independent_scientific_execution": false,
+      "observed_reviews": [],
+      "claim_excerpt": "## Change and mathematical scope\n\nOne fixed seven-tape inventory carries two rounds of the typed actual-width physical `H`. Previous-output reset blanks the root and consumer tapes between rounds, so the live cell count stays one round's footprint\n\n`F = 6 M r (w + W)`\n\ninstead of two retained one-shot inventories (`2F`).\n\nOn the predecessor's two-record witness (`ell = 2`, `flags = (False,)`, `k = 1`, `p = 4`), that footprint is **624** cells. The layout has one height, so the two rounds are two admissible presentations of `h = 0`. Each presentation matches a fresh one-shot tensor and the one-round bill of 768 reads, 1200 writes, 3890 moves and 620 gates. Each output-tape reset writes 96 bits and moves 190 cells.\n\nOn `flags = (True,)`, the smallest ell=2 layout with two heights, the same contract carries `h = 1` then `h = 0` in **1248** cells. The selected bits are `(1,)` and `(0,)`.\n\nThis is a scoped stock certificate. It is not a scalar saving, a paid-profile improvement, or a change to the selected frontier \u03ba = 781451/250000000. Both outputs are not live together. Rounds with different selected-bit counts do not fit this exact-length inventory. The PR #3617 diagonal is not attached. The five selected framework assumptions remain.\n\n## Task and overlap\n\nBase commit: `626e936ce4d61f2584316914fc71baf96940c512` (canonical `CrocSwap/integer-mult-bounds` main). Priority revision 8. Selected record SHA-256 `9b8d0eea95b3bf0dfcb7938a732a6439b87a2685dec2a5ab9e525b3b34debbfa`.\n\nTask card: `uniform-transfer-audit`. Scope status: **changed**. The card asks for one of the five selected",
+      "roots": [
+        "research/two-round-cube-stock"
+      ],
+      "installed": [
+        "research/two-round-cube-stock/PROOF.md",
+        "research/two-round-cube-stock/README.md",
+        "research/two-round-cube-stock/SOURCES.json",
+        "research/two-round-cube-stock/TASK.json",
+        "research/two-round-cube-stock/VERIFY.json",
+        "research/two-round-cube-stock/stock.py",
+        "research/two-round-cube-stock/verify.py"
+      ],
+      "deleted": [],
+      "resolutions": {},
+      "lane": "archive",
+      "reason": "Archive retention only. Independent stock/layout replay remains open. The 624-cell witness has only one height, outputs are not simultaneously live, and variable-length rounds/PR3617 diagonal are not admitted.",
+      "historical_only": false
+    },
+    {
+      "number": 6343,
+      "head": "79ca0621851cc6dcf7705b097d11d816a3e1df41",
+      "merge_base": "626e936ce4d61f2584316914fc71baf96940c512",
+      "title": "Record that the selected pricing rejects the PR5708 component as admi\u2026",
+      "author": {
+        "id": "U_kgDOB9csmw",
+        "is_bot": false,
+        "login": "unpaidmoon",
+        "name": "unpaidmoon"
+      },
+      "files": [
+        {
+          "path": "research/g20-component-stock-gate/PROOF.md",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "9558c939b83291dc598b981e85c085ac2c533010"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        },
+        {
+          "path": "research/g20-component-stock-gate/README.md",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "c11be373c577ec315e07e4e219ebc450b98f19db"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        },
+        {
+          "path": "research/g20-component-stock-gate/SOURCES.json",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "db1746744f05ab0fde70d38c4a6144c69d94bbee"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        },
+        {
+          "path": "research/g20-component-stock-gate/TASK.json",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "8c0a59006f319bc8d587988142c232faa0f87f76"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        },
+        {
+          "path": "research/g20-component-stock-gate/VERIFY.json",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "ec29cda4c8a2beb5a15f49242c925ebca1a28bc2"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        },
+        {
+          "path": "research/g20-component-stock-gate/verify.py",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "4fccfceb3cb046969154ec12ed9225a12f1fcf99"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        }
+      ],
+      "errors": [],
+      "syntax": {
+        "python": 1,
+        "json": 3
+      },
+      "pin_checks": [
+        {
+          "manifest": "research/g20-component-stock-gate/SOURCES.json",
+          "path": "certificates/frontier6030/CLAIM.json",
+          "source_spec": "626e936ce4d61f2584316914fc71baf96940c512:certificates/frontier6030/CLAIM.json",
+          "result": "match"
+        },
+        {
+          "manifest": "research/g20-component-stock-gate/SOURCES.json",
+          "path": "certificates/selected-result.json",
+          "source_spec": "626e936ce4d61f2584316914fc71baf96940c512:certificates/selected-result.json",
+          "result": "match"
+        },
+        {
+          "manifest": "research/g20-component-stock-gate/SOURCES.json",
+          "path": "docs/research/agent-task-catalog.json",
+          "source_spec": "626e936ce4d61f2584316914fc71baf96940c512:docs/research/agent-task-catalog.json",
+          "result": "match"
+        },
+        {
+          "manifest": "research/g20-component-stock-gate/SOURCES.json",
+          "path": "research/g20-conjugation-admission/ORDINARY-RESULT.json",
+          "source_spec": "626e936ce4d61f2584316914fc71baf96940c512:research/g20-conjugation-admission/ORDINARY-RESULT.json",
+          "result": "match"
+        },
+        {
+          "manifest": "research/g20-component-stock-gate/SOURCES.json",
+          "path": "research/p104-helper470-twin-rung-removal/pricing.py",
+          "source_spec": "626e936ce4d61f2584316914fc71baf96940c512:research/p104-helper470-twin-rung-removal/pricing.py",
+          "result": "match"
+        },
+        {
+          "manifest": "research/g20-component-stock-gate/SOURCES.json",
+          "path": "research/pr4359-p7-padding/dependencies/compiler-refill/endpoint.py",
+          "source_spec": "626e936ce4d61f2584316914fc71baf96940c512:research/pr4359-p7-padding/dependencies/compiler-refill/endpoint.py",
+          "result": "match"
+        },
+        {
+          "manifest": "research/g20-component-stock-gate/SOURCES.json",
+          "path": "research/query-thinned-controllers/RESULT.json",
+          "source_spec": "626e936ce4d61f2584316914fc71baf96940c512:research/query-thinned-controllers/RESULT.json",
+          "result": "match"
+        }
+      ],
+      "declared_input_checks": [
+        {
+          "manifest": "research/g20-component-stock-gate/VERIFY.json",
+          "scope": "Canonical input spelling and regular tracked blob presence at exact source head; no scientific replay.",
+          "errors": [],
+          "inputs": [
+            {
+              "path": "certificates/frontier6030/CLAIM.json",
+              "mode": "100644",
+              "oid": "f32ff3779274a349dc8af2e84a4c6234c6d62406"
+            },
+            {
+              "path": "research/g20-conjugation-admission/ORDINARY-RESULT.json",
+              "mode": "100644",
+              "oid": "46308272ac871d5876406dbb59eb21f4035c3503"
+            },
+            {
+              "path": "research/p104-helper470-twin-rung-removal/pricing.py",
+              "mode": "100644",
+              "oid": "65bb723f8558dc60ff92764db1a43d8bf438aa09"
+            },
+            {
+              "path": "research/pr4359-p7-padding/dependencies/compiler-refill/endpoint.py",
+              "mode": "100644",
+              "oid": "340e1f0ffb8a1a9c38fbbd9119580b6d23e01b59"
+            },
+            {
+              "path": "research/query-thinned-controllers/RESULT.json",
+              "mode": "100644",
+              "oid": "e0695152c98d727edfd0d2034b58a1c7e8682c0c"
+            }
+          ]
+        }
+      ],
+      "shared": [],
+      "conflicts": [],
+      "independent_scientific_execution": false,
+      "observed_reviews": [],
+      "claim_excerpt": "## Change and mathematical scope\n\nNegative result. No new \u03ba. The selected conditional exponent stays **781451/250000000** (`0.003125804`).\n\nPR5708's ordinary component `C = 3507719059749/1000000000000000` cannot occupy the admitted `bit_saving` input of the selected PR6030 pricing. That pricing requires `atom > ordinary > admitted > TESTED`, and the thinned-controller ordinary saving `8590884599/2500000000000` is strictly below C. The outer ledger is not the rejecting gate: its only `bit_saving` check is `bit_saving \u2212 a`, and every pinned check stays positive at `bit_saving = C`. The complex uniform saving `10940329/3500000000` remains below both `17/5000` and C, so accepting C as a ledger input would not raise \u03ba.\n\nC does lie strictly between the stock atom `1/250` and the retained admitted BIT `17/5000`. The cover that would make the ordinary formula equal C is `3507565220149/996000000000000`, not the pinned `69/20000`.\n\nThis is a stock-gate and ledger-arithmetic certificate. It is not a caller replay, a supplier admission, or a complete multiplication theorem. The five framework assumptions remain.\n\n## Task and overlap\n\nBase commit: `626e936ce4d61f2584316914fc71baf96940c512` on canonical `CrocSwap/integer-mult-bounds` main. Priority revision 8. Catalogue card `bit-helper-contract`. Scope status: **refined**.\n\nThe card asks whether a changed G20 path improves the complete BIT moment. This package leaves the emitted PR5708 word fixed and tests one substitution into the selected Gaussian pricing. It answers open question 3 of `research/g20-conjugation-admission`.\n\nSession r7",
+      "roots": [
+        "research/g20-component-stock-gate"
+      ],
+      "installed": [
+        "research/g20-component-stock-gate/PROOF.md",
+        "research/g20-component-stock-gate/README.md",
+        "research/g20-component-stock-gate/SOURCES.json",
+        "research/g20-component-stock-gate/TASK.json",
+        "research/g20-component-stock-gate/VERIFY.json",
+        "research/g20-component-stock-gate/verify.py"
+      ],
+      "deleted": [],
+      "resolutions": {
+        "research/g20-component-stock-gate/README.md": {
+          "mode": "100644",
+          "oid": "c82f5b76eaab4d168f33cfa9493ee9e5d3dcab3f",
+          "reason": "Correct one reversed inequality in the final open question; exact Fraction check: 10940329/3500000000 < 17/5000 < 3507719059749/1000000000000000. Original author source retained in ancestry."
+        }
+      },
+      "lane": "archive",
+      "reason": "Archive retention only. Independent source-bound stock-gate/ledger replay remains open. Reviewed README correction changes only the final question from below to above: complex uniform < retained admitted BIT < proposed component. No BIT admission or kappa gain.",
+      "historical_only": false
+    },
+    {
+      "number": 6344,
+      "head": "5778b35a4ca2453e4955e8203a1a3b1cfeb5935b",
+      "merge_base": "626e936ce4d61f2584316914fc71baf96940c512",
+      "title": "Record that the PR6335 W2/W4 identities do not close N1.",
+      "author": {
+        "id": "U_kgDOB9csmw",
+        "is_bot": false,
+        "login": "unpaidmoon",
+        "name": "unpaidmoon"
+      },
+      "files": [
+        {
+          "path": "research/h25-w2-w4-selection-gap/NOTICE.md",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "b9ca7181a9f60a022a1669a5edf1566ca79b6ffe"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        },
+        {
+          "path": "research/h25-w2-w4-selection-gap/README.md",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "fea188fe5448a0477072665f80d19dceef505aaf"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        },
+        {
+          "path": "research/h25-w2-w4-selection-gap/SOURCES.json",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "a4cd3ecb264f0251d7dd10037df427a242dbb57e"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        },
+        {
+          "path": "research/h25-w2-w4-selection-gap/TASK.json",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "5e9f599280142021a8f0df6adc5c8c2173cbffd5"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        },
+        {
+          "path": "research/h25-w2-w4-selection-gap/VERIFY.json",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "fe4e300fecfc29e78a17d7fcf56e54bea26d89f9"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        },
+        {
+          "path": "research/h25-w2-w4-selection-gap/pinned/PINNED.json",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "c4099df4f1a8e63d0ab0efabf2a1f0531d74d881"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        },
+        {
+          "path": "research/h25-w2-w4-selection-gap/pinned/bounded_serialization.py",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "358f7b10828005cae453716d57103bab9fc6ff6a"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        },
+        {
+          "path": "research/h25-w2-w4-selection-gap/pinned/identities.json",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "27994c316c5e334f44c6da172e6bc2313a785a6a"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        },
+        {
+          "path": "research/h25-w2-w4-selection-gap/pinned/new_failure_controls.py",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "35388100d9602e0a8998d6e770bf452249d276e8"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        },
+        {
+          "path": "research/h25-w2-w4-selection-gap/pinned/next-dependencies.json",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "8df8ab832c4becb4d319db6b3380af19f1dd1619"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        },
+        {
+          "path": "research/h25-w2-w4-selection-gap/pinned/parent_readback_v3_DRAFT_v2.py",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "9fa3b80ce464e02b9cd324b6945aab2275c0a6c4"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        },
+        {
+          "path": "research/h25-w2-w4-selection-gap/verify.py",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "4e2411885c7b9e33333fd6f6515a6e2c8b902661"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        }
+      ],
+      "errors": [],
+      "syntax": {
+        "python": 4,
+        "json": 6
+      },
+      "pin_checks": [
+        {
+          "manifest": "research/h25-w2-w4-selection-gap/SOURCES.json",
+          "path": "certificates/selected-result.json",
+          "source_spec": "626e936ce4d61f2584316914fc71baf96940c512:certificates/selected-result.json",
+          "result": "match"
+        },
+        {
+          "manifest": "research/h25-w2-w4-selection-gap/SOURCES.json",
+          "path": "docs/research/agent-task-catalog.json",
+          "source_spec": "626e936ce4d61f2584316914fc71baf96940c512:docs/research/agent-task-catalog.json",
+          "result": "match"
+        },
+        {
+          "manifest": "research/h25-w2-w4-selection-gap/pinned/PINNED.json",
+          "path": "research/h25-w2-w4-selection-gap/pinned/identities.json",
+          "source_spec": "d34b84f1e1d9fb4bdcf26eda8817c3603fea3051:research/h25-o03-source-repair-20261101/archive/integration/ACCEPTED-DRAFT-SOURCE-IDENTITIES-v1.json",
+          "result": "match",
+          "scope": "Original upstream blob equals retained copy and declared SHA256/length."
+        },
+        {
+          "manifest": "research/h25-w2-w4-selection-gap/pinned/PINNED.json",
+          "path": "research/h25-w2-w4-selection-gap/pinned/next-dependencies.json",
+          "source_spec": "d34b84f1e1d9fb4bdcf26eda8817c3603fea3051:research/h25-o03-source-repair-20261101/archive/integration/NEXT-DEPENDENCIES-v1.json",
+          "result": "match",
+          "scope": "Original upstream blob equals retained copy and declared SHA256/length."
+        },
+        {
+          "manifest": "research/h25-w2-w4-selection-gap/pinned/PINNED.json",
+          "path": "research/h25-w2-w4-selection-gap/pinned/bounded_serialization.py",
+          "source_spec": "d34b84f1e1d9fb4bdcf26eda8817c3603fea3051:research/h25-o03-source-repair-20261101/archive/w2-failure/source-v1/bounded_serialization.py",
+          "result": "match",
+          "scope": "Original upstream blob equals retained copy and declared SHA256/length."
+        },
+        {
+          "manifest": "research/h25-w2-w4-selection-gap/pinned/PINNED.json",
+          "path": "research/h25-w2-w4-selection-gap/pinned/parent_readback_v3_DRAFT_v2.py",
+          "source_spec": "d34b84f1e1d9fb4bdcf26eda8817c3603fea3051:research/h25-o03-source-repair-20261101/archive/w4-timing/v2/parent_readback_v3_DRAFT_v2.py",
+          "result": "match",
+          "scope": "Original upstream blob equals retained copy and declared SHA256/length."
+        },
+        {
+          "manifest": "research/h25-w2-w4-selection-gap/pinned/PINNED.json",
+          "path": "research/h25-w2-w4-selection-gap/pinned/new_failure_controls.py",
+          "source_spec": "d34b84f1e1d9fb4bdcf26eda8817c3603fea3051:research/h25-o03-source-repair-20261101/archive/w2-failure/source-v1/new_failure_controls.py",
+          "result": "match",
+          "scope": "Original upstream blob equals retained copy and declared SHA256/length."
+        }
+      ],
+      "declared_input_checks": [
+        {
+          "manifest": "research/h25-w2-w4-selection-gap/VERIFY.json",
+          "scope": "Canonical input spelling and regular tracked blob presence at exact source head; no scientific replay.",
+          "errors": [],
+          "inputs": []
+        }
+      ],
+      "shared": [],
+      "conflicts": [],
+      "independent_scientific_execution": false,
+      "observed_reviews": [],
+      "claim_excerpt": "## Change and mathematical scope\n\nOn PR #6335 head `d34b84f1e1d9fb4bdcf26eda8817c3603fea3051`, the published W2/W4 source identities do not close dependency N1.\n\nThe identity record selects two drafts and those selections match a fresh parse:\n\n- W2 `bounded_serialization.py`, SHA-256 `fdeeb791c6cb0c03a5ab15903d51c3eb4cc5ff2a945c50d7f550acfe11376f3d`, 23844 bytes. Direct imports omit `sys`. Line 490 is `info[\"status\"] = \"FAILED_EVIDENCE_RETAINED\"`.\n- W4 `parent_readback_v3_DRAFT_v2.py`, SHA-256 `6fc0577690c3865c1d67b4c288f860e5c81c8aebb3cffab18ab8a2269b12a572`, 29105 bytes. Direct imports include `decimal` and `re`, and omit `_decimal`.\n\n`source_adopted` is false, matching N1's closing sentence. Launcher admission and receipt producers are recorded as not implemented, so N2 stays open.\n\nN1 still requires the F05 hash-and-line trace if F05 is selected, the `decimal`/`_decimal` Context/signals/`re` closure, all original controls, and the exact authentic inputs. The identity object has no F05 selection bit. The trace that targets line 490 is `sys.settrace` in unselected `new_failure_controls.py` (`742f1de31551d43c2665ad6166577c104a0acc746b3503cc60c5f11798c9a24d`), whose `TARGET_SHA256` is the W2 hash and whose `PRIMARY_STATUS_LINE` is 490. The W4 draft imports `Context`, `localcontext`, and the nine `Context` traps, but the identity import field does not list those names or `_decimal`.\n\nThis is a scoped interface certificate. It is not source adoption, a runtime seal, a W5 admission, a measured gain, or a change to selected \u03ba `781451/250000000`.\n\n## Task and overlap\n\nBase commi",
+      "roots": [
+        "research/h25-w2-w4-selection-gap"
+      ],
+      "installed": [
+        "research/h25-w2-w4-selection-gap/NOTICE.md",
+        "research/h25-w2-w4-selection-gap/README.md",
+        "research/h25-w2-w4-selection-gap/SOURCES.json",
+        "research/h25-w2-w4-selection-gap/TASK.json",
+        "research/h25-w2-w4-selection-gap/VERIFY.json",
+        "research/h25-w2-w4-selection-gap/pinned/PINNED.json",
+        "research/h25-w2-w4-selection-gap/pinned/bounded_serialization.py",
+        "research/h25-w2-w4-selection-gap/pinned/identities.json",
+        "research/h25-w2-w4-selection-gap/pinned/new_failure_controls.py",
+        "research/h25-w2-w4-selection-gap/pinned/next-dependencies.json",
+        "research/h25-w2-w4-selection-gap/pinned/parent_readback_v3_DRAFT_v2.py",
+        "research/h25-w2-w4-selection-gap/verify.py"
+      ],
+      "deleted": [],
+      "resolutions": {},
+      "lane": "archive",
+      "reason": "Archive retention only. Five original PR6335 blobs authenticated against retained copies. N1/N2 remain open; F05 selection, decimal runtime closure and trusted receipt producers are not supplied. No runtime execution or seal is admitted.",
+      "historical_only": false
+    },
+    {
+      "number": 6345,
+      "head": "776bd2ecf9cb18a88a0db27e43a2e876856e9fd9",
+      "merge_base": "626e936ce4d61f2584316914fc71baf96940c512",
+      "title": "No new \u03ba: a price-null fibre of PR6167's word (per-rank helper\u2212paid invariant)",
+      "author": {
+        "id": "U_kgDOClpS9w",
+        "is_bot": false,
+        "login": "DreamingOfClouds",
+        "name": ""
+      },
+      "files": [
+        {
+          "path": "research/p104-frontier-symmetric-ladders/NOTICE",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "83db0e05c8bb1c0b0fe3d28554116c78d0a7db24"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        },
+        {
+          "path": "research/p104-frontier-symmetric-ladders/README.md",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "5c8f2af74ba2f44485fb446027c02ef00ccbe666"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        },
+        {
+          "path": "research/p104-frontier-symmetric-ladders/RESULT.json",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "26ae23d444016db04d6b22d18c630f2a7a4098d5"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        },
+        {
+          "path": "research/p104-frontier-symmetric-ladders/SOURCES.json",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "d51eab5ddcb668b2734dbd157bbd074a6cc92741"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        },
+        {
+          "path": "research/p104-frontier-symmetric-ladders/TASK.json",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "fe828850f80a0d5f6f672f73c8d195a0d90123bd"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        },
+        {
+          "path": "research/p104-frontier-symmetric-ladders/VERIFY.json",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "72e41496f55b3c4e4f86cc215e6267820a67b74d"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        },
+        {
+          "path": "research/p104-frontier-symmetric-ladders/WORD.json.gz",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "613301460170b30f7185cf1df5b99c767541568a"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        },
+        {
+          "path": "research/p104-frontier-symmetric-ladders/construct.py",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "24bfc53fbb62be6cf7415318eb6853e3de0ec1e9"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        },
+        {
+          "path": "research/p104-frontier-symmetric-ladders/test_portability.py",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "dd53b6d5590fe043f5668b79d4c17fc772f26dc4"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        },
+        {
+          "path": "research/p104-frontier-symmetric-ladders/verify.py",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "ff9ce423b74c9f28e2bd0d2141f608a5bf7af3d2"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        }
+      ],
+      "errors": [],
+      "syntax": {
+        "python": 3,
+        "json": 4
+      },
+      "pin_checks": [
+        {
+          "manifest": "research/p104-frontier-symmetric-ladders/SOURCES.json",
+          "path": "certificates/selected-result.json",
+          "source_spec": "2485805a6d47f36ea83ddde6327d453ac82d44dc:certificates/selected-result.json",
+          "result": "match"
+        },
+        {
+          "manifest": "research/p104-frontier-symmetric-ladders/SOURCES.json",
+          "path": "docs/research/agent-task-catalog.json",
+          "source_spec": "2485805a6d47f36ea83ddde6327d453ac82d44dc:docs/research/agent-task-catalog.json",
+          "result": "match"
+        },
+        {
+          "manifest": "research/p104-frontier-symmetric-ladders/SOURCES.json",
+          "path": "research/p104-retained-operand-descent/WORD.json.gz",
+          "source_spec": "2485805a6d47f36ea83ddde6327d453ac82d44dc:research/p104-retained-operand-descent/WORD.json.gz",
+          "result": "match"
+        },
+        {
+          "manifest": "research/p104-frontier-symmetric-ladders/SOURCES.json",
+          "path": "research/p104-retained-operand-descent/pricing.py",
+          "source_spec": "2485805a6d47f36ea83ddde6327d453ac82d44dc:research/p104-retained-operand-descent/pricing.py",
+          "result": "match"
+        },
+        {
+          "manifest": "research/p104-frontier-symmetric-ladders/SOURCES.json",
+          "path": "research/p104-retained-operand-descent/sources.py",
+          "source_spec": "2485805a6d47f36ea83ddde6327d453ac82d44dc:research/p104-retained-operand-descent/sources.py",
+          "result": "match"
+        },
+        {
+          "manifest": "research/p104-frontier-symmetric-ladders/SOURCES.json",
+          "path": "research/p104-retained-operand-descent/SOURCES.json",
+          "source_spec": "2485805a6d47f36ea83ddde6327d453ac82d44dc:research/p104-retained-operand-descent/SOURCES.json",
+          "result": "match"
+        },
+        {
+          "manifest": "research/p104-frontier-symmetric-ladders/SOURCES.json",
+          "path": "research/p104-retained-operand-descent/RESULT.json",
+          "source_spec": "2485805a6d47f36ea83ddde6327d453ac82d44dc:research/p104-retained-operand-descent/RESULT.json",
+          "result": "match"
+        },
+        {
+          "manifest": "research/p104-frontier-symmetric-ladders/SOURCES.json",
+          "path": "research/p104-retained-operand-descent/inputs/pr5827-source.tar",
+          "source_spec": "2485805a6d47f36ea83ddde6327d453ac82d44dc:research/p104-retained-operand-descent/inputs/pr5827-source.tar",
+          "result": "match"
+        }
+      ],
+      "declared_input_checks": [
+        {
+          "manifest": "research/p104-frontier-symmetric-ladders/VERIFY.json",
+          "scope": "Canonical input spelling and regular tracked blob presence at exact source head; no scientific replay.",
+          "errors": [],
+          "inputs": [
+            {
+              "path": "research/p104-retained-operand-descent/WORD.json.gz",
+              "mode": "100644",
+              "oid": "f2d3f98964f939e5ca652f9b1453a0604f15f829"
+            },
+            {
+              "path": "research/p104-retained-operand-descent/pricing.py",
+              "mode": "100644",
+              "oid": "cd8220ca7a393f03341f08a93b9d1287f0bb3689"
+            },
+            {
+              "path": "research/p104-retained-operand-descent/sources.py",
+              "mode": "100644",
+              "oid": "bef6542243a082755a881dff42097434e6370609"
+            },
+            {
+              "path": "research/p104-retained-operand-descent/SOURCES.json",
+              "mode": "100644",
+              "oid": "0c574b6026a7239aac7365c433d3760928748edb"
+            },
+            {
+              "path": "research/p104-retained-operand-descent/RESULT.json",
+              "mode": "100644",
+              "oid": "9d78529c1ac43faef6b3dff6e4b1262d89a86b40"
+            },
+            {
+              "path": "research/p104-retained-operand-descent/inputs/pr5827-source.tar",
+              "mode": "100644",
+              "oid": "1e10936044959f81a4c5fcd5bdb7b9e4c060ec8e"
+            }
+          ]
+        }
+      ],
+      "shared": [],
+      "conflicts": [],
+      "independent_scientific_execution": false,
+      "observed_reviews": [
+        {
+          "author": {
+            "login": "DreamingOfClouds"
+          },
+          "body": "note from the author (the human one!): about out of tokens this week but there is work to be done via structural analysis of the word; if anyone is looking for stuff to do\n\n\n\n\t1.\tDo the 14 octets / D3 cosets / the 8 roots / the hub-market pairing carry a Fano-plane or Hamming-code incidence (points = octets or roots, lines = shared frames or cosets)? Compute the incidence structures and test for PG(2,2) / Hamming(7,4) / AG(3,2) isomorphism.\n\t2.\tIs K24 (the pivot-respecting group) \u2282 GL(3,2) via a natural action, and does G (order 384) act on a PG(2,2)-like quotient?\n\t3.\tRegister chains: do chain dim jumps cluster at steps of 3 (Fano intervals) beyond the ladders? Get the histogram of chain step sizes per role."
+        }
+      ],
+      "claim_excerpt": "No kappa is claimed. This adds a second legal word whose complete price has exactly the same net invoice per rank and the same raw crossing as the merged word of #6167 (kappa 0.003128645), and records why.\n\n## What it shows\n\n- The paid-call and helper-rank histograms both change, but together: for every rank, helpers minus paid calls is the same as in #6167. The price root depends only on those nine differences, so the crossing is identical.\n- The exact freedoms: a helper with one step can be re-spanned freely; stops of a chain can be re-ordered at fixed endpoints; one stop in a main chain and one in a helper chain can trade and cancel.\n- 59 words with this price were found, 58 distinct programs. Alternative Fano-plane ladder frames inserted at the 8 roots (415 single choices, all legal) do not survive frame assignment: none carries an event. The family is the freedom above, not different ladders.\n- The order-4 symmetric ladder design applies to only 4 of the 8 roots here; the word is not symmetric and keeps 770 public registers.\n\n## Evidence\n\n`verify.py` authenticates #6167's word, price and the pinned #5827 checker chain, classifies every changed register, and replays the word through the unmodified chain (same raw crossing and net invoice, 799 endpoint columns, native maps and caller). `test_portability.py` and `scripts/research_package.py --package research/p104-frontier-symmetric-ladders` pass. Author checks only; independent review is pending.\n\n## Credit\n\nBase word and checker: #6167 (aliromman), over our #6144. Precedent for a no-kappa package: #6169.\n\nPrepared by Dr",
+      "roots": [
+        "research/p104-frontier-symmetric-ladders"
+      ],
+      "installed": [
+        "research/p104-frontier-symmetric-ladders/NOTICE",
+        "research/p104-frontier-symmetric-ladders/README.md",
+        "research/p104-frontier-symmetric-ladders/RESULT.json",
+        "research/p104-frontier-symmetric-ladders/SOURCES.json",
+        "research/p104-frontier-symmetric-ladders/TASK.json",
+        "research/p104-frontier-symmetric-ladders/VERIFY.json",
+        "research/p104-frontier-symmetric-ladders/WORD.json.gz",
+        "research/p104-frontier-symmetric-ladders/construct.py",
+        "research/p104-frontier-symmetric-ladders/test_portability.py",
+        "research/p104-frontier-symmetric-ladders/verify.py"
+      ],
+      "deleted": [],
+      "resolutions": {},
+      "lane": "archive",
+      "reason": "Archive retention only. Independent word/replay and price-null classification review remain open. The claimed equal-price family is neither an exhaustive classification nor a symmetric word or new kappa.",
+      "historical_only": false
+    },
+    {
+      "number": 6348,
+      "head": "9894015d6f380206f990ad5fd14bc49bbd26b0d0",
+      "merge_base": "626e936ce4d61f2584316914fc71baf96940c512",
+      "title": "Conditional \u03ba = 0.00314933 (+0.661%): replace the path caller with a binary query tree",
+      "author": {
+        "id": "U_kgDODYXfmQ",
+        "is_bot": false,
+        "login": "aliromman",
+        "name": "Ali Romman"
+      },
+      "files": [
+        {
+          "path": "research/balanced-query-tree/CONTROLLER.json",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "1f2e375b24aba5fb25580dfea7fab7a2049f3eb8"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        },
+        {
+          "path": "research/balanced-query-tree/NOTICE",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "af80ac5d2929d3a3e4ea90c9cf3141d63d358b0c"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        },
+        {
+          "path": "research/balanced-query-tree/PROOF.md",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "08dd3e35b0bdd5a6e39f88183b2793c6bb5af6ca"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        },
+        {
+          "path": "research/balanced-query-tree/README.md",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "0002a8f3f3f7aa4d6bb502f3c433d28532b61c8c"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        },
+        {
+          "path": "research/balanced-query-tree/RESULT.json",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "61ab6b26ff40168fb0982167ac67ef4607f27717"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        },
+        {
+          "path": "research/balanced-query-tree/SOURCES.json",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "3bcf1d6e16bcc900940b0ccd9547f2faa7e20219"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        },
+        {
+          "path": "research/balanced-query-tree/TASK.json",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "f53f0efbe268a9ad9e019763b01cad3ab1fda412"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        },
+        {
+          "path": "research/balanced-query-tree/VALIDATION.md",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "77a60b1712859936b6c57e0c712dce7427c3b553"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        },
+        {
+          "path": "research/balanced-query-tree/VERIFY.json",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "404ae9f21650efdee11d48f72df92ab25521a428"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        },
+        {
+          "path": "research/balanced-query-tree/controller.py",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "3b4bf82eba05d57ef4bb1fd934e8ca65780425c1"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        },
+        {
+          "path": "research/balanced-query-tree/module_check.py",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "f394d40ea2e0777f77910cc5a4b1d151c1228cbc"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        },
+        {
+          "path": "research/balanced-query-tree/physical.py",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "84cf2a35241ab1bbc845a29f5048481aa5c93244"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        },
+        {
+          "path": "research/balanced-query-tree/pricing.py",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "970fdcad6eca99087af2c901939b3813f3eb1f5d"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        },
+        {
+          "path": "research/balanced-query-tree/source_bindings.py",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "9f14c64c876b483d907fb7567254a5cf6313bf66"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        },
+        {
+          "path": "research/balanced-query-tree/verify.py",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "0b3b4718963623b82f50ad4f2bf1d280bcb0b815"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        }
+      ],
+      "errors": [],
+      "syntax": {
+        "python": 6,
+        "json": 5
+      },
+      "pin_checks": [
+        {
+          "manifest": "research/balanced-query-tree/SOURCES.json",
+          "path": "research/p104-retained-operand-descent/NOTICE",
+          "source_spec": "626e936ce4d61f2584316914fc71baf96940c512:research/p104-retained-operand-descent/NOTICE",
+          "result": "match"
+        },
+        {
+          "manifest": "research/balanced-query-tree/SOURCES.json",
+          "path": "research/p104-retained-operand-descent/PRICING-EDITS.json",
+          "source_spec": "626e936ce4d61f2584316914fc71baf96940c512:research/p104-retained-operand-descent/PRICING-EDITS.json",
+          "result": "match"
+        },
+        {
+          "manifest": "research/balanced-query-tree/SOURCES.json",
+          "path": "research/p104-retained-operand-descent/PROOF.md",
+          "source_spec": "626e936ce4d61f2584316914fc71baf96940c512:research/p104-retained-operand-descent/PROOF.md",
+          "result": "match"
+        },
+        {
+          "manifest": "research/balanced-query-tree/SOURCES.json",
+          "path": "research/p104-retained-operand-descent/README.md",
+          "source_spec": "626e936ce4d61f2584316914fc71baf96940c512:research/p104-retained-operand-descent/README.md",
+          "result": "match"
+        },
+        {
+          "manifest": "research/balanced-query-tree/SOURCES.json",
+          "path": "research/p104-retained-operand-descent/RESULT.json",
+          "source_spec": "626e936ce4d61f2584316914fc71baf96940c512:research/p104-retained-operand-descent/RESULT.json",
+          "result": "match"
+        },
+        {
+          "manifest": "research/balanced-query-tree/SOURCES.json",
+          "path": "research/p104-retained-operand-descent/SOURCES.json",
+          "source_spec": "626e936ce4d61f2584316914fc71baf96940c512:research/p104-retained-operand-descent/SOURCES.json",
+          "result": "match"
+        },
+        {
+          "manifest": "research/balanced-query-tree/SOURCES.json",
+          "path": "research/p104-retained-operand-descent/TASK.json",
+          "source_spec": "626e936ce4d61f2584316914fc71baf96940c512:research/p104-retained-operand-descent/TASK.json",
+          "result": "match"
+        },
+        {
+          "manifest": "research/balanced-query-tree/SOURCES.json",
+          "path": "research/p104-retained-operand-descent/VALIDATION.md",
+          "source_spec": "626e936ce4d61f2584316914fc71baf96940c512:research/p104-retained-operand-descent/VALIDATION.md",
+          "result": "match"
+        },
+        {
+          "manifest": "research/balanced-query-tree/SOURCES.json",
+          "path": "research/p104-retained-operand-descent/VERIFY.json",
+          "source_spec": "626e936ce4d61f2584316914fc71baf96940c512:research/p104-retained-operand-descent/VERIFY.json",
+          "result": "match"
+        },
+        {
+          "manifest": "research/balanced-query-tree/SOURCES.json",
+          "path": "research/p104-retained-operand-descent/WORD.json.gz",
+          "source_spec": "626e936ce4d61f2584316914fc71baf96940c512:research/p104-retained-operand-descent/WORD.json.gz",
+          "result": "match"
+        },
+        {
+          "manifest": "research/balanced-query-tree/SOURCES.json",
+          "path": "research/p104-retained-operand-descent/construct.py",
+          "source_spec": "626e936ce4d61f2584316914fc71baf96940c512:research/p104-retained-operand-descent/construct.py",
+          "result": "match"
+        },
+        {
+          "manifest": "research/balanced-query-tree/SOURCES.json",
+          "path": "research/p104-retained-operand-descent/inputs/pr5827-source.tar",
+          "source_spec": "626e936ce4d61f2584316914fc71baf96940c512:research/p104-retained-operand-descent/inputs/pr5827-source.tar",
+          "result": "match"
+        },
+        {
+          "manifest": "research/balanced-query-tree/SOURCES.json",
+          "path": "research/p104-retained-operand-descent/inputs/pr6144-WORD.json.gz",
+          "source_spec": "626e936ce4d61f2584316914fc71baf96940c512:research/p104-retained-operand-descent/inputs/pr6144-WORD.json.gz",
+          "result": "match"
+        },
+        {
+          "manifest": "research/balanced-query-tree/SOURCES.json",
+          "path": "research/p104-retained-operand-descent/inputs/pr6144-pricing.py",
+          "source_spec": "626e936ce4d61f2584316914fc71baf96940c512:research/p104-retained-operand-descent/inputs/pr6144-pricing.py",
+          "result": "match"
+        },
+        {
+          "manifest": "research/balanced-query-tree/SOURCES.json",
+          "path": "research/p104-retained-operand-descent/pricing.py",
+          "source_spec": "626e936ce4d61f2584316914fc71baf96940c512:research/p104-retained-operand-descent/pricing.py",
+          "result": "match"
+        },
+        {
+          "manifest": "research/balanced-query-tree/SOURCES.json",
+          "path": "research/p104-retained-operand-descent/sources.py",
+          "source_spec": "626e936ce4d61f2584316914fc71baf96940c512:research/p104-retained-operand-descent/sources.py",
+          "result": "match"
+        },
+        {
+          "manifest": "research/balanced-query-tree/SOURCES.json",
+          "path": "research/p104-retained-operand-descent/test_portability.py",
+          "source_spec": "626e936ce4d61f2584316914fc71baf96940c512:research/p104-retained-operand-descent/test_portability.py",
+          "result": "match"
+        },
+        {
+          "manifest": "research/balanced-query-tree/SOURCES.json",
+          "path": "research/p104-retained-operand-descent/verify.py",
+          "source_spec": "626e936ce4d61f2584316914fc71baf96940c512:research/p104-retained-operand-descent/verify.py",
+          "result": "match"
+        },
+        {
+          "manifest": "research/balanced-query-tree/SOURCES.json",
+          "path": "docs/research/agent-task-catalog.json",
+          "source_spec": "626e936ce4d61f2584316914fc71baf96940c512:docs/research/agent-task-catalog.json",
+          "result": "match"
+        },
+        {
+          "manifest": "research/balanced-query-tree/SOURCES.json",
+          "path": "certificates/selected-result.json",
+          "source_spec": "626e936ce4d61f2584316914fc71baf96940c512:certificates/selected-result.json",
+          "result": "match"
+        },
+        {
+          "manifest": "research/balanced-query-tree/SOURCES.json",
+          "path": "research/p104-productive-controller/caller.py",
+          "source_spec": "626e936ce4d61f2584316914fc71baf96940c512:research/p104-productive-controller/caller.py",
+          "result": "match"
+        },
+        {
+          "manifest": "research/balanced-query-tree/SOURCES.json",
+          "path": "research/p104-productive-controller/PROOF.md",
+          "source_spec": "626e936ce4d61f2584316914fc71baf96940c512:research/p104-productive-controller/PROOF.md",
+          "result": "match"
+        },
+        {
+          "manifest": "research/balanced-query-tree/SOURCES.json",
+          "path": "research/query-thinned-controllers/PROOF.md",
+          "source_spec": "626e936ce4d61f2584316914fc71baf96940c512:research/query-thinned-controllers/PROOF.md",
+          "result": "match"
+        }
+      ],
+      "declared_input_checks": [
+        {
+          "manifest": "research/balanced-query-tree/VERIFY.json",
+          "scope": "Canonical input spelling and regular tracked blob presence at exact source head; no scientific replay.",
+          "errors": [],
+          "inputs": [
+            {
+              "path": "research/p104-retained-operand-descent/NOTICE",
+              "mode": "100644",
+              "oid": "e0b590250b3d086bc238d780b2a7b49b6a0e8ab6"
+            },
+            {
+              "path": "research/p104-retained-operand-descent/PRICING-EDITS.json",
+              "mode": "100644",
+              "oid": "8b3cf4891f59630e62ee49e437c1594fcda8c1af"
+            },
+            {
+              "path": "research/p104-retained-operand-descent/PROOF.md",
+              "mode": "100644",
+              "oid": "71d6a77e7c9ea81097a0d11744c1bbc33a8188db"
+            },
+            {
+              "path": "research/p104-retained-operand-descent/README.md",
+              "mode": "100644",
+              "oid": "cbe390b9e7167b7aac019f52ed2c0c0707f8e7cc"
+            },
+            {
+              "path": "research/p104-retained-operand-descent/RESULT.json",
+              "mode": "100644",
+              "oid": "9d78529c1ac43faef6b3dff6e4b1262d89a86b40"
+            },
+            {
+              "path": "research/p104-retained-operand-descent/SOURCES.json",
+              "mode": "100644",
+              "oid": "0c574b6026a7239aac7365c433d3760928748edb"
+            },
+            {
+              "path": "research/p104-retained-operand-descent/TASK.json",
+              "mode": "100644",
+              "oid": "a2b53f5128b178e49946b2eef6695d5403bbd0b4"
+            },
+            {
+              "path": "research/p104-retained-operand-descent/VALIDATION.md",
+              "mode": "100644",
+              "oid": "66c3f4c00c9de29af142bf5ec2aa3cf19495c14f"
+            },
+            {
+              "path": "research/p104-retained-operand-descent/VERIFY.json",
+              "mode": "100644",
+              "oid": "cc7c8311638bd8bd8e7d5b448a0aad3f92c8b447"
+            },
+            {
+              "path": "research/p104-retained-operand-descent/WORD.json.gz",
+              "mode": "100644",
+              "oid": "f2d3f98964f939e5ca652f9b1453a0604f15f829"
+            },
+            {
+              "path": "research/p104-retained-operand-descent/construct.py",
+              "mode": "100644",
+              "oid": "595a1937465f3a77a4709f3419641846b9e1c726"
+            },
+            {
+              "path": "research/p104-retained-operand-descent/inputs/pr5827-source.tar",
+              "mode": "100644",
+              "oid": "1e10936044959f81a4c5fcd5bdb7b9e4c060ec8e"
+            },
+            {
+              "path": "research/p104-retained-operand-descent/inputs/pr6144-WORD.json.gz",
+              "mode": "100644",
+              "oid": "69b70ee50c697b185ebf585fbe69f2487af32d1d"
+            },
+            {
+              "path": "research/p104-retained-operand-descent/inputs/pr6144-pricing.py",
+              "mode": "100644",
+              "oid": "4fc2aaa55f4db587020cc8ae51edaffe1d95c770"
+            },
+            {
+              "path": "research/p104-retained-operand-descent/pricing.py",
+              "mode": "100644",
+              "oid": "cd8220ca7a393f03341f08a93b9d1287f0bb3689"
+            },
+            {
+              "path": "research/p104-retained-operand-descent/sources.py",
+              "mode": "100644",
+              "oid": "bef6542243a082755a881dff42097434e6370609"
+            },
+            {
+              "path": "research/p104-retained-operand-descent/test_portability.py",
+              "mode": "100644",
+              "oid": "8739c2e0cf9c559123a337a806b2fb08cedd77b7"
+            },
+            {
+              "path": "research/p104-retained-operand-descent/verify.py",
+              "mode": "100644",
+              "oid": "6003206a2183254be317396c542163d985b95894"
+            }
+          ]
+        }
+      ],
+      "shared": [],
+      "conflicts": [],
+      "independent_scientific_execution": false,
+      "observed_reviews": [],
+      "claim_excerpt": "This construction raises **complete conditional \u03ba to 0.00314933**, from 0.003128645 in [PR #6167](https://github.com/CrocSwap/integer-mult-bounds/pull/6167): **+0.000020685, about 0.661%**. The native word is unchanged. A binary tree of query suppliers replaces the paired path and changes the complete target/paid distribution. The selected frontier stays unchanged.\n\nReview the [proof](https://github.com/aliromman/integer-mult-bounds/blob/9894015d6f380206f990ad5fd14bc49bbd26b0d0/research/balanced-query-tree/PROOF.md), [four-field checker](https://github.com/aliromman/integer-mult-bounds/blob/9894015d6f380206f990ad5fd14bc49bbd26b0d0/research/balanced-query-tree/module_check.py), [literal caller](https://github.com/aliromman/integer-mult-bounds/blob/9894015d6f380206f990ad5fd14bc49bbd26b0d0/research/balanced-query-tree/CONTROLLER.json), [complete receipt](https://github.com/aliromman/integer-mult-bounds/blob/9894015d6f380206f990ad5fd14bc49bbd26b0d0/research/balanced-query-tree/RESULT.json), and [source pins](https://github.com/aliromman/integer-mult-bounds/blob/9894015d6f380206f990ad5fd14bc49bbd26b0d0/research/balanced-query-tree/SOURCES.json).\n\nThe new four-field module combines two query suppliers, one paid thin query and two whole idle calls. It returns another query supplier and two independent Gaussian outputs. Root subtree sizes 4, 7 and 8 give 19 full native calls, 16 thin queries and 34 main fields per port. All helper inputs remain arbitrary and independent. The idle work, owned lifetimes, orientation wrappers and ordinary operations are charged.\n\n| Complete calculatio",
+      "roots": [
+        "research/balanced-query-tree"
+      ],
+      "installed": [
+        "research/balanced-query-tree/CONTROLLER.json",
+        "research/balanced-query-tree/NOTICE",
+        "research/balanced-query-tree/PROOF.md",
+        "research/balanced-query-tree/README.md",
+        "research/balanced-query-tree/RESULT.json",
+        "research/balanced-query-tree/SOURCES.json",
+        "research/balanced-query-tree/TASK.json",
+        "research/balanced-query-tree/VALIDATION.md",
+        "research/balanced-query-tree/VERIFY.json",
+        "research/balanced-query-tree/controller.py",
+        "research/balanced-query-tree/module_check.py",
+        "research/balanced-query-tree/physical.py",
+        "research/balanced-query-tree/pricing.py",
+        "research/balanced-query-tree/source_bindings.py",
+        "research/balanced-query-tree/verify.py"
+      ],
+      "deleted": [],
+      "resolutions": {},
+      "lane": "archive",
+      "reason": "Archive retention only. Independent scientific admission remains open: authenticate/admit PR6167 source lineage, verify the four-field extension and 34-field caller, all fresh-stage phase/ownership contracts, complete idle/query invoice and changed completion/compiler/outer parameters. Author claim 0.00314933 is not selected; no composition with PR6349 admitted.",
+      "historical_only": false
+    },
+    {
+      "number": 6349,
+      "head": "af7cb6c67f8fc7d82a2e4aee2dd2f07481bf6690",
+      "merge_base": "626e936ce4d61f2584316914fc71baf96940c512",
+      "title": "Lift four P104 helper inputs: conditional \u03ba 0.003129111",
+      "author": {
+        "id": "U_kgDODYXfmQ",
+        "is_bot": false,
+        "login": "aliromman",
+        "name": "Ali Romman"
+      },
+      "files": [
+        {
+          "path": "research/p104-native-input-lifting/NOTICE",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "038cff9afd0ce792bd7d22e9c2c593e1cec39476"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        },
+        {
+          "path": "research/p104-native-input-lifting/PRICING-EDITS.json",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "28f5322788bb65bed5b0147f7a2c77750b2fd865"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        },
+        {
+          "path": "research/p104-native-input-lifting/PROOF.md",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "85499c9eb7b6413f460ef0e77430957ec94e6620"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        },
+        {
+          "path": "research/p104-native-input-lifting/README.md",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "cce28939e2af19ecf0282b70976d8987d5d93de4"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        },
+        {
+          "path": "research/p104-native-input-lifting/RESULT.json",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "467f941331b78519fc7c7d5fc5e8ffbe7d7d7193"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        },
+        {
+          "path": "research/p104-native-input-lifting/SOURCES.json",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "bc7876a86e355ea59619916aeb60c422d9cb16b7"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        },
+        {
+          "path": "research/p104-native-input-lifting/TASK.json",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "608ca892aaade455809424b7eef7092e0b15150f"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        },
+        {
+          "path": "research/p104-native-input-lifting/VERIFY.json",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "24021f331c36e0f3ca9b5f611cc5edfeb1a72a23"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        },
+        {
+          "path": "research/p104-native-input-lifting/WORD.json.gz",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "f21f7ac451c3f2e1ae8d5ca1dcad839a0b0d844f"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        },
+        {
+          "path": "research/p104-native-input-lifting/construct.py",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "1a8a1e9881610c3bdb6af78c1c21d2b2f9a85147"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        },
+        {
+          "path": "research/p104-native-input-lifting/pricing.py",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "af470932c6eeb315a83130263f72003f79f34b0c"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        },
+        {
+          "path": "research/p104-native-input-lifting/support.py",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "b528d2a451e0d1e398938e7a0ccb8ee5a87dcabe"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        },
+        {
+          "path": "research/p104-native-input-lifting/verify.py",
+          "source": {
+            "mode": "100644",
+            "kind": "blob",
+            "oid": "70b3beae8f2279e67d39e308886083fe38eb2d7f"
+          },
+          "old_oid": "0000000000000000000000000000000000000000",
+          "change": "A"
+        }
+      ],
+      "errors": [],
+      "syntax": {
+        "python": 4,
+        "json": 5
+      },
+      "pin_checks": [
+        {
+          "manifest": "research/p104-native-input-lifting/SOURCES.json",
+          "path": "certificates/selected-result.json",
+          "source_spec": "626e936ce4d61f2584316914fc71baf96940c512:certificates/selected-result.json",
+          "result": "match"
+        },
+        {
+          "manifest": "research/p104-native-input-lifting/SOURCES.json",
+          "path": "docs/research/agent-task-catalog.json",
+          "source_spec": "626e936ce4d61f2584316914fc71baf96940c512:docs/research/agent-task-catalog.json",
+          "result": "match"
+        },
+        {
+          "manifest": "research/p104-native-input-lifting/SOURCES.json",
+          "path": "research/p104-frontier-compression-2/WORD.json.gz",
+          "source_spec": "626e936ce4d61f2584316914fc71baf96940c512:research/p104-frontier-compression-2/WORD.json.gz",
+          "result": "match"
+        },
+        {
+          "manifest": "research/p104-native-input-lifting/SOURCES.json",
+          "path": "research/p104-retained-operand-descent/SOURCES.json",
+          "source_spec": "626e936ce4d61f2584316914fc71baf96940c512:research/p104-retained-operand-descent/SOURCES.json",
+          "result": "match"
+        },
+        {
+          "manifest": "research/p104-native-input-lifting/SOURCES.json",
+          "path": "research/p104-retained-operand-descent/inputs/pr5827-source.tar",
+          "source_spec": "626e936ce4d61f2584316914fc71baf96940c512:research/p104-retained-operand-descent/inputs/pr5827-source.tar",
+          "result": "match"
+        },
+        {
+          "manifest": "research/p104-native-input-lifting/SOURCES.json",
+          "path": "research/p104-retained-operand-descent/pricing.py",
+          "source_spec": "626e936ce4d61f2584316914fc71baf96940c512:research/p104-retained-operand-descent/pricing.py",
+          "result": "match"
+        },
+        {
+          "manifest": "research/p104-native-input-lifting/SOURCES.json",
+          "path": "research/p104-retained-operand-descent/sources.py",
+          "source_spec": "626e936ce4d61f2584316914fc71baf96940c512:research/p104-retained-operand-descent/sources.py",
+          "result": "match"
+        }
+      ],
+      "declared_input_checks": [
+        {
+          "manifest": "research/p104-native-input-lifting/VERIFY.json",
+          "scope": "Canonical input spelling and regular tracked blob presence at exact source head; no scientific replay.",
+          "errors": [],
+          "inputs": [
+            {
+              "path": "research/p104-frontier-compression-2/WORD.json.gz",
+              "mode": "100644",
+              "oid": "cb3aed1d5604eb290f18759b37becaad428ac27a"
+            },
+            {
+              "path": "research/p104-retained-operand-descent/SOURCES.json",
+              "mode": "100644",
+              "oid": "0c574b6026a7239aac7365c433d3760928748edb"
+            },
+            {
+              "path": "research/p104-retained-operand-descent/inputs/pr5827-source.tar",
+              "mode": "100644",
+              "oid": "1e10936044959f81a4c5fcd5bdb7b9e4c060ec8e"
+            },
+            {
+              "path": "research/p104-retained-operand-descent/pricing.py",
+              "mode": "100644",
+              "oid": "cd8220ca7a393f03341f08a93b9d1287f0bb3689"
+            },
+            {
+              "path": "research/p104-retained-operand-descent/sources.py",
+              "mode": "100644",
+              "oid": "bef6542243a082755a881dff42097434e6370609"
+            }
+          ]
+        }
+      ],
+      "shared": [],
+      "conflicts": [],
+      "independent_scientific_execution": false,
+      "observed_reviews": [],
+      "claim_excerpt": "Four existing helper inputs now start at native subspaces of dimensions 1, 1, 1 and 3. Explicit correlated input directions and output basis corrections preserve all 770 independent inputs. The complete conditional claim improves from PR6167's **\u03ba = 0.003128645** to **\u03ba = 0.003129111**, a gain of **0.000000466 (0.0149%)**. This is a small gain; no large breakthrough is claimed.\n\nThe direct source is DreamingOfClouds' PR6314, head `36533d4d1b4e2dd8672427461b12de3001b85810`, which compresses PR6167 without changing its recursive price. The new word has 17,452 events. Its local paid change is `H1 + H2 + H3 + 2H4 - 4H5`; its productive target debit is `H6 + 3H8 - 4H9`. The complete p16/a7 caller has 66,780 paid calls, 13,444 targets and rank surplus 760. Every query, helper normalizer, adapter, owned operation, route, completion and compiler cost remains charged.\n\nThe strict raw crossing is `(0.00312911821812, 0.00312911821813)`. The old complete profile fails at the new claimed \u03ba. The general concave-tariff comparison is inconclusive; the claim uses the exact power-moment checks at the stated exponent.\n\n- [Proof and complete dependency argument](https://github.com/aliromman/integer-mult-bounds/blob/af7cb6c67f8fc7d82a2e4aee2dd2f07481bf6690/research/p104-native-input-lifting/PROOF.md)\n- [Exact result and rejection controls](https://github.com/aliromman/integer-mult-bounds/blob/af7cb6c67f8fc7d82a2e4aee2dd2f07481bf6690/research/p104-native-input-lifting/RESULT.json)\n- [Source pins and reproducible package](https://github.com/aliromman/integer-mult-bounds/tree/af7cb6c67f8fc7d82a2e4",
+      "roots": [
+        "research/p104-native-input-lifting"
+      ],
+      "installed": [
+        "research/p104-native-input-lifting/NOTICE",
+        "research/p104-native-input-lifting/PRICING-EDITS.json",
+        "research/p104-native-input-lifting/PROOF.md",
+        "research/p104-native-input-lifting/README.md",
+        "research/p104-native-input-lifting/RESULT.json",
+        "research/p104-native-input-lifting/SOURCES.json",
+        "research/p104-native-input-lifting/TASK.json",
+        "research/p104-native-input-lifting/VERIFY.json",
+        "research/p104-native-input-lifting/WORD.json.gz",
+        "research/p104-native-input-lifting/construct.py",
+        "research/p104-native-input-lifting/pricing.py",
+        "research/p104-native-input-lifting/support.py",
+        "research/p104-native-input-lifting/verify.py"
+      ],
+      "deleted": [],
+      "resolutions": {},
+      "lane": "archive",
+      "reason": "Archive retention only. Independent scientific admission remains open: authenticate/admit PR6314/PR6167 lineage, audit four changed helper input frames, all basis deliveries/restorations, native normalizers and complete productive-target debit, then caller/compiler/outer obligations. Author claim 0.003129111 is not selected; no composition with PR6348 admitted.",
+      "historical_only": false
+    }
+  ],
+  "checks": "docs/research/pr-intake-evidence/queue-nov01a-20261101-checks.txt",
+  "selected_frontier_changed": false,
+  "environment": {
+    "python": "3.14.6 (main, Jun 10 2026, 10:03:53) [Clang 21.0.0 (clang-2100.0.123.102)]",
+    "platform": "macOS-26.6.2-arm64-arm-64bit-Mach-O",
+    "git": "git version 2.54.0 (Apple Git-157)"
+  },
+  "ancestry_preflight": {
+    "base": "626e936ce4d61f2584316914fc71baf96940c512",
+    "scope": "Newly introduced ancestry compared against all 328 open PR heads; no additional open predecessors.",
+    "affected": [
+      {
+        "author": {
+          "id": "U_kgDODYXfmQ",
+          "is_bot": false,
+          "login": "aliromman",
+          "name": "Ali Romman"
+        },
+        "headRefOid": "af7cb6c67f8fc7d82a2e4aee2dd2f07481bf6690",
+        "isDraft": false,
+        "number": 6349,
+        "title": "Lift four P104 helper inputs: conditional \u03ba 0.003129111",
+        "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/6349"
+      },
+      {
+        "author": {
+          "id": "U_kgDODYXfmQ",
+          "is_bot": false,
+          "login": "aliromman",
+          "name": "Ali Romman"
+        },
+        "headRefOid": "9894015d6f380206f990ad5fd14bc49bbd26b0d0",
+        "isDraft": false,
+        "number": 6348,
+        "title": "Conditional \u03ba = 0.00314933 (+0.661%): replace the path caller with a binary query tree",
+        "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/6348"
+      },
+      {
+        "author": {
+          "id": "U_kgDOClpS9w",
+          "is_bot": false,
+          "login": "DreamingOfClouds",
+          "name": ""
+        },
+        "headRefOid": "776bd2ecf9cb18a88a0db27e43a2e876856e9fd9",
+        "isDraft": false,
+        "number": 6345,
+        "title": "No new \u03ba: a price-null fibre of PR6167's word (per-rank helper\u2212paid invariant)",
+        "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/6345"
+      },
+      {
+        "author": {
+          "id": "U_kgDOB9csmw",
+          "is_bot": false,
+          "login": "unpaidmoon",
+          "name": "unpaidmoon"
+        },
+        "headRefOid": "5778b35a4ca2453e4955e8203a1a3b1cfeb5935b",
+        "isDraft": false,
+        "number": 6344,
+        "title": "Record that the PR6335 W2/W4 identities do not close N1.",
+        "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/6344"
+      },
+      {
+        "author": {
+          "id": "U_kgDOB9csmw",
+          "is_bot": false,
+          "login": "unpaidmoon",
+          "name": "unpaidmoon"
+        },
+        "headRefOid": "79ca0621851cc6dcf7705b097d11d816a3e1df41",
+        "isDraft": false,
+        "number": 6343,
+        "title": "Record that the selected pricing rejects the PR5708 component as admi\u2026",
+        "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/6343"
+      },
+      {
+        "author": {
+          "id": "U_kgDOB9csmw",
+          "is_bot": false,
+          "login": "unpaidmoon",
+          "name": "unpaidmoon"
+        },
+        "headRefOid": "f744101c871914c767982484f06bf49cd5ef5d82",
+        "isDraft": false,
+        "number": 6342,
+        "title": "Certify a 624-cell two-round stock for the ell=2 typed-H witness",
+        "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/6342"
+      },
+      {
+        "author": {
+          "id": "U_kgDOB9csmw",
+          "is_bot": false,
+          "login": "unpaidmoon",
+          "name": "unpaidmoon"
+        },
+        "headRefOid": "4ede2382e0bad5dc5932443451b9bcef569ed2ea",
+        "isDraft": false,
+        "number": 6341,
+        "title": "Record that the #5718 boundary functionals differ and force cleanup o\u2026",
+        "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/6341"
+      },
+      {
+        "author": {
+          "id": "U_kgDOB9csmw",
+          "is_bot": false,
+          "login": "unpaidmoon",
+          "name": "unpaidmoon"
+        },
+        "headRefOid": "3d7bbbcc469d66ce23bc8a12f528aae3f5c5089e",
+        "isDraft": false,
+        "number": 6340,
+        "title": "Price the r=16 cubic repair against sixteen eager shears (no \u03ba)",
+        "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/6340"
+      },
+      {
+        "author": {
+          "id": "U_kgDOB9csmw",
+          "is_bot": false,
+          "login": "unpaidmoon",
+          "name": "unpaidmoon"
+        },
+        "headRefOid": "608ad23adc6c01264c8195daf7f18e29c17464a7",
+        "isDraft": false,
+        "number": 6339,
+        "title": "Cursor/h25 g12 identity cleanup 5d9d",
+        "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/6339"
+      },
+      {
+        "author": {
+          "id": "U_kgDOB9csmw",
+          "is_bot": false,
+          "login": "unpaidmoon",
+          "name": "unpaidmoon"
+        },
+        "headRefOid": "3351f1b59db9c094877227bad16ccd4597bbc8c1",
+        "isDraft": false,
+        "number": 6338,
+        "title": "Prove idle helpers do not lower the span-(m+1) line bound",
+        "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/6338"
+      },
+      {
+        "author": {
+          "id": "U_kgDOB9csmw",
+          "is_bot": false,
+          "login": "unpaidmoon",
+          "name": "unpaidmoon"
+        },
+        "headRefOid": "3b58db981b87f090f2a63886edf78bf641b049ae",
+        "isDraft": false,
+        "number": 6337,
+        "title": "Cursor/g20 moved correction frame 9d0c",
+        "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/6337"
+      },
+      {
+        "author": {
+          "id": "U_kgDOB9csmw",
+          "is_bot": false,
+          "login": "unpaidmoon",
+          "name": "unpaidmoon"
+        },
+        "headRefOid": "605035a6424e53d4236c2699e7aca5fa84d6c24f",
+        "isDraft": false,
+        "number": 6336,
+        "title": "Prove the sharp paid-moment floor for independent four-contact centre\u2026",
+        "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/6336"
+      }
+    ]
+  },
+  "review_commands": [
+    "git diff --raw --no-abbrev --no-renames -z MERGE_BASE SOURCE_HEAD",
+    "git cat-file --batch (source blobs, Python ast.parse, JSON parsing and SHA256/Git/size pins)",
+    "git ls-tree SOURCE_HEAD -- DECLARED_INPUT (exact repository-relative path/mode validation)",
+    "git rev-list SELECTED_HEADS --not BASE (compare all live open heads)",
+    "python3 scripts/verify_pr_ledger_markdown.py"
+  ]
+}

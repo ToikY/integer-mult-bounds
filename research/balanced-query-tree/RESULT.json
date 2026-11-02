@@ -1,0 +1,322 @@
+{
+  "assumptions": [
+    "native_all_columns",
+    "owned_erasure",
+    "compiler",
+    "precision_tape",
+    "analytic_recovery"
+  ],
+  "caller": {
+    "coefficients": 1156,
+    "event_sha256": "d723a7d837f0da851c802909f4ab14ac6918c7d3d416d02b83a8a122aa21732d",
+    "events": 353,
+    "inputs": 34,
+    "native_stages": 19
+  },
+  "caller_controls": {
+    "missing_thin_query": "All exact Laurent endpoint coefficients",
+    "missing_translation": "All exact Laurent endpoint coefficients",
+    "unpaid_idle": "All exact Laurent endpoint coefficients",
+    "wrong_central_orientation": "All exact Laurent endpoint coefficients"
+  },
+  "columns": {
+    "arithmetic": "Dense integer rows with binary denominators; reverse chronology",
+    "coefficients": 638401,
+    "columns": 799
+  },
+  "local": {
+    "endpoint_coefficients": 638401,
+    "helpers": {
+      "1": 14,
+      "2": 8,
+      "3": 4,
+      "4": 107,
+      "5": 14,
+      "6": 2,
+      "7": 9,
+      "8": 19,
+      "9": 385
+    },
+    "owned_fields": 29,
+    "owned_lifetimes": 32,
+    "paid": {
+      "1": 2216,
+      "2": 456,
+      "3": 496,
+      "4": 98,
+      "5": 165,
+      "6": 8,
+      "7": 9,
+      "8": 1
+    },
+    "paid_rank_mass": 5952,
+    "peak_owned_fields": 13,
+    "public_inputs": 770,
+    "real_scalar_allowance": 189670
+  },
+  "module": {
+    "coefficients": 16,
+    "identity": "L S A B Idle S^-1 C R = D_A D_B (U(q) direct-sum q direct-sum q^-1)",
+    "missing_idle_rejected": true,
+    "variables": [
+      "q",
+      "D_A",
+      "D_B"
+    ]
+  },
+  "native": {
+    "distinct_maps": 2922,
+    "helper_normalizers": 1124,
+    "helpers": {
+      "1": 14,
+      "2": 8,
+      "3": 4,
+      "4": 107,
+      "5": 14,
+      "6": 2,
+      "7": 9,
+      "8": 19,
+      "9": 385
+    },
+    "main_adapters": 208,
+    "proof": "Every signed Pauli image and exact global phase; frame induction at every positive tensor width",
+    "recipe_payload_sha256": "6a06b7c2b1a1bf57fb8c4c9da08d38035647890b13b02286ef1dfe529ccf2a91",
+    "wrong_phase_rejected": true
+  },
+  "physical": {
+    "central_square_columns": 53248,
+    "central_translations": 20,
+    "full_calls": 19,
+    "main_targets": {
+      "153": 208,
+      "17": 1872,
+      "25": 208,
+      "33": 832,
+      "57": 208,
+      "65": 208
+    },
+    "new_paid_jobs": 0,
+    "physical_contacts": 7904,
+    "ports": 104,
+    "route_payload_sha256": "b54aa59d89f556742b7129284c353f88816d02daf71ef327890746d2d19fa81f",
+    "tensor_rule": "Factorwise native maps; scalar signs stay outside the tensor power.",
+    "whole_idle_jobs": {
+      "16": 1872,
+      "24": 208,
+      "32": 832,
+      "56": 208,
+      "64": 208
+    }
+  },
+  "price": {
+    "compiler": {
+      "H": 70855400000000,
+      "N": "2^70855400000000",
+      "eta": {
+        "lower": "0.000000089779485271545859280113",
+        "upper": "0.000000089779485271545859280114"
+      },
+      "gap": "1/1400000000",
+      "integer_test_exponent": 50611,
+      "logarithm_power": 1100,
+      "theta": "63/64",
+      "uniform_saving": "1102267/350000000",
+      "word_materialized": false
+    },
+    "derivative_upper": "-787255904663676547398035735806920192344193952896481050804240067/3138550867693340381917894711603833208051177722232017256448",
+    "full_forward_calls": 19,
+    "gain": "4137/200000000",
+    "kappa": "314933/100000000",
+    "kappa_decimal": "0.00314933",
+    "margin_at_previous": {
+      "lower": "5.274958700286705564973445441285",
+      "upper": "5.274958700286705564973445441286"
+    },
+    "negative_controls": {
+      "old_BIT": "An outer inequality fails at BIT saving0.0027.",
+      "old_completion": "Cutoff16 and floor17 give a ratio above one."
+    },
+    "nonrecursive": {
+      "local_routes": 5325000,
+      "local_scalar": 189670,
+      "paid_rank_mass": 201280,
+      "peak_owned_fields": 13,
+      "raw_budget": 1000000000,
+      "raw_scalar_upper": 194902768,
+      "scalar_growth_bound": "At most 2^(10^9 + R*f), where R is the full paid rank mass."
+    },
+    "ordinary_BIT": {
+      "admitted": "17/5000",
+      "after_cover": "69/20000",
+      "atom": "1/250",
+      "before_cover": "3459/1000000",
+      "ordinary_saving": "8590884599/2500000000000",
+      "prime_rule": "odd q > 2^26*N^5 avoiding all fixed denominators and rank witnesses"
+    },
+    "outer": {
+      "functional_checks": {
+        "actual_new_BIT_stock_sublinear": "348599999253/350000000000",
+        "fixed_halo_explicit_metadata_branch": "26950000001/350000000",
+        "new_BIT_row_stock_sublinear_in_active_group": "1395799997009/1400000000000",
+        "new_semantic_group_guard": "3/1400000000"
+      },
+      "margins": {
+        "boundary_algebraic_matrix": "1234538479118187/392000000000000000",
+        "fused_gaussian": "1234538477354561/392000000000000000",
+        "global_coordinate_router": "2204533/700000000",
+        "group_bit_router": "3086346893386401/980000000000000000",
+        "group_scans": "699999999/700000000",
+        "main_transform": "1234538199118187/392000000000000000",
+        "microbox_face_corrections": "26950000001/350000000",
+        "polynomial_products": "1399999999/1400000000",
+        "sparse_union_movement": "160484538479118187/392000000000000000"
+      },
+      "parameters": {
+        "a": "2204533/700000000",
+        "b": "4409067/1400000000",
+        "beta": "1399999997/1400000000",
+        "bit_saving": "17/5000",
+        "cap_xi": "356484538199118187/392000000000000000",
+        "complex_uniform_saving": "1102267/350000000",
+        "d": "1/1400000000",
+        "epsilon": "1399999999/1400000000",
+        "kappa": "314933/100000000",
+        "lambda_": "398740267/400000000",
+        "lambda_prime": "279118187/280000000",
+        "layout": "1/1400000000",
+        "q": "881813/280000000",
+        "r0": "1/14000000000",
+        "stop": "1/1400000000",
+        "tested_saving": "629867/200000000"
+      },
+      "strict_checks": {
+        "actual_bit_above_effective": "175467/700000000",
+        "actual_logarithmic_gamma_guard": "1/1400000000",
+        "actual_logarithmic_group_guard": "35515462220881813/196000000000000000",
+        "alpha_logarithm_absorption": "1/14000000000",
+        "boundary_algebraic_matrix_above_kappa": "1119118187/392000000000000000",
+        "cap_above_band": "160484538199118187/392000000000000000",
+        "cap_below_cell": "35515461520881813/392000000000000000",
+        "cap_below_phase_cell_power": "427515461800881813/392000000000000000",
+        "complex_above_effective": "1/1400000000",
+        "complex_below_one_over_32": "39340933/1400000000",
+        "complex_endpoint": "1/700000000",
+        "epsilon_below_one": "1/1400000000",
+        "epsilon_positive": "1399999999/1400000000",
+        "fine_prime_halo_umbrella": "7/2",
+        "fused_gaussian_above_kappa": "1117354561/392000000000000000",
+        "gaussian_above_main": "139118187/196000000000000000",
+        "global_coordinate_router_above_kappa": "1/350000000",
+        "global_gamma_power_slack": "9/14000000000",
+        "group_below_dimension": "1/700000000",
+        "group_bit_router_above_kappa": "3493386401/980000000000000000",
+        "group_gauge_power_slack": "35515462206881813/196000000000000000",
+        "group_key_fits_record": "1/700000000",
+        "group_positive": "1399999997/1400000000",
+        "group_scans_above_kappa": "174448867/175000000",
+        "halo_covers_generic_inverse_radius": "5",
+        "improvement_over_user_baseline": "709179790400418148631/500000000000000000000000",
+        "lambda_above_internal": "1/2800000000",
+        "lambda_above_sigma": "3/2800000000",
+        "lambda_above_tau": "1/2800000000",
+        "lambda_prime_above_lambda": "1/2800000000",
+        "lambda_prime_above_leaf": "2795590933/1960000000000000000",
+        "leaf_saving_above_effective": "1395590933/1960000000000000000",
+        "main_transform_above_kappa": "839118187/392000000000000000",
+        "membership_arithmetic_fits_record": "1/1400000000",
+        "microbox_face_corrections_above_kappa": "53897795471/700000000",
+        "microbox_halo_volume": "110600000003/1400000000",
+        "new_complex_uniform_saving_above_b": "1/1400000000",
+        "new_semantic_guard_with_C1_one": "1/1400000000",
+        "polynomial_products_above_kappa": "1395590937/1400000000",
+        "positive_layout_slack": "1/1400000000",
+        "q_below_effective": "1/1400000000",
+        "q_below_internal": "1/1400000000",
+        "q_below_leaf": "2795590933/1960000000000000000",
+        "q_positive": "881813/280000000",
+        "short_record_fallback": "1395590933/1400000000",
+        "source_axis_superpolynomial": "1/1400000000",
+        "sparse_union_movement_above_kappa": "159250001119118187/392000000000000000",
+        "stop_below_one": "1399999999/1400000000",
+        "stop_positive": "1/1400000000",
+        "strassen_integer_power_gap": "1951441519231",
+        "support_router_span": "3/1400000000",
+        "theta_positive_polynomial_power": "2",
+        "union_header_fits_record": "3/1400000000",
+        "union_tag_work_per_visit_fits_record": "3/1400000000"
+      }
+    },
+    "paid": {
+      "1": 43768,
+      "16": 1872,
+      "2": 8664,
+      "24": 208,
+      "3": 9424,
+      "32": 832,
+      "4": 1862,
+      "5": 3135,
+      "56": 208,
+      "6": 152,
+      "64": 208,
+      "7": 171,
+      "8": 19
+    },
+    "paid_calls": 70523,
+    "previous_pr6167": "625729/200000000",
+    "productive_fields": 14214,
+    "rank_mass_surplus": 808,
+    "raw_headroom": [
+      "1401301/100000000000000",
+      "700651/50000000000000"
+    ],
+    "raw_root_interval": [
+      "314934401301/100000000000000",
+      "157467200651/50000000000000"
+    ],
+    "relative_gain_percent": "413700/625729",
+    "strictification": {
+      "alpha": {
+        "lower": "0.999999988521834756502402586262",
+        "upper": "0.999999988521834756502402586263"
+      },
+      "cutoff": 12,
+      "delta": {
+        "lower": "0.916248120268076340091963681565",
+        "upper": "0.916248120268076340091963681566"
+      },
+      "floor": 13,
+      "gamma": {
+        "lower": "0.934851720281298552466139793662",
+        "upper": "0.934851720281298552466139793663"
+      },
+      "normalized_paid_upper": "1048576000976562501/1048576001073741824",
+      "power": 1024,
+      "reserve": "1/1000000000000",
+      "tail_block": 128,
+      "tail_decay": "31/32",
+      "tail_offset": "1/7",
+      "tested": "629867/200000000"
+    },
+    "targets": {
+      "1": 266,
+      "153": 208,
+      "17": 1872,
+      "2": 152,
+      "25": 208,
+      "3": 76,
+      "33": 832,
+      "4": 2033,
+      "5": 266,
+      "57": 208,
+      "6": 38,
+      "65": 208,
+      "7": 171,
+      "8": 361,
+      "9": 7315
+    },
+    "thin_queries": 16,
+    "whole_idle_jobs": 3328
+  },
+  "source_files_authenticated": 18,
+  "status": "PASS_BALANCED_QUERY_TREE_KAPPA_00314933"
+}

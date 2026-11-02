@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "status": "ready",
+  "python": "3.12",
+  "requirements": [],
+  "inputs": [
+    "research/sol1337-contact-frontier/build_graph.py",
+    "research/sol1337-contact-frontier/inputs/round3-native.json.gz",
+    "research/sol1337-contact-frontier/vendor/model.py",
+    "research/sol1337-contact-frontier/vendor/retained_verify.py"
+  ],
+  "commands": [
+    {
+      "argv": [
+        "{python}",
+        "-W",
+        "error",
+        "-B",
+        "{package}/verify.py"
+      ],
+      "timeout_seconds": 120,
+      "checks": "All 716 paths, 160 claws and nine exact prefix minima; literal invoices for every minimizer; sharp histogram and fourth-contact cancellation; census, geometry and full-product oracles; graph/input/source rejection controls."
+    },
+    {
+      "argv": [
+        "{python}",
+        "-W",
+        "error",
+        "-O",
+        "-B",
+        "{package}/verify.py"
+      ],
+      "timeout_seconds": 120,
+      "checks": "The same complete certificate and controls with assertions disabled."
+    }
+  ]
+}

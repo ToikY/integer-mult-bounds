@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "status": "ready",
+  "python": "3.12",
+  "requirements": [],
+  "inputs": [
+    "research/p104-two-boundary-helper-split/PROOF.md",
+    "research/p104-two-boundary-helper-split/WITNESS.json",
+    "research/p104-two-boundary-helper-split/WORD.json.gz",
+    "research/p104-two-boundary-helper-split/inputs/pr5713-source.tar"
+  ],
+  "commands": [
+    {
+      "argv": [
+        "{python}",
+        "-I",
+        "-B",
+        "{package}/verify.py"
+      ],
+      "timeout_seconds": 90,
+      "checks": "Source and final hashes, distinct input and output nuisances, published endpoints, inverse-first failure on rows 126 and 188, opposite-sign failure on row 743 only, and witness agreement."
+    },
+    {
+      "argv": [
+        "{python}",
+        "-I",
+        "-O",
+        "-B",
+        "{package}/verify.py"
+      ],
+      "timeout_seconds": 90,
+      "checks": "The same identities under optimized bytecode. Failures are exceptions, so they stay active."
+    }
+  ]
+}

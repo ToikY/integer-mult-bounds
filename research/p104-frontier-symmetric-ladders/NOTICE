@@ -1,0 +1,10 @@
+Frontier price-null fibre: DreamingOfClouds with Claude Opus 5.5 (Anthropic), via Claude Code.
+Apache-2.0.
+
+The word, price and checker chain are PR6167 by Ali Romman (OpenAI Codex assistance),
+over PR6144 and PR6143 by DreamingOfClouds, PR5827 and the earlier P104, native, helper,
+caller, compiler and BIT work. PR6169 (Ali Romman) is the precedent for a no-kappa
+package at unchanged price. The gzip portability controls follow the base package.
+The full source notices are retained in research/p104-retained-operand-descent/NOTICE
+and in its pinned source archive, which this package reads and does not copy.
+This package claims no predecessor construction as new.

@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "task_id": "portable-replay",
+  "priority_revision": 8,
+  "base_commit": "626e936ce4d61f2584316914fc71baf96940c512",
+  "original_card": {
+    "id": "portable-replay",
+    "question": "Can one reproducible environment or artifact-comparison failure be repaired?",
+    "starting_points": [
+      "research/gzip-container-reproducibility/README.md",
+      "docs/ci-verification.md"
+    ],
+    "methods": [
+      "Reproduce one portability failure and add a minimal cross-environment fix.",
+      "Audit one canonical-payload comparison for omitted proof-relevant fields."
+    ],
+    "acceptance_gate": "Preserve immutable source hashes and proof-relevant content; a different compressed byte stream alone is not a mathematical mismatch.",
+    "first_step": {
+      "command": [
+        "python3",
+        "-B",
+        "scripts/research_selected_baseline.py"
+      ],
+      "expected": "PASS_RESEARCH_BASELINE_BINDINGS_ONLY",
+      "inspect": "Resolve the current selected review, separate complex/ordinary BIT/admitted BIT/outer budgets, and compare the card against live handoffs before starting. Historical ceilings require exact source/model equivalence.",
+      "scope": "Source-binding orientation only; not a scientific replay or all-size proof. Materialize selected inputs if this checkout is sparse."
+    },
+    "first_experiment": "Reproduce one specific mismatch or audit one canonical comparison for omitted proof-relevant fields.",
+    "bottleneck_link": "Portable exact checks prevent environment failures from blocking valid contributions.",
+    "allowed_variations": [
+      "One interpreter/version mismatch or one payload field comparison."
+    ],
+    "scope_change_triggers": [
+      "Removing immutable-source pins because generated compressed bytes differ."
+    ],
+    "overlap_terms": [
+      "gzip container",
+      "reproducibility",
+      "canonical payload"
+    ]
+  },
+  "scope_status": "changed",
+  "actual_scope": "Repair the two G12 custody defects named in discussion #1166 comment 19307764 (PR6321 contributor task A): the parent nine-tuple carries manifest identity as an ordered six-tuple while the consumer FileRecord requires a string-keyed dictionary, and two parent preflight finally blocks can replace the first error and skip later closes.",
+  "scope_change_reason": "The portable-replay card starts from the gzip-container comparison. The live handoff asks for this G12 source repair before any H25 cache measurement. The object is the frozen PR6321 parent and consumer, not the gzip container. No replay is timed and no environment image is changed.",
+  "bottleneck_link": "Side result on verifier custody, not a supplier. N22/P07 cannot compare a cache candidate with the original reference while the parent and consumer disagree on identity type or a close error can erase the first failure. Selected kappa and the five framework assumptions are unchanged. Complex remains the binding supplier.",
+  "budget_minutes": 60,
+  "stop_rule": "Stop after these two source repairs and their local checks. Do not execute the H25 parent, claim N22/P07 adoption, review the other 18 negative branches, or start the P02 bridge.",
+  "outcome": "partial",
+  "evidence": "verify.py checks predecessor SHA-256 and the PR6321 git blob ids, rejects the raw identity tuple in _file_record, accepts the converted dictionary, round-trips the named parent tuple, and shows the repaired finally keeps the primary while closing every descriptor. A miniature bare-finally control still replaces the primary and stops early. Both corrected modules import with the launch and handoff unselected.",
+  "author": "unpaidmoon",
+  "ai_assistance": "Cursor Grok wrote the repair and the verifier under unpaidmoon's session.",
+  "open_questions": [
+    {
+      "question": "Do the corrected parent and consumer satisfy the remaining G12 source checks for N22 and P07, including all 18 negative branches?",
+      "why_it_matters": "Task A withholds N22/P07 body credit until an independent review accepts the integrated scope. These two repairs do not award that credit.",
+      "first_step": "Review the actual parent-to-adapter-to-consumer path at the corrected files, including schema predicates, syscall races, allocation failure, ownership, aliases and cleanup outcomes.",
+      "blocked_by": "That review was not done. The historical absolute paths and one-use runtime admission are outside this package."
+    },
+    {
+      "question": "Can the accepted P02 v4 reference bridge be implemented without changing producer order or the rejected pure-side-only retention?",
+      "why_it_matters": "P02 is the other open lane of the same handoff and is independent of this G12 repair.",
+      "first_step": "Implement the four scoped pieces in DESIGN-v4.json from PR6321, retaining both writer chains before any output comparison.",
+      "blocked_by": "This package does not implement P02. The design review is not an implementation review."
+    }
+  ]
+}

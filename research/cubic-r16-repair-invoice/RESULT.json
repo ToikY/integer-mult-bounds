@@ -1,0 +1,41 @@
+{
+  "blind_gap_over_shear": "(3*q - 14*l)/l",
+  "blind_r4_unit_gap": "1",
+  "blind_threshold_q_over_l": "14/3",
+  "blind_unit_gap": "-11",
+  "checked_coefficients": [
+    "35/16",
+    "85/8",
+    "-205/16"
+  ],
+  "coefficients": {
+    "c0": "-205/16",
+    "c1": "35/16",
+    "c2": "85/8"
+  },
+  "endpoint_trials": 8,
+  "identity_arities": [
+    4,
+    8,
+    16,
+    32,
+    64
+  ],
+  "pinned_sentences_present": {
+    "research/cubic-pow2-repair/PROOF.md": true,
+    "research/cubic-pow2-repair/README.md": true,
+    "research/dyadic-cubic-repair/PROOF.md": true,
+    "research/dyadic-cubic-repair/sources/pr6200-PROOF.md": true
+  },
+  "r": 16,
+  "sigma": {
+    "1": 0,
+    "205/16": 5,
+    "35/16": 3,
+    "8": 1,
+    "85/8": 4
+  },
+  "status": "PASS_CUBIC_R16_REPAIR_INVOICE",
+  "weighted_gap": "3*q + 14*u - 14*l",
+  "weighted_unit_gap_when_u_equals_l_and_q_equals_l": "3"
+}

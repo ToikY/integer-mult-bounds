@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "status": "ready",
+  "python": "3.12",
+  "requirements": [],
+  "inputs": [
+    "research/typed-actual-width-physical-h/physical_h.py"
+  ],
+  "commands": [
+    {
+      "argv": [
+        "{python}",
+        "-B",
+        "{package}/verify.py"
+      ],
+      "timeout_seconds": 60,
+      "checks": "Two presentations of the ell=2 short-axis witness and both heights of the ell=2 long-axis layout match fresh one-shot tensors and ledgers on one seven-tape inventory; reset bills, the 624- and 1248-cell footprints, the one-shot second-call rejection and the unit-disk rejection all hold."
+    },
+    {
+      "argv": [
+        "{python}",
+        "-B",
+        "-O",
+        "{package}/verify.py"
+      ],
+      "timeout_seconds": 60,
+      "checks": "The same identities with assertions disabled, so the result does not depend on assert statements."
+    }
+  ]
+}

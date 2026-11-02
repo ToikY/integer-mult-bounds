@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "base_commit": "626e936ce4d61f2584316914fc71baf96940c512",
+  "files": [
+    {
+      "path": "certificates/selected-result.json",
+      "usage": "provenance",
+      "git_blob": "d59b5035e7b4cbaa9d688a1d32dd0d6eb79c466a",
+      "sha256": "9b8d0eea95b3bf0dfcb7938a732a6439b87a2685dec2a5ab9e525b3b34debbfa"
+    },
+    {
+      "path": "docs/research/agent-task-catalog.json",
+      "usage": "provenance",
+      "git_blob": "3404fbdd5e7529a0674eef26114b5071e4586cec",
+      "sha256": "ead6cdc9d0af6d58e8a49744d8ec8c7c15e13d2ba93c276c434bcf9b51b93a81"
+    },
+    {
+      "path": "research/cubic-pow2-repair/PROOF.md",
+      "usage": "input",
+      "git_blob": "eb613b0b3c723838caa46c9cebeb71c64b1fcf04",
+      "sha256": "55e59351c466bf30717c57f2d1c65748d7aa985d5fe900853a09474577889793"
+    },
+    {
+      "path": "research/cubic-pow2-repair/README.md",
+      "usage": "input",
+      "git_blob": "0c855e93f87c99322827b19f2291a2058503bc21",
+      "sha256": "9b337125f63dfd868e8874a177af567f942f64b8abb1871eb8d85f5eef74f3c4"
+    },
+    {
+      "path": "research/dyadic-cubic-repair/PROOF.md",
+      "usage": "input",
+      "git_blob": "a1c41a9afc83302f8b664bb45467821b9c088f0f",
+      "sha256": "1296f12278e198b6a22d8d88355cd58c1ee4fc2ab0e6941721614bb06cb1e7d5"
+    },
+    {
+      "path": "research/dyadic-cubic-repair/sources/pr6200-PROOF.md",
+      "usage": "input",
+      "git_blob": "7209cd0473dece9bb0e4fec2e7f20a5e56ad9ae2",
+      "sha256": "f0a5a46a034f51b18d30155cc7a8e64975b8d83e1067e5b10380edba10853b2d"
+    }
+  ]
+}

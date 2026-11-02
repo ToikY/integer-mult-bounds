@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "base_commit": "626e936ce4d61f2584316914fc71baf96940c512",
+  "files": [
+    {
+      "path": "certificates/selected-result.json",
+      "usage": "provenance",
+      "git_blob": "d59b5035e7b4cbaa9d688a1d32dd0d6eb79c466a",
+      "sha256": "9b8d0eea95b3bf0dfcb7938a732a6439b87a2685dec2a5ab9e525b3b34debbfa"
+    },
+    {
+      "path": "docs/research/agent-task-catalog.json",
+      "usage": "provenance",
+      "git_blob": "3404fbdd5e7529a0674eef26114b5071e4586cec",
+      "sha256": "ead6cdc9d0af6d58e8a49744d8ec8c7c15e13d2ba93c276c434bcf9b51b93a81"
+    },
+    {
+      "path": "research/h25-g12-identity-cleanup/predecessor/g12_reference_parent_v1.py.txt",
+      "usage": "input",
+      "git_blob": "80482f9a9af1f471bc567c52cc31e6dc8a39c26f",
+      "sha256": "160b8c5de808b9b31532608a89fa5e209110caea132145cd431ffade4403079e",
+      "pin": "head:09875e02fc3a045689f315ff8a842cb63598372b:research/h25-g12-identity-cleanup/predecessor/g12_reference_parent_v1.py.txt"
+    },
+    {
+      "path": "research/h25-g12-identity-cleanup/predecessor/g12_reference_cold_consumer_v1.py.txt",
+      "usage": "input",
+      "git_blob": "19cb9376c2d757e1deb354608a1351c39e4daae1",
+      "sha256": "89ad17cfa90e895e2cb105e80cc57c82be4bf1a4a85a9d44322016c4344e3849",
+      "pin": "head:09875e02fc3a045689f315ff8a842cb63598372b:research/h25-g12-identity-cleanup/predecessor/g12_reference_cold_consumer_v1.py.txt"
+    },
+    {
+      "path": "research/h25-g12-identity-cleanup/corrected/g12_reference_parent_v2.py",
+      "usage": "input",
+      "git_blob": "42795e5d3a224a35959df361493211ff0fbea9b1",
+      "sha256": "176f0ae0748e8f02a9a89b23e0d0fa684b6c6734ad0a68f705a802695046005e",
+      "pin": "head:abb76759d95a297f0b8fd9b394ad1d52fea29dc7:research/h25-g12-identity-cleanup/corrected/g12_reference_parent_v2.py"
+    },
+    {
+      "path": "research/h25-g12-identity-cleanup/corrected/g12_reference_cold_consumer_v2.py",
+      "usage": "input",
+      "git_blob": "a95f079b3c19edd66d26cd1085bfdfd954dd27cd",
+      "sha256": "dc8a0b62d4175ee447469b7e66798160b85777f44e34d34e98b08af83a9f5a6d",
+      "pin": "head:09875e02fc3a045689f315ff8a842cb63598372b:research/h25-g12-identity-cleanup/corrected/g12_reference_cold_consumer_v2.py"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "schema": "h25-w2-w4-selection-pin-v1",
+  "upstream_repository": "CrocSwap/integer-mult-bounds",
+  "upstream_pr": 6335,
+  "upstream_commit": "d34b84f1e1d9fb4bdcf26eda8817c3603fea3051",
+  "base_commit": "626e936ce4d61f2584316914fc71baf96940c512",
+  "files": [
+    {
+      "name": "identities.json",
+      "upstream_path": "research/h25-o03-source-repair-20261101/archive/integration/ACCEPTED-DRAFT-SOURCE-IDENTITIES-v1.json",
+      "bytes": 1678,
+      "sha256": "4665ede76e9238130f6fa9f1f66a24e267cd3501e684a4b8b6adbc67f8d3f73d"
+    },
+    {
+      "name": "next-dependencies.json",
+      "upstream_path": "research/h25-o03-source-repair-20261101/archive/integration/NEXT-DEPENDENCIES-v1.json",
+      "bytes": 2029,
+      "sha256": "bacc5e4c834f8b3373c6135c272d8eab07fff2d60650c54616ffe45bb972eb49"
+    },
+    {
+      "name": "bounded_serialization.py",
+      "upstream_path": "research/h25-o03-source-repair-20261101/archive/w2-failure/source-v1/bounded_serialization.py",
+      "bytes": 23844,
+      "sha256": "fdeeb791c6cb0c03a5ab15903d51c3eb4cc5ff2a945c50d7f550acfe11376f3d"
+    },
+    {
+      "name": "parent_readback_v3_DRAFT_v2.py",
+      "upstream_path": "research/h25-o03-source-repair-20261101/archive/w4-timing/v2/parent_readback_v3_DRAFT_v2.py",
+      "bytes": 29105,
+      "sha256": "6fc0577690c3865c1d67b4c288f860e5c81c8aebb3cffab18ab8a2269b12a572"
+    },
+    {
+      "name": "new_failure_controls.py",
+      "upstream_path": "research/h25-o03-source-repair-20261101/archive/w2-failure/source-v1/new_failure_controls.py",
+      "bytes": 15778,
+      "sha256": "742f1de31551d43c2665ad6166577c104a0acc746b3503cc60c5f11798c9a24d"
+    }
+  ],
+  "note": "Unchanged byte copies of the named PR6335 paths. That commit is not an ancestor of the package base. These copies are the audit inputs."
+}

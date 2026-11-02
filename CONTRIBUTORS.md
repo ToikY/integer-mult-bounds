@@ -5073,3 +5073,20 @@ Source archives retain attribution; mathematical review remains open.
 - **CubeJerry (@CubeJerry)** — [#6330](https://github.com/CrocSwap/integer-mult-bounds/pull/6330): Prove sharp asymmetric tensor-phase recovery (no new κ) (source archive).
 - **CubeJerry (@CubeJerry)** — [#6331](https://github.com/CrocSwap/integer-mult-bounds/pull/6331): Rule out role-specific phase deletion in the selected P104 word (no new κ) (source archive).
 - **Armin Pourshafeie (@apoursh)** — [#6333](https://github.com/CrocSwap/integer-mult-bounds/pull/6333): Mode-fiber rounding radius R ≤ 3/2 via a balancing lemma (no κ) (source archive).
+
+## Queue intake, 1 November 2026 (chunk A)
+
+Source archives retain attribution; mathematical review remains open.
+
+- **unpaidmoon (@unpaidmoon)** — [#6336](https://github.com/CrocSwap/integer-mult-bounds/pull/6336): Prove the sharp paid-moment floor for independent four-contact centre… (source archive).
+- **unpaidmoon (@unpaidmoon)** — [#6337](https://github.com/CrocSwap/integer-mult-bounds/pull/6337): Cursor/g20 moved correction frame 9d0c (source archive).
+- **unpaidmoon (@unpaidmoon)** — [#6338](https://github.com/CrocSwap/integer-mult-bounds/pull/6338): Prove idle helpers do not lower the span-(m+1) line bound (source archive).
+- **unpaidmoon (@unpaidmoon)** — [#6339](https://github.com/CrocSwap/integer-mult-bounds/pull/6339): Cursor/h25 g12 identity cleanup 5d9d (source archive).
+- **unpaidmoon (@unpaidmoon)** — [#6340](https://github.com/CrocSwap/integer-mult-bounds/pull/6340): Price the r=16 cubic repair against sixteen eager shears (no κ) (source archive).
+- **unpaidmoon (@unpaidmoon)** — [#6341](https://github.com/CrocSwap/integer-mult-bounds/pull/6341): Record that the #5718 boundary functionals differ and force cleanup o… (source archive).
+- **unpaidmoon (@unpaidmoon)** — [#6342](https://github.com/CrocSwap/integer-mult-bounds/pull/6342): Certify a 624-cell two-round stock for the ell=2 typed-H witness (source archive).
+- **unpaidmoon (@unpaidmoon)** — [#6343](https://github.com/CrocSwap/integer-mult-bounds/pull/6343): Record that the selected pricing rejects the PR5708 component as admi… (source archive).
+- **unpaidmoon (@unpaidmoon)** — [#6344](https://github.com/CrocSwap/integer-mult-bounds/pull/6344): Record that the PR6335 W2/W4 identities do not close N1. (source archive).
+- **DreamingOfClouds (@DreamingOfClouds)** — [#6345](https://github.com/CrocSwap/integer-mult-bounds/pull/6345): No new κ: a price-null fibre of PR6167's word (per-rank helper−paid invariant) (source archive).
+- **Ali Romman (@aliromman)** — [#6348](https://github.com/CrocSwap/integer-mult-bounds/pull/6348): Conditional κ = 0.00314933 (+0.661%): replace the path caller with a binary query tree (source archive).
+- **Ali Romman (@aliromman)** — [#6349](https://github.com/CrocSwap/integer-mult-bounds/pull/6349): Lift four P104 helper inputs: conditional κ 0.003129111 (source archive).

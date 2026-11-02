@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "status": "ready",
+  "python": "3.12",
+  "requirements": [],
+  "inputs": [
+    "research/p104-retained-operand-descent/WORD.json.gz",
+    "research/p104-retained-operand-descent/pricing.py",
+    "research/p104-retained-operand-descent/sources.py",
+    "research/p104-retained-operand-descent/SOURCES.json",
+    "research/p104-retained-operand-descent/RESULT.json",
+    "research/p104-retained-operand-descent/inputs/pr5827-source.tar"
+  ],
+  "commands": [
+    {
+      "argv": [
+        "{python}",
+        "-I",
+        "-O",
+        "-B",
+        "{package}/test_portability.py"
+      ],
+      "timeout_seconds": 30,
+      "checks": "Accept changed gzip headers and compression for the generated payload. Reject changed payloads, type substitutions and corrupt containers."
+    },
+    {
+      "argv": [
+        "{python}",
+        "-I",
+        "-B",
+        "{package}/verify.py"
+      ],
+      "timeout_seconds": 500,
+      "checks": "Authenticate the PR6167 word, price and checker chain by pin; check that only initial frames, final frames and events differ, classify every changed register, then replay the word through the unmodified chain: same net invoice per rank, same raw crossing, 799 endpoint columns. No new kappa is claimed."
+    }
+  ]
+}
