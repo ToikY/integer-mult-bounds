@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "status": "ready",
+  "python": "3.12",
+  "requirements": [],
+  "inputs": [],
+  "commands": [
+    {
+      "argv": [
+        "{python}",
+        "-I",
+        "-W",
+        "error",
+        "-B",
+        "{package}/verify_profiles.py"
+      ],
+      "timeout_seconds": 120,
+      "checks": "independent complete literal profile and caller extraction normal"
+    },
+    {
+      "argv": [
+        "{python}",
+        "-I",
+        "-W",
+        "error",
+        "-B",
+        "-O",
+        "{package}/verify_profiles.py"
+      ],
+      "timeout_seconds": 120,
+      "checks": "independent complete literal profile and caller extraction optimized"
+    },
+    {
+      "argv": [
+        "{python}",
+        "-I",
+        "-W",
+        "error",
+        "-B",
+        "{package}/oracle_profiles.py"
+      ],
+      "timeout_seconds": 120,
+      "checks": "independent elimination/profile oracle and caller topology formula normal"
+    },
+    {
+      "argv": [
+        "{python}",
+        "-I",
+        "-W",
+        "error",
+        "-B",
+        "-O",
+        "{package}/oracle_profiles.py"
+      ],
+      "timeout_seconds": 120,
+      "checks": "independent elimination/profile oracle and caller topology formula optimized"
+    }
+  ]
+}
