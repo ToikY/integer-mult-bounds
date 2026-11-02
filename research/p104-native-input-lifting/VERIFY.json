@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "status": "ready",
+  "python": "3.12",
+  "requirements": [],
+  "inputs": [
+    "research/p104-frontier-compression-2/WORD.json.gz",
+    "research/p104-retained-operand-descent/SOURCES.json",
+    "research/p104-retained-operand-descent/inputs/pr5827-source.tar",
+    "research/p104-retained-operand-descent/pricing.py",
+    "research/p104-retained-operand-descent/sources.py"
+  ],
+  "commands": [
+    {
+      "argv": [
+        "{python}",
+        "-W",
+        "error",
+        "-B",
+        "{package}/verify.py"
+      ],
+      "timeout_seconds": 600,
+      "checks": "Exact regeneration and helper bases; all 799 columns; ownership; every native map and phase; full caller; two interval engines; complete costs; compiler; 58 outer predicates; semantic and source controls."
+    },
+    {
+      "argv": [
+        "{python}",
+        "-O",
+        "-W",
+        "error",
+        "-B",
+        "{package}/verify.py"
+      ],
+      "timeout_seconds": 600,
+      "checks": "Repeat the full check with Python assertions disabled."
+    }
+  ]
+}
