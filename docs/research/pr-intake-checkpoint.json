@@ -1821,22 +1821,22 @@
     "all_jobs_finished": true
   },
   "latest_delta_intake": {
-    "date": "2026-10-31",
+    "date": "2026-11-01",
     "status": "published; zero actionable at ending snapshot",
-    "new_heads_reviewed": 9,
-    "archives_merged": 9,
+    "new_heads_reviewed": 12,
+    "archives_merged": 12,
     "reviewed_tooling_merged": 0,
     "new_revision_holds": [],
     "evidence": [
-      "docs/research/pr-intake-evidence/queue-oct31b-20261031.json"
+      "docs/research/pr-intake-evidence/queue-nov01a-20261101.json"
     ],
     "closures": [
-      "docs/research/pr-intake-evidence/queue-oct31b-closures.json"
+      "docs/research/pr-intake-evidence/queue-nov01a-closures.json"
     ],
-    "snapshot": "docs/research/pr-intake-evidence/queue-oct31b-ending.json",
+    "snapshot": "docs/research/pr-intake-evidence/queue-nov01a-ending.json",
     "selected_kappa": "0.003125804",
     "selected_frontier_changed": false,
     "live_jobs": [],
-    "next": "Use delta-only intake. Nine isolated research packages retained as partially reviewed; no scientific replays. PR6322 is a historical local handoff improvement, PR6323 a relay-premise audit, PR6331 a fixed-coefficient phase-deletion obstruction, not a refutation of the phase-preserving selected implementation. Do not repeat unchanged holds/deferred replays."
+    "next": "Routine actionable intake is empty. All 12 contributions remain partially reviewed research archives. Dedicated scientific work: PR6348 binary query-tree caller and changed completion/outer parameters; PR6349 native helper input lifting and target debit; both depend on unadmitted PR6167 successor lineage. Do not combine their claimed gains without a new complete construction. PR6343 integration fixes one reversed inequality in prose; original author commit retained. Resume delta-only intake; do not repeat unchanged holds or deferred replays."
   }
 }

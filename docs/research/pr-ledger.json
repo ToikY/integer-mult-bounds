@@ -123,7 +123,7 @@
     "research/community-efficient2400-audit/DISPOSITIONS.json": "2602f88f4a333ade0b654645a3126fcde85f16c41f25f36a397f8c760f8acf4c",
     "research/community-efficient2500-audit/DISPOSITIONS.json": "23d12152b20bd788c5fb1e1935543185dc3772634cf26efbfad88f6d78ed6e15",
     "research/community-efficient2600-audit/DISPOSITIONS.json": "d7816f0e79c421d750d691cb1edfc4646accae0a47dc817fb32409745795765c",
-    "docs/research/pr-intake-decisions.json": "20071ab36c47ef4c571b56098c45c106531030684f7b9632d6dcef677e8573c8",
+    "docs/research/pr-intake-decisions.json": "c3e06bb20616abb639e7a459f7da797a025549a8f3ec1f4919aa16d3c190132c",
     "research/community-batch970-audit/COMPANION-REVIEWS.json": "6510eb71b37cd3c0842999011ff84408c58493b7c8451a24082f526c6c18e7ec",
     "research/community-efficient300-audit/PARENT-EVIDENCE.json": "8d9e28ec3ece26b91ef5a297092697c341652853164477a4961c992151cec353",
     "research/pr116-evidence-reconciliation/PARENT-EVIDENCE.json": "62a666dac3e67ba8d388820c92e0cd4495657a20b6eae280a5367af8e89d769c",
@@ -300942,8 +300942,12 @@
       "integration_location": [
         "research/independent-centre-quad-trees"
       ],
-      "github_state": "OPEN",
-      "closure": null,
+      "github_state": "MERGED",
+      "closure": {
+        "kind": "merged_for_archive_only",
+        "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/6336",
+        "merge_commit": "8a7f845a01b1c48c8455019074bf05333325d843"
+      },
       "reviewed_head": "605035a6424e53d4236c2699e7aca5fa84d6c24f",
       "disposition": "partially_reviewed",
       "unresolved_question": "Archive retention only. Independent proof/replay of the sharp four-contact path/claw moment floor remains open; the 62 four-cycles are counted but unpriced. No universal chart obstruction.",
@@ -300951,7 +300955,7 @@
         "changed_file_coverage": true,
         "scoped_mechanism_review": false,
         "required_execution_complete": false,
-        "published": false
+        "published": true
       },
       "verification_evidence": [
         "docs/research/pr-intake-evidence/queue-nov01a-20261101.json"
@@ -300988,8 +300992,12 @@
       "integration_location": [
         "research/g20-moved-correction-frame"
       ],
-      "github_state": "OPEN",
-      "closure": null,
+      "github_state": "MERGED",
+      "closure": {
+        "kind": "merged_for_archive_only",
+        "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/6337",
+        "merge_commit": "8a7f845a01b1c48c8455019074bf05333325d843"
+      },
       "reviewed_head": "3b58db981b87f090f2a63886edf78bf641b049ae",
       "disposition": "partially_reviewed",
       "unresolved_question": "Archive retention only. Independent replay of the finite length-1..3 single-moved-correction domain remains open; multi-correction and larger domains are excluded from the negative claim.",
@@ -300997,7 +301005,7 @@
         "changed_file_coverage": true,
         "scoped_mechanism_review": false,
         "required_execution_complete": false,
-        "published": false
+        "published": true
       },
       "verification_evidence": [
         "docs/research/pr-intake-evidence/queue-nov01a-20261101.json"
@@ -301034,8 +301042,12 @@
       "integration_location": [
         "research/span-lemma-idle-helpers"
       ],
-      "github_state": "OPEN",
-      "closure": null,
+      "github_state": "MERGED",
+      "closure": {
+        "kind": "merged_for_archive_only",
+        "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/6338",
+        "merge_commit": "8a7f845a01b1c48c8455019074bf05333325d843"
+      },
       "reviewed_head": "3351f1b59db9c094877227bad16ccd4597bbc8c1",
       "disposition": "partially_reviewed",
       "unresolved_question": "Archive retention only. Independent proof review of the scalar-idempotent line bound remains open; |K|=2, higher span and physical supplier admission remain excluded.",
@@ -301043,7 +301055,7 @@
         "changed_file_coverage": true,
         "scoped_mechanism_review": false,
         "required_execution_complete": false,
-        "published": false
+        "published": true
       },
       "verification_evidence": [
         "docs/research/pr-intake-evidence/queue-nov01a-20261101.json"
@@ -301080,8 +301092,12 @@
       "integration_location": [
         "research/h25-g12-identity-cleanup"
       ],
-      "github_state": "OPEN",
-      "closure": null,
+      "github_state": "MERGED",
+      "closure": {
+        "kind": "merged_for_archive_only",
+        "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/6339",
+        "merge_commit": "8a7f845a01b1c48c8455019074bf05333325d843"
+      },
       "reviewed_head": "608ad23adc6c01264c8195daf7f18e29c17464a7",
       "disposition": "partially_reviewed",
       "unresolved_question": "Archive retention only. Isolated successor repairs two G12 defects only. The remaining 18 branches, real adapter path, N22/P07 body credit and P02 implementation remain open; no production runtime is installed.",
@@ -301089,7 +301105,7 @@
         "changed_file_coverage": true,
         "scoped_mechanism_review": false,
         "required_execution_complete": false,
-        "published": false
+        "published": true
       },
       "verification_evidence": [
         "docs/research/pr-intake-evidence/queue-nov01a-20261101.json"
@@ -301126,8 +301142,12 @@
       "integration_location": [
         "research/cubic-r16-repair-invoice"
       ],
-      "github_state": "OPEN",
-      "closure": null,
+      "github_state": "MERGED",
+      "closure": {
+        "kind": "merged_for_archive_only",
+        "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/6340",
+        "merge_commit": "8a7f845a01b1c48c8455019074bf05333325d843"
+      },
       "reviewed_head": "3d7bbbcc469d66ce23bc8a12f528aae3f5c5089e",
       "disposition": "partially_reviewed",
       "unresolved_question": "Archive retention only. Independent symbolic invoice review remains open; the r=16 comparison depends on an unspecified backend price law and establishes no runtime win.",
@@ -301135,7 +301155,7 @@
         "changed_file_coverage": true,
         "scoped_mechanism_review": false,
         "required_execution_complete": false,
-        "published": false
+        "published": true
       },
       "verification_evidence": [
         "docs/research/pr-intake-evidence/queue-nov01a-20261101.json"
@@ -301172,8 +301192,12 @@
       "integration_location": [
         "research/p104-boundary-functional-review"
       ],
-      "github_state": "OPEN",
-      "closure": null,
+      "github_state": "MERGED",
+      "closure": {
+        "kind": "merged_for_archive_only",
+        "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/6341",
+        "merge_commit": "8a7f845a01b1c48c8455019074bf05333325d843"
+      },
       "reviewed_head": "4ede2382e0bad5dc5932443451b9bcef569ed2ea",
       "disposition": "partially_reviewed",
       "unresolved_question": "Archive retention only. Independent source-bound replay of differing boundary functionals and ordered cleanup remains open. This audits PR5718, not the selected word or a new invoice.",
@@ -301181,7 +301205,7 @@
         "changed_file_coverage": true,
         "scoped_mechanism_review": false,
         "required_execution_complete": false,
-        "published": false
+        "published": true
       },
       "verification_evidence": [
         "docs/research/pr-intake-evidence/queue-nov01a-20261101.json"
@@ -301218,8 +301242,12 @@
       "integration_location": [
         "research/two-round-cube-stock"
       ],
-      "github_state": "OPEN",
-      "closure": null,
+      "github_state": "MERGED",
+      "closure": {
+        "kind": "merged_for_archive_only",
+        "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/6342",
+        "merge_commit": "8a7f845a01b1c48c8455019074bf05333325d843"
+      },
       "reviewed_head": "f744101c871914c767982484f06bf49cd5ef5d82",
       "disposition": "partially_reviewed",
       "unresolved_question": "Archive retention only. Independent stock/layout replay remains open. The 624-cell witness has only one height, outputs are not simultaneously live, and variable-length rounds/PR3617 diagonal are not admitted.",
@@ -301227,7 +301255,7 @@
         "changed_file_coverage": true,
         "scoped_mechanism_review": false,
         "required_execution_complete": false,
-        "published": false
+        "published": true
       },
       "verification_evidence": [
         "docs/research/pr-intake-evidence/queue-nov01a-20261101.json"
@@ -301264,8 +301292,12 @@
       "integration_location": [
         "research/g20-component-stock-gate"
       ],
-      "github_state": "OPEN",
-      "closure": null,
+      "github_state": "MERGED",
+      "closure": {
+        "kind": "merged_for_archive_only",
+        "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/6343",
+        "merge_commit": "8a7f845a01b1c48c8455019074bf05333325d843"
+      },
       "reviewed_head": "79ca0621851cc6dcf7705b097d11d816a3e1df41",
       "disposition": "partially_reviewed",
       "unresolved_question": "Archive retention only. Independent source-bound stock-gate/ledger replay remains open. Reviewed README correction changes only the final question from below to above: complex uniform < retained admitted BIT < proposed component. No BIT admission or kappa gain.",
@@ -301273,7 +301305,7 @@
         "changed_file_coverage": true,
         "scoped_mechanism_review": false,
         "required_execution_complete": false,
-        "published": false
+        "published": true
       },
       "verification_evidence": [
         "docs/research/pr-intake-evidence/queue-nov01a-20261101.json"
@@ -301310,8 +301342,12 @@
       "integration_location": [
         "research/h25-w2-w4-selection-gap"
       ],
-      "github_state": "OPEN",
-      "closure": null,
+      "github_state": "MERGED",
+      "closure": {
+        "kind": "merged_for_archive_only",
+        "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/6344",
+        "merge_commit": "8a7f845a01b1c48c8455019074bf05333325d843"
+      },
       "reviewed_head": "5778b35a4ca2453e4955e8203a1a3b1cfeb5935b",
       "disposition": "partially_reviewed",
       "unresolved_question": "Archive retention only. Five original PR6335 blobs authenticated against retained copies. N1/N2 remain open; F05 selection, decimal runtime closure and trusted receipt producers are not supplied. No runtime execution or seal is admitted.",
@@ -301319,7 +301355,7 @@
         "changed_file_coverage": true,
         "scoped_mechanism_review": false,
         "required_execution_complete": false,
-        "published": false
+        "published": true
       },
       "verification_evidence": [
         "docs/research/pr-intake-evidence/queue-nov01a-20261101.json"
@@ -301356,8 +301392,12 @@
       "integration_location": [
         "research/p104-frontier-symmetric-ladders"
       ],
-      "github_state": "OPEN",
-      "closure": null,
+      "github_state": "MERGED",
+      "closure": {
+        "kind": "merged_for_archive_only",
+        "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/6345",
+        "merge_commit": "8a7f845a01b1c48c8455019074bf05333325d843"
+      },
       "reviewed_head": "776bd2ecf9cb18a88a0db27e43a2e876856e9fd9",
       "disposition": "partially_reviewed",
       "unresolved_question": "Archive retention only. Independent word/replay and price-null classification review remain open. The claimed equal-price family is neither an exhaustive classification nor a symmetric word or new kappa.",
@@ -301365,7 +301405,7 @@
         "changed_file_coverage": true,
         "scoped_mechanism_review": false,
         "required_execution_complete": false,
-        "published": false
+        "published": true
       },
       "verification_evidence": [
         "docs/research/pr-intake-evidence/queue-nov01a-20261101.json"
@@ -301402,8 +301442,12 @@
       "integration_location": [
         "research/balanced-query-tree"
       ],
-      "github_state": "OPEN",
-      "closure": null,
+      "github_state": "MERGED",
+      "closure": {
+        "kind": "merged_for_archive_only",
+        "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/6348",
+        "merge_commit": "8a7f845a01b1c48c8455019074bf05333325d843"
+      },
       "reviewed_head": "9894015d6f380206f990ad5fd14bc49bbd26b0d0",
       "disposition": "partially_reviewed",
       "unresolved_question": "Archive retention only. Independent scientific admission remains open: authenticate/admit PR6167 source lineage, verify the four-field extension and 34-field caller, all fresh-stage phase/ownership contracts, complete idle/query invoice and changed completion/compiler/outer parameters. Author claim 0.00314933 is not selected; no composition with PR6349 admitted.",
@@ -301411,7 +301455,7 @@
         "changed_file_coverage": true,
         "scoped_mechanism_review": false,
         "required_execution_complete": false,
-        "published": false
+        "published": true
       },
       "verification_evidence": [
         "docs/research/pr-intake-evidence/queue-nov01a-20261101.json"
@@ -301448,8 +301492,12 @@
       "integration_location": [
         "research/p104-native-input-lifting"
       ],
-      "github_state": "OPEN",
-      "closure": null,
+      "github_state": "MERGED",
+      "closure": {
+        "kind": "merged_for_archive_only",
+        "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/6349",
+        "merge_commit": "8a7f845a01b1c48c8455019074bf05333325d843"
+      },
       "reviewed_head": "af7cb6c67f8fc7d82a2e4aee2dd2f07481bf6690",
       "disposition": "partially_reviewed",
       "unresolved_question": "Archive retention only. Independent scientific admission remains open: authenticate/admit PR6314/PR6167 lineage, audit four changed helper input frames, all basis deliveries/restorations, native normalizers and complete productive-target debit, then caller/compiler/outer obligations. Author claim 0.003129111 is not selected; no composition with PR6348 admitted.",
@@ -301457,7 +301505,7 @@
         "changed_file_coverage": true,
         "scoped_mechanism_review": false,
         "required_execution_complete": false,
-        "published": false
+        "published": true
       },
       "verification_evidence": [
         "docs/research/pr-intake-evidence/queue-nov01a-20261101.json"
@@ -301477,7 +301525,7 @@
   ],
   "github_dispositions": {
     "CLOSED": 384,
-    "MERGED": 4893,
-    "OPEN": 308
+    "MERGED": 4905,
+    "OPEN": 296
   }
 }
