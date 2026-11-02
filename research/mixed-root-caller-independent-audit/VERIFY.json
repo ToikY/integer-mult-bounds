@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "status": "ready",
+  "python": "3.12",
+  "requirements": [],
+  "inputs": [],
+  "commands": [
+    {
+      "argv": [
+        "{python}",
+        "-I",
+        "-W",
+        "error",
+        "-B",
+        "{package}/verify_local.py"
+      ],
+      "timeout_seconds": 90,
+      "checks": "Independent rational realblock normalization and literal binding normal"
+    },
+    {
+      "argv": [
+        "{python}",
+        "-I",
+        "-W",
+        "error",
+        "-B",
+        "-O",
+        "{package}/verify_local.py"
+      ],
+      "timeout_seconds": 90,
+      "checks": "Independent rational realblock normalization and literal binding optimized"
+    },
+    {
+      "argv": [
+        "{python}",
+        "-I",
+        "-W",
+        "error",
+        "-B",
+        "{package}/oracle_local.py"
+      ],
+      "timeout_seconds": 90,
+      "checks": "Separate Gaussianquotient normalization and literal binding normal"
+    },
+    {
+      "argv": [
+        "{python}",
+        "-I",
+        "-W",
+        "error",
+        "-B",
+        "-O",
+        "{package}/oracle_local.py"
+      ],
+      "timeout_seconds": 90,
+      "checks": "Separate Gaussianquotient normalization and literal binding optimized"
+    }
+  ]
+}
