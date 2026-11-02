@@ -1,0 +1,123 @@
+{
+  "schema_version": 1,
+  "task_id": "joint-query-controller",
+  "priority_revision": 8,
+  "base_commit": "626e936ce4d61f2584316914fc71baf96940c512",
+  "original_card": {
+    "id": "joint-query-controller",
+    "question": "Can a changed query demand or caller remove real work while satisfying native chronology and restoration?",
+    "starting_points": [
+      "docs/research/current-priorities.md",
+      "docs/research/research-family-status.md",
+      "certificates/selected-result.json",
+      "docs/research/pr-intake-evidence/pr5599-completion/PROOF-REVIEW.md"
+    ],
+    "methods": [
+      "Construct and independently check one source-bound instance of the stated first experiment.",
+      "Seek an exact counterexample or target-specific complete-budget obstruction to that same proposed change."
+    ],
+    "acceptance_gate": "A source-bound arbitrary-input identity and legal producer/consumer boundary with the complete paid and productive target invoice, including restoration, ownership, native alignment and extra charges. Price under the actual current model; historical ceiling.py assumptions must be established before use. A favorable optimistic relaxation keeps a route open but is not a completed supplier. A scoped local result remains useful; expansion requires the family-level budget gate.",
+    "first_step": {
+      "command": [
+        "python3",
+        "-B",
+        "scripts/research_selected_baseline.py"
+      ],
+      "expected": "PASS_RESEARCH_BASELINE_BINDINGS_ONLY",
+      "inspect": "Read revision 8, the selected review and live exact-source handoffs. Then follow this card's bounded first_experiment.",
+      "scope": "Source-bound orientation only, not a supplier replay or theorem proof."
+    },
+    "first_experiment": "Choose an exact caller and a new demand/interface hypothesis. Read the scoped #5617/#5631/#5649/#5747 and #5720/#5745 objections before rebuilding an excluded schedule. Compare the complete matched source/consumer protocols including all retained helper outputs. For an active-mode injection, first check #5745: its canonical delivery claim repays the eight removed centre jobs. Audit that exact claim or change its channel/feedback hypothesis; do not repeat the same free-injection search. Stop if the full favorable budget fails or the required restored output is unobservable.",
+    "bottleneck_link": "Judge the actual current supplier contract and complete signed target/paid bill; frozen-profile ceilings require an applicability proof.",
+    "allowed_variations": [
+      "One exact source head, helper/cut region or quantified proposition and changed hypothesis; check live handoffs first. Different seeds are not different scopes."
+    ],
+    "scope_change_triggers": [
+      "Changing source head, helper/cut domain, operation alphabet or caller boundary without recording the new scope.",
+      "Treating an archived proposal or local numerical pass as complete supplier admission."
+    ],
+    "overlap_terms": [
+      "query demand",
+      "active mode",
+      "5720",
+      "5745",
+      "5747",
+      "caller"
+    ],
+    "existing_checks": [
+      {
+        "scope": "PR #4166: author-checked installed producer/service/return/bridge connection; native-component comparison loses.",
+        "evidence": "research/qq16-caller-install/README.md",
+        "remaining": "Complete matched physical protocol bill, or changed source-compatible demand/circuit; no affordable supplier yet.",
+        "status": "author-checked",
+        "source_commit": "0b082d22a0e9a442d264ab0633e35ef26c790630",
+        "selected_record_sha256": "bb2eaa58647b353f88d0aec2eafb9d30df1be53589231b23e12ceef3e4bad129"
+      },
+      {
+        "scope": "Selected PR5599: complete helper-subspace construction and independent caller replay; five framework assumptions remain.",
+        "evidence": "docs/research/pr-intake-evidence/pr5599-completion/PROOF-REVIEW.md",
+        "remaining": "The next experiment must identify uncovered source-specific work. Successor archive intake does not transfer this admission.",
+        "status": "reviewed",
+        "source_commit": "09dd0965711ca7eeb169057a420abab1c9052137",
+        "selected_record_sha256": "2a0220e866417774606e0f991e41b9c1d26b1f43b97857238cf478dbc7d330b5"
+      }
+    ]
+  },
+  "scope_status": "refined",
+  "actual_scope": "Replace the paired path by a binary tree of four-field query extensions on the unchanged PR6167 P104 supplier.",
+  "scope_change_reason": "The card permits a changed caller. The tested object is one emitted 19-native-call tree with all paid idle work and independent helper inputs.",
+  "bottleneck_link": "The new tree reduces the complete idle/target cost at the current local profile. No native word or selected frontier is changed.",
+  "budget_minutes": null,
+  "stop_rule": "Require exact arbitrary-input Laurent identities, native phase binding, the complete invoice, two exact price checks and compiler/outer verification before a kappa claim.",
+  "outcome": "completed",
+  "evidence": "controller.py, module_check.py, physical.py, pricing.py, CONTROLLER.json and RESULT.json.",
+  "author": "Ali Romman",
+  "ai_assistance": "Substantial OpenAI Codex assistance. No subagents. All retained source notices remain in their authenticated files.",
+  "open_questions": [
+    {
+      "question": "Does independent scientific review confirm the recursive query extension and complete conditional claim?",
+      "why_it_matters": "Author checks and CI do not establish independent acceptance.",
+      "first_step": "Check the four-field identity, its paid complement and the full emitted Laurent word.",
+      "blocked_by": "Independent review and the five inherited framework assumptions remain open."
+    },
+    {
+      "question": "Can a different query-extension interface give a larger complete gain?",
+      "why_it_matters": "The present tree gives a modest gain and is not a global optimum.",
+      "first_step": "Specify its independent inputs, complete operator and paid idle work before pricing it.",
+      "blocked_by": "No larger construction is established by this package."
+    }
+  ],
+  "coordination": {
+    "canonical_discussion": "https://github.com/CrocSwap/integer-mult-bounds/discussions/5593#discussioncomment-19340371",
+    "source_pr": 6167,
+    "source_commit": "564a076b113621a93edc4e39968ee4e4a8c9caf0",
+    "overlap_checked_at": "2026-11-02T01:11:29Z",
+    "open_prs": 326,
+    "discussion_records": 6158,
+    "remote_pagination": "complete",
+    "coverage_limit": "Sparse local notes, arbitrary PR diffs and unpublished work are not fully covered.",
+    "excluded_scopes": [
+      "Discussion5600 changed local scalar paths and boundary repair",
+      "Discussion5645 owned-carrier retained operands"
+    ],
+    "freshness": {
+      "canonical_main": "626e936ce4d61f2584316914fc71baf96940c512",
+      "checked_at": "2026-11-02T00:53:00Z",
+      "changed": false
+    },
+    "larger_proposals_read": [
+      {
+        "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/4929",
+        "scope": "The center-free coded producer changes the interface. Its planning price does not admit the negative coded output banks."
+      },
+      {
+        "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/4933",
+        "scope": "The common-query coded caller keeps explicit terminal decoding and compiler obligations."
+      },
+      {
+        "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/5270",
+        "scope": "The larger p19 proposal does not supply the complete physical chain-to-native binding used here."
+      }
+    ]
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "schema_version": 1,
+  "base_commit": "626e936ce4d61f2584316914fc71baf96940c512",
+  "files": [
+    {
+      "path": "research/p104-retained-operand-descent/NOTICE",
+      "usage": "input",
+      "git_blob": "e0b590250b3d086bc238d780b2a7b49b6a0e8ab6",
+      "sha256": "01843a173be15554a728766e656dbc1f9174e3a08679cc56d5b6ee71093206d7"
+    },
+    {
+      "path": "research/p104-retained-operand-descent/PRICING-EDITS.json",
+      "usage": "input",
+      "git_blob": "8b3cf4891f59630e62ee49e437c1594fcda8c1af",
+      "sha256": "3b97e0f583431d9ad6aea84b0eecd954ecf2c8644912a6527b274d751b51bf0e"
+    },
+    {
+      "path": "research/p104-retained-operand-descent/PROOF.md",
+      "usage": "input",
+      "git_blob": "71d6a77e7c9ea81097a0d11744c1bbc33a8188db",
+      "sha256": "941145209301df79d2b1a1c91dc6133435952c8d94e79b825ed19eee5988ceef"
+    },
+    {
+      "path": "research/p104-retained-operand-descent/README.md",
+      "usage": "input",
+      "git_blob": "cbe390b9e7167b7aac019f52ed2c0c0707f8e7cc",
+      "sha256": "42704b4bf59b6f83ddc3a37c1e26d4c13d7e5f5da64fd6c1874e2391e6b7c4ff"
+    },
+    {
+      "path": "research/p104-retained-operand-descent/RESULT.json",
+      "usage": "input",
+      "git_blob": "9d78529c1ac43faef6b3dff6e4b1262d89a86b40",
+      "sha256": "cffec38f3a5ab0bf5ee1bcd15b2e7bf8bcfd711b57ee57de8ec0fea0c5a823df"
+    },
+    {
+      "path": "research/p104-retained-operand-descent/SOURCES.json",
+      "usage": "input",
+      "git_blob": "0c574b6026a7239aac7365c433d3760928748edb",
+      "sha256": "7c7b6fac64005eb8932283a902069d672d98c52bda2b63cc7eaa4a2cac13ce8f"
+    },
+    {
+      "path": "research/p104-retained-operand-descent/TASK.json",
+      "usage": "input",
+      "git_blob": "a2b53f5128b178e49946b2eef6695d5403bbd0b4",
+      "sha256": "ed84ad5418caa6246fa10242826b01d695490eee5e7dea8329ec5c545973a748"
+    },
+    {
+      "path": "research/p104-retained-operand-descent/VALIDATION.md",
+      "usage": "input",
+      "git_blob": "66c3f4c00c9de29af142bf5ec2aa3cf19495c14f",
+      "sha256": "bd377c3c1a119b1e6d15d4cb630c2765c9dada7b5010ad8c32c30fbd77dd0bab"
+    },
+    {
+      "path": "research/p104-retained-operand-descent/VERIFY.json",
+      "usage": "input",
+      "git_blob": "cc7c8311638bd8bd8e7d5b448a0aad3f92c8b447",
+      "sha256": "7e49ee368b00f21d52d986454273dd6b6ad06d4a998bb3c90aa4abb6a08f77cd"
+    },
+    {
+      "path": "research/p104-retained-operand-descent/WORD.json.gz",
+      "usage": "input",
+      "git_blob": "f2d3f98964f939e5ca652f9b1453a0604f15f829",
+      "sha256": "68d1ff048bc6d30d85ceaeb38e2557adab87b20a9c67cf73948f95f54104575f"
+    },
+    {
+      "path": "research/p104-retained-operand-descent/construct.py",
+      "usage": "input",
+      "git_blob": "595a1937465f3a77a4709f3419641846b9e1c726",
+      "sha256": "ca1a2bde4dc171b17f7d6f26e8d0d63a12a67f3a8e40fa6ddb98a6069c5d4a6e"
+    },
+    {
+      "path": "research/p104-retained-operand-descent/inputs/pr5827-source.tar",
+      "usage": "input",
+      "git_blob": "1e10936044959f81a4c5fcd5bdb7b9e4c060ec8e",
+      "sha256": "7af5908a4d83e83e28f59523fd7494841f669b7295311cfdbc3027fa65c5826d"
+    },
+    {
+      "path": "research/p104-retained-operand-descent/inputs/pr6144-WORD.json.gz",
+      "usage": "input",
+      "git_blob": "69b70ee50c697b185ebf585fbe69f2487af32d1d",
+      "sha256": "c71985d96bf3d4a35aae111aaba87e376f7367efb4a5686278ef293732757533"
+    },
+    {
+      "path": "research/p104-retained-operand-descent/inputs/pr6144-pricing.py",
+      "usage": "input",
+      "git_blob": "4fc2aaa55f4db587020cc8ae51edaffe1d95c770",
+      "sha256": "038c713b602adf3516260278ad4c79736b6b0548013e68b0bea2d1eb99a451f3"
+    },
+    {
+      "path": "research/p104-retained-operand-descent/pricing.py",
+      "usage": "input",
+      "git_blob": "cd8220ca7a393f03341f08a93b9d1287f0bb3689",
+      "sha256": "bba1611b05b6cc35279aa1667dcc62ce0e7f27f0ba21f20eb68244fa772e0ae7"
+    },
+    {
+      "path": "research/p104-retained-operand-descent/sources.py",
+      "usage": "input",
+      "git_blob": "bef6542243a082755a881dff42097434e6370609",
+      "sha256": "a62fefda1709614157ba440d38c164c366a8b3322ab8f866b6b4bd47b9d83dbc"
+    },
+    {
+      "path": "research/p104-retained-operand-descent/test_portability.py",
+      "usage": "input",
+      "git_blob": "8739c2e0cf9c559123a337a806b2fb08cedd77b7",
+      "sha256": "be5c9d246c40d47cc0529b6e6a4ecb9be56d54c6198b214aafce5c5413f39b5a"
+    },
+    {
+      "path": "research/p104-retained-operand-descent/verify.py",
+      "usage": "input",
+      "git_blob": "6003206a2183254be317396c542163d985b95894",
+      "sha256": "32f5df554911225eae44d73a6b0765b83038e7b70be5628f2dc5b4c579acd0a2"
+    },
+    {
+      "path": "docs/research/agent-task-catalog.json",
+      "usage": "provenance",
+      "git_blob": "3404fbdd5e7529a0674eef26114b5071e4586cec",
+      "sha256": "ead6cdc9d0af6d58e8a49744d8ec8c7c15e13d2ba93c276c434bcf9b51b93a81"
+    },
+    {
+      "path": "certificates/selected-result.json",
+      "usage": "provenance",
+      "git_blob": "d59b5035e7b4cbaa9d688a1d32dd0d6eb79c466a",
+      "sha256": "9b8d0eea95b3bf0dfcb7938a732a6439b87a2685dec2a5ab9e525b3b34debbfa"
+    },
+    {
+      "path": "research/p104-productive-controller/caller.py",
+      "usage": "provenance",
+      "git_blob": "6ac5e735691555ecafe2afbcff71edd923178113",
+      "sha256": "300d40043953e4f6aecfde8f2d1004b8ad6dc5a79ec3c7666c9908c2466c91c8"
+    },
+    {
+      "path": "research/p104-productive-controller/PROOF.md",
+      "usage": "provenance",
+      "git_blob": "e0bb34fbef6b412b572818d669150b54a13ea30d",
+      "sha256": "f4c4e400092954562252df6c4dd157a9b4c1642252168ce72738cdbecfc5ad41"
+    },
+    {
+      "path": "research/query-thinned-controllers/PROOF.md",
+      "usage": "provenance",
+      "git_blob": "9068f429896112082664455ab00bab083c99d1d8",
+      "sha256": "5ade59641f2ed70d045d6f60e89db7d979b1d1e9967f3acbe5c56eac81312841"
+    }
+  ]
+}

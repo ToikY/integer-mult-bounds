@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "status": "ready",
+  "python": "3.12",
+  "requirements": [],
+  "inputs": [
+    "research/p104-retained-operand-descent/NOTICE",
+    "research/p104-retained-operand-descent/PRICING-EDITS.json",
+    "research/p104-retained-operand-descent/PROOF.md",
+    "research/p104-retained-operand-descent/README.md",
+    "research/p104-retained-operand-descent/RESULT.json",
+    "research/p104-retained-operand-descent/SOURCES.json",
+    "research/p104-retained-operand-descent/TASK.json",
+    "research/p104-retained-operand-descent/VALIDATION.md",
+    "research/p104-retained-operand-descent/VERIFY.json",
+    "research/p104-retained-operand-descent/WORD.json.gz",
+    "research/p104-retained-operand-descent/construct.py",
+    "research/p104-retained-operand-descent/inputs/pr5827-source.tar",
+    "research/p104-retained-operand-descent/inputs/pr6144-WORD.json.gz",
+    "research/p104-retained-operand-descent/inputs/pr6144-pricing.py",
+    "research/p104-retained-operand-descent/pricing.py",
+    "research/p104-retained-operand-descent/sources.py",
+    "research/p104-retained-operand-descent/test_portability.py",
+    "research/p104-retained-operand-descent/verify.py"
+  ],
+  "commands": [
+    {
+      "argv": [
+        "{python}",
+        "-I",
+        "-B",
+        "{package}/verify.py"
+      ],
+      "timeout_seconds": 590,
+      "checks": "Authenticate the exact source, replay all native inputs and phases, check the complete new Laurent word, invoice, two rational engines, compiler and outer ledger."
+    },
+    {
+      "argv": [
+        "{python}",
+        "-I",
+        "-O",
+        "-B",
+        "{package}/verify.py"
+      ],
+      "timeout_seconds": 590,
+      "checks": "Repeat the same complete receipt and semantic failure controls with assertions disabled."
+    }
+  ]
+}
