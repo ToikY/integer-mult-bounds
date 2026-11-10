@@ -1,0 +1,126 @@
+{
+  "archive_sha256": "0f05d7d9724ffaaf88b277489df24cca70257438cef572eaa557a3a26aa01a69",
+  "files": [
+    {
+      "git_blob": "8eb852df105f432e22000bce42a528a7f8ebd477",
+      "mode": "100644",
+      "path": "APPLICATION.md",
+      "sha256": "d7f80bcf7e5d1362529b7054405981c607509b48d1520dfde12cbb1a3d1eb7de",
+      "size": 6403
+    },
+    {
+      "git_blob": "90e1c55795f409d3bdcfcc98a5f3e08c228dcff2",
+      "mode": "100644",
+      "path": "ENVIRONMENT.json",
+      "sha256": "d7aa0c489c7e33968a503c639b90fd740dcd5f49417c544b56daa9eae31c3c4b",
+      "size": 688
+    },
+    {
+      "git_blob": "63efe1a73dfa87e7651983b4d2b10b0f6fe184cb",
+      "mode": "100644",
+      "path": "INPUTS.json",
+      "sha256": "ec709c038e89bc018d86a0f22fb4d1ff965f01e176f27ed4c483a68dbb7062fe",
+      "size": 30109
+    },
+    {
+      "git_blob": "7dcc21c949ff5225f52df52000eebff349b469c0",
+      "mode": "100644",
+      "path": "README.md",
+      "sha256": "32d4f28b1457fc51ab12230c5bbe92f303d4eeca5f1c70a78c4e490c35cbb020",
+      "size": 7958
+    },
+    {
+      "git_blob": "682567e9ec4e7758dda0fe8abdd4cee97280e7dd",
+      "mode": "100644",
+      "path": "REPLAY.txt",
+      "sha256": "fb5a7f7a966917ff26088cfdcf17c0dda704a5b153cfc8b42a0fc7544cd53d33",
+      "size": 3699
+    },
+    {
+      "git_blob": "e22f5e7921f7a88a08785ef5c0bbee7d4858c6fe",
+      "mode": "100644",
+      "path": "RESULT.json",
+      "sha256": "f49edf2c8bff58abd2b58227101f94ee01ec776522d13f6f5663a7036cd3fe7f",
+      "size": 75198
+    },
+    {
+      "git_blob": "c4150ae39789502a4adf89e8f5235995d458a72e",
+      "mode": "100644",
+      "path": "SOURCES.json",
+      "sha256": "8b58a30ae55396b8d108de4ee2c7c6ac75dc1096948c9ac3796c20b21b1c9372",
+      "size": 856
+    },
+    {
+      "git_blob": "1f381e9fd80b762c4579fe4baa39aa0040778a84",
+      "mode": "100644",
+      "path": "TASK.json",
+      "sha256": "d8726daf9c4d1bdfa040c1bf8a278e8cf134b5ac9062ac6003e4f838b263535f",
+      "size": 10840
+    },
+    {
+      "git_blob": "4b0611ca60424f03945446ce546c17179522671f",
+      "mode": "100644",
+      "path": "VALIDATION.md",
+      "sha256": "38791135c083cd813c88f632ce0304215fcf691ad1562a98717ca5574ddd6501",
+      "size": 2262
+    },
+    {
+      "git_blob": "203aeebebc47a460263bad15c73b8e3b5c81b86f",
+      "mode": "100644",
+      "path": "VERIFY.json",
+      "sha256": "2072b3df23199d7e430775cb34c5e41b2b97568ab38325d7abfb6bfe66328378",
+      "size": 943
+    },
+    {
+      "git_blob": "c8abb1e28de2ce8dc29df701f839a5705d8bdb29",
+      "mode": "100644",
+      "path": "adapt.py",
+      "sha256": "68d8bbbc3ecf7f9fd1a68cebfcaa1c128648d37ee0ca52e4d939d17cbcc6782f",
+      "size": 2163
+    },
+    {
+      "git_blob": "a440c8e7f1d690ef0d6b5392ac16851efeebdccb",
+      "mode": "100644",
+      "path": "inputs.py",
+      "sha256": "0db80e873d050e696bbdb886dbb975ac036e9bb8629541c29ac94ad8e7c82e10",
+      "size": 1940
+    },
+    {
+      "git_blob": "58df3b969be904ed0e49d5c1d9c818215e7188a6",
+      "mode": "100644",
+      "path": "inputs/pr7113.tar",
+      "sha256": "617341e053d7d4bc971ff3690ab2db01b1da8b3847ac4a71cc68f044b532efb5",
+      "size": 3276800
+    },
+    {
+      "git_blob": "4aa7b7f01a9b0d691a631ad7764329b63a352245",
+      "mode": "100644",
+      "path": "inputs/pr7115.tar",
+      "sha256": "701fd135be7ce8fc4f7c10ba679f77cad57dd51b18a33fe491dd70fcbdd77317",
+      "size": 2160640
+    },
+    {
+      "git_blob": "81db835e3b3e5bf666e0b056134a7d2fd7036fc2",
+      "mode": "100644",
+      "path": "price.py",
+      "sha256": "cdb3c11c0d05927daaf9a6e54b49e4a0c6349ffd79b4d3281f2fda1387861601",
+      "size": 3628
+    },
+    {
+      "git_blob": "86003afbd1c2d407a811ccaf688a56f36a5a8d87",
+      "mode": "100644",
+      "path": "verify.py",
+      "sha256": "4db3120d66ac7ed52e7a3e90f52f5864a07ba6a6c43f028229e053457c0e6d48",
+      "size": 3346
+    },
+    {
+      "git_blob": "1a36f0546148fdc2935ea29d37072ab40dd27fac",
+      "mode": "100644",
+      "path": "verify_native.py",
+      "sha256": "ede0640d2a70cc1030ae0f3bc3f3c201c62939752896db9ca3877a967d748cdb",
+      "size": 434
+    }
+  ],
+  "head": "ee4a05f9c926cf85904c81b768d73acaf9e44b54",
+  "tree": "1accfb5a4299b9631fcac19e95f0f07996956070"
+}

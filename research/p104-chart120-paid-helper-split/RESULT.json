@@ -1,0 +1,1533 @@
+{
+  "checks": {
+    "ODD-8X9-APPLICATION-CHECKS.json": {
+      "assumptions": [
+        "native_all_columns",
+        "owned_erasure",
+        "compiler",
+        "precision_tape",
+        "analytic_recovery"
+      ],
+      "caller_sha256": "255d89f38cd45e38e5770f559bc43dc217e989032359768cdc7e8cdfd64b47bc",
+      "candidate": "3639006653941/1000000000000000",
+      "catalogue": [
+        {
+          "catalogue_digest": "daa9faefa3671182b683e09c36362e3babb193555da5cb31aa853011ccb5fc24",
+          "catalogue_size": 3048,
+          "checked_maps": 1016,
+          "distinct_helper_maps": 184,
+          "distinct_paid_maps": 2963,
+          "exact_recipe_digest": "feca21ebf7d3e45bce44a4c793084b66dc3d18991d259f149001787bbe3862c9",
+          "log_sha256": "08a6621851f958303322cd58f6a7106b16e7cd0ff251af12c4828ac833f27343",
+          "main_boundary_digest": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+          "main_boundary_pairs": 0,
+          "phase_control_rejected": true,
+          "scope": "Complete signed Pauli action plus exact Gaussian global phase; for Clifford maps these determine every matrix column. Generic tensor-product and physical grammar application is written in the review. No random-field substitution.",
+          "slice_start": 0,
+          "slice_stop": 1016,
+          "status": "PASS_CURRENT_NATIVE_CATALOGUE_SLICE",
+          "word_sha256": "44c3090c39fb9fc647245fce83dc3e7303aeab5294477a32115f6a8fb63b62ce"
+        },
+        {
+          "catalogue_digest": "daa9faefa3671182b683e09c36362e3babb193555da5cb31aa853011ccb5fc24",
+          "catalogue_size": 3048,
+          "checked_maps": 1016,
+          "distinct_helper_maps": 184,
+          "distinct_paid_maps": 2963,
+          "exact_recipe_digest": "3fafe871dd4d88ee2d00bd62552bec675d76f37aebb911e4e762db9144442e47",
+          "log_sha256": "c0ade2c3aa0f5041f66ee644163d93143b8c6239b4841bee3d651eb820a4c1e6",
+          "main_boundary_digest": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+          "main_boundary_pairs": 0,
+          "phase_control_rejected": true,
+          "scope": "Complete signed Pauli action plus exact Gaussian global phase; for Clifford maps these determine every matrix column. Generic tensor-product and physical grammar application is written in the review. No random-field substitution.",
+          "slice_start": 1016,
+          "slice_stop": 2032,
+          "status": "PASS_CURRENT_NATIVE_CATALOGUE_SLICE",
+          "word_sha256": "44c3090c39fb9fc647245fce83dc3e7303aeab5294477a32115f6a8fb63b62ce"
+        },
+        {
+          "catalogue_digest": "daa9faefa3671182b683e09c36362e3babb193555da5cb31aa853011ccb5fc24",
+          "catalogue_size": 3048,
+          "checked_maps": 1016,
+          "distinct_helper_maps": 184,
+          "distinct_paid_maps": 2963,
+          "exact_recipe_digest": "074bc901ca5c6c1f5e530161cb5b6b1ac0da6f52e59f0df521300844ba9f04ce",
+          "log_sha256": "3e4dbee93a5d25115d8592c0e8e0f04b7df0dc37ee3843e0df016285356faf86",
+          "main_boundary_digest": "ad959887c990b8862a0e60db3f53d5195a1c9d667c1593f0101adc8db18f27fa",
+          "main_boundary_pairs": 104,
+          "phase_control_rejected": true,
+          "scope": "Complete signed Pauli action plus exact Gaussian global phase; for Clifford maps these determine every matrix column. Generic tensor-product and physical grammar application is written in the review. No random-field substitution.",
+          "slice_start": 2032,
+          "slice_stop": 3048,
+          "status": "PASS_CURRENT_NATIVE_CATALOGUE_SLICE",
+          "word_sha256": "44c3090c39fb9fc647245fce83dc3e7303aeab5294477a32115f6a8fb63b62ce"
+        }
+      ],
+      "fixed_tape_counts": {
+        "H": 16487800000000000000000,
+        "Kstar_bits": 14093,
+        "actual_ambient": 145,
+        "caller_odd_scale": 675,
+        "caller_sha256": "255d89f38cd45e38e5770f559bc43dc217e989032359768cdc7e8cdfd64b47bc",
+        "common_grid": {
+          "fractional": "p+D",
+          "signed_width": "p+h+2D+3",
+          "temp_padding": 26
+        },
+        "compiler_ambient_cap": 153,
+        "context_bound_bits": 14104,
+        "context_c": 2328,
+        "elementary_records_per_map_upper": 85264,
+        "elementary_records_upper": 25457272480,
+        "log_power": 2234,
+        "max_scalar_numerator_bits": 24,
+        "monomial_map_slots": 298570,
+        "native_invocations": 17,
+        "native_sha256": "ff51fcc949bc50a31230a784822ab6f0d079c9102abf22c75746b2b5cdd09553",
+        "owned_banks_per_raw_occurrence": 867,
+        "scalar_macro_inputs": {
+          "caller": 117856,
+          "conversions": 58012,
+          "native": 1131469
+        },
+        "scalar_services_upper": 41834784,
+        "scalar_steps_coefficient": 43866950467584,
+        "scope": "Exact finite-cost and common-format substitutions in the selected #7000 conditional application proof, using the conservative primitive movement and scalar constants there. The premise is the complete signed native/physical binding and retained compiler, BIT, stock, and outer contracts. This script counts the raw occurrence, not an enumerated top-level compiled multiplier.",
+        "tested_claim": "3639006653941/1000000000000000"
+      },
+      "native_archive_sha256": "44c3090c39fb9fc647245fce83dc3e7303aeab5294477a32115f6a8fb63b62ce",
+      "native_canonical_sha256": "ff51fcc949bc50a31230a784822ab6f0d079c9102abf22c75746b2b5cdd09553",
+      "numeric_gate": {
+        "BIT_margin": "12768334605893/100000000000000000",
+        "BIT_pin": "376669/100000000",
+        "H": "16487800000000000000000",
+        "alpha": [
+          0.9999999999999997,
+          0.9999999999999997
+        ],
+        "claim": "3639006653941/1000000000000000",
+        "compiler_gap": "1/100000000000000000",
+        "delta": [
+          0.899283897038702,
+          0.899283897038702
+        ],
+        "derivative_upper": -382339.8214450107,
+        "gamma": [
+          0.9407507753264809,
+          0.9407507753264809
+        ],
+        "input_lift": {
+          "derivative_upper_on_required_interval": "-2299831290525933154178526076272396899996972093654613095735772838275432653960006518819/2500000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+          "interval_kappa_cap": "376669/100000000",
+          "margins": {
+            "3639006653941/1000000000000000": [
+              "124163982961579478418257595886860084781359610564111420873203020218715865507987/100000000000000000000000000000000000000000000000000000000000000000000000000000000",
+              "124163982961579478418257595886860084781359610564111420873203020218715865509933/100000000000000000000000000000000000000000000000000000000000000000000000000000000"
+            ],
+            "363900665394107/100000000000000000": [
+              "2483279659231635302165962351610473713695032199919561096204278743255749877127/2000000000000000000000000000000000000000000000000000000000000000000000000000000",
+              "124163982961581765108298117580523685684751609995978054810213937162787493858309/100000000000000000000000000000000000000000000000000000000000000000000000000000000"
+            ]
+          },
+          "source_BIT_wide_crude_bound_would_be": "-2299831290525933154178526076272396899996972093654613095735772838275432653960006518819/2500000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        "minimum_log_power": 2233,
+        "moment_margin_float": {
+          "181950332697066656820447152159469/50000000000000000000000000000000000": [
+            -2.738241122593795e-30,
+            -2.738241122593795e-30
+          ],
+          "363900665394107/100000000000000000": [
+            1.0220191639730321e-10,
+            1.0220191639730321e-10
+          ],
+          "363900665394133313640894304318937/100000000000000000000000000000000000": [
+            1.1457488128098275e-30,
+            1.1457488128098275e-30
+          ]
+        },
+        "moment_margins": {
+          "181950332697066656820447152159469/50000000000000000000000000000000000": [
+            "-273824112259379511085665908785461550035496692475239/100000000000000000000000000000000000000000000000000000000000000000000000000000000",
+            "-273824112259379511085665908785461550035496654178019/100000000000000000000000000000000000000000000000000000000000000000000000000000000"
+          ],
+          "363900665394107/100000000000000000": [
+            "2044038327946064137364819205130208204501699666890274934872323278097453/20000000000000000000000000000000000000000000000000000000000000000000000000000000",
+            "2044038327946064137364819205130208204501699666890274934872323285818659/20000000000000000000000000000000000000000000000000000000000000000000000000000000"
+          ],
+          "363900665394133313640894304318937/100000000000000000000000000000000000": [
+            "22914976256196548200956216845958054679722017066699/20000000000000000000000000000000000000000000000000000000000000000000000000000000",
+            "11457488128098274100478108422979027339861012381741/10000000000000000000000000000000000000000000000000000000000000000000000000000000"
+          ]
+        },
+        "outer": {
+          "BIT_just_below_effective_rejected": true,
+          "functional_count": 4,
+          "minimum_margin": "1/1000000000000000000",
+          "strict_count": 54
+        },
+        "raw_bracket": [
+          "363900665394133313640894304318937/100000000000000000000000000000000000",
+          "181950332697066656820447152159469/50000000000000000000000000000000000"
+        ],
+        "tested": "363900665394107/100000000000000000",
+        "written_log_power": 2234
+      },
+      "physical_binding": {
+        "ambient": 145,
+        "complete_paid_position_digest": "7be82b7c2a10342abcc903e9739c21d4046692db0ba358597c98336eaa845528",
+        "fresh_helpers": 18462,
+        "idle_uses": 3392,
+        "lambda_uses": 11280,
+        "native_calls": 17,
+        "native_contact_boundaries": 13600,
+        "native_public": 1486,
+        "nonzero_boundary_translations": 13600,
+        "paid": {
+          "1": 68860,
+          "16": 416,
+          "2": 14331,
+          "24": 416,
+          "3": 13906,
+          "32": 416,
+          "4": 4046,
+          "40": 416,
+          "48": 416,
+          "5": 5559,
+          "56": 416,
+          "6": 272,
+          "64": 208,
+          "7": 187,
+          "8": 758,
+          "9": 32
+        },
+        "paid_positions": 110655,
+        "phase_record_digest": "586ab7499fb677afdd83c397ea0b6d3b25f73ea6cdfa1ec95dd68adccff935ad",
+        "productive_fields": 22206,
+        "query_uses": 384,
+        "rank_surplus": 1424,
+        "reserved_native_banks": 867,
+        "reserved_serial_query_lambda_bank": 1,
+        "targets": {
+          "1": 238,
+          "137": 208,
+          "17": 416,
+          "2": 306,
+          "25": 416,
+          "3": 782,
+          "33": 416,
+          "4": 3723,
+          "41": 416,
+          "49": 416,
+          "5": 1207,
+          "57": 416,
+          "6": 714,
+          "65": 416,
+          "7": 306,
+          "73": 208,
+          "8": 935,
+          "9": 10667
+        }
+      },
+      "scope": "Conditional component application to the exact 8+9 source with the selected completed BIT predecessor and inherited five assumptions. Checks every normalized endpoint, every paid/helper nested chart map up to exact signed Pauli and absolute phase, caller occurrence/phase, precision, finite scalar and route bounds, and numeric gates. Does not run a compiled Turing machine, select an upstream frontier, or claim human/formal review.",
+      "source_unit_ordinary": {
+        "all_caller_scalar_surcharge": 2248928,
+        "caller_items": {
+          "A": {
+            "envelope": 102076416,
+            "field_boundary": 89856,
+            "fused_routes": 0,
+            "idle_routes": 170112000,
+            "output_routes": 213120000,
+            "query_routes": 1152000,
+            "thin": 6144
+          },
+          "B": {
+            "envelope": 35730432,
+            "field_boundary": 7488,
+            "fused_routes": 1168000,
+            "idle_routes": 18016000,
+            "output_routes": 17760000,
+            "query_routes": 0,
+            "thin": 0
+          }
+        },
+        "caller_total": 559238336,
+        "charged_caller_odd_conversions": 479232,
+        "conservative_total": 776354064,
+        "init_clear_allowance": 216,
+        "lambda_paid_rank1_would_reduce_S_by": 11280,
+        "lambda_second_charge": 11280000,
+        "margin_to_billion": 223645936,
+        "odd_divisions": {
+          "ADD": 5219,
+          "SCALE": 67
+        },
+        "per_input_conversion": 2627248,
+        "raw_upper": 759718656,
+        "route_items": {
+          "first_main_adapter": 416,
+          "first_main_boundary": 208,
+          "helper_boundary": 2172,
+          "moves": 6287,
+          "owned_lifetime": 216,
+          "second_main_adapter": 384,
+          "second_main_boundary": 192
+        },
+        "routing": 9875000,
+        "scalar_upper": 1917960
+      },
+      "status": "PASS_8X9_EXACT_COMPONENT_APPLICATION_CHECKS"
+    },
+    "ODD-ADMISSION-PARTIAL.json": {
+      "caller_sha256": "255d89f38cd45e38e5770f559bc43dc217e989032359768cdc7e8cdfd64b47bc",
+      "compiler_outer": {
+        "BIT_margin": "12768334605893/100000000000000000",
+        "BIT_pin": "376669/100000000",
+        "H": "16487800000000000000000",
+        "alpha": [
+          0.9999999999999997,
+          0.9999999999999997
+        ],
+        "claim": "3639006653941/1000000000000000",
+        "compiler_gap": "1/100000000000000000",
+        "delta": [
+          0.899283897038702,
+          0.899283897038702
+        ],
+        "derivative_upper": -382339.8214450107,
+        "gamma": [
+          0.9407507753264809,
+          0.9407507753264809
+        ],
+        "input_lift": {
+          "derivative_upper_on_required_interval": "-2299831290525933154178526076272396899996972093654613095735772838275432653960006518819/2500000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+          "interval_kappa_cap": "376669/100000000",
+          "margins": {
+            "3639006653941/1000000000000000": [
+              "124163982961579478418257595886860084781359610564111420873203020218715865507987/100000000000000000000000000000000000000000000000000000000000000000000000000000000",
+              "124163982961579478418257595886860084781359610564111420873203020218715865509933/100000000000000000000000000000000000000000000000000000000000000000000000000000000"
+            ],
+            "363900665394107/100000000000000000": [
+              "2483279659231635302165962351610473713695032199919561096204278743255749877127/2000000000000000000000000000000000000000000000000000000000000000000000000000000",
+              "124163982961581765108298117580523685684751609995978054810213937162787493858309/100000000000000000000000000000000000000000000000000000000000000000000000000000000"
+            ]
+          },
+          "source_BIT_wide_crude_bound_would_be": "-2299831290525933154178526076272396899996972093654613095735772838275432653960006518819/2500000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        "minimum_log_power": 2233,
+        "moment_margin_float": {
+          "181950332697066656820447152159469/50000000000000000000000000000000000": [
+            -2.738241122593795e-30,
+            -2.738241122593795e-30
+          ],
+          "363900665394107/100000000000000000": [
+            1.0220191639730321e-10,
+            1.0220191639730321e-10
+          ],
+          "363900665394133313640894304318937/100000000000000000000000000000000000": [
+            1.1457488128098275e-30,
+            1.1457488128098275e-30
+          ]
+        },
+        "moment_margins": {
+          "181950332697066656820447152159469/50000000000000000000000000000000000": [
+            "-273824112259379511085665908785461550035496692475239/100000000000000000000000000000000000000000000000000000000000000000000000000000000",
+            "-273824112259379511085665908785461550035496654178019/100000000000000000000000000000000000000000000000000000000000000000000000000000000"
+          ],
+          "363900665394107/100000000000000000": [
+            "2044038327946064137364819205130208204501699666890274934872323278097453/20000000000000000000000000000000000000000000000000000000000000000000000000000000",
+            "2044038327946064137364819205130208204501699666890274934872323285818659/20000000000000000000000000000000000000000000000000000000000000000000000000000000"
+          ],
+          "363900665394133313640894304318937/100000000000000000000000000000000000": [
+            "22914976256196548200956216845958054679722017066699/20000000000000000000000000000000000000000000000000000000000000000000000000000000",
+            "11457488128098274100478108422979027339861012381741/10000000000000000000000000000000000000000000000000000000000000000000000000000000"
+          ]
+        },
+        "outer": {
+          "BIT_just_below_effective_rejected": true,
+          "functional_count": 4,
+          "minimum_margin": "1/1000000000000000000",
+          "strict_count": 54
+        },
+        "raw_bracket": [
+          "363900665394133313640894304318937/100000000000000000000000000000000000",
+          "181950332697066656820447152159469/50000000000000000000000000000000000"
+        ],
+        "tested": "363900665394107/100000000000000000",
+        "written_log_power": 2234
+      },
+      "finite_rank9_fields": [
+        {
+          "child_rank": 9,
+          "denominator": 512,
+          "exponent": 1,
+          "mutated_entries": {
+            "missing global phase": 8,
+            "missing multiplicity": 0
+          },
+          "spectators": 136,
+          "stage": 8,
+          "swaps": [
+            [
+              1,
+              65
+            ],
+            [
+              2,
+              66
+            ],
+            [
+              3,
+              67
+            ],
+            [
+              4,
+              68
+            ],
+            [
+              5,
+              69
+            ],
+            [
+              6,
+              70
+            ],
+            [
+              7,
+              71
+            ],
+            [
+              8,
+              72
+            ]
+          ],
+          "tested_entries": 262144,
+          "width": 1
+        },
+        {
+          "child_rank": 9,
+          "denominator": 262144,
+          "exponent": 2,
+          "mutated_entries": {
+            "missing global phase": 8,
+            "missing multiplicity": 8
+          },
+          "spectators": 272,
+          "stage": 8,
+          "swaps": [
+            [
+              1,
+              65
+            ],
+            [
+              2,
+              66
+            ],
+            [
+              3,
+              67
+            ],
+            [
+              4,
+              68
+            ],
+            [
+              5,
+              69
+            ],
+            [
+              6,
+              70
+            ],
+            [
+              7,
+              71
+            ],
+            [
+              8,
+              72
+            ]
+          ],
+          "tested_entries": 1024,
+          "width": 2
+        },
+        {
+          "child_rank": 9,
+          "denominator": 134217728,
+          "exponent": 3,
+          "mutated_entries": {
+            "missing global phase": 8,
+            "missing multiplicity": 8
+          },
+          "spectators": 408,
+          "stage": 8,
+          "swaps": [
+            [
+              1,
+              65
+            ],
+            [
+              2,
+              66
+            ],
+            [
+              3,
+              67
+            ],
+            [
+              4,
+              68
+            ],
+            [
+              5,
+              69
+            ],
+            [
+              6,
+              70
+            ],
+            [
+              7,
+              71
+            ],
+            [
+              8,
+              72
+            ]
+          ],
+          "tested_entries": 1024,
+          "width": 3
+        },
+        {
+          "child_rank": 9,
+          "denominator": 512,
+          "exponent": 1,
+          "mutated_entries": {
+            "missing global phase": 8,
+            "missing multiplicity": 0
+          },
+          "spectators": 136,
+          "stage": 9,
+          "swaps": [
+            [
+              1,
+              73
+            ],
+            [
+              2,
+              74
+            ],
+            [
+              3,
+              75
+            ],
+            [
+              4,
+              76
+            ],
+            [
+              5,
+              77
+            ],
+            [
+              6,
+              78
+            ],
+            [
+              7,
+              79
+            ],
+            [
+              8,
+              80
+            ]
+          ],
+          "tested_entries": 262144,
+          "width": 1
+        },
+        {
+          "child_rank": 9,
+          "denominator": 262144,
+          "exponent": 2,
+          "mutated_entries": {
+            "missing global phase": 8,
+            "missing multiplicity": 8
+          },
+          "spectators": 272,
+          "stage": 9,
+          "swaps": [
+            [
+              1,
+              73
+            ],
+            [
+              2,
+              74
+            ],
+            [
+              3,
+              75
+            ],
+            [
+              4,
+              76
+            ],
+            [
+              5,
+              77
+            ],
+            [
+              6,
+              78
+            ],
+            [
+              7,
+              79
+            ],
+            [
+              8,
+              80
+            ]
+          ],
+          "tested_entries": 1024,
+          "width": 2
+        },
+        {
+          "child_rank": 9,
+          "denominator": 134217728,
+          "exponent": 3,
+          "mutated_entries": {
+            "missing global phase": 8,
+            "missing multiplicity": 8
+          },
+          "spectators": 408,
+          "stage": 9,
+          "swaps": [
+            [
+              1,
+              73
+            ],
+            [
+              2,
+              74
+            ],
+            [
+              3,
+              75
+            ],
+            [
+              4,
+              76
+            ],
+            [
+              5,
+              77
+            ],
+            [
+              6,
+              78
+            ],
+            [
+              7,
+              79
+            ],
+            [
+              8,
+              80
+            ]
+          ],
+          "tested_entries": 1024,
+          "width": 3
+        }
+      ],
+      "invoice": {
+        "P": {
+          "1": 68860,
+          "16": 416,
+          "2": 14331,
+          "24": 416,
+          "3": 13906,
+          "32": 416,
+          "4": 4046,
+          "40": 416,
+          "48": 416,
+          "5": 5559,
+          "56": 416,
+          "6": 272,
+          "64": 208,
+          "7": 187,
+          "8": 758,
+          "9": 32
+        },
+        "S": 1424,
+        "T": {
+          "1": 238,
+          "137": 208,
+          "17": 416,
+          "2": 306,
+          "25": 416,
+          "3": 782,
+          "33": 416,
+          "4": 3723,
+          "41": 416,
+          "49": 416,
+          "5": 1207,
+          "57": 416,
+          "6": 714,
+          "65": 416,
+          "7": 306,
+          "73": 208,
+          "8": 935,
+          "9": 10667
+        },
+        "empty_root_credits": 0,
+        "no_E_credit_crossing": "0.0036390066539413331364089430431893729499273475608574119465525122449",
+        "raw_crossing": "0.0036390066539413331364089430431893729499273475608574119465525122449"
+      },
+      "native_sha256": "ff51fcc949bc50a31230a784822ab6f0d079c9102abf22c75746b2b5cdd09553",
+      "ordinary": {
+        "all_caller_scalar_surcharge": 2248928,
+        "caller_items": {
+          "A": {
+            "envelope": 102076416,
+            "field_boundary": 89856,
+            "fused_routes": 0,
+            "idle_routes": 170112000,
+            "output_routes": 213120000,
+            "query_routes": 1152000,
+            "thin": 6144
+          },
+          "B": {
+            "envelope": 35730432,
+            "field_boundary": 7488,
+            "fused_routes": 1168000,
+            "idle_routes": 18016000,
+            "output_routes": 17760000,
+            "query_routes": 0,
+            "thin": 0
+          }
+        },
+        "caller_total": 559238336,
+        "charged_caller_odd_conversions": 479232,
+        "conservative_total": 776354064,
+        "init_clear_allowance": 216,
+        "lambda_paid_rank1_would_reduce_S_by": 11280,
+        "lambda_second_charge": 11280000,
+        "margin_to_billion": 223645936,
+        "odd_divisions": {
+          "ADD": 5219,
+          "SCALE": 67
+        },
+        "per_input_conversion": 2627248,
+        "raw_upper": 759718656,
+        "route_items": {
+          "first_main_adapter": 416,
+          "first_main_boundary": 208,
+          "helper_boundary": 2172,
+          "moves": 6287,
+          "owned_lifetime": 216,
+          "second_main_adapter": 384,
+          "second_main_boundary": 192
+        },
+        "routing": 9875000,
+        "scalar_upper": 1917960
+      },
+      "scope": "Reuse exact same native word all-column adjoint; fresh exact signed caller and invoice, ordinary source-unit upper bill, inherited numerical compiler and outer inequalities, and signed rank9 child finite field routes. Fresh integrated physical native/caller and changed-word precision/occurrence application remain separate."
+    },
+    "ODD-CALLER-EXACT-GRID.json": {
+      "caller_odd_scale": "675",
+      "caller_odd_scale_bits": 10,
+      "caller_sha256": "255d89f38cd45e38e5770f559bc43dc217e989032359768cdc7e8cdfd64b47bc",
+      "grid_exponents": [
+        381,
+        3,
+        2
+      ],
+      "peak_terms": 3752,
+      "preproduct_exact_divisions": 176874,
+      "prime_order": [
+        2,
+        3,
+        5
+      ],
+      "safe_valuation_bound": [
+        381,
+        69,
+        62
+      ],
+      "scope": "Independent integer Laurent caller endpoint and pre-product divisibility. Valuation bound propagates complete field operators whose Gaussian coefficients have only power-of-two denominators, so odd factors are sourced only from the charged scalar operations. Fixed conversion and storage bounds still needed."
+    },
+    "ODD-FIXED-TAPE-COUNTS.json": {
+      "H": 16487800000000000000000,
+      "Kstar_bits": 14093,
+      "actual_ambient": 145,
+      "caller_odd_scale": 675,
+      "caller_sha256": "255d89f38cd45e38e5770f559bc43dc217e989032359768cdc7e8cdfd64b47bc",
+      "common_grid": {
+        "fractional": "p+D",
+        "signed_width": "p+h+2D+3",
+        "temp_padding": 26
+      },
+      "compiler_ambient_cap": 153,
+      "context_bound_bits": 14104,
+      "context_c": 2328,
+      "elementary_records_per_map_upper": 85264,
+      "elementary_records_upper": 25457272480,
+      "log_power": 2234,
+      "max_scalar_numerator_bits": 24,
+      "monomial_map_slots": 298570,
+      "native_invocations": 17,
+      "native_sha256": "ff51fcc949bc50a31230a784822ab6f0d079c9102abf22c75746b2b5cdd09553",
+      "owned_banks_per_raw_occurrence": 867,
+      "scalar_macro_inputs": {
+        "caller": 117856,
+        "conversions": 58012,
+        "native": 1131469
+      },
+      "scalar_services_upper": 41834784,
+      "scalar_steps_coefficient": 43866950467584,
+      "scope": "Exact finite-cost and common-format substitutions in the selected #7000 conditional application proof, using the conservative primitive movement and scalar constants there. The premise is the complete signed native/physical binding and retained compiler, BIT, stock, and outer contracts. This script counts the raw occurrence, not an enumerated top-level compiled multiplier.",
+      "tested_claim": "3639006653941/1000000000000000"
+    },
+    "ODD-PHYSICAL-BINDING.json": {
+      "aliased_main_rejected": true,
+      "caller_sha256": "255d89f38cd45e38e5770f559bc43dc217e989032359768cdc7e8cdfd64b47bc",
+      "native_sha256": "ff51fcc949bc50a31230a784822ab6f0d079c9102abf22c75746b2b5cdd09553",
+      "occurrence_and_geometry": {
+        "ambient": 145,
+        "complete_paid_position_digest": "7be82b7c2a10342abcc903e9739c21d4046692db0ba358597c98336eaa845528",
+        "fresh_helpers": 18462,
+        "idle_uses": 3392,
+        "lambda_uses": 11280,
+        "native_calls": 17,
+        "native_contact_boundaries": 13600,
+        "native_public": 1486,
+        "nonzero_boundary_translations": 13600,
+        "paid": {
+          "1": 68860,
+          "16": 416,
+          "2": 14331,
+          "24": 416,
+          "3": 13906,
+          "32": 416,
+          "4": 4046,
+          "40": 416,
+          "48": 416,
+          "5": 5559,
+          "56": 416,
+          "6": 272,
+          "64": 208,
+          "7": 187,
+          "8": 758,
+          "9": 32
+        },
+        "paid_positions": 110655,
+        "phase_record_digest": "586ab7499fb677afdd83c397ea0b6d3b25f73ea6cdfa1ec95dd68adccff935ad",
+        "productive_fields": 22206,
+        "query_uses": 384,
+        "rank_surplus": 1424,
+        "reserved_native_banks": 867,
+        "reserved_serial_query_lambda_bank": 1,
+        "targets": {
+          "1": 238,
+          "137": 208,
+          "17": 416,
+          "2": 306,
+          "25": 416,
+          "3": 782,
+          "33": 416,
+          "4": 3723,
+          "41": 416,
+          "49": 416,
+          "5": 1207,
+          "57": 416,
+          "6": 714,
+          "65": 416,
+          "7": 306,
+          "73": 208,
+          "8": 935,
+          "9": 10667
+        }
+      },
+      "patched_application_sha256": "733b31b1cee4567b466fdf834a34460b530f1f87ca6dca9270c0fabb2cf89849",
+      "scope": "Current caller port and ownership substitution, full phase-polynomial native contact identities on disjoint stage axes, whole signed idle/output geometry, and ordered paid positions. Retains the standard nested chart and local operator premises and requires separate full native replay and complete fixed-tape tariff application.",
+      "source_reviewer_sha256": "d98987db98553dc55bfc80e3ca47abfcd51c57af6f8cda61101391d8eae94184"
+    },
+    "ODD-PRECISION.json": {
+      "caller_grid": {
+        "caller_odd_scale": "675",
+        "caller_odd_scale_bits": 10,
+        "caller_sha256": "255d89f38cd45e38e5770f559bc43dc217e989032359768cdc7e8cdfd64b47bc",
+        "grid_exponents": [
+          381,
+          3,
+          2
+        ],
+        "peak_terms": 3752,
+        "preproduct_exact_divisions": 176874,
+        "prime_order": [
+          2,
+          3,
+          5
+        ],
+        "safe_valuation_bound": [
+          381,
+          69,
+          62
+        ],
+        "scope": "Independent integer Laurent caller endpoint and pre-product divisibility. Valuation bound propagates complete field operators whose Gaussian coefficients have only power-of-two denominators, so odd factors are sourced only from the charged scalar operations. Fixed conversion and storage bounds still needed."
+      },
+      "caller_sha256": "255d89f38cd45e38e5770f559bc43dc217e989032359768cdc7e8cdfd64b47bc",
+      "context_c": 2328,
+      "context_height": 405,
+      "context_mass_bits": 1164,
+      "native_grid": {
+        "coefficient_visits": 14870950,
+        "dyadic_height": 24,
+        "mass_witness": [
+          64280,
+          "stored add"
+        ],
+        "maximum_scaled_mass": "1630273820634225/16384",
+        "numerator_bits": 24,
+        "odd_scale_lcm": 1125
+      },
+      "native_sha256": "ff51fcc949bc50a31230a784822ab6f0d079c9102abf22c75746b2b5cdd09553",
+      "precision_program_sha256": "7696f2e4074ccc9c970670494595e2a973742279a6109d1e60fd551a4611d236",
+      "rounded_caller": {
+        "bounds": {
+          "E_joint_entrance": {
+            "exact": "12715471009108111100579093147263175852312943623748432032619296073389546726006361640736280856622081858285997166275182047955976007825558991485392091794941493072461490679162232257819837374824949010051012440332918850042309908539578780006208851749375934656724755644062911507248145830219740048795478535743985436829048143196805400703663362417119303685436398923855463024111579956157447265054422811967556223397541625204825397/51455855588359727023498513612800000000000000000000000000000000000000000000000",
+            "strict_power_of_two": 1125,
+            "witness": {
+              "cut": 4691,
+              "event": 4691,
+              "factor": "1",
+              "kind": "stored",
+              "register": 36
+            }
+          },
+          "Gamma_context": {
+            "exact": "328155816745598422142864053106350973991959800622215559904367970817812262699578030642347105696253824890878429253953588784156304159089003475742621539467279595883160946307638473239559580170925988302322295832051491496652457521281955833915264003863531823617341843313700753961907186300194956429712303758718113917904049875081116666661014005473856229861090642333692116210314738805936505021549497983039146823113176458837510887/38591891691269795267623885209600000000000000000000000000000000000000000000000",
+            "strict_power_of_two": 1130,
+            "witness": {
+              "cut": 4783,
+              "factor": "1",
+              "kind": "public-return",
+              "register": 37
+            }
+          },
+          "M_caller": {
+            "exact": "321214676655933560129782836030951119958622429471431692811117505066079252658303325303661828534046786576018850667853596288128047313819788006911616028348392581085050721023636971054851673799947587501432346122953175312809813833001587100311020687804583808767060460431114911369649528995555025426696059541/456139469146728515625000000",
+            "strict_power_of_two": 897,
+            "witness": {
+              "cut": 4751,
+              "event": 4750,
+              "factor": "1",
+              "kind": "stored",
+              "register": 37
+            }
+          },
+          "M_context": {
+            "exact": "6040601584321151294438509389152972707468081024692566123467798779101338013721846043705586864284496061937963521693300998686878003148689049324473715837959344714529266841968735172740343402034264827659566806432158286330100122411326264807661631656880558771745434823194120327587452672504712742262464693998396571498794434578245041742460655212522129818001452056891607195685856834428076543157435631759150412601722927348173125546113/68607807451146302697998018150400000000000000000000000000000000000000000000000",
+            "strict_power_of_two": 1143,
+            "witness": {
+              "cut": 4692,
+              "event": 4691,
+              "factor": "1",
+              "kind": "stored",
+              "register": null
+            }
+          },
+          "M_joint_entrance": {
+            "exact": "12446513821466013746992171114880354528234540647439407368041740746722705684890095694539586093101687855496797040728247169012299728404791642365323413178973703529222728715961384485250463009966565309368602073434714550373752128374887698957802006867751735225949803848812917591840288770078529478244705471/608185958862304687500000000",
+            "strict_power_of_two": 892,
+            "witness": {
+              "cut": 4691,
+              "event": 4691,
+              "factor": "1",
+              "kind": "stored",
+              "register": 36
+            }
+          },
+          "Sigma_caller": {
+            "exact": "328155816745598422142864053106350973991959800622215559904367970817812262699578030642347105696253824890878429253953588784156304159089003475742621539467279595883160946307638473239559580170925988302322295832051491496652457521281955833915264003863531823617341843313700753961907186300194956429712303758718113917904049875081116666661014005473856229861090642333692116210314738805936505021549497983039146823113176458837510887/38591891691269795267623885209600000000000000000000000000000000000000000000000",
+            "strict_power_of_two": 1130,
+            "witness": {
+              "cut": 4753,
+              "event": 4752,
+              "factor": "1",
+              "kind": "stored",
+              "register": 37
+            }
+          },
+          "Sigma_context": {
+            "exact": "6171133172289456249547691679753942974963564579763152468080484202926258099197198023712786805149045186635138765124173784443675151727560052810785571653932960307847270296667469154516079802831813434705283008596754832039128968812931143379360554289328713134230674266957822572925747462634991252209231508622719377367567505230819186477233630318930495267641519986880937629740226144744423518841558177125518146218694923863422481303573786807679197338267381543166069040434123142314418338191890748420176844629725163298726378676733367889524137361902435454091/5804595421841102023202019812581919588755819315516621298073600000000000000000000000000000000000000000000000000000000000000000000",
+            "strict_power_of_two": 1376,
+            "witness": {
+              "cut": 4692,
+              "event": 4691,
+              "factor": "1",
+              "kind": "stored",
+              "register": null
+            }
+          }
+        },
+        "fresh_arbitrary_helpers": 18462,
+        "helper_allocation_premise": "distinct (stage, helper) public inputs as in frozen caller proof",
+        "independent_adjoint": {
+          "E_joint_entrance": {
+            "entrance_mass": "12446513821466013746992171114880354528234540647439407368041740746722705684890095694539586093101687855496797040728247169012299728404791642365323413178973703529222728715961384485250463009966565309368602073434714550373752128374887698957802006867751735225949803848812917591840288770078529478244705471/608185958862304687500000000",
+            "joint_coefficient": "144218124282401204617230263054514744346632405857442589144991781917530152132889870002846209306787762894150543865356389849084238452276894627352790762454037345126994351979907477144401257368423063007427271766117739822282248246858569624239109891511459830034432108241771054783468611278140179030295737/14596463012695312500000000000",
+            "primitive_coefficient": "1237373204913668966810008103424843603237049842106979534739539344726881600855129275554334885562896567825503574055929527662143657491595081161117482238618339640110136792453314323518006796600687371906278112102741547626404362403105174332310591538741639237757093806525664195341657589882317257470101709011/175157556152343750000000000000",
+            "residual_mass": "12715471009108111100579093147263175852312943623748432032619296073389546726006361640736280856622081858285997166275182047955976007825558991485392091794941493072461490679162232257819837374824949010051012440332918850042309908539578780006208851749375934656724755644062911507248145830219740048795478535743985436829048143196805400703663362417119303685436398923855463024111579956157447265054422811967556223397541625204825397/51455855588359727023498513612800000000000000000000000000000000000000000000000"
+          },
+          "Gamma_context": {
+            "entrance_mass": "321214676655933560129782836030951119958622429471431692811117505066079252658303325303661828534046786576018850667853596288128047313819788006911616028348392581085050721023636971054851673799947587501432346122953175312809813833001587100311020687804583808767060460431114911369649528995555025426696059541/456139469146728515625000000",
+            "joint_coefficient": "3721923971948022264020008386608472289590988528157114268392412469599050143495508978788641788787976594161440706214373829555996384554677122174093932095769106055424540710380314024651007332164525664382203471694821380954416641216321248248752759218861172626274920078125266851782731337714997593665899027/10947347259521484375000000000",
+            "primitive_coefficient": "31933635363307317503891208167952125518099265598871297188945655447689887409437080424471754322893069036961252717295444311531802702290424391181977246033332095685934810861449534911850277930109610390733877602745069385156892357266512877411313922547610591253415658016844390796379192959369382262182067424881/131368167114257812500000000000",
+            "residual_mass": "328155816745598422142864053106350973991959800622215559904367970817812262699578030642347105696253824890878429253953588784156304159089003475742621539467279595883160946307638473239559580170925988302322295832051491496652457521281955833915264003863531823617341843313700753961907186300194956429712303758718113917904049875081116666661014005473856229861090642333692116210314738805936505021549497983039146823113176458837510887/38591891691269795267623885209600000000000000000000000000000000000000000000000"
+          },
+          "M_caller": {
+            "entrance_mass": "321214676655933560129782836030951119958622429471431692811117505066079252658303325303661828534046786576018850667853596288128047313819788006911616028348392581085050721023636971054851673799947587501432346122953175312809813833001587100311020687804583808767060460431114911369649528995555025426696059541/456139469146728515625000000",
+            "joint_coefficient": "3721923971948022264020008386608472289590988528157114268392412469599050143495508978788641788787976594161440706214373829555996384554677122174093932095769106055424540710380314024651007332164525664382203471694821380954416641216321248248752759218861172626274920078125266851782731337714997593665899027/10947347259521484375000000000",
+            "primitive_coefficient": "31933635363307317503891208167952125518099265598871297188945655447689887409437080424471754322893069036961252717295444311531802702290424391181977246033332095685934810861449534911850277930109610390733877602745069385156892357266512877411313922547610591253415658016844390796247824792255124449682067424881/131368167114257812500000000000",
+            "residual_mass": "328155816745598422142864053106350973991959800622215559904367970817812262699578030642347105696253824890878429253953588784156304159089003475742621539467279595883160946307638473239559580170925988302322295832051491496652457521281955833915264003863531823617341843313700753961907186300194956429712303758718113917904049875081116666661014005473856191269198951063896848586429529205936505021549497983039146823113176458837510887/38591891691269795267623885209600000000000000000000000000000000000000000000000"
+          },
+          "M_joint_entrance": {
+            "entrance_mass": "12446513821466013746992171114880354528234540647439407368041740746722705684890095694539586093101687855496797040728247169012299728404791642365323413178973703529222728715961384485250463009966565309368602073434714550373752128374887698957802006867751735225949803848812917591840288770078529478244705471/608185958862304687500000000",
+            "joint_coefficient": "144218124282401204617230263054514744346632405857442589144991781917530152132889870002846209306787762894150543865356389849084238452276894627352790762454037345126994351979907477144401257368423063007427271766117739822282248246858569624239109891511459830034432108241771054783468611278140179030295737/14596463012695312500000000000",
+            "primitive_coefficient": "1237373204913668966810008103424843603237049842106979534739539344726881600855129275554334885562896567825503574055929527662143657491595081161117482238618339640110136792453314323518006796600687371906278112102741547626404362403105174332310591538741639237757093806525664195341657589882317257470101709011/175157556152343750000000000000",
+            "residual_mass": "12715471009108111100579093147263175852312943623748432032619296073389546726006361640736280856622081858285997166275182047955976007825558991485392091794941493072461490679162232257819837374824949010051012440332918850042309908539578780006208851749375934656724755644062911507248145830219740048795478535743985436829048143196805400703663362417119303685436398923855463024111579956157447265054422811967556223397541625204825397/51455855588359727023498513612800000000000000000000000000000000000000000000000"
+          },
+          "Sigma_caller": {
+            "entrance_mass": "321214676655933560129782836030951119958622429471431692811117505066079252658303325303661828534046786576018850667853596288128047313819788006911616028348392581085050721023636971054851673799947587501432346122953175312809813833001587100311020687804583808767060460431114911369649528995555025426696059541/456139469146728515625000000",
+            "joint_coefficient": "3721923971948022264020008386608472289590988528157114268392412469599050143495508978788641788787976594161440706214373829555996384554677122174093932095769106055424540710380314024651007332164525664382203471694821380954416641216321248248752759218861172626274920078125266851782731337714997593665899027/10947347259521484375000000000",
+            "primitive_coefficient": "31933635363307317503891208167952125518099265598871297188945655447689887409437080424471754322893069036961252717295444311531802702290424391181977246033332095685934810861449534911850277930109610390733877602745069385156892357266512877411313922547610591253415658016844390796379192959369382262182067424881/131368167114257812500000000000",
+            "residual_mass": "328155816745598422142864053106350973991959800622215559904367970817812262699578030642347105696253824890878429253953588784156304159089003475742621539467279595883160946307638473239559580170925988302322295832051491496652457521281955833915264003863531823617341843313700753961907186300194956429712303758718113917904049875081116666661014005473856229861090642333692116210314738805936505021549497983039146823113176458837510887/38591891691269795267623885209600000000000000000000000000000000000000000000000"
+          }
+        },
+        "joint_entries": [
+          {
+            "entrance_defect": "1435/4",
+            "entrance_mass": "2067/2",
+            "event": 43,
+            "stage": 1
+          },
+          {
+            "entrance_defect": "151244568502426707490749058135054634545222146082295584498780136718547651025432457432307836224443807881042330533440077681831055667/1101633653123830835451002880000000000000000000000",
+            "entrance_mass": "56849465528/5",
+            "event": 137,
+            "stage": 2
+          },
+          {
+            "entrance_defect": "229799791987522402074103649752313128630524573034902629888030596205352616816433247229134577586856053427363787566928989190684429715972372237747/105756830699887760203296276480000000000000000000000",
+            "entrance_mass": "899756300051784928313/5",
+            "event": 268,
+            "stage": 3
+          },
+          {
+            "entrance_defect": "214036571133155658359956340724370356329120093435088508658905516643999107354163251510033529553486707118485994162173509547136906331003971773748630809971/105756830699887760203296276480000000000000000000000",
+            "entrance_mass": "2514111326902273689027625979152/15",
+            "event": 432,
+            "stage": 4
+          },
+          {
+            "entrance_defect": "43722837859670428817249899716581828464425147701588818817517270016966145532767843285721214778314792807180211417009655769948030797684584840618009295707322467349541/105756830699887760203296276480000000000000000000000",
+            "entrance_mass": "513576167499541081817002847690160861158177/15",
+            "event": 633,
+            "stage": 5
+          },
+          {
+            "entrance_defect": "4186461049472264648653080707601012117463773739267610964574939660781031683795303488815192764129074488164462742277980231754168846959531419385866736573732826406948674319495969/1586352460498316403049444147200000000000000000000000",
+            "entrance_mass": "49174910102467876864090432969907258581035345395534834/225",
+            "event": 867,
+            "stage": 6
+          },
+          {
+            "entrance_defect": "446507442702807526347986664286141257052494913207964866843338655861575000589132031848753084178426021509416632667062137797983829811893521949386798989089107752761484487051079477608566319/176261384499812933672160460800000000000000000000000",
+            "entrance_mass": "47202796791779792903787260464709452698419616298153732189406926691/225",
+            "event": 1138,
+            "stage": 7
+          },
+          {
+            "entrance_defect": "130004834227234056906385120468262509864628724125662358126396760433810219796547198716148752007461415544585684327994285265226220500120595714740123581371091111432364566227590754175946862103725596050855001/198294057562289550381180518400000000000000000000000000",
+            "entrance_mass": "1527059719525243651854937925515623170877847518562264265010551055991429949116792541/28125",
+            "event": 1423,
+            "stage": 8
+          },
+          {
+            "entrance_defect": "46362682510864017354930902081557346702266078124878352893191720033209192274050944640627086972661191061430650822490939882169759324222805556065933192939070551892915231381954702365115453843255618874322012479495986884780124382797767551242796618735012164322402856225932015438650860669439281840771305755852761227338182427142513260398475890621/228692691503821008993326727168000000000000000000000000000000000000000000000",
+            "entrance_mass": "45382020709918266925583064268574418985484021788023395083741971786893952543604385214817042722264713249357732585113211736557042182118473445437784492974844696068231496289005681248244219743195326431922663592509646282903/2703048706054687500000000",
+            "event": 3058,
+            "stage": 9
+          },
+          {
+            "entrance_defect": "17629474424221462209882335469552394668973722835756890795914504732419920866463393365330367478943906676287540582180394873321384304595103722887153583931876140825357984812522201114390370634037897733036679333209075265144299990437754254498888019918808498029447489945901133411756334319865467564720772809123446373117377795982983831680459844795850366199819759/5717317287595525224833168179200000000000000000000000000000000000000000000000",
+            "entrance_mass": "17256576412236653193246225901973714737195067836439327666112948810725372605325768521068989782195051084826433423902219365061463548934152577319772447024097669813834215493691840531234110147024064996639957180865886380686899413865699437/67576217651367187500000000",
+            "event": 3377,
+            "stage": 10
+          },
+          {
+            "entrance_defect": "8410771991045401211431331060328300240192117727012622086644262613862872456243597335330934098093052628528999468926741311563824705807830755340598392511669677861444523275387211336427829187114251946528596562494541789908155127295050022851621491858982524309076504710228311663092664675279513786379881673476626260223201311022863623068774492609124191395251949516328119221/190577242919850840827772272640000000000000000000000000000000000000000000000",
+            "entrance_mass": "8232867642949280967953864719378369729636081542640965177026582834276172086852779069019078166383458700724373015543641299678854718814560615654710102550769670203427726502361438450768012893674227975469242856299447027845030556012745339827937032703/2252540588378906250000000",
+            "event": 3674,
+            "stage": 11
+          },
+          {
+            "entrance_defect": "105693234871843937078026110167069862655327905524551357991046200281472012770308999704118365024505880892031200608389111577919892365670113185321458686488838326172200302454728425499649165948375327906801824623470851178099285381327077651400287471802464713107053451834669224709975055414852077725258882891456102451854643641157121130959179902675752293395763172078453253873261651186517/25727927794179863511749256806400000000000000000000000000000000000000000000000",
+            "entrance_mass": "103457615351059805192637231353494210876529187337645013912367786609511281374638184501291799844537790265462481580051228205479278831706979374022592427678836083146990308179368316797029946556942233864286312243671687806427572314354434738422294564686254956597631/304092979431152343750000000",
+            "event": 3934,
+            "stage": 12
+          },
+          {
+            "entrance_defect": "6961946128724502208003744974195567580943925243343799765602883536120888122133924487752942675476236755263176012293489901818857255613160751692035441933331575949734492976938920364341736810055725250463208829681226330288302361841474925370306855628785939966105486024525637055282919460096175426899143848663037203048335052219281018884545771656663930305991770890881036424618982699309482993173/6431981948544965877937314201600000000000000000000000000000000000000000000000",
+            "entrance_mass": "6814687293408352348961376609223100753789665399854180217091951198766673494955017243489117504312576625705862588971333049204842152193259763726092611947454717867967563820647006231530855513792517852570389360287582421241328472893443552787136426885585158158296407747039/76023244857788085937500000",
+            "event": 4149,
+            "stage": 13
+          },
+          {
+            "entrance_defect": "279602710738463089317901706886567023886543280631154426075497488786571664932163789820138781595835073391403734132443019157761080663077473441867876352091934853158001421209341973837123252820268555831978091361108508698751939731100716744368519959356800920057693056959835695674637069014339273822223029122285364198128042867528883598749663971654204611622537868266870387876969417117568015361509764566237/51455855588359727023498513612800000000000000000000000000000000000000000000000",
+            "entrance_mass": "273688564209132230699064882255651065961520374651451250325109091529813162250488973700796593555467744131430272845604649750549608356985710665121874068107850799585492748533787927289567936649257940207702597871193107311090132538524151482351564937285621850171994049078063458209591/608185958862304687500000000",
+            "event": 4337,
+            "stage": 14
+          },
+          {
+            "entrance_defect": "5343812738035439545744645696325773131648717287277571255613612813265161856871291914080468074363638960775273559006335483751338394202087633497071069432407126334572673627327643065929211038428080947646679131645560021361190996473656949636264171066262054316932277795814331539682882198654262819446954316307578029101584236828978055628742484224766537184832920226518917480393461981648473078894870867539532482527/25727927794179863511749256806400000000000000000000000000000000000000000000000",
+            "entrance_mass": "5230780602279043381317572379439763694807653157987526423412516241866438709931406455512285461654380762978554988724296151241130161368896505647624919395909388513302452136334767445346454946237326490486725295589968816639097338790755366202380875008783642473174121062695038054202858248061/304092979431152343750000000",
+            "event": 4485,
+            "stage": 15
+          },
+          {
+            "entrance_defect": "5915549593989515232230726670821979150843544775228971553961301689857924193143665309221528250189359092622178313470888284238837283339172808927299210025380201939451006163227983439249604505769917630692263107607393482816377927904284856167962414753698244131027491591261879951251151834280750466569793335263931194162610193855860066760740916771690652402595983691049131525552995077533569025894032777042463232827530692741/51455855588359727023498513612800000000000000000000000000000000000000000000000",
+            "entrance_mass": "5790424100720951765768300756324298709533962301792798636386692749870979029496708556989270788662796627612885676197810930990877069943243536093513215980405080279750566239442965631097385199413957318608000177913047677092759213914423460784984181631621622445055356552059259436283593839861423838063/608185958862304687500000000",
+            "event": 4606,
+            "stage": 16
+          },
+          {
+            "entrance_defect": "12715471009108111100579093147263175852312943623748432032619296073389546726006361640736280856622081858285997166275182047955976007825558991485392091794941493072461490679162232257819837374824949010051012440332918850042309908539578780006208851749375934656724755644062911507248145830219740048795478535743985436829048143196805400703663362417119303685436398923855463024111579956157447265054422811967556223397541625204825397/51455855588359727023498513612800000000000000000000000000000000000000000000000",
+            "entrance_mass": "12446513821466013746992171114880354528234540647439407368041740746722705684890095694539586093101687855496797040728247169012299728404791642365323413178973703529222728715961384485250463009966565309368602073434714550373752128374887698957802006867751735225949803848812917591840288770078529478244705471/608185958862304687500000000",
+            "event": 4691,
+            "stage": 17
+          }
+        ],
+        "physical_main_inputs": 3744,
+        "sites": {
+          "ADD": 4126,
+          "IDLE_ODD": 4,
+          "IDLE_ONE": 90,
+          "J": 17,
+          "LAMBDA": 178,
+          "QUERY": 4,
+          "SCALE": 312,
+          "SWAP": 52,
+          "noninteger_scalar": 1752
+        }
+      },
+      "rounded_native": {
+        "bounds": {
+          "Gamma": {
+            "exact": "88168328858647952054963666427299547305812641596015164039076520451733988902777704759754595104512241073419573625058121881181/3525227689996258673443209216000000000000000000000",
+            "strict_power_of_two": 244,
+            "witness": {
+              "cut": 72844,
+              "factor": "1",
+              "kind": "public-return",
+              "register": 1483
+            }
+          },
+          "M": {
+            "exact": "485324780172835456261854624787920487522321006973239708733546300028789119205533411145538029308361356302332359968132614265600703/112807286079880277550182694912000000000000000000000",
+            "strict_power_of_two": 252,
+            "witness": {
+              "cut": 72504,
+              "factor": "1",
+              "kind": "stored",
+              "register": 1483
+            }
+          },
+          "Sigma": {
+            "exact": "88168328858647952054963666427299547305812641596015164039076520451733988902777704759754595104512241073419573625058121881181/3525227689996258673443209216000000000000000000000",
+            "strict_power_of_two": 244,
+            "witness": {
+              "cut": 72504,
+              "factor": "1",
+              "kind": "stored",
+              "register": 1483
+            }
+          }
+        },
+        "census": {
+          "denominator_bits": 20,
+          "events": 72844,
+          "lifetimes": 54,
+          "max_denominator": 655360,
+          "max_numerator": 14729531,
+          "numerator_bits": 24,
+          "opcodes": {
+            "ADD": 62772,
+            "CLEAR": 54,
+            "COPY": 1,
+            "INIT": 54,
+            "MOVE": 6287,
+            "SCALE": 3676
+          },
+          "owned_labels": 51,
+          "peak_owned": 43,
+          "public": 1486,
+          "scalars": {
+            "dyadic": 61163,
+            "integer": 39211,
+            "noninteger": 27238,
+            "odd": 5286
+          }
+        },
+        "independent_adjoint": {
+          "Gamma": {
+            "active_residual_sites": 25674,
+            "entrance_mass": "485324780172835456261854624787920487522321006973239708733546300028789119205533411145538029308361356302332359968132614265600703/112807286079880277550182694912000000000000000000000",
+            "residual_mass": "88168328858647952054963666427299547305812641596015164039076520451733988902777704759754595104512241073419573625058121881181/3525227689996258673443209216000000000000000000000"
+          },
+          "M": {
+            "active_residual_sites": 25674,
+            "entrance_mass": "485324780172835456261854624787920487522321006973239708733546300028789119205533411145538029308361356302332359968132614265600703/112807286079880277550182694912000000000000000000000",
+            "residual_mass": "88168328858647952054963666427299547305812641596015164039076520451733988902777704759754595104512241073419573625058121881181/3525227689996258673443209216000000000000000000000"
+          },
+          "Sigma": {
+            "active_residual_sites": 25674,
+            "entrance_mass": "485324780172835456261854624787920487522321006973239708733546300028789119205533411145538029308361356302332359968132614265600703/112807286079880277550182694912000000000000000000000",
+            "residual_mass": "88168328858647952054963666427299547305812641596015164039076520451733988902777704759754595104512241073419573625058121881181/3525227689996258673443209216000000000000000000000"
+          }
+        }
+      },
+      "scope": "Fixed integer Laurent grid with charged odd caller scale, and pinned attributed forward/adjoint all-fibre defect engine applied to the emitted 17-stage caller. Each LAMBDA, QUERY and signed/unsigned idle is one unitary with one child defect. The caller allocation assumes independent stage helpers. Full physical application remains separate."
+    },
+    "ODD-TYPE-AB-REPLAY.json": {
+      "caller_sha256": "255d89f38cd45e38e5770f559bc43dc217e989032359768cdc7e8cdfd64b47bc",
+      "paid": {
+        "1": 68860,
+        "16": 416,
+        "2": 14331,
+        "24": 416,
+        "3": 13906,
+        "32": 416,
+        "4": 4046,
+        "40": 416,
+        "48": 416,
+        "5": 5559,
+        "56": 416,
+        "6": 272,
+        "64": 208,
+        "7": 187,
+        "8": 758,
+        "9": 32
+      },
+      "raw_bracket": [
+        "363900665394133313640894304318937/100000000000000000000000000000000000",
+        "181950332697066656820447152159469/50000000000000000000000000000000000"
+      ],
+      "replay": {
+        "bad_outputs": [],
+        "caller_denominator_height_bound": 578,
+        "caller_mass_bound": "854474036861847560509026474008040300059938928517783661039773198072080884690114508581583887358835968277340425788985297793555303569703690223623950838857161290503004459697662544865276977234864184443860251086668962688762176068520364648820282528496698239206689277049335412289161443623602012468587331439851515703/168151253906250000000000000000000",
+        "caller_mass_ceiling_bits": 910,
+        "max_terms": 3752
+      },
+      "scope": "Exact emitted signed Laurent caller endpoint and recomputed native/caller paid and target profiles. Physical address bindings, independent branch-source composition, ordinary units, precision and outer gates are still required.",
+      "shape": [
+        8,
+        9
+      ],
+      "source_word_sha256": "ff51fcc949bc50a31230a784822ab6f0d079c9102abf22c75746b2b5cdd09553",
+      "target": {
+        "1": 238,
+        "137": 208,
+        "17": 416,
+        "2": 306,
+        "25": 416,
+        "3": 782,
+        "33": 416,
+        "4": 3723,
+        "41": 416,
+        "49": 416,
+        "5": 1207,
+        "57": 416,
+        "6": 714,
+        "65": 416,
+        "7": 306,
+        "73": 208,
+        "8": 935,
+        "9": 10667
+      }
+    }
+  },
+  "claim": "3639006653941/1000000000000000",
+  "price": {
+    "after": {
+      "P": {
+        "1": 68860,
+        "2": 14331,
+        "3": 13906,
+        "4": 4046,
+        "5": 5559,
+        "6": 272,
+        "7": 187,
+        "8": 758,
+        "9": 32,
+        "16": 416,
+        "24": 416,
+        "32": 416,
+        "40": 416,
+        "48": 416,
+        "56": 416,
+        "64": 208
+      },
+      "S": 1424,
+      "T": {
+        "1": 238,
+        "2": 306,
+        "3": 782,
+        "4": 3723,
+        "5": 1207,
+        "6": 714,
+        "7": 306,
+        "8": 935,
+        "9": 10667,
+        "17": 416,
+        "25": 416,
+        "33": 416,
+        "41": 416,
+        "49": 416,
+        "57": 416,
+        "65": 416,
+        "73": 208,
+        "137": 208
+      },
+      "empty_root_credits": 0,
+      "no_E_credit_crossing": "0.0036390066539413331364089430431893729499273475608574119465525122449",
+      "raw_crossing": "0.0036390066539413331364089430431893729499273475608574119465525122449"
+    },
+    "before": {
+      "P": {
+        "1": 68860,
+        "2": 14331,
+        "3": 13889,
+        "4": 4029,
+        "5": 5559,
+        "6": 272,
+        "7": 204,
+        "8": 758,
+        "9": 32,
+        "16": 416,
+        "24": 416,
+        "32": 416,
+        "40": 416,
+        "48": 416,
+        "56": 416,
+        "64": 208
+      },
+      "S": 1424,
+      "T": {
+        "1": 238,
+        "2": 306,
+        "3": 782,
+        "4": 3689,
+        "5": 1207,
+        "6": 714,
+        "7": 306,
+        "8": 952,
+        "9": 10667,
+        "17": 416,
+        "25": 416,
+        "33": 416,
+        "41": 416,
+        "49": 416,
+        "57": 416,
+        "65": 416,
+        "73": 208,
+        "137": 208
+      },
+      "empty_root_credits": 0,
+      "no_E_credit_crossing": "0.0036388859997098507738846037035137456073258794909424591024447765685",
+      "raw_crossing": "0.0036388859997098507738846037035137456073258794909424591024447765685"
+    },
+    "caller_sha256": "255d89f38cd45e38e5770f559bc43dc217e989032359768cdc7e8cdfd64b47bc",
+    "controls": {
+      "extra_paid_rank1": {
+        "brackets": [
+          [
+            "-49999999993530507702743570110005980518788625561587921439199425243/50000000000000000000000000000000000000000000000000000000000000000",
+            "-99999999987061015405487140220011961037577251123175842878398361419/100000000000000000000000000000000000000000000000000000000000000000"
+          ],
+          [
+            "-49999999993530507702743570110005980518788625561587921439199286593070224554689651/50000000000000000000000000000000000000000000000000000000000000000000000000000000",
+            "-99999999987061015405487140220011961037577251123175842878398573186140449074976827/100000000000000000000000000000000000000000000000000000000000000000000000000000000"
+          ]
+        ],
+        "point": "3639006653941/1000000000000000"
+      },
+      "new_hi": {
+        "brackets": [
+          [
+            "-273824112259379511085665908785665059/100000000000000000000000000000000000000000000000000000000000000000",
+            "-13691205612968975554283295439258133/5000000000000000000000000000000000000000000000000000000000000000"
+          ],
+          [
+            "-68456028064844877771416477196365387508874172579601/25000000000000000000000000000000000000000000000000000000000000000000000000000000",
+            "-136912056129689755542832954392730775017748328167427/50000000000000000000000000000000000000000000000000000000000000000000000000000000"
+          ]
+        ],
+        "point": "181950332697066656820447152159469/50000000000000000000000000000000000"
+      },
+      "new_lo": {
+        "brackets": [
+          [
+            "14321860160122842625597635528691089/12500000000000000000000000000000000000000000000000000000000000000",
+            "114574881280982741004781084230030487/100000000000000000000000000000000000000000000000000000000000000000"
+          ],
+          [
+            "114574881280982741004781084229790273398610087469033/100000000000000000000000000000000000000000000000000000000000000000000000000000000",
+            "7160930080061421312798817764361892087413132605117/6250000000000000000000000000000000000000000000000000000000000000000000000000000"
+          ]
+        ],
+        "point": "363900665394133313640894304318937/100000000000000000000000000000000000"
+      },
+      "new_tested": {
+        "brackets": [
+          [
+            "10220191639730320686824096025651041022508498334451132233/100000000000000000000000000000000000000000000000000000000000000000",
+            "2555047909932580171706024006412760255627124583612905741/25000000000000000000000000000000000000000000000000000000000000000"
+          ],
+          [
+            "1277523954966290085853012003206380127813562291806421834295202049084667/12500000000000000000000000000000000000000000000000000000000000000000000000000000",
+            "1277523954966290085853012003206380127813562291806421834295202053362903/12500000000000000000000000000000000000000000000000000000000000000000000000000000"
+          ]
+        ],
+        "point": "363900665394107/100000000000000000"
+      },
+      "old_at_claim": {
+        "brackets": [
+          [
+            "-2343176623626074729180946288857040029182781121676352479444765517/50000000000000000000000000000000000000000000000000000000000000000",
+            "-1171588311813037364590473144428520014591390560838176239722260479/25000000000000000000000000000000000000000000000000000000000000000"
+          ],
+          [
+            "-2343176623626074729180946288857040029182781121676352479444626826339735952048517/50000000000000000000000000000000000000000000000000000000000000000000000000000000",
+            "-187454129890085978334475703108563202334622489734108198355570146107178874787693/4000000000000000000000000000000000000000000000000000000000000000000000000000000"
+          ]
+        ],
+        "point": "3639006653941/1000000000000000"
+      },
+      "old_hi": {
+        "brackets": [
+          [
+            "-2112676411846954011502292993409392741/100000000000000000000000000000000000000000000000000000000000000000",
+            "-2112676411846954011502292993408899279/100000000000000000000000000000000000000000000000000000000000000000"
+          ],
+          [
+            "-264084551480869251437786624176139097179032354834431/12500000000000000000000000000000000000000000000000000000000000000000000000000000",
+            "-2112676411846954011502292993409112777432258804359209/100000000000000000000000000000000000000000000000000000000000000000000000000000000"
+          ]
+        ],
+        "point": "18194429998549253869423018517569/5000000000000000000000000000000000"
+      },
+      "old_lo": {
+        "brackets": [
+          [
+            "885721497894576064775344417730441673/50000000000000000000000000000000000000000000000000000000000000000",
+            "1771442995789152129550688835461385571/100000000000000000000000000000000000000000000000000000000000000000"
+          ],
+          [
+            "88572149789457606477534441773058109902530376625939/5000000000000000000000000000000000000000000000000000000000000000000000000000000",
+            "442860748947288032387672208865290549512651891774999/25000000000000000000000000000000000000000000000000000000000000000000000000000000"
+          ]
+        ],
+        "point": "36388859997098507738846037035137/10000000000000000000000000000000000"
+      }
+    },
+    "gain": "15081779/125000000000000",
+    "gate": {
+      "BIT_margin": "12768334605893/100000000000000000",
+      "BIT_pin": "376669/100000000",
+      "H": "16487800000000000000000",
+      "alpha": [
+        0.9999999999999997,
+        0.9999999999999997
+      ],
+      "claim": "3639006653941/1000000000000000",
+      "compiler_gap": "1/100000000000000000",
+      "delta": [
+        0.899283897038702,
+        0.899283897038702
+      ],
+      "derivative_upper": -382339.8214450107,
+      "gamma": [
+        0.9407507753264809,
+        0.9407507753264809
+      ],
+      "input_lift": {
+        "derivative_upper_on_required_interval": "-2299831290525933154178526076272396899996972093654613095735772838275432653960006518819/2500000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+        "interval_kappa_cap": "376669/100000000",
+        "margins": {
+          "3639006653941/1000000000000000": [
+            "124163982961579478418257595886860084781359610564111420873203020218715865507987/100000000000000000000000000000000000000000000000000000000000000000000000000000000",
+            "124163982961579478418257595886860084781359610564111420873203020218715865509933/100000000000000000000000000000000000000000000000000000000000000000000000000000000"
+          ],
+          "363900665394107/100000000000000000": [
+            "2483279659231635302165962351610473713695032199919561096204278743255749877127/2000000000000000000000000000000000000000000000000000000000000000000000000000000",
+            "124163982961581765108298117580523685684751609995978054810213937162787493858309/100000000000000000000000000000000000000000000000000000000000000000000000000000000"
+          ]
+        },
+        "source_BIT_wide_crude_bound_would_be": "-2299831290525933154178526076272396899996972093654613095735772838275432653960006518819/2500000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+      },
+      "minimum_log_power": 2233,
+      "moment_margin_float": {
+        "181950332697066656820447152159469/50000000000000000000000000000000000": [
+          -2.738241122593795e-30,
+          -2.738241122593795e-30
+        ],
+        "363900665394107/100000000000000000": [
+          1.0220191639730321e-10,
+          1.0220191639730321e-10
+        ],
+        "363900665394133313640894304318937/100000000000000000000000000000000000": [
+          1.1457488128098275e-30,
+          1.1457488128098275e-30
+        ]
+      },
+      "moment_margins": {
+        "181950332697066656820447152159469/50000000000000000000000000000000000": [
+          "-273824112259379511085665908785461550035496692475239/100000000000000000000000000000000000000000000000000000000000000000000000000000000",
+          "-273824112259379511085665908785461550035496654178019/100000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        ],
+        "363900665394107/100000000000000000": [
+          "2044038327946064137364819205130208204501699666890274934872323278097453/20000000000000000000000000000000000000000000000000000000000000000000000000000000",
+          "2044038327946064137364819205130208204501699666890274934872323285818659/20000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        ],
+        "363900665394133313640894304318937/100000000000000000000000000000000000": [
+          "22914976256196548200956216845958054679722017066699/20000000000000000000000000000000000000000000000000000000000000000000000000000000",
+          "11457488128098274100478108422979027339861012381741/10000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        ]
+      },
+      "outer": {
+        "BIT_just_below_effective_rejected": true,
+        "functional_count": 4,
+        "minimum_margin": "1/1000000000000000000",
+        "strict_count": 54
+      },
+      "raw_bracket": [
+        "363900665394133313640894304318937/100000000000000000000000000000000000",
+        "181950332697066656820447152159469/50000000000000000000000000000000000"
+      ],
+      "tested": "363900665394107/100000000000000000",
+      "written_log_power": 2234
+    },
+    "native_sha256": "ff51fcc949bc50a31230a784822ab6f0d079c9102abf22c75746b2b5cdd09553",
+    "old_claim": "3638885999709/1000000000000000",
+    "old_crossing_upper": "18194429998549253869423018517569/5000000000000000000000000000000000",
+    "raw_diagnostic": "0.00363900665394133313640894304318937294992734756030365565163511331086",
+    "relative_percent_gain": "12065423200/3638885999709"
+  },
+  "status": "PASS_CHART120_COMPOSED_APPLICATION"
+}
