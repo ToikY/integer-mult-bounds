@@ -1,0 +1,151 @@
+{
+  "maps": {
+    "checked": [
+      {
+        "exact_columns": 512,
+        "pair": [
+          3,
+          246
+        ],
+        "phase_control_rejected": true,
+        "rank": 8
+      },
+      {
+        "exact_columns": 512,
+        "pair": [
+          3,
+          259
+        ],
+        "phase_control_rejected": true,
+        "rank": 3
+      },
+      {
+        "exact_columns": 512,
+        "pair": [
+          259,
+          246
+        ],
+        "phase_control_rejected": true,
+        "rank": 5
+      }
+    ],
+    "composition_exact_columns": 512,
+    "new_ordered_pairs": [
+      [
+        259,
+        246
+      ]
+    ],
+    "status": "PASS_EXACT_CHANGED_CHART_MAPS_AND_COMPOSITION"
+  },
+  "native": {
+    "derived_grid": {
+      "coefficient_visits": 15003535,
+      "fractional_bits": 24,
+      "mass_witness": [
+        64739,
+        "stored"
+      ],
+      "odd_scale": 1125,
+      "scaled_maximum_mass": "1630603680282225/16384",
+      "unscaled_maximum_mass": "7247127467921/81920"
+    },
+    "grid_axes": 1541,
+    "grid_coefficient_positions": 2374681,
+    "integer_grid": {
+      "dyadic_height": 24,
+      "maximum_scaled_mass": "1630603680282225/16384",
+      "odd_divisions": {
+        "ADD": 5219,
+        "SCALE": 67
+      },
+      "odd_grid_lcm": 1125,
+      "opcodes": {
+        "ADD": 63602,
+        "CLEAR": 54,
+        "COPY": 1,
+        "INIT": 54,
+        "MOVE": 6291,
+        "SCALE": 3696
+      },
+      "owned_lifetimes": 54,
+      "owned_peak": 43,
+      "owned_rise_mass": 56,
+      "owned_rises": {
+        "1": 10,
+        "2": 4,
+        "3": 1,
+        "4": 6,
+        "5": 1,
+        "6": 1
+      },
+      "paid": {
+        "1": 4034,
+        "2": 841,
+        "3": 818,
+        "4": 240,
+        "5": 325,
+        "6": 16,
+        "7": 11,
+        "8": 6
+      }
+    },
+    "native": {
+      "bad_inputs": [],
+      "events": 73698,
+      "helpers": {
+        "1": 17,
+        "2": 18,
+        "3": 47,
+        "4": 219,
+        "5": 72,
+        "6": 42,
+        "7": 18,
+        "8": 57,
+        "9": 600
+      },
+      "lifetimes": 54,
+      "owned_peak": 43,
+      "paid": {
+        "1": 4034,
+        "2": 841,
+        "3": 818,
+        "4": 240,
+        "5": 325,
+        "6": 16,
+        "7": 11,
+        "8": 6
+      },
+      "public": 1490,
+      "rises": {
+        "1": 10,
+        "2": 4,
+        "3": 1,
+        "4": 6,
+        "5": 1,
+        "6": 1
+      }
+    },
+    "status": "PASS_FULL_NATIVE_ADJOINT_FORWARD_AND_PRECISION_GRID",
+    "wrong_cut_add_rejected": true
+  },
+  "source": "4f19c6ee57b74d7c3ea1863df0b33fe275a3a7511f77084f05726ee216ebdc34",
+  "status": "PASS_CHART259_PORTABLE_NATIVE_PHYSICAL",
+  "width": {
+    "chart_pairs": 2964,
+    "events": 73698,
+    "exact_vector_controls": 4,
+    "helper_bad": 0,
+    "helpers": 1090,
+    "main_bad": 0,
+    "main_ports": 104,
+    "prime": 1000000009,
+    "second_main_ports": 96,
+    "seed": 11,
+    "status": "PASS_WIDTH512_PHYSICAL",
+    "tableau_bad": 0,
+    "width": 512,
+    "wrong_sign_controls_matching": 0
+  },
+  "word": "0a27f1224fdb196602d52d4170bc12b8bde0b9818809e73ecdbdaaa5d3b7adbc"
+}

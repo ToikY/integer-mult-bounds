@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "status": "ready",
+  "python": "3.12",
+  "requirements": [],
+  "inputs": [],
+  "commands": [
+    {
+      "argv": [
+        "{python}",
+        "-I",
+        "-B",
+        "{package}/verify.py",
+        "physical"
+      ],
+      "timeout_seconds": 600,
+      "checks": "Reconstruct the literal candidate, check full exact native adjoint/forward/preproducts, changed chart maps and phase, and the physical width-512 stream."
+    },
+    {
+      "argv": [
+        "{python}",
+        "-I",
+        "-B",
+        "{package}/verify.py",
+        "composition"
+      ],
+      "timeout_seconds": 600,
+      "checks": "Replay the unchanged signed caller, paid and target invoices, both directed prices, fresh precision/occurrence/ordinary/fixed-tape budgets, full chart catalogue and 58 outer inequalities."
+    }
+  ]
+}
