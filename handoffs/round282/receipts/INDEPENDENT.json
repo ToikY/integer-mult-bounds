@@ -1,0 +1,407 @@
+{
+  "activity_guards": {
+    "ADD": 66321,
+    "CLEAR": 74,
+    "COPY": 1,
+    "INIT": 74,
+    "MOVE": 6279,
+    "SCALE": 3726
+  },
+  "caller_head": "07a76c5e2738882c0cb322278e56f6cae3c9885d",
+  "candidate": null,
+  "cap_seconds": 30,
+  "case_cap": 64,
+  "counters": {
+    "eligible_funded_routes": 0,
+    "matched_source_versions": 6,
+    "single_incoming_move_windows": 264
+  },
+  "direction_details": [
+    {
+      "charts": [
+        3,
+        2,
+        293,
+        3,
+        2,
+        304
+      ],
+      "first_gate": "non_nested_detour",
+      "key": [
+        31618,
+        31651,
+        259,
+        61
+      ],
+      "moves": [
+        31617,
+        31643,
+        31650,
+        31725
+      ],
+      "source_version": [
+        258,
+        31615
+      ]
+    },
+    {
+      "charts": [
+        3,
+        2,
+        304,
+        3,
+        2,
+        293
+      ],
+      "first_gate": "non_nested_detour",
+      "key": [
+        31618,
+        31651,
+        61,
+        259
+      ],
+      "moves": [
+        31650,
+        31725,
+        31617,
+        31643
+      ],
+      "source_version": [
+        258,
+        31615
+      ]
+    },
+    {
+      "charts": [
+        1088,
+        170,
+        127,
+        1026,
+        170,
+        127
+      ],
+      "first_gate": "different_exact_entry",
+      "key": [
+        42534,
+        43012,
+        1362,
+        1335
+      ],
+      "moves": [
+        42532,
+        46810,
+        43011,
+        47178
+      ],
+      "source_version": [
+        924,
+        42533
+      ]
+    },
+    {
+      "charts": [
+        1026,
+        170,
+        127,
+        1088,
+        170,
+        127
+      ],
+      "first_gate": "different_exact_entry",
+      "key": [
+        42534,
+        43012,
+        1335,
+        1362
+      ],
+      "moves": [
+        43011,
+        47178,
+        42532,
+        46810
+      ],
+      "source_version": [
+        924,
+        42533
+      ]
+    },
+    {
+      "charts": [
+        75,
+        261,
+        1091,
+        599,
+        261,
+        1091
+      ],
+      "first_gate": "different_exact_entry",
+      "key": [
+        36631,
+        38402,
+        991,
+        1346
+      ],
+      "moves": [
+        36629,
+        36660,
+        38401,
+        45663
+      ],
+      "source_version": [
+        994,
+        36630
+      ]
+    },
+    {
+      "charts": [
+        599,
+        261,
+        1091,
+        75,
+        261,
+        1091
+      ],
+      "first_gate": "different_exact_entry",
+      "key": [
+        36631,
+        38402,
+        1346,
+        991
+      ],
+      "moves": [
+        38401,
+        45663,
+        36629,
+        36660
+      ],
+      "source_version": [
+        994,
+        36630
+      ]
+    },
+    {
+      "charts": [
+        235,
+        518,
+        127,
+        234,
+        518,
+        127
+      ],
+      "first_gate": "different_exact_entry",
+      "key": [
+        37920,
+        38011,
+        1066,
+        1051
+      ],
+      "moves": [
+        37918,
+        54250,
+        38010,
+        54246
+      ],
+      "source_version": [
+        1020,
+        37919
+      ]
+    },
+    {
+      "charts": [
+        234,
+        518,
+        127,
+        235,
+        518,
+        127
+      ],
+      "first_gate": "different_exact_entry",
+      "key": [
+        37920,
+        38011,
+        1051,
+        1066
+      ],
+      "moves": [
+        38010,
+        54246,
+        37918,
+        54250
+      ],
+      "source_version": [
+        1020,
+        37919
+      ]
+    },
+    {
+      "charts": [
+        234,
+        518,
+        127,
+        498,
+        518,
+        127
+      ],
+      "first_gate": "different_exact_entry",
+      "key": [
+        38011,
+        38800,
+        1051,
+        1176
+      ],
+      "moves": [
+        38010,
+        54246,
+        38799,
+        51357
+      ],
+      "source_version": [
+        1020,
+        37919
+      ]
+    },
+    {
+      "charts": [
+        498,
+        518,
+        127,
+        234,
+        518,
+        127
+      ],
+      "first_gate": "different_exact_entry",
+      "key": [
+        38011,
+        38800,
+        1176,
+        1051
+      ],
+      "moves": [
+        38799,
+        51357,
+        38010,
+        54246
+      ],
+      "source_version": [
+        1020,
+        37919
+      ]
+    },
+    {
+      "charts": [
+        498,
+        518,
+        127,
+        516,
+        518,
+        127
+      ],
+      "first_gate": "different_exact_entry",
+      "key": [
+        38800,
+        38868,
+        1176,
+        1351
+      ],
+      "moves": [
+        38799,
+        51357,
+        38867,
+        48154
+      ],
+      "source_version": [
+        1020,
+        37919
+      ]
+    },
+    {
+      "charts": [
+        516,
+        518,
+        127,
+        498,
+        518,
+        127
+      ],
+      "first_gate": "different_exact_entry",
+      "key": [
+        38800,
+        38868,
+        1351,
+        1176
+      ],
+      "moves": [
+        38867,
+        48154,
+        38799,
+        51357
+      ],
+      "source_version": [
+        1020,
+        37919
+      ]
+    }
+  ],
+  "input_pins": {
+    "inputs/7113-CALLER.json": "255d89f38cd45e38e5770f559bc43dc217e989032359768cdc7e8cdfd64b47bc",
+    "inputs/7481-APPLICATION.json": "1d93fae969ff24ecb91bb4bee6af74daaa9ea99141bcf630a77eeb1a167b1799",
+    "inputs/7481-WORD.json.gz": "acee323696b18914bd863d55341f92112b48d3d1dc1443c276efb6c396fcc0a9",
+    "inputs/pricing.py": "f4d0b6c9314b838d882d6d06020f24881c19a3fda97a7c00df87b1e920785182"
+  },
+  "lead_disposition": "EXHAUSTED",
+  "lead_sha256": "cd6486cb69e5486bd0f2389250b8bbc8dc536257599c91bfa80f48934b94c0a6",
+  "native_sha256": "64fca675b91298868e12f09423b47e0c2327cba7095e35c8919c1953b4ed68b8",
+  "normalized_algebra_control": {
+    "signed_dyadic_shear_identity": true,
+    "wrong_decode_sign_rejected": true
+  },
+  "paired_source_versions": [
+    [
+      258,
+      31615,
+      31618,
+      31651
+    ],
+    [
+      924,
+      42533,
+      42534,
+      43012
+    ],
+    [
+      994,
+      36630,
+      36631,
+      38402
+    ],
+    [
+      1020,
+      37919,
+      37920,
+      38011
+    ],
+    [
+      1020,
+      37919,
+      38011,
+      38800
+    ],
+    [
+      1020,
+      37919,
+      38800,
+      38868
+    ]
+  ],
+  "positive_funded_price_control": [
+    "1174957667709239349523527503070250685646878212419/10000000000000000000000000000000000000000000000000",
+    "1174957667709239349523527503070581852518636438629/10000000000000000000000000000000000000000000000000"
+  ],
+  "rejections": {
+    "different_exact_entry": 10,
+    "non_nested_detour": 2
+  },
+  "status": "PASS_INDEPENDENT_SOURCE_HISTORY_SCREEN",
+  "tested": 0,
+  "unvisited": []
+}
