@@ -1,0 +1,230 @@
+{
+  "cap_seconds": 30,
+  "classes": {
+    "0": {
+      "disposition": "EXCLUDED_COLUMN_SUPPORT",
+      "sectors": {
+        "-1": {
+          "forbidden_rank": 2,
+          "forbidden_rows": 16,
+          "gram_determinant": "23177/256",
+          "lead_minor": {
+            "determinant": [
+              "1",
+              "0"
+            ],
+            "keys": [
+              [
+                36,
+                1,
+                [
+                  7
+                ]
+              ],
+              [
+                37,
+                1,
+                [
+                  7
+                ]
+              ]
+            ],
+            "rows": [
+              [
+                [
+                  "0",
+                  "-2"
+                ],
+                [
+                  "0",
+                  "1"
+                ]
+              ],
+              [
+                [
+                  "0",
+                  "5"
+                ],
+                [
+                  "0",
+                  "-2"
+                ]
+              ]
+            ]
+          }
+        },
+        "1": {
+          "forbidden_rank": 2,
+          "forbidden_rows": 16,
+          "gram_determinant": "23177/256",
+          "lead_minor": {
+            "determinant": [
+              "-1",
+              "0"
+            ],
+            "keys": [
+              [
+                36,
+                1,
+                [
+                  7
+                ]
+              ],
+              [
+                37,
+                1,
+                [
+                  7
+                ]
+              ]
+            ],
+            "rows": [
+              [
+                [
+                  "2",
+                  "0"
+                ],
+                [
+                  "-1",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "-5",
+                  "0"
+                ],
+                [
+                  "2",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "1": {
+      "disposition": "EXCLUDED_COLUMN_SUPPORT",
+      "sectors": {
+        "-1": {
+          "forbidden_rank": 2,
+          "forbidden_rows": 16,
+          "gram_determinant": "28553/256",
+          "lead_minor": {
+            "determinant": [
+              "-1",
+              "0"
+            ],
+            "keys": [
+              [
+                36,
+                0,
+                [
+                  7
+                ]
+              ],
+              [
+                37,
+                0,
+                [
+                  7
+                ]
+              ]
+            ],
+            "rows": [
+              [
+                [
+                  "-2",
+                  "0"
+                ],
+                [
+                  "1",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "5",
+                  "0"
+                ],
+                [
+                  "-2",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        },
+        "1": {
+          "forbidden_rank": 2,
+          "forbidden_rows": 16,
+          "gram_determinant": "28553/256",
+          "lead_minor": {
+            "determinant": [
+              "-1",
+              "0"
+            ],
+            "keys": [
+              [
+                36,
+                0,
+                [
+                  7
+                ]
+              ],
+              [
+                37,
+                0,
+                [
+                  7
+                ]
+              ]
+            ],
+            "rows": [
+              [
+                [
+                  "-2",
+                  "0"
+                ],
+                [
+                  "1",
+                  "0"
+                ]
+              ],
+              [
+                [
+                  "5",
+                  "0"
+                ],
+                [
+                  "-2",
+                  "0"
+                ]
+              ]
+            ]
+          }
+        }
+      }
+    }
+  },
+  "controls": {
+    "odd_phase_changes_by_sector": true,
+    "transpose_mutant_rejected": true
+  },
+  "cut": 1215,
+  "input_pins": {
+    "independent/check_stage7_independent.py": "7a26ecf8262efa2d6c570a452e84c461b3af8f8f83429dc5388ef15b1a3afb8d",
+    "inputs/7113-CALLER.json": "255d89f38cd45e38e5770f559bc43dc217e989032359768cdc7e8cdfd64b47bc",
+    "inputs/7481-APPLICATION.json": "1d93fae969ff24ecb91bb4bee6af74daaa9ea99141bcf630a77eeb1a167b1799"
+  },
+  "lead_sha256": "06865d210a937d8d15fe33edc3ac3637b2f73f7293ad0c9d6db3f57bba962ba3",
+  "old_endpoint_rows_and_columns_both_sectors": true,
+  "roles": [
+    50,
+    51
+  ],
+  "status": "PASS_INDEPENDENT_FIXED_BILATERAL_EXCLUSION",
+  "survivor_parities": [],
+  "unresolved": []
+}
