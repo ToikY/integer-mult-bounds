@@ -1,0 +1,411 @@
+{
+  "actual_port": 15,
+  "archive_chain": [],
+  "body_axes": [
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72
+  ],
+  "cap_seconds": 30,
+  "central_axis": 81,
+  "completed": [
+    "exact directly pinned #7481 compiler files",
+    "exact 32 signed idle occurrences and independently rebuilt paid histogram",
+    "exact local branch mutants"
+  ],
+  "controls": {
+    "append_fractional_geometry": "one complete signed child",
+    "custom_opcode_with_claimed_rank13": "no emitted occurrence; mismatched paid histogram",
+    "give_second_stage": "one complete signed child"
+  },
+  "independent_paid_histogram": {
+    "1": 68401,
+    "16": 416,
+    "2": 14518,
+    "24": 416,
+    "3": 14059,
+    "32": 416,
+    "4": 3774,
+    "40": 416,
+    "48": 416,
+    "5": 5848,
+    "56": 416,
+    "6": 272,
+    "64": 208,
+    "7": 170,
+    "8": 741,
+    "9": 32
+  },
+  "inner_7113_pins": {},
+  "input_pins": {
+    "7113-CALLER.json": "255d89f38cd45e38e5770f559bc43dc217e989032359768cdc7e8cdfd64b47bc",
+    "7481-APPLICATION.json": "1d93fae969ff24ecb91bb4bee6af74daaa9ea99141bcf630a77eeb1a167b1799",
+    "7481-WORD.json.gz": "acee323696b18914bd863d55341f92112b48d3d1dc1443c276efb6c396fcc0a9"
+  },
+  "named_pair_occurrences": [
+    [
+      1339,
+      "IDLE_ODD",
+      [
+        "main",
+        15,
+        68
+      ],
+      9
+    ],
+    [
+      1340,
+      "IDLE_ODD",
+      [
+        "main",
+        15,
+        69
+      ],
+      9
+    ]
+  ],
+  "old_clocks": [
+    1339,
+    1340
+  ],
+  "old_paid_positions": 110519,
+  "old_rank_nine_positions": 32,
+  "one_call_rank13_volume_11_over_8": false,
+  "patched_application_sha256": "733b31b1cee4567b466fdf834a34460b530f1f87ca6dca9270c0fabb2cf89849",
+  "scope": "retained grammar and invoice only",
+  "signed_occurrences": [
+    [
+      1339,
+      "IDLE_ODD",
+      [
+        "main",
+        15,
+        68
+      ],
+      9
+    ],
+    [
+      1339,
+      "IDLE_ODD",
+      [
+        "main",
+        17,
+        68
+      ],
+      9
+    ],
+    [
+      1339,
+      "IDLE_ODD",
+      [
+        "main",
+        27,
+        68
+      ],
+      9
+    ],
+    [
+      1339,
+      "IDLE_ODD",
+      [
+        "main",
+        34,
+        68
+      ],
+      9
+    ],
+    [
+      1339,
+      "IDLE_ODD",
+      [
+        "main",
+        35,
+        68
+      ],
+      9
+    ],
+    [
+      1339,
+      "IDLE_ODD",
+      [
+        "main",
+        42,
+        68
+      ],
+      9
+    ],
+    [
+      1339,
+      "IDLE_ODD",
+      [
+        "main",
+        47,
+        68
+      ],
+      9
+    ],
+    [
+      1339,
+      "IDLE_ODD",
+      [
+        "main",
+        55,
+        68
+      ],
+      9
+    ],
+    [
+      1340,
+      "IDLE_ODD",
+      [
+        "main",
+        15,
+        69
+      ],
+      9
+    ],
+    [
+      1340,
+      "IDLE_ODD",
+      [
+        "main",
+        17,
+        69
+      ],
+      9
+    ],
+    [
+      1340,
+      "IDLE_ODD",
+      [
+        "main",
+        27,
+        69
+      ],
+      9
+    ],
+    [
+      1340,
+      "IDLE_ODD",
+      [
+        "main",
+        34,
+        69
+      ],
+      9
+    ],
+    [
+      1340,
+      "IDLE_ODD",
+      [
+        "main",
+        35,
+        69
+      ],
+      9
+    ],
+    [
+      1340,
+      "IDLE_ODD",
+      [
+        "main",
+        42,
+        69
+      ],
+      9
+    ],
+    [
+      1340,
+      "IDLE_ODD",
+      [
+        "main",
+        47,
+        69
+      ],
+      9
+    ],
+    [
+      1340,
+      "IDLE_ODD",
+      [
+        "main",
+        55,
+        69
+      ],
+      9
+    ],
+    [
+      2970,
+      "IDLE_ODD",
+      [
+        "main",
+        15,
+        70
+      ],
+      9
+    ],
+    [
+      2970,
+      "IDLE_ODD",
+      [
+        "main",
+        17,
+        70
+      ],
+      9
+    ],
+    [
+      2970,
+      "IDLE_ODD",
+      [
+        "main",
+        27,
+        70
+      ],
+      9
+    ],
+    [
+      2970,
+      "IDLE_ODD",
+      [
+        "main",
+        34,
+        70
+      ],
+      9
+    ],
+    [
+      2970,
+      "IDLE_ODD",
+      [
+        "main",
+        35,
+        70
+      ],
+      9
+    ],
+    [
+      2970,
+      "IDLE_ODD",
+      [
+        "main",
+        42,
+        70
+      ],
+      9
+    ],
+    [
+      2970,
+      "IDLE_ODD",
+      [
+        "main",
+        47,
+        70
+      ],
+      9
+    ],
+    [
+      2970,
+      "IDLE_ODD",
+      [
+        "main",
+        55,
+        70
+      ],
+      9
+    ],
+    [
+      2971,
+      "IDLE_ODD",
+      [
+        "main",
+        15,
+        71
+      ],
+      9
+    ],
+    [
+      2971,
+      "IDLE_ODD",
+      [
+        "main",
+        17,
+        71
+      ],
+      9
+    ],
+    [
+      2971,
+      "IDLE_ODD",
+      [
+        "main",
+        27,
+        71
+      ],
+      9
+    ],
+    [
+      2971,
+      "IDLE_ODD",
+      [
+        "main",
+        34,
+        71
+      ],
+      9
+    ],
+    [
+      2971,
+      "IDLE_ODD",
+      [
+        "main",
+        35,
+        71
+      ],
+      9
+    ],
+    [
+      2971,
+      "IDLE_ODD",
+      [
+        "main",
+        42,
+        71
+      ],
+      9
+    ],
+    [
+      2971,
+      "IDLE_ODD",
+      [
+        "main",
+        47,
+        71
+      ],
+      9
+    ],
+    [
+      2971,
+      "IDLE_ODD",
+      [
+        "main",
+        55,
+        71
+      ],
+      9
+    ]
+  ],
+  "source_pins": {
+    "compiler/SIGNED-RESULT.json": "e5c8d8c0cf4d3f3fc60ffe70eb084cf6c9eadf8e646c74b48762501bf5367474",
+    "compiler/check_odd_fixed_tape_counts.py": "e6246e9f8fbeae3077d82e585eafd3647c1a8758c58f33c7c13e7efa6c1e42bb",
+    "compiler/check_odd_partial_admission.py": "35bd43f18bae916363fda120ff8ada7460ffb7920821596f599c88a556398117",
+    "compiler/check_odd_physical_binding.py": "5c80c3b0415a7f91d216395248dd6f13297eed637732098e1ca8fb0548951b98",
+    "compiler/upstream_application.py": "d98987db98553dc55bfc80e3ca47abfcd51c57af6f8cda61101391d8eae94184"
+  },
+  "status": "PASS_RETAINED_IDLE_GRAMMAR_EXCLUDES_ONE_PARTIAL_RANK13_CHILD"
+}
