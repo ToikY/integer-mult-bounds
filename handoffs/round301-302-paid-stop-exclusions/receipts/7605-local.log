@@ -1,0 +1,123 @@
+CHECK Source closure, exact construction and counted application adaptation
+{"status": "PASS_HELPER757_SOURCE_CLOSURE", "retained_files": 109, "application_edits": 23, "gzip_payload_control": true}
+CHECK Exact forward/reverse endpoint and erasure rows, timed identity and four rejection controls
+PR7604: exact forward/reverse audit passed in 10.90s
+helper757: exact forward/reverse audit passed in 12.64s
+{
+  "complete_paid_delta": {
+    "1": -34,
+    "2": 17
+  },
+  "controls": {
+    "omit_early_subtraction": true,
+    "omit_late_addition": true,
+    "omit_paid_move": true,
+    "preload_before_last_read": true
+  },
+  "endpoint_rows": 1569,
+  "endpoint_sha256": "3f9a2d0a7c54d15a2b89127a0431cd9e3b0989c27b25324bd3c4ef8666ebd4a0",
+  "erased_rows": 74,
+  "erasure_sha256": "6165b88055b4c54f89757e49144c30c01afcd8d6ac45de35313863336f7e5abf",
+  "grid": {
+    "max_den_exp": 25,
+    "max_num_bits": 40,
+    "odd_den": 1125
+  },
+  "native_paid_delta": {
+    "1": -2,
+    "2": 1
+  },
+  "owned_lifetimes": 74,
+  "owned_peak": 50,
+  "public_inputs": 1501,
+  "status": "PASS_HELPER757_EXACT_WORD",
+  "timed_identity": {
+    "early_terms": 57,
+    "late_terms": 57,
+    "update_sha256": "ba5081b994d1b04c975f6f211912e2e193c875e7f5f9e09629c696572d1752fb",
+    "update_terms": 2
+  },
+  "unchanged_header": true,
+  "unchanged_owned_paths": true
+}
+CHECK All 512 forward and adjoint Gaussian columns, exact rank and phase controls
+{"status": "PASS_HELPER757_PHYSICAL", "frames": [3, 595, 603], "forward_columns": 512, "adjoint_columns": 512, "direct_rank": 2, "wrong_source_rejected": true, "wrong_absolute_phase_rejected": true}
+CHECK Two independent directed complete prices and fixed-invoice ceiling
+{"status": "PASS_HELPER757_COMPLETE_PRICE", "claim": "0.0036504442446", "gain_over_prior_upper": "2219087727/10000000000000000", "raw_bracket": ["0.0036504442447168877", "0.0036504442447168879"]}
+CHECK Fresh complete native replay; literal word, full resources, compiler and outer obligations
+PASS authenticated source, complete frame and adjoint checks
+PASS complete forward grid, COPY guards and all public/owned endpoints
+caller 0 terms 77
+caller 500 terms 621
+caller 1000 terms 2648
+caller 1500 terms 3619
+caller 2000 terms 1590
+caller 2500 terms 398
+caller 3000 terms 1918
+caller 3500 terms 1797
+caller 4000 terms 1817
+caller 4500 terms 912
+caller 5000 terms 167
+PASS complete ingredient invoices, both directed prices, all outer gates and precision
+events 76636 public 1501 owned roles 68 paid {1: 3993, 2: 849, 3: 828, 4: 224, 5: 344, 6: 16, 7: 11, 8: 5} owned UP {1: 10, 2: 4, 3: 1, 4: 6, 5: 1, 6: 1} helpers {1: 18, 2: 21, 3: 47, 4: 225, 5: 80, 6: 43, 7: 19, 8: 32, 9: 616}
+endpoint bad rows 0 odd certificate S 1125
+PASS_HOST3 decoupled ports 96 hosted ports 8
+gate interpreter agrees with the library on 4 exact state vectors
+replayed 76636 events, 2955 chart pairs, 16s
+prime 1000000009 seed 11: helper rows bad 0 (of 1101), X rows bad 0, Y rows bad 0, X2 rows bad 0, Y2 rows bad 0 (of 104 ports; 96 with second mains)
+tableau on 104 ports: XX!=D 0 YY!=D 0 YX!=Q^-1D 0 XY!=QD 0 | controls matching (must be 0): 0 0
+PASS_PHYSICAL 21s
+PASS all affected Gaussian columns and absolute phase, finite physical replay and signed routes
+PASS_HELPER757_COMPLETE_NATIVE 0.003649778027581
+{"stage": "native", "exit": 0, "seconds": 163.82514816708863}
+CHECK Fresh complete signed replay; literal word, full resources, compiler and outer obligations
+PASS two complete literal invoices and both directed prices 0.003650444244716
+RUN emit_odd_type_b.py
+caller 0 terms 41
+caller 500 terms 1178
+caller 1000 terms 2699
+caller 1500 terms 1262
+caller 2000 terms 881
+caller 2500 terms 2484
+caller 3000 terms 765
+caller 3500 terms 640
+caller 0 terms 41
+caller 500 terms 1178
+caller 1000 terms 2701
+caller 1500 terms 1264
+caller 2000 terms 881
+caller 2500 terms 2485
+caller 3000 terms 765
+caller 3500 terms 641
+PASS exact short type B 3877 events Counter({8: 34, 9: 4, 56: 4, 48: 4, 40: 4, 32: 4, 24: 4, 16: 4, 64: 2})
+RUN emit_odd_type_ab.py
+caller 0 terms 73
+caller 500 terms 1076
+caller 1000 terms 2476
+caller 1500 terms 1334
+caller 2000 terms 2078
+caller 2500 terms 1235
+caller 3000 terms 2978
+caller 3500 terms 2335
+caller 4000 terms 1046
+caller 4500 terms 299
+PASS exact short A+B 4783 events 3752 ['3650444244716887763799059457059/1000000000000000000000000000000000', '36504442447168877637990594570591/10000000000000000000000000000000000']
+RUN check_odd_caller_exact_grid.py
+PASS odd caller grid [381, 69, 62] [381, 3, 2] scale bits 10 checked 176874
+RUN check_odd_physical_binding.py
+PASS exact physical binding 110366 13600 22461
+RUN check_odd_precision.py
+PASS short precision 406 1215 2430
+RUN check_odd_partial_admission.py
+ordinary bill 782699212
+PASS partial signed short gates 782699212 912611061179/250000000000000 {'strict_count': 54, 'functional_count': 4, 'minimum_margin': '1/1000000000000000000', 'BIT_just_below_effective_rejected': True}
+RUN check_odd_fixed_tape_counts.py
+PASS finite tariff substitution 43923200 25451474528 precision 2430
+RUN complete catalogue 0 1000
+RUN complete catalogue 1000 2000
+RUN complete catalogue 2000 3000
+RUN complete catalogue 3000 3040
+PASS complete 8+9 component application checks 912611061179/250000000000000 3040 110366
+PASS_HELPER757_COMPLETE_SIGNED_APPLICATION 0.003650444244716
+{"stage": "signed", "exit": 0, "seconds": 193.62567045725882}
+PASS_REGISTERED_RESEARCH_PACKAGE research/p104-timed-helper757 outcome=completed
