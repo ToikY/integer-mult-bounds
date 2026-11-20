@@ -1,0 +1,20 @@
+{
+  "status": "verified",
+  "scope": [
+    {
+      "reverse": false,
+      "packets": 2874,
+      "pairs": 75505,
+      "identical_bills": 16,
+      "public_checks": 680
+    },
+    {
+      "reverse": true,
+      "packets": 2874,
+      "pairs": 75505,
+      "identical_bills": 2,
+      "public_checks": 680
+    }
+  ],
+  "seconds": 2.050451290793717
+}

@@ -1,0 +1,22 @@
+{
+  "inputs/7786/research/p104-iterated-returns/binary/WORD.json.gz": {
+    "url": "https://raw.githubusercontent.com/CrocSwap/integer-mult-bounds/89a67c404226d51028e135de2b9169e9020d57af/research/p104-iterated-returns/binary/WORD.json.gz",
+    "sha256": "d28f0d28d9d87d5fe57b8ef19e12faf98014f0bbef781987ce22daaa82f21cb9"
+  },
+  "inputs/cache/source/research/p104-dual-supplier-lift/bit_native.py": {
+    "url": "https://raw.githubusercontent.com/aliromman/integer-mult-bounds/4f7c67ae387cc91580f469aeda4d508b372b9ec1/research/p104-dual-supplier-lift/bit_native.py",
+    "sha256": "4368c62a5d42f81189d6776b8dba8c85a311b6a199b816244b545c6bb7d3dc1e"
+  },
+  "upstream-cache/research/p104-mixed-rank-supplier/review/binary_operator.py": {
+    "url": "https://raw.githubusercontent.com/Clear1nsight/integer-mult-bounds/87fbf4f7b35b0f18ab12b5767775a9a424cf0b15/research/p104-mixed-rank-supplier/review/binary_operator.py",
+    "sha256": "36b3da4f72f8a6c946136fbd58b20838c00b0243c2effaf909c20b76967a5349"
+  },
+  "inputs/cache/parent/binary/independent/price.py": {
+    "url": "https://raw.githubusercontent.com/Clear1nsight/integer-mult-bounds/913fb6febe28cc3ccad1c16de8e45b8bce0da063/research/p104-subdivided-helper-births/binary/independent/price.py",
+    "sha256": "d720df6f3f7a22554e83d0c29243af3ee04fa036073404926bab7bc2f2687e1b"
+  },
+  "inputs/cache/parent/binary/independent/literal.py": {
+    "url": "https://raw.githubusercontent.com/Clear1nsight/integer-mult-bounds/913fb6febe28cc3ccad1c16de8e45b8bce0da063/research/p104-subdivided-helper-births/binary/independent/literal.py",
+    "sha256": "4021766d87fa791a43a78a6665c9260b7ba3772d8b2db6e9c84b6a3d51a1305c"
+  }
+}

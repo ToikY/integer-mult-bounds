@@ -1,0 +1,115 @@
+{
+  "311": [
+    [
+      "{here}/round311/project.py",
+      "{root}",
+      "{out}/price.json"
+    ]
+  ],
+  "312": [
+    [
+      "{here}/round312/retarget.py",
+      "{root}",
+      "{out}/direct.json"
+    ],
+    [
+      "{here}/round312/retarget.py",
+      "{root}",
+      "{out}/corrected.json",
+      "--correction"
+    ]
+  ],
+  "313": [
+    [
+      "{here}/round313/pairs.py",
+      "{root}",
+      "{out}/receipt.json"
+    ],
+    [
+      "{here}/round313/check.py",
+      "{word}",
+      "{out}/receipt.json",
+      "{out}/independent.json"
+    ]
+  ],
+  "314": [
+    [
+      "{here}/round314/chart.py",
+      "{root}",
+      "{out}/internal.json"
+    ]
+  ],
+  "315": [
+    [
+      "{here}/round315/birth.py",
+      "{root}",
+      "{out}/result.json"
+    ],
+    [
+      "{here}/round315/check.py",
+      "{root}",
+      "{out}/result.json",
+      "{out}/replay.json"
+    ]
+  ],
+  "316": [
+    [
+      "{here}/round314/chart.py",
+      "{root}",
+      "{out}/endpoint.json",
+      "--public"
+    ]
+  ],
+  "317": [
+    [
+      "{here}/round317/component.py",
+      "{root}",
+      "{out}/screen.json"
+    ],
+    [
+      "{here}/round317/check.py",
+      "{word}",
+      "{out}/screen.json",
+      "{out}/independent.json"
+    ]
+  ],
+  "318": [
+    [
+      "{here}/round318/calibrate.py",
+      "{root}",
+      "{out}/result.json"
+    ],
+    [
+      "{here}/round318/check.py",
+      "{root}",
+      "{out}/result.json",
+      "{out}/replay.json"
+    ]
+  ],
+  "319": [
+    [
+      "{here}/round319/frame.py",
+      "{root}",
+      "{out}/receipt.json"
+    ],
+    [
+      "{here}/round319/check.py",
+      "{word}",
+      "{out}/receipt.json",
+      "{out}/independent.json"
+    ]
+  ],
+  "320": [
+    [
+      "{here}/round320/pairs.py",
+      "{root}",
+      "{out}/result.json"
+    ],
+    [
+      "{here}/round320/check.py",
+      "{root}",
+      "{out}/result.json",
+      "{out}/replay.json"
+    ]
+  ]
+}

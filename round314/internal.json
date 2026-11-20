@@ -1,0 +1,14 @@
+{
+  "input": "WORD.json.gz",
+  "mode": "internal",
+  "pool": [
+    393,
+    635
+  ],
+  "tested": 249555,
+  "admitted": 987,
+  "neutral": 0,
+  "next_case": null,
+  "hit": null,
+  "seconds": 0.4688780838623643
+}

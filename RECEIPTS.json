@@ -1,0 +1,39 @@
+{
+  "311": {
+    "price.json": "projection.json.gz"
+  },
+  "312": {
+    "direct.json": "direct.json.gz",
+    "corrected.json": "corrected.json.gz"
+  },
+  "313": {
+    "receipt.json": "receipt.json.gz",
+    "independent.json": "independent.json"
+  },
+  "314": {
+    "internal.json": "internal.json"
+  },
+  "315": {
+    "result.json": "result.json.gz",
+    "replay.json": "replay.json"
+  },
+  "316": {
+    "endpoint.json": "endpoint.json"
+  },
+  "317": {
+    "screen.json": "screen.json",
+    "independent.json": "independent.json"
+  },
+  "318": {
+    "result.json": "result.json.gz",
+    "replay.json": "replay.json"
+  },
+  "319": {
+    "receipt.json": "receipt.json.gz",
+    "independent.json": "independent.json"
+  },
+  "320": {
+    "result.json": "result.json.gz",
+    "replay.json": "replay.json"
+  }
+}

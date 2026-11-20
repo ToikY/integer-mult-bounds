@@ -1,0 +1,15 @@
+{
+  "status": "exhausted",
+  "paired_routes": 246,
+  "full_public_defect_ranks": {
+    "2": 759
+  },
+  "baseline_control": 0,
+  "one_packet_control": 1,
+  "public": 680,
+  "dirty_retires": [
+    3554,
+    3554
+  ],
+  "seconds": 1.348419333808124
+}

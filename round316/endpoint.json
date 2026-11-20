@@ -1,0 +1,14 @@
+{
+  "input": "WORD.json.gz",
+  "mode": "helper-endpoint",
+  "pool": [
+    19,
+    635
+  ],
+  "tested": 12065,
+  "admitted": 17,
+  "neutral": 0,
+  "next_case": null,
+  "hit": null,
+  "seconds": 0.06774279195815325
+}

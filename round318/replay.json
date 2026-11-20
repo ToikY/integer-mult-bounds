@@ -1,0 +1,15 @@
+{
+  "status": "exhausted",
+  "chart_cohort_orientations": 58512,
+  "forward": {
+    "left_positive": 277,
+    "right_positive": 94,
+    "both_nonempty": 0,
+    "nested_per_orientation": 1280
+  },
+  "dirty_retires": [
+    3554,
+    3554
+  ],
+  "seconds": 0.5615176670253277
+}

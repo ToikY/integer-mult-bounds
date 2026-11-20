@@ -1,0 +1,19 @@
+{
+  "comparator": "87fbf4f7b35b0f18ab12b5767775a9a424cf0b15",
+  "python": "3.12.14",
+  "exit_code": 0,
+  "matched": [
+    311,
+    312,
+    313,
+    314,
+    315,
+    316,
+    317,
+    318,
+    319,
+    320
+  ],
+  "source_count": 5,
+  "upstream_hosted": "not run"
+}
