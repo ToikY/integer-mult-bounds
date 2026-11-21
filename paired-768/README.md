@@ -25,4 +25,16 @@ python3.12 -IB r350/audit.py --predecessor-checker r349/audit.py --predecessor-p
 
 The expected SHA-256 is `ea84892ef2b2da5572e7cdabe54d228ee74f6671d11f87bd6aa263306fd8ffdc`.
 
+## Round 351 · verified paid-tail bound
+
+The paid rank above fraction 4/5 of the log cutoff contributes less than 9.804 × 10⁻⁹ of the completed weighted distribution, including the positive cost of splitting. This bounds its degree-128 norm by 9/10. The triangle inequality reduces every nonnegative integer height to two endpoint comparisons. Both pass. The fixed carrier now uses terminal numerator 4876 and its complete signed result is **0.00389011526022**, up 0.00000000006293 over the previous complete step and **0.00000000018372** (approximately **+0.00000472273946623954%**) over #8027. The complete 36/48-call replay took 76.71 s. Separate signed acceptance took 0.66 s. [Source proof](r351/PROOF.md) · [Signed replay receipt](r351/signed.json) · [Independent invoice and controls](r351/accept.json)
+
+From `paired-768/`, the following rebuilds the independent component receipt. The signed application and invoice have separate receipts above.
+
+```sh
+python3.12 -IB r351/audit.py --law-checker r349/audit.py --law-receipt r349/receipt.json --failure r350/receipt.json --accept inputs/normalized-ACCEPT.json --application inputs/APPLICATION.json --archive inputs/APPLICATION-SOURCES.tar.gz --binary inputs/covered-BINARY.json --prior-price inputs/normalized-PRICE.json --weighted inputs/WEIGHTED-EXITS.md --out new-r351.json
+```
+
+The expected SHA-256 is `0f43bebea0a8a4a258e14ea7495ed9d2bdbfe8f952dafd423d7e1651b4807332`. The next test prices degree 40 from the distribution of the 768 constituent paid factors. It must pass all-height endpoint, terminal and ordinary-stock bounds before signed replay.
+
 Ali Romman supplied the paired word and application. Clear1nsight supplied the inherited compiler and independent signed reader, Jacob Alan Sussman the integer flow, DreamingOfClouds the ambient-cap compiler, and zxv the weighted-exit argument. The original 451-factor #8026 analysis supplied the charged split-uplift bound. OpenAI Codex materially assisted the proof, implementation and independent replay. [Predecessor notices](inputs/PARENT-NOTICE) · [Weighted-exit proof](inputs/WEIGHTED-EXITS.md)
