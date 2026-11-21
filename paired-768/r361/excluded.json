@@ -1,0 +1,15052 @@
+[
+  [
+    113,
+    0,
+    "raw ceiling"
+  ],
+  [
+    113,
+    7,
+    "zero distinct paid grade"
+  ],
+  [
+    113,
+    8,
+    "zero distinct paid grade"
+  ],
+  [
+    113,
+    276,
+    "zero distinct paid grade"
+  ],
+  [
+    113,
+    277,
+    "zero distinct paid grade"
+  ],
+  [
+    113,
+    506,
+    "zero distinct paid grade"
+  ],
+  [
+    114,
+    0,
+    "raw ceiling"
+  ],
+  [
+    114,
+    7,
+    "zero distinct paid grade"
+  ],
+  [
+    114,
+    11,
+    "zero distinct paid grade"
+  ],
+  [
+    114,
+    274,
+    "zero distinct paid grade"
+  ],
+  [
+    114,
+    275,
+    "zero distinct paid grade"
+  ],
+  [
+    114,
+    506,
+    "zero distinct paid grade"
+  ],
+  [
+    115,
+    0,
+    "raw ceiling"
+  ],
+  [
+    115,
+    8,
+    "zero distinct paid grade"
+  ],
+  [
+    115,
+    11,
+    "zero distinct paid grade"
+  ],
+  [
+    115,
+    270,
+    "zero distinct paid grade"
+  ],
+  [
+    115,
+    271,
+    "zero distinct paid grade"
+  ],
+  [
+    115,
+    506,
+    "zero distinct paid grade"
+  ],
+  [
+    116,
+    0,
+    "raw ceiling"
+  ],
+  [
+    116,
+    48,
+    "zero distinct paid grade"
+  ],
+  [
+    116,
+    56,
+    "zero distinct paid grade"
+  ],
+  [
+    116,
+    286,
+    "zero distinct paid grade"
+  ],
+  [
+    116,
+    287,
+    "zero distinct paid grade"
+  ],
+  [
+    116,
+    506,
+    "zero distinct paid grade"
+  ],
+  [
+    117,
+    0,
+    "raw ceiling"
+  ],
+  [
+    117,
+    48,
+    "zero distinct paid grade"
+  ],
+  [
+    117,
+    58,
+    "zero distinct paid grade"
+  ],
+  [
+    117,
+    284,
+    "zero distinct paid grade"
+  ],
+  [
+    117,
+    285,
+    "zero distinct paid grade"
+  ],
+  [
+    117,
+    506,
+    "zero distinct paid grade"
+  ],
+  [
+    118,
+    0,
+    "raw ceiling"
+  ],
+  [
+    118,
+    56,
+    "zero distinct paid grade"
+  ],
+  [
+    118,
+    58,
+    "zero distinct paid grade"
+  ],
+  [
+    118,
+    278,
+    "zero distinct paid grade"
+  ],
+  [
+    118,
+    279,
+    "zero distinct paid grade"
+  ],
+  [
+    118,
+    506,
+    "zero distinct paid grade"
+  ],
+  [
+    119,
+    0,
+    "raw ceiling"
+  ],
+  [
+    119,
+    49,
+    "zero distinct paid grade"
+  ],
+  [
+    119,
+    50,
+    "zero distinct paid grade"
+  ],
+  [
+    119,
+    300,
+    "zero distinct paid grade"
+  ],
+  [
+    119,
+    301,
+    "zero distinct paid grade"
+  ],
+  [
+    119,
+    506,
+    "zero distinct paid grade"
+  ],
+  [
+    120,
+    0,
+    "raw ceiling"
+  ],
+  [
+    120,
+    49,
+    "zero distinct paid grade"
+  ],
+  [
+    120,
+    54,
+    "zero distinct paid grade"
+  ],
+  [
+    120,
+    298,
+    "zero distinct paid grade"
+  ],
+  [
+    120,
+    299,
+    "zero distinct paid grade"
+  ],
+  [
+    120,
+    506,
+    "zero distinct paid grade"
+  ],
+  [
+    121,
+    0,
+    "raw ceiling"
+  ],
+  [
+    121,
+    49,
+    "zero distinct paid grade"
+  ],
+  [
+    121,
+    60,
+    "zero distinct paid grade"
+  ],
+  [
+    121,
+    296,
+    "zero distinct paid grade"
+  ],
+  [
+    121,
+    297,
+    "zero distinct paid grade"
+  ],
+  [
+    121,
+    506,
+    "zero distinct paid grade"
+  ],
+  [
+    122,
+    0,
+    "raw ceiling"
+  ],
+  [
+    122,
+    50,
+    "zero distinct paid grade"
+  ],
+  [
+    122,
+    54,
+    "zero distinct paid grade"
+  ],
+  [
+    122,
+    294,
+    "zero distinct paid grade"
+  ],
+  [
+    122,
+    295,
+    "zero distinct paid grade"
+  ],
+  [
+    122,
+    506,
+    "zero distinct paid grade"
+  ],
+  [
+    123,
+    0,
+    "raw ceiling"
+  ],
+  [
+    123,
+    50,
+    "zero distinct paid grade"
+  ],
+  [
+    123,
+    60,
+    "zero distinct paid grade"
+  ],
+  [
+    123,
+    292,
+    "zero distinct paid grade"
+  ],
+  [
+    123,
+    293,
+    "zero distinct paid grade"
+  ],
+  [
+    123,
+    506,
+    "zero distinct paid grade"
+  ],
+  [
+    124,
+    0,
+    "raw ceiling"
+  ],
+  [
+    124,
+    54,
+    "zero distinct paid grade"
+  ],
+  [
+    124,
+    60,
+    "zero distinct paid grade"
+  ],
+  [
+    124,
+    290,
+    "zero distinct paid grade"
+  ],
+  [
+    124,
+    291,
+    "zero distinct paid grade"
+  ],
+  [
+    124,
+    506,
+    "zero distinct paid grade"
+  ],
+  [
+    125,
+    0,
+    "raw ceiling"
+  ],
+  [
+    125,
+    2,
+    "zero distinct paid grade"
+  ],
+  [
+    125,
+    5,
+    "zero distinct paid grade"
+  ],
+  [
+    125,
+    267,
+    "zero distinct paid grade"
+  ],
+  [
+    125,
+    277,
+    "zero distinct paid grade"
+  ],
+  [
+    125,
+    507,
+    "zero distinct paid grade"
+  ],
+  [
+    126,
+    0,
+    "raw ceiling"
+  ],
+  [
+    126,
+    2,
+    "zero distinct paid grade"
+  ],
+  [
+    126,
+    13,
+    "zero distinct paid grade"
+  ],
+  [
+    126,
+    268,
+    "zero distinct paid grade"
+  ],
+  [
+    126,
+    274,
+    "zero distinct paid grade"
+  ],
+  [
+    126,
+    507,
+    "zero distinct paid grade"
+  ],
+  [
+    127,
+    0,
+    "raw ceiling"
+  ],
+  [
+    127,
+    5,
+    "zero distinct paid grade"
+  ],
+  [
+    127,
+    13,
+    "zero distinct paid grade"
+  ],
+  [
+    127,
+    271,
+    "zero distinct paid grade"
+  ],
+  [
+    127,
+    273,
+    "zero distinct paid grade"
+  ],
+  [
+    127,
+    507,
+    "zero distinct paid grade"
+  ],
+  [
+    128,
+    0,
+    "raw ceiling"
+  ],
+  [
+    128,
+    64,
+    "zero distinct paid grade"
+  ],
+  [
+    128,
+    71,
+    "zero distinct paid grade"
+  ],
+  [
+    128,
+    282,
+    "zero distinct paid grade"
+  ],
+  [
+    128,
+    284,
+    "zero distinct paid grade"
+  ],
+  [
+    128,
+    507,
+    "zero distinct paid grade"
+  ],
+  [
+    129,
+    0,
+    "raw ceiling"
+  ],
+  [
+    129,
+    64,
+    "zero distinct paid grade"
+  ],
+  [
+    129,
+    74,
+    "zero distinct paid grade"
+  ],
+  [
+    129,
+    280,
+    "zero distinct paid grade"
+  ],
+  [
+    129,
+    286,
+    "zero distinct paid grade"
+  ],
+  [
+    129,
+    507,
+    "zero distinct paid grade"
+  ],
+  [
+    130,
+    0,
+    "raw ceiling"
+  ],
+  [
+    130,
+    71,
+    "zero distinct paid grade"
+  ],
+  [
+    130,
+    74,
+    "zero distinct paid grade"
+  ],
+  [
+    130,
+    278,
+    "zero distinct paid grade"
+  ],
+  [
+    130,
+    289,
+    "zero distinct paid grade"
+  ],
+  [
+    130,
+    507,
+    "zero distinct paid grade"
+  ],
+  [
+    131,
+    0,
+    "raw ceiling"
+  ],
+  [
+    131,
+    63,
+    "zero distinct paid grade"
+  ],
+  [
+    131,
+    65,
+    "zero distinct paid grade"
+  ],
+  [
+    131,
+    291,
+    "zero distinct paid grade"
+  ],
+  [
+    131,
+    300,
+    "zero distinct paid grade"
+  ],
+  [
+    131,
+    507,
+    "zero distinct paid grade"
+  ],
+  [
+    132,
+    0,
+    "raw ceiling"
+  ],
+  [
+    132,
+    63,
+    "zero distinct paid grade"
+  ],
+  [
+    132,
+    70,
+    "zero distinct paid grade"
+  ],
+  [
+    132,
+    295,
+    "zero distinct paid grade"
+  ],
+  [
+    132,
+    297,
+    "zero distinct paid grade"
+  ],
+  [
+    132,
+    507,
+    "zero distinct paid grade"
+  ],
+  [
+    133,
+    0,
+    "raw ceiling"
+  ],
+  [
+    133,
+    65,
+    "zero distinct paid grade"
+  ],
+  [
+    133,
+    70,
+    "zero distinct paid grade"
+  ],
+  [
+    133,
+    292,
+    "zero distinct paid grade"
+  ],
+  [
+    133,
+    298,
+    "zero distinct paid grade"
+  ],
+  [
+    133,
+    507,
+    "zero distinct paid grade"
+  ],
+  [
+    134,
+    0,
+    "raw ceiling"
+  ],
+  [
+    134,
+    17,
+    "zero distinct paid grade"
+  ],
+  [
+    134,
+    25,
+    "zero distinct paid grade"
+  ],
+  [
+    134,
+    270,
+    "zero distinct paid grade"
+  ],
+  [
+    134,
+    307,
+    "zero distinct paid grade"
+  ],
+  [
+    134,
+    519,
+    "zero distinct paid grade"
+  ],
+  [
+    135,
+    0,
+    "raw ceiling"
+  ],
+  [
+    135,
+    17,
+    "zero distinct paid grade"
+  ],
+  [
+    135,
+    93,
+    "zero distinct paid grade"
+  ],
+  [
+    135,
+    282,
+    "zero distinct paid grade"
+  ],
+  [
+    135,
+    306,
+    "zero distinct paid grade"
+  ],
+  [
+    135,
+    519,
+    "zero distinct paid grade"
+  ],
+  [
+    136,
+    0,
+    "raw ceiling"
+  ],
+  [
+    136,
+    17,
+    "zero distinct paid grade"
+  ],
+  [
+    136,
+    98,
+    "zero distinct paid grade"
+  ],
+  [
+    136,
+    296,
+    "zero distinct paid grade"
+  ],
+  [
+    136,
+    305,
+    "zero distinct paid grade"
+  ],
+  [
+    136,
+    399,
+    "raw ceiling"
+  ],
+  [
+    137,
+    0,
+    "raw ceiling"
+  ],
+  [
+    137,
+    25,
+    "zero distinct paid grade"
+  ],
+  [
+    137,
+    93,
+    "zero distinct paid grade"
+  ],
+  [
+    137,
+    295,
+    "zero distinct paid grade"
+  ],
+  [
+    137,
+    304,
+    "zero distinct paid grade"
+  ],
+  [
+    137,
+    401,
+    "raw ceiling"
+  ],
+  [
+    138,
+    0,
+    "raw ceiling"
+  ],
+  [
+    138,
+    25,
+    "zero distinct paid grade"
+  ],
+  [
+    138,
+    98,
+    "zero distinct paid grade"
+  ],
+  [
+    138,
+    285,
+    "zero distinct paid grade"
+  ],
+  [
+    138,
+    303,
+    "zero distinct paid grade"
+  ],
+  [
+    138,
+    519,
+    "zero distinct paid grade"
+  ],
+  [
+    139,
+    0,
+    "raw ceiling"
+  ],
+  [
+    139,
+    93,
+    "zero distinct paid grade"
+  ],
+  [
+    139,
+    98,
+    "zero distinct paid grade"
+  ],
+  [
+    139,
+    273,
+    "zero distinct paid grade"
+  ],
+  [
+    139,
+    302,
+    "zero distinct paid grade"
+  ],
+  [
+    139,
+    519,
+    "zero distinct paid grade"
+  ],
+  [
+    140,
+    0,
+    "raw ceiling"
+  ],
+  [
+    140,
+    32,
+    "zero distinct paid grade"
+  ],
+  [
+    140,
+    43,
+    "zero distinct paid grade"
+  ],
+  [
+    140,
+    274,
+    "zero distinct paid grade"
+  ],
+  [
+    140,
+    313,
+    "zero distinct paid grade"
+  ],
+  [
+    140,
+    519,
+    "zero distinct paid grade"
+  ],
+  [
+    141,
+    0,
+    "raw ceiling"
+  ],
+  [
+    141,
+    32,
+    "zero distinct paid grade"
+  ],
+  [
+    141,
+    77,
+    "zero distinct paid grade"
+  ],
+  [
+    141,
+    287,
+    "zero distinct paid grade"
+  ],
+  [
+    141,
+    312,
+    "zero distinct paid grade"
+  ],
+  [
+    141,
+    411,
+    "raw ceiling"
+  ],
+  [
+    142,
+    0,
+    "raw ceiling"
+  ],
+  [
+    142,
+    32,
+    "zero distinct paid grade"
+  ],
+  [
+    142,
+    84,
+    "zero distinct paid grade"
+  ],
+  [
+    142,
+    299,
+    "zero distinct paid grade"
+  ],
+  [
+    142,
+    311,
+    "zero distinct paid grade"
+  ],
+  [
+    142,
+    519,
+    "zero distinct paid grade"
+  ],
+  [
+    143,
+    0,
+    "raw ceiling"
+  ],
+  [
+    143,
+    43,
+    "zero distinct paid grade"
+  ],
+  [
+    143,
+    77,
+    "zero distinct paid grade"
+  ],
+  [
+    143,
+    292,
+    "zero distinct paid grade"
+  ],
+  [
+    143,
+    310,
+    "zero distinct paid grade"
+  ],
+  [
+    143,
+    519,
+    "zero distinct paid grade"
+  ],
+  [
+    144,
+    0,
+    "raw ceiling"
+  ],
+  [
+    144,
+    43,
+    "zero distinct paid grade"
+  ],
+  [
+    144,
+    84,
+    "zero distinct paid grade"
+  ],
+  [
+    144,
+    280,
+    "zero distinct paid grade"
+  ],
+  [
+    144,
+    309,
+    "zero distinct paid grade"
+  ],
+  [
+    144,
+    519,
+    "zero distinct paid grade"
+  ],
+  [
+    145,
+    0,
+    "raw ceiling"
+  ],
+  [
+    145,
+    77,
+    "zero distinct paid grade"
+  ],
+  [
+    145,
+    84,
+    "zero distinct paid grade"
+  ],
+  [
+    145,
+    269,
+    "zero distinct paid grade"
+  ],
+  [
+    145,
+    308,
+    "zero distinct paid grade"
+  ],
+  [
+    145,
+    519,
+    "zero distinct paid grade"
+  ],
+  [
+    146,
+    0,
+    "raw ceiling"
+  ],
+  [
+    146,
+    51,
+    "zero distinct paid grade"
+  ],
+  [
+    146,
+    55,
+    "zero distinct paid grade"
+  ],
+  [
+    146,
+    276,
+    "zero distinct paid grade"
+  ],
+  [
+    146,
+    319,
+    "zero distinct paid grade"
+  ],
+  [
+    146,
+    406,
+    "raw ceiling"
+  ],
+  [
+    147,
+    0,
+    "raw ceiling"
+  ],
+  [
+    147,
+    51,
+    "zero distinct paid grade"
+  ],
+  [
+    147,
+    61,
+    "zero distinct paid grade"
+  ],
+  [
+    147,
+    288,
+    "zero distinct paid grade"
+  ],
+  [
+    147,
+    318,
+    "zero distinct paid grade"
+  ],
+  [
+    147,
+    519,
+    "zero distinct paid grade"
+  ],
+  [
+    148,
+    0,
+    "raw ceiling"
+  ],
+  [
+    148,
+    51,
+    "zero distinct paid grade"
+  ],
+  [
+    148,
+    72,
+    "zero distinct paid grade"
+  ],
+  [
+    148,
+    291,
+    "zero distinct paid grade"
+  ],
+  [
+    148,
+    317,
+    "zero distinct paid grade"
+  ],
+  [
+    148,
+    408,
+    "raw ceiling"
+  ],
+  [
+    149,
+    0,
+    "raw ceiling"
+  ],
+  [
+    149,
+    55,
+    "zero distinct paid grade"
+  ],
+  [
+    149,
+    61,
+    "zero distinct paid grade"
+  ],
+  [
+    149,
+    301,
+    "zero distinct paid grade"
+  ],
+  [
+    149,
+    316,
+    "zero distinct paid grade"
+  ],
+  [
+    149,
+    519,
+    "zero distinct paid grade"
+  ],
+  [
+    150,
+    0,
+    "raw ceiling"
+  ],
+  [
+    150,
+    55,
+    "zero distinct paid grade"
+  ],
+  [
+    150,
+    72,
+    "zero distinct paid grade"
+  ],
+  [
+    150,
+    278,
+    "zero distinct paid grade"
+  ],
+  [
+    150,
+    315,
+    "zero distinct paid grade"
+  ],
+  [
+    150,
+    519,
+    "zero distinct paid grade"
+  ],
+  [
+    151,
+    0,
+    "raw ceiling"
+  ],
+  [
+    151,
+    61,
+    "zero distinct paid grade"
+  ],
+  [
+    151,
+    72,
+    "zero distinct paid grade"
+  ],
+  [
+    151,
+    267,
+    "zero distinct paid grade"
+  ],
+  [
+    151,
+    314,
+    "zero distinct paid grade"
+  ],
+  [
+    151,
+    519,
+    "zero distinct paid grade"
+  ],
+  [
+    152,
+    0,
+    "raw ceiling"
+  ],
+  [
+    152,
+    21,
+    "zero distinct paid grade"
+  ],
+  [
+    152,
+    29,
+    "zero distinct paid grade"
+  ],
+  [
+    152,
+    268,
+    "zero distinct paid grade"
+  ],
+  [
+    152,
+    315,
+    "zero distinct paid grade"
+  ],
+  [
+    152,
+    508,
+    "zero distinct paid grade"
+  ],
+  [
+    153,
+    0,
+    "raw ceiling"
+  ],
+  [
+    153,
+    21,
+    "zero distinct paid grade"
+  ],
+  [
+    153,
+    91,
+    "zero distinct paid grade"
+  ],
+  [
+    153,
+    293,
+    "zero distinct paid grade"
+  ],
+  [
+    153,
+    306,
+    "zero distinct paid grade"
+  ],
+  [
+    153,
+    426,
+    "raw ceiling"
+  ],
+  [
+    154,
+    0,
+    "raw ceiling"
+  ],
+  [
+    154,
+    21,
+    "zero distinct paid grade"
+  ],
+  [
+    154,
+    99,
+    "zero distinct paid grade"
+  ],
+  [
+    154,
+    287,
+    "zero distinct paid grade"
+  ],
+  [
+    154,
+    321,
+    "zero distinct paid grade"
+  ],
+  [
+    154,
+    508,
+    "zero distinct paid grade"
+  ],
+  [
+    155,
+    0,
+    "raw ceiling"
+  ],
+  [
+    155,
+    29,
+    "zero distinct paid grade"
+  ],
+  [
+    155,
+    91,
+    "zero distinct paid grade"
+  ],
+  [
+    155,
+    280,
+    "zero distinct paid grade"
+  ],
+  [
+    155,
+    320,
+    "zero distinct paid grade"
+  ],
+  [
+    155,
+    508,
+    "zero distinct paid grade"
+  ],
+  [
+    156,
+    0,
+    "raw ceiling"
+  ],
+  [
+    156,
+    29,
+    "zero distinct paid grade"
+  ],
+  [
+    156,
+    99,
+    "zero distinct paid grade"
+  ],
+  [
+    156,
+    298,
+    "zero distinct paid grade"
+  ],
+  [
+    156,
+    303,
+    "zero distinct paid grade"
+  ],
+  [
+    156,
+    508,
+    "zero distinct paid grade"
+  ],
+  [
+    157,
+    0,
+    "raw ceiling"
+  ],
+  [
+    157,
+    91,
+    "zero distinct paid grade"
+  ],
+  [
+    157,
+    99,
+    "zero distinct paid grade"
+  ],
+  [
+    157,
+    275,
+    "zero distinct paid grade"
+  ],
+  [
+    157,
+    318,
+    "zero distinct paid grade"
+  ],
+  [
+    157,
+    508,
+    "zero distinct paid grade"
+  ],
+  [
+    158,
+    0,
+    "raw ceiling"
+  ],
+  [
+    158,
+    37,
+    "zero distinct paid grade"
+  ],
+  [
+    158,
+    45,
+    "zero distinct paid grade"
+  ],
+  [
+    158,
+    272,
+    "zero distinct paid grade"
+  ],
+  [
+    158,
+    317,
+    "zero distinct paid grade"
+  ],
+  [
+    158,
+    508,
+    "zero distinct paid grade"
+  ],
+  [
+    159,
+    0,
+    "raw ceiling"
+  ],
+  [
+    159,
+    37,
+    "zero distinct paid grade"
+  ],
+  [
+    159,
+    76,
+    "zero distinct paid grade"
+  ],
+  [
+    159,
+    296,
+    "zero distinct paid grade"
+  ],
+  [
+    159,
+    323,
+    "zero distinct paid grade"
+  ],
+  [
+    159,
+    508,
+    "zero distinct paid grade"
+  ],
+  [
+    160,
+    0,
+    "raw ceiling"
+  ],
+  [
+    160,
+    45,
+    "zero distinct paid grade"
+  ],
+  [
+    160,
+    76,
+    "zero distinct paid grade"
+  ],
+  [
+    160,
+    283,
+    "zero distinct paid grade"
+  ],
+  [
+    160,
+    311,
+    "zero distinct paid grade"
+  ],
+  [
+    160,
+    508,
+    "zero distinct paid grade"
+  ],
+  [
+    161,
+    0,
+    "raw ceiling"
+  ],
+  [
+    161,
+    59,
+    "zero distinct paid grade"
+  ],
+  [
+    161,
+    67,
+    "zero distinct paid grade"
+  ],
+  [
+    161,
+    289,
+    "zero distinct paid grade"
+  ],
+  [
+    161,
+    308,
+    "zero distinct paid grade"
+  ],
+  [
+    161,
+    508,
+    "zero distinct paid grade"
+  ],
+  [
+    162,
+    0,
+    "raw ceiling"
+  ],
+  [
+    162,
+    59,
+    "zero distinct paid grade"
+  ],
+  [
+    162,
+    68,
+    "zero distinct paid grade"
+  ],
+  [
+    162,
+    290,
+    "zero distinct paid grade"
+  ],
+  [
+    162,
+    307,
+    "zero distinct paid grade"
+  ],
+  [
+    162,
+    508,
+    "zero distinct paid grade"
+  ],
+  [
+    163,
+    0,
+    "raw ceiling"
+  ],
+  [
+    163,
+    67,
+    "zero distinct paid grade"
+  ],
+  [
+    163,
+    68,
+    "zero distinct paid grade"
+  ],
+  [
+    163,
+    267,
+    "zero distinct paid grade"
+  ],
+  [
+    163,
+    324,
+    "zero distinct paid grade"
+  ],
+  [
+    163,
+    508,
+    "zero distinct paid grade"
+  ],
+  [
+    164,
+    0,
+    "raw ceiling"
+  ],
+  [
+    164,
+    23,
+    "zero distinct paid grade"
+  ],
+  [
+    164,
+    28,
+    "zero distinct paid grade"
+  ],
+  [
+    164,
+    270,
+    "zero distinct paid grade"
+  ],
+  [
+    164,
+    302,
+    "zero distinct paid grade"
+  ],
+  [
+    164,
+    520,
+    "zero distinct paid grade"
+  ],
+  [
+    165,
+    0,
+    "raw ceiling"
+  ],
+  [
+    165,
+    23,
+    "zero distinct paid grade"
+  ],
+  [
+    165,
+    96,
+    "zero distinct paid grade"
+  ],
+  [
+    165,
+    285,
+    "zero distinct paid grade"
+  ],
+  [
+    165,
+    306,
+    "zero distinct paid grade"
+  ],
+  [
+    165,
+    520,
+    "zero distinct paid grade"
+  ],
+  [
+    166,
+    0,
+    "raw ceiling"
+  ],
+  [
+    166,
+    23,
+    "zero distinct paid grade"
+  ],
+  [
+    166,
+    104,
+    "zero distinct paid grade"
+  ],
+  [
+    166,
+    295,
+    "zero distinct paid grade"
+  ],
+  [
+    166,
+    305,
+    "zero distinct paid grade"
+  ],
+  [
+    166,
+    520,
+    "zero distinct paid grade"
+  ],
+  [
+    167,
+    0,
+    "raw ceiling"
+  ],
+  [
+    167,
+    28,
+    "zero distinct paid grade"
+  ],
+  [
+    167,
+    96,
+    "zero distinct paid grade"
+  ],
+  [
+    167,
+    296,
+    "zero distinct paid grade"
+  ],
+  [
+    167,
+    304,
+    "zero distinct paid grade"
+  ],
+  [
+    167,
+    520,
+    "zero distinct paid grade"
+  ],
+  [
+    168,
+    0,
+    "raw ceiling"
+  ],
+  [
+    168,
+    28,
+    "zero distinct paid grade"
+  ],
+  [
+    168,
+    104,
+    "zero distinct paid grade"
+  ],
+  [
+    168,
+    282,
+    "zero distinct paid grade"
+  ],
+  [
+    168,
+    303,
+    "zero distinct paid grade"
+  ],
+  [
+    168,
+    372,
+    "raw ceiling"
+  ],
+  [
+    169,
+    0,
+    "raw ceiling"
+  ],
+  [
+    169,
+    96,
+    "zero distinct paid grade"
+  ],
+  [
+    169,
+    104,
+    "zero distinct paid grade"
+  ],
+  [
+    169,
+    273,
+    "zero distinct paid grade"
+  ],
+  [
+    169,
+    307,
+    "zero distinct paid grade"
+  ],
+  [
+    169,
+    520,
+    "zero distinct paid grade"
+  ],
+  [
+    170,
+    0,
+    "raw ceiling"
+  ],
+  [
+    170,
+    38,
+    "zero distinct paid grade"
+  ],
+  [
+    170,
+    46,
+    "zero distinct paid grade"
+  ],
+  [
+    170,
+    274,
+    "zero distinct paid grade"
+  ],
+  [
+    170,
+    308,
+    "zero distinct paid grade"
+  ],
+  [
+    170,
+    520,
+    "zero distinct paid grade"
+  ],
+  [
+    171,
+    0,
+    "raw ceiling"
+  ],
+  [
+    171,
+    38,
+    "zero distinct paid grade"
+  ],
+  [
+    171,
+    82,
+    "zero distinct paid grade"
+  ],
+  [
+    171,
+    280,
+    "zero distinct paid grade"
+  ],
+  [
+    171,
+    312,
+    "zero distinct paid grade"
+  ],
+  [
+    171,
+    520,
+    "zero distinct paid grade"
+  ],
+  [
+    172,
+    0,
+    "raw ceiling"
+  ],
+  [
+    172,
+    38,
+    "zero distinct paid grade"
+  ],
+  [
+    172,
+    86,
+    "zero distinct paid grade"
+  ],
+  [
+    172,
+    292,
+    "zero distinct paid grade"
+  ],
+  [
+    172,
+    311,
+    "zero distinct paid grade"
+  ],
+  [
+    172,
+    376,
+    "raw ceiling"
+  ],
+  [
+    173,
+    0,
+    "raw ceiling"
+  ],
+  [
+    173,
+    46,
+    "zero distinct paid grade"
+  ],
+  [
+    173,
+    82,
+    "zero distinct paid grade"
+  ],
+  [
+    173,
+    299,
+    "zero distinct paid grade"
+  ],
+  [
+    173,
+    310,
+    "zero distinct paid grade"
+  ],
+  [
+    173,
+    364,
+    "raw ceiling"
+  ],
+  [
+    174,
+    0,
+    "raw ceiling"
+  ],
+  [
+    174,
+    46,
+    "zero distinct paid grade"
+  ],
+  [
+    174,
+    86,
+    "zero distinct paid grade"
+  ],
+  [
+    174,
+    287,
+    "zero distinct paid grade"
+  ],
+  [
+    174,
+    309,
+    "zero distinct paid grade"
+  ],
+  [
+    174,
+    520,
+    "zero distinct paid grade"
+  ],
+  [
+    175,
+    0,
+    "raw ceiling"
+  ],
+  [
+    175,
+    82,
+    "zero distinct paid grade"
+  ],
+  [
+    175,
+    86,
+    "zero distinct paid grade"
+  ],
+  [
+    175,
+    269,
+    "zero distinct paid grade"
+  ],
+  [
+    175,
+    313,
+    "zero distinct paid grade"
+  ],
+  [
+    175,
+    520,
+    "zero distinct paid grade"
+  ],
+  [
+    176,
+    0,
+    "raw ceiling"
+  ],
+  [
+    176,
+    53,
+    "zero distinct paid grade"
+  ],
+  [
+    176,
+    57,
+    "zero distinct paid grade"
+  ],
+  [
+    176,
+    276,
+    "zero distinct paid grade"
+  ],
+  [
+    176,
+    314,
+    "zero distinct paid grade"
+  ],
+  [
+    176,
+    374,
+    "raw ceiling"
+  ],
+  [
+    177,
+    0,
+    "raw ceiling"
+  ],
+  [
+    177,
+    53,
+    "zero distinct paid grade"
+  ],
+  [
+    177,
+    66,
+    "zero distinct paid grade"
+  ],
+  [
+    177,
+    288,
+    "zero distinct paid grade"
+  ],
+  [
+    177,
+    315,
+    "zero distinct paid grade"
+  ],
+  [
+    177,
+    520,
+    "zero distinct paid grade"
+  ],
+  [
+    178,
+    0,
+    "raw ceiling"
+  ],
+  [
+    178,
+    53,
+    "zero distinct paid grade"
+  ],
+  [
+    178,
+    73,
+    "zero distinct paid grade"
+  ],
+  [
+    178,
+    291,
+    "zero distinct paid grade"
+  ],
+  [
+    178,
+    316,
+    "zero distinct paid grade"
+  ],
+  [
+    178,
+    520,
+    "zero distinct paid grade"
+  ],
+  [
+    179,
+    0,
+    "raw ceiling"
+  ],
+  [
+    179,
+    57,
+    "zero distinct paid grade"
+  ],
+  [
+    179,
+    66,
+    "zero distinct paid grade"
+  ],
+  [
+    179,
+    301,
+    "zero distinct paid grade"
+  ],
+  [
+    179,
+    317,
+    "zero distinct paid grade"
+  ],
+  [
+    179,
+    520,
+    "zero distinct paid grade"
+  ],
+  [
+    180,
+    0,
+    "raw ceiling"
+  ],
+  [
+    180,
+    57,
+    "zero distinct paid grade"
+  ],
+  [
+    180,
+    73,
+    "zero distinct paid grade"
+  ],
+  [
+    180,
+    278,
+    "zero distinct paid grade"
+  ],
+  [
+    180,
+    318,
+    "zero distinct paid grade"
+  ],
+  [
+    180,
+    520,
+    "zero distinct paid grade"
+  ],
+  [
+    181,
+    0,
+    "raw ceiling"
+  ],
+  [
+    181,
+    66,
+    "zero distinct paid grade"
+  ],
+  [
+    181,
+    73,
+    "zero distinct paid grade"
+  ],
+  [
+    181,
+    267,
+    "zero distinct paid grade"
+  ],
+  [
+    181,
+    319,
+    "zero distinct paid grade"
+  ],
+  [
+    181,
+    520,
+    "zero distinct paid grade"
+  ],
+  [
+    182,
+    0,
+    "raw ceiling"
+  ],
+  [
+    182,
+    19,
+    "zero distinct paid grade"
+  ],
+  [
+    182,
+    24,
+    "zero distinct paid grade"
+  ],
+  [
+    182,
+    268,
+    "zero distinct paid grade"
+  ],
+  [
+    182,
+    318,
+    "zero distinct paid grade"
+  ],
+  [
+    182,
+    509,
+    "zero distinct paid grade"
+  ],
+  [
+    183,
+    0,
+    "raw ceiling"
+  ],
+  [
+    183,
+    19,
+    "zero distinct paid grade"
+  ],
+  [
+    183,
+    94,
+    "zero distinct paid grade"
+  ],
+  [
+    183,
+    298,
+    "zero distinct paid grade"
+  ],
+  [
+    183,
+    306,
+    "zero distinct paid grade"
+  ],
+  [
+    183,
+    509,
+    "zero distinct paid grade"
+  ],
+  [
+    184,
+    0,
+    "raw ceiling"
+  ],
+  [
+    184,
+    24,
+    "zero distinct paid grade"
+  ],
+  [
+    184,
+    94,
+    "zero distinct paid grade"
+  ],
+  [
+    184,
+    287,
+    "zero distinct paid grade"
+  ],
+  [
+    184,
+    320,
+    "zero distinct paid grade"
+  ],
+  [
+    184,
+    509,
+    "zero distinct paid grade"
+  ],
+  [
+    185,
+    0,
+    "raw ceiling"
+  ],
+  [
+    185,
+    35,
+    "zero distinct paid grade"
+  ],
+  [
+    185,
+    40,
+    "zero distinct paid grade"
+  ],
+  [
+    185,
+    272,
+    "zero distinct paid grade"
+  ],
+  [
+    185,
+    316,
+    "zero distinct paid grade"
+  ],
+  [
+    185,
+    509,
+    "zero distinct paid grade"
+  ],
+  [
+    186,
+    0,
+    "raw ceiling"
+  ],
+  [
+    186,
+    35,
+    "zero distinct paid grade"
+  ],
+  [
+    186,
+    79,
+    "zero distinct paid grade"
+  ],
+  [
+    186,
+    295,
+    "zero distinct paid grade"
+  ],
+  [
+    186,
+    323,
+    "zero distinct paid grade"
+  ],
+  [
+    186,
+    509,
+    "zero distinct paid grade"
+  ],
+  [
+    187,
+    0,
+    "raw ceiling"
+  ],
+  [
+    187,
+    35,
+    "zero distinct paid grade"
+  ],
+  [
+    187,
+    89,
+    "zero distinct paid grade"
+  ],
+  [
+    187,
+    283,
+    "zero distinct paid grade"
+  ],
+  [
+    187,
+    310,
+    "zero distinct paid grade"
+  ],
+  [
+    187,
+    509,
+    "zero distinct paid grade"
+  ],
+  [
+    188,
+    0,
+    "raw ceiling"
+  ],
+  [
+    188,
+    40,
+    "zero distinct paid grade"
+  ],
+  [
+    188,
+    79,
+    "zero distinct paid grade"
+  ],
+  [
+    188,
+    284,
+    "zero distinct paid grade"
+  ],
+  [
+    188,
+    311,
+    "zero distinct paid grade"
+  ],
+  [
+    188,
+    509,
+    "zero distinct paid grade"
+  ],
+  [
+    189,
+    0,
+    "raw ceiling"
+  ],
+  [
+    189,
+    40,
+    "zero distinct paid grade"
+  ],
+  [
+    189,
+    89,
+    "zero distinct paid grade"
+  ],
+  [
+    189,
+    296,
+    "zero distinct paid grade"
+  ],
+  [
+    189,
+    322,
+    "zero distinct paid grade"
+  ],
+  [
+    189,
+    509,
+    "zero distinct paid grade"
+  ],
+  [
+    190,
+    0,
+    "raw ceiling"
+  ],
+  [
+    190,
+    79,
+    "zero distinct paid grade"
+  ],
+  [
+    190,
+    89,
+    "zero distinct paid grade"
+  ],
+  [
+    190,
+    271,
+    "zero distinct paid grade"
+  ],
+  [
+    190,
+    317,
+    "zero distinct paid grade"
+  ],
+  [
+    190,
+    509,
+    "zero distinct paid grade"
+  ],
+  [
+    191,
+    0,
+    "raw ceiling"
+  ],
+  [
+    191,
+    52,
+    "zero distinct paid grade"
+  ],
+  [
+    191,
+    62,
+    "zero distinct paid grade"
+  ],
+  [
+    191,
+    300,
+    "zero distinct paid grade"
+  ],
+  [
+    191,
+    307,
+    "zero distinct paid grade"
+  ],
+  [
+    191,
+    509,
+    "zero distinct paid grade"
+  ],
+  [
+    192,
+    0,
+    "raw ceiling"
+  ],
+  [
+    192,
+    52,
+    "zero distinct paid grade"
+  ],
+  [
+    192,
+    69,
+    "zero distinct paid grade"
+  ],
+  [
+    192,
+    279,
+    "zero distinct paid grade"
+  ],
+  [
+    192,
+    308,
+    "zero distinct paid grade"
+  ],
+  [
+    192,
+    509,
+    "zero distinct paid grade"
+  ],
+  [
+    193,
+    0,
+    "raw ceiling"
+  ],
+  [
+    193,
+    62,
+    "zero distinct paid grade"
+  ],
+  [
+    193,
+    69,
+    "zero distinct paid grade"
+  ],
+  [
+    193,
+    267,
+    "zero distinct paid grade"
+  ],
+  [
+    193,
+    325,
+    "zero distinct paid grade"
+  ],
+  [
+    193,
+    509,
+    "zero distinct paid grade"
+  ],
+  [
+    194,
+    0,
+    "raw ceiling"
+  ],
+  [
+    194,
+    12,
+    "zero distinct paid grade"
+  ],
+  [
+    194,
+    15,
+    "zero distinct paid grade"
+  ],
+  [
+    194,
+    266,
+    "zero distinct paid grade"
+  ],
+  [
+    194,
+    310,
+    "zero distinct paid grade"
+  ],
+  [
+    194,
+    505,
+    "raw ceiling"
+  ],
+  [
+    195,
+    0,
+    "raw ceiling"
+  ],
+  [
+    195,
+    12,
+    "zero distinct paid grade"
+  ],
+  [
+    195,
+    106,
+    "zero distinct paid grade"
+  ],
+  [
+    195,
+    301,
+    "zero distinct paid grade"
+  ],
+  [
+    195,
+    321,
+    "zero distinct paid grade"
+  ],
+  [
+    195,
+    521,
+    "zero distinct paid grade"
+  ],
+  [
+    196,
+    0,
+    "raw ceiling"
+  ],
+  [
+    196,
+    12,
+    "zero distinct paid grade"
+  ],
+  [
+    196,
+    109,
+    "zero distinct paid grade"
+  ],
+  [
+    196,
+    289,
+    "zero distinct paid grade"
+  ],
+  [
+    196,
+    304,
+    "zero distinct paid grade"
+  ],
+  [
+    196,
+    521,
+    "zero distinct paid grade"
+  ],
+  [
+    197,
+    0,
+    "raw ceiling"
+  ],
+  [
+    197,
+    15,
+    "zero distinct paid grade"
+  ],
+  [
+    197,
+    106,
+    "zero distinct paid grade"
+  ],
+  [
+    197,
+    279,
+    "zero distinct paid grade"
+  ],
+  [
+    197,
+    305,
+    "zero distinct paid grade"
+  ],
+  [
+    197,
+    521,
+    "zero distinct paid grade"
+  ],
+  [
+    198,
+    0,
+    "raw ceiling"
+  ],
+  [
+    198,
+    15,
+    "zero distinct paid grade"
+  ],
+  [
+    198,
+    109,
+    "zero distinct paid grade"
+  ],
+  [
+    198,
+    291,
+    "zero distinct paid grade"
+  ],
+  [
+    198,
+    320,
+    "zero distinct paid grade"
+  ],
+  [
+    198,
+    521,
+    "zero distinct paid grade"
+  ],
+  [
+    199,
+    0,
+    "raw ceiling"
+  ],
+  [
+    199,
+    106,
+    "zero distinct paid grade"
+  ],
+  [
+    199,
+    109,
+    "zero distinct paid grade"
+  ],
+  [
+    199,
+    277,
+    "zero distinct paid grade"
+  ],
+  [
+    199,
+    311,
+    "zero distinct paid grade"
+  ],
+  [
+    199,
+    521,
+    "zero distinct paid grade"
+  ],
+  [
+    200,
+    0,
+    "raw ceiling"
+  ],
+  [
+    200,
+    34,
+    "zero distinct paid grade"
+  ],
+  [
+    200,
+    36,
+    "zero distinct paid grade"
+  ],
+  [
+    200,
+    272,
+    "zero distinct paid grade"
+  ],
+  [
+    200,
+    312,
+    "zero distinct paid grade"
+  ],
+  [
+    200,
+    521,
+    "zero distinct paid grade"
+  ],
+  [
+    201,
+    0,
+    "raw ceiling"
+  ],
+  [
+    201,
+    34,
+    "zero distinct paid grade"
+  ],
+  [
+    201,
+    85,
+    "zero distinct paid grade"
+  ],
+  [
+    201,
+    297,
+    "zero distinct paid grade"
+  ],
+  [
+    201,
+    318,
+    "zero distinct paid grade"
+  ],
+  [
+    201,
+    521,
+    "zero distinct paid grade"
+  ],
+  [
+    202,
+    0,
+    "raw ceiling"
+  ],
+  [
+    202,
+    34,
+    "zero distinct paid grade"
+  ],
+  [
+    202,
+    87,
+    "zero distinct paid grade"
+  ],
+  [
+    202,
+    285,
+    "zero distinct paid grade"
+  ],
+  [
+    202,
+    325,
+    "zero distinct paid grade"
+  ],
+  [
+    202,
+    521,
+    "zero distinct paid grade"
+  ],
+  [
+    203,
+    0,
+    "raw ceiling"
+  ],
+  [
+    203,
+    36,
+    "zero distinct paid grade"
+  ],
+  [
+    203,
+    85,
+    "zero distinct paid grade"
+  ],
+  [
+    203,
+    282,
+    "zero distinct paid grade"
+  ],
+  [
+    203,
+    324,
+    "zero distinct paid grade"
+  ],
+  [
+    203,
+    491,
+    "raw ceiling"
+  ],
+  [
+    204,
+    0,
+    "raw ceiling"
+  ],
+  [
+    204,
+    36,
+    "zero distinct paid grade"
+  ],
+  [
+    204,
+    87,
+    "zero distinct paid grade"
+  ],
+  [
+    204,
+    294,
+    "zero distinct paid grade"
+  ],
+  [
+    204,
+    315,
+    "zero distinct paid grade"
+  ],
+  [
+    204,
+    521,
+    "zero distinct paid grade"
+  ],
+  [
+    205,
+    0,
+    "raw ceiling"
+  ],
+  [
+    205,
+    85,
+    "zero distinct paid grade"
+  ],
+  [
+    205,
+    87,
+    "zero distinct paid grade"
+  ],
+  [
+    205,
+    271,
+    "zero distinct paid grade"
+  ],
+  [
+    205,
+    309,
+    "zero distinct paid grade"
+  ],
+  [
+    205,
+    521,
+    "zero distinct paid grade"
+  ],
+  [
+    206,
+    0,
+    "raw ceiling"
+  ],
+  [
+    206,
+    41,
+    "zero distinct paid grade"
+  ],
+  [
+    206,
+    44,
+    "zero distinct paid grade"
+  ],
+  [
+    206,
+    274,
+    "zero distinct paid grade"
+  ],
+  [
+    206,
+    322,
+    "zero distinct paid grade"
+  ],
+  [
+    206,
+    521,
+    "zero distinct paid grade"
+  ],
+  [
+    207,
+    0,
+    "raw ceiling"
+  ],
+  [
+    207,
+    41,
+    "zero distinct paid grade"
+  ],
+  [
+    207,
+    78,
+    "zero distinct paid grade"
+  ],
+  [
+    207,
+    298,
+    "zero distinct paid grade"
+  ],
+  [
+    207,
+    314,
+    "zero distinct paid grade"
+  ],
+  [
+    207,
+    521,
+    "zero distinct paid grade"
+  ],
+  [
+    208,
+    0,
+    "raw ceiling"
+  ],
+  [
+    208,
+    41,
+    "zero distinct paid grade"
+  ],
+  [
+    208,
+    81,
+    "zero distinct paid grade"
+  ],
+  [
+    208,
+    286,
+    "zero distinct paid grade"
+  ],
+  [
+    208,
+    307,
+    "zero distinct paid grade"
+  ],
+  [
+    208,
+    499,
+    "raw ceiling"
+  ],
+  [
+    209,
+    0,
+    "raw ceiling"
+  ],
+  [
+    209,
+    44,
+    "zero distinct paid grade"
+  ],
+  [
+    209,
+    78,
+    "zero distinct paid grade"
+  ],
+  [
+    209,
+    281,
+    "zero distinct paid grade"
+  ],
+  [
+    209,
+    302,
+    "zero distinct paid grade"
+  ],
+  [
+    209,
+    521,
+    "zero distinct paid grade"
+  ],
+  [
+    210,
+    0,
+    "raw ceiling"
+  ],
+  [
+    210,
+    44,
+    "zero distinct paid grade"
+  ],
+  [
+    210,
+    81,
+    "zero distinct paid grade"
+  ],
+  [
+    210,
+    293,
+    "zero distinct paid grade"
+  ],
+  [
+    210,
+    319,
+    "zero distinct paid grade"
+  ],
+  [
+    210,
+    490,
+    "raw ceiling"
+  ],
+  [
+    211,
+    0,
+    "raw ceiling"
+  ],
+  [
+    211,
+    78,
+    "zero distinct paid grade"
+  ],
+  [
+    211,
+    81,
+    "zero distinct paid grade"
+  ],
+  [
+    211,
+    269,
+    "zero distinct paid grade"
+  ],
+  [
+    211,
+    323,
+    "zero distinct paid grade"
+  ],
+  [
+    211,
+    521,
+    "zero distinct paid grade"
+  ],
+  [
+    212,
+    0,
+    "raw ceiling"
+  ],
+  [
+    212,
+    3,
+    "zero distinct paid grade"
+  ],
+  [
+    212,
+    9,
+    "zero distinct paid grade"
+  ],
+  [
+    212,
+    266,
+    "zero distinct paid grade"
+  ],
+  [
+    212,
+    303,
+    "zero distinct paid grade"
+  ],
+  [
+    212,
+    522,
+    "zero distinct paid grade"
+  ],
+  [
+    213,
+    0,
+    "raw ceiling"
+  ],
+  [
+    213,
+    3,
+    "zero distinct paid grade"
+  ],
+  [
+    213,
+    108,
+    "zero distinct paid grade"
+  ],
+  [
+    213,
+    288,
+    "zero distinct paid grade"
+  ],
+  [
+    213,
+    323,
+    "zero distinct paid grade"
+  ],
+  [
+    213,
+    481,
+    "raw ceiling"
+  ],
+  [
+    214,
+    0,
+    "raw ceiling"
+  ],
+  [
+    214,
+    3,
+    "zero distinct paid grade"
+  ],
+  [
+    214,
+    110,
+    "zero distinct paid grade"
+  ],
+  [
+    214,
+    300,
+    "zero distinct paid grade"
+  ],
+  [
+    214,
+    312,
+    "zero distinct paid grade"
+  ],
+  [
+    214,
+    522,
+    "zero distinct paid grade"
+  ],
+  [
+    215,
+    0,
+    "raw ceiling"
+  ],
+  [
+    215,
+    9,
+    "zero distinct paid grade"
+  ],
+  [
+    215,
+    108,
+    "zero distinct paid grade"
+  ],
+  [
+    215,
+    290,
+    "zero distinct paid grade"
+  ],
+  [
+    215,
+    309,
+    "zero distinct paid grade"
+  ],
+  [
+    215,
+    522,
+    "zero distinct paid grade"
+  ],
+  [
+    216,
+    0,
+    "raw ceiling"
+  ],
+  [
+    216,
+    9,
+    "zero distinct paid grade"
+  ],
+  [
+    216,
+    110,
+    "zero distinct paid grade"
+  ],
+  [
+    216,
+    278,
+    "zero distinct paid grade"
+  ],
+  [
+    216,
+    322,
+    "zero distinct paid grade"
+  ],
+  [
+    216,
+    483,
+    "raw ceiling"
+  ],
+  [
+    217,
+    0,
+    "raw ceiling"
+  ],
+  [
+    217,
+    108,
+    "zero distinct paid grade"
+  ],
+  [
+    217,
+    110,
+    "zero distinct paid grade"
+  ],
+  [
+    217,
+    277,
+    "zero distinct paid grade"
+  ],
+  [
+    217,
+    306,
+    "zero distinct paid grade"
+  ],
+  [
+    217,
+    522,
+    "zero distinct paid grade"
+  ],
+  [
+    218,
+    0,
+    "raw ceiling"
+  ],
+  [
+    218,
+    26,
+    "zero distinct paid grade"
+  ],
+  [
+    218,
+    31,
+    "zero distinct paid grade"
+  ],
+  [
+    218,
+    268,
+    "zero distinct paid grade"
+  ],
+  [
+    218,
+    305,
+    "zero distinct paid grade"
+  ],
+  [
+    218,
+    522,
+    "zero distinct paid grade"
+  ],
+  [
+    219,
+    0,
+    "raw ceiling"
+  ],
+  [
+    219,
+    26,
+    "zero distinct paid grade"
+  ],
+  [
+    219,
+    101,
+    "zero distinct paid grade"
+  ],
+  [
+    219,
+    281,
+    "zero distinct paid grade"
+  ],
+  [
+    219,
+    316,
+    "zero distinct paid grade"
+  ],
+  [
+    219,
+    470,
+    "raw ceiling"
+  ],
+  [
+    220,
+    0,
+    "raw ceiling"
+  ],
+  [
+    220,
+    26,
+    "zero distinct paid grade"
+  ],
+  [
+    220,
+    103,
+    "zero distinct paid grade"
+  ],
+  [
+    220,
+    299,
+    "zero distinct paid grade"
+  ],
+  [
+    220,
+    325,
+    "zero distinct paid grade"
+  ],
+  [
+    220,
+    522,
+    "zero distinct paid grade"
+  ],
+  [
+    221,
+    0,
+    "raw ceiling"
+  ],
+  [
+    221,
+    31,
+    "zero distinct paid grade"
+  ],
+  [
+    221,
+    101,
+    "zero distinct paid grade"
+  ],
+  [
+    221,
+    292,
+    "zero distinct paid grade"
+  ],
+  [
+    221,
+    324,
+    "zero distinct paid grade"
+  ],
+  [
+    221,
+    522,
+    "zero distinct paid grade"
+  ],
+  [
+    222,
+    0,
+    "raw ceiling"
+  ],
+  [
+    222,
+    31,
+    "zero distinct paid grade"
+  ],
+  [
+    222,
+    103,
+    "zero distinct paid grade"
+  ],
+  [
+    222,
+    286,
+    "zero distinct paid grade"
+  ],
+  [
+    222,
+    317,
+    "zero distinct paid grade"
+  ],
+  [
+    222,
+    485,
+    "raw ceiling"
+  ],
+  [
+    223,
+    0,
+    "raw ceiling"
+  ],
+  [
+    223,
+    101,
+    "zero distinct paid grade"
+  ],
+  [
+    223,
+    103,
+    "zero distinct paid grade"
+  ],
+  [
+    223,
+    275,
+    "zero distinct paid grade"
+  ],
+  [
+    223,
+    304,
+    "zero distinct paid grade"
+  ],
+  [
+    223,
+    522,
+    "zero distinct paid grade"
+  ],
+  [
+    224,
+    0,
+    "raw ceiling"
+  ],
+  [
+    224,
+    27,
+    "zero distinct paid grade"
+  ],
+  [
+    224,
+    30,
+    "zero distinct paid grade"
+  ],
+  [
+    224,
+    270,
+    "zero distinct paid grade"
+  ],
+  [
+    224,
+    321,
+    "zero distinct paid grade"
+  ],
+  [
+    224,
+    522,
+    "zero distinct paid grade"
+  ],
+  [
+    225,
+    0,
+    "raw ceiling"
+  ],
+  [
+    225,
+    27,
+    "zero distinct paid grade"
+  ],
+  [
+    225,
+    100,
+    "zero distinct paid grade"
+  ],
+  [
+    225,
+    283,
+    "zero distinct paid grade"
+  ],
+  [
+    225,
+    314,
+    "zero distinct paid grade"
+  ],
+  [
+    225,
+    475,
+    "raw ceiling"
+  ],
+  [
+    226,
+    0,
+    "raw ceiling"
+  ],
+  [
+    226,
+    27,
+    "zero distinct paid grade"
+  ],
+  [
+    226,
+    102,
+    "zero distinct paid grade"
+  ],
+  [
+    226,
+    297,
+    "zero distinct paid grade"
+  ],
+  [
+    226,
+    313,
+    "zero distinct paid grade"
+  ],
+  [
+    226,
+    522,
+    "zero distinct paid grade"
+  ],
+  [
+    227,
+    0,
+    "raw ceiling"
+  ],
+  [
+    227,
+    30,
+    "zero distinct paid grade"
+  ],
+  [
+    227,
+    100,
+    "zero distinct paid grade"
+  ],
+  [
+    227,
+    294,
+    "zero distinct paid grade"
+  ],
+  [
+    227,
+    308,
+    "zero distinct paid grade"
+  ],
+  [
+    227,
+    478,
+    "raw ceiling"
+  ],
+  [
+    228,
+    0,
+    "raw ceiling"
+  ],
+  [
+    228,
+    30,
+    "zero distinct paid grade"
+  ],
+  [
+    228,
+    102,
+    "zero distinct paid grade"
+  ],
+  [
+    228,
+    284,
+    "zero distinct paid grade"
+  ],
+  [
+    228,
+    319,
+    "zero distinct paid grade"
+  ],
+  [
+    228,
+    522,
+    "zero distinct paid grade"
+  ],
+  [
+    229,
+    0,
+    "raw ceiling"
+  ],
+  [
+    229,
+    100,
+    "zero distinct paid grade"
+  ],
+  [
+    229,
+    102,
+    "zero distinct paid grade"
+  ],
+  [
+    229,
+    273,
+    "zero distinct paid grade"
+  ],
+  [
+    229,
+    320,
+    "zero distinct paid grade"
+  ],
+  [
+    229,
+    522,
+    "zero distinct paid grade"
+  ],
+  [
+    230,
+    0,
+    "raw ceiling"
+  ],
+  [
+    230,
+    4,
+    "zero distinct paid grade"
+  ],
+  [
+    230,
+    6,
+    "zero distinct paid grade"
+  ],
+  [
+    230,
+    266,
+    "zero distinct paid grade"
+  ],
+  [
+    230,
+    306,
+    "zero distinct paid grade"
+  ],
+  [
+    230,
+    456,
+    "raw ceiling"
+  ],
+  [
+    231,
+    0,
+    "raw ceiling"
+  ],
+  [
+    231,
+    4,
+    "zero distinct paid grade"
+  ],
+  [
+    231,
+    105,
+    "zero distinct paid grade"
+  ],
+  [
+    231,
+    288,
+    "zero distinct paid grade"
+  ],
+  [
+    231,
+    322,
+    "zero distinct paid grade"
+  ],
+  [
+    231,
+    523,
+    "zero distinct paid grade"
+  ],
+  [
+    232,
+    0,
+    "raw ceiling"
+  ],
+  [
+    232,
+    4,
+    "zero distinct paid grade"
+  ],
+  [
+    232,
+    111,
+    "zero distinct paid grade"
+  ],
+  [
+    232,
+    300,
+    "zero distinct paid grade"
+  ],
+  [
+    232,
+    309,
+    "zero distinct paid grade"
+  ],
+  [
+    232,
+    523,
+    "zero distinct paid grade"
+  ],
+  [
+    233,
+    0,
+    "raw ceiling"
+  ],
+  [
+    233,
+    6,
+    "zero distinct paid grade"
+  ],
+  [
+    233,
+    105,
+    "zero distinct paid grade"
+  ],
+  [
+    233,
+    290,
+    "zero distinct paid grade"
+  ],
+  [
+    233,
+    312,
+    "zero distinct paid grade"
+  ],
+  [
+    233,
+    523,
+    "zero distinct paid grade"
+  ],
+  [
+    234,
+    0,
+    "raw ceiling"
+  ],
+  [
+    234,
+    6,
+    "zero distinct paid grade"
+  ],
+  [
+    234,
+    111,
+    "zero distinct paid grade"
+  ],
+  [
+    234,
+    278,
+    "zero distinct paid grade"
+  ],
+  [
+    234,
+    323,
+    "zero distinct paid grade"
+  ],
+  [
+    234,
+    523,
+    "zero distinct paid grade"
+  ],
+  [
+    235,
+    0,
+    "raw ceiling"
+  ],
+  [
+    235,
+    105,
+    "zero distinct paid grade"
+  ],
+  [
+    235,
+    111,
+    "zero distinct paid grade"
+  ],
+  [
+    235,
+    277,
+    "zero distinct paid grade"
+  ],
+  [
+    235,
+    303,
+    "zero distinct paid grade"
+  ],
+  [
+    235,
+    458,
+    "raw ceiling"
+  ],
+  [
+    236,
+    0,
+    "raw ceiling"
+  ],
+  [
+    236,
+    16,
+    "zero distinct paid grade"
+  ],
+  [
+    236,
+    22,
+    "zero distinct paid grade"
+  ],
+  [
+    236,
+    270,
+    "zero distinct paid grade"
+  ],
+  [
+    236,
+    320,
+    "zero distinct paid grade"
+  ],
+  [
+    236,
+    523,
+    "zero distinct paid grade"
+  ],
+  [
+    237,
+    0,
+    "raw ceiling"
+  ],
+  [
+    237,
+    16,
+    "zero distinct paid grade"
+  ],
+  [
+    237,
+    92,
+    "zero distinct paid grade"
+  ],
+  [
+    237,
+    284,
+    "zero distinct paid grade"
+  ],
+  [
+    237,
+    314,
+    "zero distinct paid grade"
+  ],
+  [
+    237,
+    523,
+    "zero distinct paid grade"
+  ],
+  [
+    238,
+    0,
+    "raw ceiling"
+  ],
+  [
+    238,
+    16,
+    "zero distinct paid grade"
+  ],
+  [
+    238,
+    97,
+    "zero distinct paid grade"
+  ],
+  [
+    238,
+    294,
+    "zero distinct paid grade"
+  ],
+  [
+    238,
+    313,
+    "zero distinct paid grade"
+  ],
+  [
+    238,
+    523,
+    "zero distinct paid grade"
+  ],
+  [
+    239,
+    0,
+    "raw ceiling"
+  ],
+  [
+    239,
+    22,
+    "zero distinct paid grade"
+  ],
+  [
+    239,
+    92,
+    "zero distinct paid grade"
+  ],
+  [
+    239,
+    297,
+    "zero distinct paid grade"
+  ],
+  [
+    239,
+    308,
+    "zero distinct paid grade"
+  ],
+  [
+    239,
+    523,
+    "zero distinct paid grade"
+  ],
+  [
+    240,
+    0,
+    "raw ceiling"
+  ],
+  [
+    240,
+    22,
+    "zero distinct paid grade"
+  ],
+  [
+    240,
+    97,
+    "zero distinct paid grade"
+  ],
+  [
+    240,
+    283,
+    "zero distinct paid grade"
+  ],
+  [
+    240,
+    319,
+    "zero distinct paid grade"
+  ],
+  [
+    240,
+    469,
+    "raw ceiling"
+  ],
+  [
+    241,
+    0,
+    "raw ceiling"
+  ],
+  [
+    241,
+    92,
+    "zero distinct paid grade"
+  ],
+  [
+    241,
+    97,
+    "zero distinct paid grade"
+  ],
+  [
+    241,
+    273,
+    "zero distinct paid grade"
+  ],
+  [
+    241,
+    321,
+    "zero distinct paid grade"
+  ],
+  [
+    241,
+    523,
+    "zero distinct paid grade"
+  ],
+  [
+    242,
+    0,
+    "raw ceiling"
+  ],
+  [
+    242,
+    18,
+    "zero distinct paid grade"
+  ],
+  [
+    242,
+    20,
+    "zero distinct paid grade"
+  ],
+  [
+    242,
+    268,
+    "zero distinct paid grade"
+  ],
+  [
+    242,
+    304,
+    "zero distinct paid grade"
+  ],
+  [
+    242,
+    523,
+    "zero distinct paid grade"
+  ],
+  [
+    243,
+    0,
+    "raw ceiling"
+  ],
+  [
+    243,
+    18,
+    "zero distinct paid grade"
+  ],
+  [
+    243,
+    90,
+    "zero distinct paid grade"
+  ],
+  [
+    243,
+    286,
+    "zero distinct paid grade"
+  ],
+  [
+    243,
+    316,
+    "zero distinct paid grade"
+  ],
+  [
+    243,
+    523,
+    "zero distinct paid grade"
+  ],
+  [
+    244,
+    0,
+    "raw ceiling"
+  ],
+  [
+    244,
+    18,
+    "zero distinct paid grade"
+  ],
+  [
+    244,
+    95,
+    "zero distinct paid grade"
+  ],
+  [
+    244,
+    292,
+    "zero distinct paid grade"
+  ],
+  [
+    244,
+    325,
+    "zero distinct paid grade"
+  ],
+  [
+    244,
+    461,
+    "raw ceiling"
+  ],
+  [
+    245,
+    0,
+    "raw ceiling"
+  ],
+  [
+    245,
+    20,
+    "zero distinct paid grade"
+  ],
+  [
+    245,
+    90,
+    "zero distinct paid grade"
+  ],
+  [
+    245,
+    299,
+    "zero distinct paid grade"
+  ],
+  [
+    245,
+    324,
+    "zero distinct paid grade"
+  ],
+  [
+    245,
+    523,
+    "zero distinct paid grade"
+  ],
+  [
+    246,
+    0,
+    "raw ceiling"
+  ],
+  [
+    246,
+    20,
+    "zero distinct paid grade"
+  ],
+  [
+    246,
+    95,
+    "zero distinct paid grade"
+  ],
+  [
+    246,
+    281,
+    "zero distinct paid grade"
+  ],
+  [
+    246,
+    317,
+    "zero distinct paid grade"
+  ],
+  [
+    246,
+    523,
+    "zero distinct paid grade"
+  ],
+  [
+    247,
+    0,
+    "raw ceiling"
+  ],
+  [
+    247,
+    90,
+    "zero distinct paid grade"
+  ],
+  [
+    247,
+    95,
+    "zero distinct paid grade"
+  ],
+  [
+    247,
+    275,
+    "zero distinct paid grade"
+  ],
+  [
+    247,
+    305,
+    "zero distinct paid grade"
+  ],
+  [
+    247,
+    523,
+    "zero distinct paid grade"
+  ],
+  [
+    248,
+    0,
+    "raw ceiling"
+  ],
+  [
+    248,
+    10,
+    "zero distinct paid grade"
+  ],
+  [
+    248,
+    14,
+    "zero distinct paid grade"
+  ],
+  [
+    248,
+    266,
+    "zero distinct paid grade"
+  ],
+  [
+    248,
+    311,
+    "zero distinct paid grade"
+  ],
+  [
+    248,
+    524,
+    "zero distinct paid grade"
+  ],
+  [
+    249,
+    0,
+    "raw ceiling"
+  ],
+  [
+    249,
+    10,
+    "zero distinct paid grade"
+  ],
+  [
+    249,
+    107,
+    "zero distinct paid grade"
+  ],
+  [
+    249,
+    301,
+    "zero distinct paid grade"
+  ],
+  [
+    249,
+    320,
+    "zero distinct paid grade"
+  ],
+  [
+    249,
+    524,
+    "zero distinct paid grade"
+  ],
+  [
+    250,
+    0,
+    "raw ceiling"
+  ],
+  [
+    250,
+    10,
+    "zero distinct paid grade"
+  ],
+  [
+    250,
+    112,
+    "zero distinct paid grade"
+  ],
+  [
+    250,
+    289,
+    "zero distinct paid grade"
+  ],
+  [
+    250,
+    305,
+    "zero distinct paid grade"
+  ],
+  [
+    250,
+    524,
+    "zero distinct paid grade"
+  ],
+  [
+    251,
+    0,
+    "raw ceiling"
+  ],
+  [
+    251,
+    14,
+    "zero distinct paid grade"
+  ],
+  [
+    251,
+    107,
+    "zero distinct paid grade"
+  ],
+  [
+    251,
+    279,
+    "zero distinct paid grade"
+  ],
+  [
+    251,
+    304,
+    "zero distinct paid grade"
+  ],
+  [
+    251,
+    447,
+    "raw ceiling"
+  ],
+  [
+    252,
+    0,
+    "raw ceiling"
+  ],
+  [
+    252,
+    14,
+    "zero distinct paid grade"
+  ],
+  [
+    252,
+    112,
+    "zero distinct paid grade"
+  ],
+  [
+    252,
+    291,
+    "zero distinct paid grade"
+  ],
+  [
+    252,
+    321,
+    "zero distinct paid grade"
+  ],
+  [
+    252,
+    444,
+    "raw ceiling"
+  ],
+  [
+    253,
+    0,
+    "raw ceiling"
+  ],
+  [
+    253,
+    107,
+    "zero distinct paid grade"
+  ],
+  [
+    253,
+    112,
+    "zero distinct paid grade"
+  ],
+  [
+    253,
+    277,
+    "zero distinct paid grade"
+  ],
+  [
+    253,
+    310,
+    "zero distinct paid grade"
+  ],
+  [
+    253,
+    524,
+    "zero distinct paid grade"
+  ],
+  [
+    254,
+    0,
+    "raw ceiling"
+  ],
+  [
+    254,
+    33,
+    "zero distinct paid grade"
+  ],
+  [
+    254,
+    39,
+    "zero distinct paid grade"
+  ],
+  [
+    254,
+    274,
+    "zero distinct paid grade"
+  ],
+  [
+    254,
+    323,
+    "zero distinct paid grade"
+  ],
+  [
+    254,
+    524,
+    "zero distinct paid grade"
+  ],
+  [
+    255,
+    0,
+    "raw ceiling"
+  ],
+  [
+    255,
+    33,
+    "zero distinct paid grade"
+  ],
+  [
+    255,
+    83,
+    "zero distinct paid grade"
+  ],
+  [
+    255,
+    293,
+    "zero distinct paid grade"
+  ],
+  [
+    255,
+    314,
+    "zero distinct paid grade"
+  ],
+  [
+    255,
+    524,
+    "zero distinct paid grade"
+  ],
+  [
+    256,
+    0,
+    "raw ceiling"
+  ],
+  [
+    256,
+    33,
+    "zero distinct paid grade"
+  ],
+  [
+    256,
+    88,
+    "zero distinct paid grade"
+  ],
+  [
+    256,
+    281,
+    "zero distinct paid grade"
+  ],
+  [
+    256,
+    307,
+    "zero distinct paid grade"
+  ],
+  [
+    256,
+    524,
+    "zero distinct paid grade"
+  ],
+  [
+    257,
+    0,
+    "raw ceiling"
+  ],
+  [
+    257,
+    39,
+    "zero distinct paid grade"
+  ],
+  [
+    257,
+    83,
+    "zero distinct paid grade"
+  ],
+  [
+    257,
+    286,
+    "zero distinct paid grade"
+  ],
+  [
+    257,
+    302,
+    "zero distinct paid grade"
+  ],
+  [
+    257,
+    524,
+    "zero distinct paid grade"
+  ],
+  [
+    258,
+    0,
+    "raw ceiling"
+  ],
+  [
+    258,
+    39,
+    "zero distinct paid grade"
+  ],
+  [
+    258,
+    88,
+    "zero distinct paid grade"
+  ],
+  [
+    258,
+    298,
+    "zero distinct paid grade"
+  ],
+  [
+    258,
+    319,
+    "zero distinct paid grade"
+  ],
+  [
+    258,
+    439,
+    "raw ceiling"
+  ],
+  [
+    259,
+    0,
+    "raw ceiling"
+  ],
+  [
+    259,
+    83,
+    "zero distinct paid grade"
+  ],
+  [
+    259,
+    88,
+    "zero distinct paid grade"
+  ],
+  [
+    259,
+    269,
+    "zero distinct paid grade"
+  ],
+  [
+    259,
+    322,
+    "zero distinct paid grade"
+  ],
+  [
+    259,
+    524,
+    "zero distinct paid grade"
+  ],
+  [
+    260,
+    0,
+    "raw ceiling"
+  ],
+  [
+    260,
+    42,
+    "zero distinct paid grade"
+  ],
+  [
+    260,
+    47,
+    "zero distinct paid grade"
+  ],
+  [
+    260,
+    272,
+    "zero distinct paid grade"
+  ],
+  [
+    260,
+    309,
+    "zero distinct paid grade"
+  ],
+  [
+    260,
+    524,
+    "zero distinct paid grade"
+  ],
+  [
+    261,
+    0,
+    "raw ceiling"
+  ],
+  [
+    261,
+    42,
+    "zero distinct paid grade"
+  ],
+  [
+    261,
+    75,
+    "zero distinct paid grade"
+  ],
+  [
+    261,
+    294,
+    "zero distinct paid grade"
+  ],
+  [
+    261,
+    318,
+    "zero distinct paid grade"
+  ],
+  [
+    261,
+    524,
+    "zero distinct paid grade"
+  ],
+  [
+    262,
+    0,
+    "raw ceiling"
+  ],
+  [
+    262,
+    42,
+    "zero distinct paid grade"
+  ],
+  [
+    262,
+    80,
+    "zero distinct paid grade"
+  ],
+  [
+    262,
+    282,
+    "zero distinct paid grade"
+  ],
+  [
+    262,
+    325,
+    "zero distinct paid grade"
+  ],
+  [
+    262,
+    524,
+    "zero distinct paid grade"
+  ],
+  [
+    263,
+    0,
+    "raw ceiling"
+  ],
+  [
+    263,
+    47,
+    "zero distinct paid grade"
+  ],
+  [
+    263,
+    75,
+    "zero distinct paid grade"
+  ],
+  [
+    263,
+    285,
+    "zero distinct paid grade"
+  ],
+  [
+    263,
+    324,
+    "zero distinct paid grade"
+  ],
+  [
+    263,
+    438,
+    "raw ceiling"
+  ],
+  [
+    264,
+    0,
+    "raw ceiling"
+  ],
+  [
+    264,
+    47,
+    "zero distinct paid grade"
+  ],
+  [
+    264,
+    80,
+    "zero distinct paid grade"
+  ],
+  [
+    264,
+    297,
+    "zero distinct paid grade"
+  ],
+  [
+    264,
+    315,
+    "zero distinct paid grade"
+  ],
+  [
+    264,
+    524,
+    "zero distinct paid grade"
+  ],
+  [
+    265,
+    0,
+    "raw ceiling"
+  ],
+  [
+    265,
+    75,
+    "zero distinct paid grade"
+  ],
+  [
+    265,
+    80,
+    "zero distinct paid grade"
+  ],
+  [
+    265,
+    271,
+    "zero distinct paid grade"
+  ],
+  [
+    265,
+    312,
+    "zero distinct paid grade"
+  ],
+  [
+    265,
+    524,
+    "zero distinct paid grade"
+  ],
+  [
+    266,
+    11,
+    "zero distinct paid grade"
+  ],
+  [
+    266,
+    13,
+    "zero distinct paid grade"
+  ],
+  [
+    266,
+    194,
+    "zero distinct paid grade"
+  ],
+  [
+    266,
+    212,
+    "zero distinct paid grade"
+  ],
+  [
+    266,
+    230,
+    "zero distinct paid grade"
+  ],
+  [
+    266,
+    248,
+    "zero distinct paid grade"
+  ],
+  [
+    266,
+    326,
+    "zero distinct paid grade"
+  ],
+  [
+    266,
+    344,
+    "zero distinct paid grade"
+  ],
+  [
+    266,
+    439,
+    "zero distinct paid grade"
+  ],
+  [
+    266,
+    457,
+    "zero distinct paid grade"
+  ],
+  [
+    266,
+    475,
+    "zero distinct paid grade"
+  ],
+  [
+    266,
+    493,
+    "zero distinct paid grade"
+  ],
+  [
+    267,
+    11,
+    "raw ceiling"
+  ],
+  [
+    267,
+    125,
+    "zero distinct paid grade"
+  ],
+  [
+    267,
+    151,
+    "zero distinct paid grade"
+  ],
+  [
+    267,
+    163,
+    "zero distinct paid grade"
+  ],
+  [
+    267,
+    181,
+    "zero distinct paid grade"
+  ],
+  [
+    267,
+    193,
+    "zero distinct paid grade"
+  ],
+  [
+    267,
+    326,
+    "zero distinct paid grade"
+  ],
+  [
+    267,
+    349,
+    "zero distinct paid grade"
+  ],
+  [
+    267,
+    374,
+    "zero distinct paid grade"
+  ],
+  [
+    267,
+    392,
+    "zero distinct paid grade"
+  ],
+  [
+    267,
+    410,
+    "zero distinct paid grade"
+  ],
+  [
+    267,
+    428,
+    "zero distinct paid grade"
+  ],
+  [
+    268,
+    8,
+    "raw ceiling"
+  ],
+  [
+    268,
+    126,
+    "zero distinct paid grade"
+  ],
+  [
+    268,
+    152,
+    "zero distinct paid grade"
+  ],
+  [
+    268,
+    182,
+    "zero distinct paid grade"
+  ],
+  [
+    268,
+    218,
+    "zero distinct paid grade"
+  ],
+  [
+    268,
+    242,
+    "zero distinct paid grade"
+  ],
+  [
+    268,
+    327,
+    "zero distinct paid grade"
+  ],
+  [
+    268,
+    348,
+    "zero distinct paid grade"
+  ],
+  [
+    268,
+    385,
+    "zero distinct paid grade"
+  ],
+  [
+    268,
+    421,
+    "zero distinct paid grade"
+  ],
+  [
+    268,
+    463,
+    "zero distinct paid grade"
+  ],
+  [
+    268,
+    487,
+    "zero distinct paid grade"
+  ],
+  [
+    269,
+    5,
+    "zero distinct paid grade"
+  ],
+  [
+    269,
+    8,
+    "zero distinct paid grade"
+  ],
+  [
+    269,
+    145,
+    "zero distinct paid grade"
+  ],
+  [
+    269,
+    175,
+    "zero distinct paid grade"
+  ],
+  [
+    269,
+    211,
+    "zero distinct paid grade"
+  ],
+  [
+    269,
+    259,
+    "zero distinct paid grade"
+  ],
+  [
+    269,
+    327,
+    "zero distinct paid grade"
+  ],
+  [
+    269,
+    345,
+    "zero distinct paid grade"
+  ],
+  [
+    269,
+    368,
+    "zero distinct paid grade"
+  ],
+  [
+    269,
+    404,
+    "zero distinct paid grade"
+  ],
+  [
+    269,
+    446,
+    "zero distinct paid grade"
+  ],
+  [
+    269,
+    494,
+    "zero distinct paid grade"
+  ],
+  [
+    270,
+    2,
+    "raw ceiling"
+  ],
+  [
+    270,
+    115,
+    "zero distinct paid grade"
+  ],
+  [
+    270,
+    134,
+    "zero distinct paid grade"
+  ],
+  [
+    270,
+    164,
+    "zero distinct paid grade"
+  ],
+  [
+    270,
+    224,
+    "zero distinct paid grade"
+  ],
+  [
+    270,
+    236,
+    "zero distinct paid grade"
+  ],
+  [
+    270,
+    328,
+    "zero distinct paid grade"
+  ],
+  [
+    270,
+    347,
+    "zero distinct paid grade"
+  ],
+  [
+    270,
+    367,
+    "zero distinct paid grade"
+  ],
+  [
+    270,
+    403,
+    "zero distinct paid grade"
+  ],
+  [
+    270,
+    469,
+    "zero distinct paid grade"
+  ],
+  [
+    270,
+    481,
+    "zero distinct paid grade"
+  ],
+  [
+    271,
+    76,
+    "raw ceiling"
+  ],
+  [
+    271,
+    115,
+    "zero distinct paid grade"
+  ],
+  [
+    271,
+    127,
+    "zero distinct paid grade"
+  ],
+  [
+    271,
+    190,
+    "zero distinct paid grade"
+  ],
+  [
+    271,
+    205,
+    "zero distinct paid grade"
+  ],
+  [
+    271,
+    265,
+    "zero distinct paid grade"
+  ],
+  [
+    271,
+    328,
+    "zero distinct paid grade"
+  ],
+  [
+    271,
+    346,
+    "zero distinct paid grade"
+  ],
+  [
+    271,
+    386,
+    "zero distinct paid grade"
+  ],
+  [
+    271,
+    422,
+    "zero distinct paid grade"
+  ],
+  [
+    271,
+    440,
+    "zero distinct paid grade"
+  ],
+  [
+    271,
+    500,
+    "zero distinct paid grade"
+  ],
+  [
+    272,
+    2,
+    "zero distinct paid grade"
+  ],
+  [
+    272,
+    7,
+    "zero distinct paid grade"
+  ],
+  [
+    272,
+    158,
+    "zero distinct paid grade"
+  ],
+  [
+    272,
+    185,
+    "zero distinct paid grade"
+  ],
+  [
+    272,
+    200,
+    "zero distinct paid grade"
+  ],
+  [
+    272,
+    260,
+    "zero distinct paid grade"
+  ],
+  [
+    272,
+    329,
+    "zero distinct paid grade"
+  ],
+  [
+    272,
+    347,
+    "zero distinct paid grade"
+  ],
+  [
+    272,
+    391,
+    "zero distinct paid grade"
+  ],
+  [
+    272,
+    427,
+    "zero distinct paid grade"
+  ],
+  [
+    272,
+    445,
+    "zero distinct paid grade"
+  ],
+  [
+    272,
+    505,
+    "zero distinct paid grade"
+  ],
+  [
+    273,
+    7,
+    "raw ceiling"
+  ],
+  [
+    273,
+    127,
+    "zero distinct paid grade"
+  ],
+  [
+    273,
+    139,
+    "zero distinct paid grade"
+  ],
+  [
+    273,
+    169,
+    "zero distinct paid grade"
+  ],
+  [
+    273,
+    229,
+    "zero distinct paid grade"
+  ],
+  [
+    273,
+    241,
+    "zero distinct paid grade"
+  ],
+  [
+    273,
+    329,
+    "zero distinct paid grade"
+  ],
+  [
+    273,
+    346,
+    "zero distinct paid grade"
+  ],
+  [
+    273,
+    362,
+    "zero distinct paid grade"
+  ],
+  [
+    273,
+    398,
+    "zero distinct paid grade"
+  ],
+  [
+    273,
+    464,
+    "zero distinct paid grade"
+  ],
+  [
+    273,
+    476,
+    "zero distinct paid grade"
+  ],
+  [
+    274,
+    114,
+    "zero distinct paid grade"
+  ],
+  [
+    274,
+    126,
+    "zero distinct paid grade"
+  ],
+  [
+    274,
+    140,
+    "zero distinct paid grade"
+  ],
+  [
+    274,
+    170,
+    "zero distinct paid grade"
+  ],
+  [
+    274,
+    206,
+    "zero distinct paid grade"
+  ],
+  [
+    274,
+    254,
+    "zero distinct paid grade"
+  ],
+  [
+    274,
+    330,
+    "zero distinct paid grade"
+  ],
+  [
+    274,
+    348,
+    "zero distinct paid grade"
+  ],
+  [
+    274,
+    373,
+    "zero distinct paid grade"
+  ],
+  [
+    274,
+    409,
+    "zero distinct paid grade"
+  ],
+  [
+    274,
+    451,
+    "zero distinct paid grade"
+  ],
+  [
+    274,
+    499,
+    "zero distinct paid grade"
+  ],
+  [
+    275,
+    5,
+    "zero distinct paid grade"
+  ],
+  [
+    275,
+    94,
+    "zero distinct paid grade"
+  ],
+  [
+    275,
+    114,
+    "zero distinct paid grade"
+  ],
+  [
+    275,
+    157,
+    "zero distinct paid grade"
+  ],
+  [
+    275,
+    223,
+    "zero distinct paid grade"
+  ],
+  [
+    275,
+    247,
+    "zero distinct paid grade"
+  ],
+  [
+    275,
+    330,
+    "zero distinct paid grade"
+  ],
+  [
+    275,
+    345,
+    "zero distinct paid grade"
+  ],
+  [
+    275,
+    380,
+    "zero distinct paid grade"
+  ],
+  [
+    275,
+    416,
+    "zero distinct paid grade"
+  ],
+  [
+    275,
+    458,
+    "zero distinct paid grade"
+  ],
+  [
+    275,
+    482,
+    "zero distinct paid grade"
+  ],
+  [
+    276,
+    0,
+    "raw ceiling"
+  ],
+  [
+    276,
+    13,
+    "zero distinct paid grade"
+  ],
+  [
+    276,
+    52,
+    "zero distinct paid grade"
+  ],
+  [
+    276,
+    59,
+    "zero distinct paid grade"
+  ],
+  [
+    276,
+    113,
+    "zero distinct paid grade"
+  ],
+  [
+    276,
+    146,
+    "zero distinct paid grade"
+  ],
+  [
+    276,
+    176,
+    "zero distinct paid grade"
+  ],
+  [
+    276,
+    331,
+    "zero distinct paid grade"
+  ],
+  [
+    276,
+    344,
+    "zero distinct paid grade"
+  ],
+  [
+    276,
+    379,
+    "zero distinct paid grade"
+  ],
+  [
+    276,
+    397,
+    "zero distinct paid grade"
+  ],
+  [
+    276,
+    415,
+    "zero distinct paid grade"
+  ],
+  [
+    276,
+    433,
+    "zero distinct paid grade"
+  ],
+  [
+    276,
+    585,
+    "raw ceiling"
+  ],
+  [
+    277,
+    113,
+    "zero distinct paid grade"
+  ],
+  [
+    277,
+    125,
+    "zero distinct paid grade"
+  ],
+  [
+    277,
+    199,
+    "zero distinct paid grade"
+  ],
+  [
+    277,
+    217,
+    "zero distinct paid grade"
+  ],
+  [
+    277,
+    235,
+    "zero distinct paid grade"
+  ],
+  [
+    277,
+    253,
+    "zero distinct paid grade"
+  ],
+  [
+    277,
+    331,
+    "zero distinct paid grade"
+  ],
+  [
+    277,
+    349,
+    "zero distinct paid grade"
+  ],
+  [
+    277,
+    434,
+    "zero distinct paid grade"
+  ],
+  [
+    277,
+    452,
+    "zero distinct paid grade"
+  ],
+  [
+    277,
+    470,
+    "zero distinct paid grade"
+  ],
+  [
+    277,
+    488,
+    "zero distinct paid grade"
+  ],
+  [
+    278,
+    118,
+    "zero distinct paid grade"
+  ],
+  [
+    278,
+    130,
+    "zero distinct paid grade"
+  ],
+  [
+    278,
+    150,
+    "zero distinct paid grade"
+  ],
+  [
+    278,
+    180,
+    "zero distinct paid grade"
+  ],
+  [
+    278,
+    216,
+    "zero distinct paid grade"
+  ],
+  [
+    278,
+    234,
+    "zero distinct paid grade"
+  ],
+  [
+    278,
+    332,
+    "zero distinct paid grade"
+  ],
+  [
+    278,
+    350,
+    "zero distinct paid grade"
+  ],
+  [
+    278,
+    375,
+    "zero distinct paid grade"
+  ],
+  [
+    278,
+    411,
+    "zero distinct paid grade"
+  ],
+  [
+    278,
+    453,
+    "zero distinct paid grade"
+  ],
+  [
+    278,
+    471,
+    "zero distinct paid grade"
+  ],
+  [
+    279,
+    64,
+    "zero distinct paid grade"
+  ],
+  [
+    279,
+    68,
+    "zero distinct paid grade"
+  ],
+  [
+    279,
+    118,
+    "zero distinct paid grade"
+  ],
+  [
+    279,
+    192,
+    "zero distinct paid grade"
+  ],
+  [
+    279,
+    197,
+    "zero distinct paid grade"
+  ],
+  [
+    279,
+    251,
+    "zero distinct paid grade"
+  ],
+  [
+    279,
+    332,
+    "zero distinct paid grade"
+  ],
+  [
+    279,
+    355,
+    "zero distinct paid grade"
+  ],
+  [
+    279,
+    395,
+    "zero distinct paid grade"
+  ],
+  [
+    279,
+    431,
+    "zero distinct paid grade"
+  ],
+  [
+    279,
+    436,
+    "zero distinct paid grade"
+  ],
+  [
+    279,
+    490,
+    "zero distinct paid grade"
+  ],
+  [
+    280,
+    19,
+    "zero distinct paid grade"
+  ],
+  [
+    280,
+    58,
+    "zero distinct paid grade"
+  ],
+  [
+    280,
+    129,
+    "zero distinct paid grade"
+  ],
+  [
+    280,
+    144,
+    "zero distinct paid grade"
+  ],
+  [
+    280,
+    155,
+    "zero distinct paid grade"
+  ],
+  [
+    280,
+    171,
+    "zero distinct paid grade"
+  ],
+  [
+    280,
+    333,
+    "zero distinct paid grade"
+  ],
+  [
+    280,
+    351,
+    "zero distinct paid grade"
+  ],
+  [
+    280,
+    369,
+    "zero distinct paid grade"
+  ],
+  [
+    280,
+    382,
+    "zero distinct paid grade"
+  ],
+  [
+    280,
+    408,
+    "zero distinct paid grade"
+  ],
+  [
+    280,
+    419,
+    "zero distinct paid grade"
+  ],
+  [
+    281,
+    58,
+    "zero distinct paid grade"
+  ],
+  [
+    281,
+    71,
+    "zero distinct paid grade"
+  ],
+  [
+    281,
+    209,
+    "zero distinct paid grade"
+  ],
+  [
+    281,
+    219,
+    "zero distinct paid grade"
+  ],
+  [
+    281,
+    246,
+    "zero distinct paid grade"
+  ],
+  [
+    281,
+    256,
+    "zero distinct paid grade"
+  ],
+  [
+    281,
+    333,
+    "zero distinct paid grade"
+  ],
+  [
+    281,
+    354,
+    "zero distinct paid grade"
+  ],
+  [
+    281,
+    448,
+    "zero distinct paid grade"
+  ],
+  [
+    281,
+    462,
+    "zero distinct paid grade"
+  ],
+  [
+    281,
+    483,
+    "zero distinct paid grade"
+  ],
+  [
+    281,
+    497,
+    "zero distinct paid grade"
+  ],
+  [
+    282,
+    56,
+    "raw ceiling"
+  ],
+  [
+    282,
+    128,
+    "zero distinct paid grade"
+  ],
+  [
+    282,
+    135,
+    "zero distinct paid grade"
+  ],
+  [
+    282,
+    168,
+    "zero distinct paid grade"
+  ],
+  [
+    282,
+    203,
+    "zero distinct paid grade"
+  ],
+  [
+    282,
+    262,
+    "zero distinct paid grade"
+  ],
+  [
+    282,
+    334,
+    "zero distinct paid grade"
+  ],
+  [
+    282,
+    352,
+    "zero distinct paid grade"
+  ],
+  [
+    282,
+    366,
+    "zero distinct paid grade"
+  ],
+  [
+    282,
+    399,
+    "zero distinct paid grade"
+  ],
+  [
+    282,
+    442,
+    "zero distinct paid grade"
+  ],
+  [
+    282,
+    503,
+    "zero distinct paid grade"
+  ],
+  [
+    283,
+    56,
+    "zero distinct paid grade"
+  ],
+  [
+    283,
+    74,
+    "zero distinct paid grade"
+  ],
+  [
+    283,
+    160,
+    "zero distinct paid grade"
+  ],
+  [
+    283,
+    187,
+    "zero distinct paid grade"
+  ],
+  [
+    283,
+    225,
+    "zero distinct paid grade"
+  ],
+  [
+    283,
+    240,
+    "zero distinct paid grade"
+  ],
+  [
+    283,
+    334,
+    "zero distinct paid grade"
+  ],
+  [
+    283,
+    353,
+    "zero distinct paid grade"
+  ],
+  [
+    283,
+    388,
+    "zero distinct paid grade"
+  ],
+  [
+    283,
+    425,
+    "zero distinct paid grade"
+  ],
+  [
+    283,
+    468,
+    "zero distinct paid grade"
+  ],
+  [
+    283,
+    477,
+    "zero distinct paid grade"
+  ],
+  [
+    284,
+    37,
+    "raw ceiling"
+  ],
+  [
+    284,
+    117,
+    "zero distinct paid grade"
+  ],
+  [
+    284,
+    128,
+    "zero distinct paid grade"
+  ],
+  [
+    284,
+    188,
+    "zero distinct paid grade"
+  ],
+  [
+    284,
+    228,
+    "zero distinct paid grade"
+  ],
+  [
+    284,
+    237,
+    "zero distinct paid grade"
+  ],
+  [
+    284,
+    335,
+    "zero distinct paid grade"
+  ],
+  [
+    284,
+    352,
+    "zero distinct paid grade"
+  ],
+  [
+    284,
+    389,
+    "zero distinct paid grade"
+  ],
+  [
+    284,
+    424,
+    "zero distinct paid grade"
+  ],
+  [
+    284,
+    465,
+    "zero distinct paid grade"
+  ],
+  [
+    284,
+    480,
+    "zero distinct paid grade"
+  ],
+  [
+    285,
+    74,
+    "raw ceiling"
+  ],
+  [
+    285,
+    117,
+    "zero distinct paid grade"
+  ],
+  [
+    285,
+    138,
+    "zero distinct paid grade"
+  ],
+  [
+    285,
+    165,
+    "zero distinct paid grade"
+  ],
+  [
+    285,
+    202,
+    "zero distinct paid grade"
+  ],
+  [
+    285,
+    263,
+    "zero distinct paid grade"
+  ],
+  [
+    285,
+    335,
+    "zero distinct paid grade"
+  ],
+  [
+    285,
+    353,
+    "zero distinct paid grade"
+  ],
+  [
+    285,
+    363,
+    "zero distinct paid grade"
+  ],
+  [
+    285,
+    402,
+    "zero distinct paid grade"
+  ],
+  [
+    285,
+    443,
+    "zero distinct paid grade"
+  ],
+  [
+    285,
+    502,
+    "zero distinct paid grade"
+  ],
+  [
+    286,
+    116,
+    "zero distinct paid grade"
+  ],
+  [
+    286,
+    129,
+    "zero distinct paid grade"
+  ],
+  [
+    286,
+    208,
+    "zero distinct paid grade"
+  ],
+  [
+    286,
+    222,
+    "zero distinct paid grade"
+  ],
+  [
+    286,
+    243,
+    "zero distinct paid grade"
+  ],
+  [
+    286,
+    257,
+    "zero distinct paid grade"
+  ],
+  [
+    286,
+    336,
+    "zero distinct paid grade"
+  ],
+  [
+    286,
+    351,
+    "zero distinct paid grade"
+  ],
+  [
+    286,
+    449,
+    "zero distinct paid grade"
+  ],
+  [
+    286,
+    459,
+    "zero distinct paid grade"
+  ],
+  [
+    286,
+    486,
+    "zero distinct paid grade"
+  ],
+  [
+    286,
+    496,
+    "zero distinct paid grade"
+  ],
+  [
+    287,
+    71,
+    "raw ceiling"
+  ],
+  [
+    287,
+    116,
+    "zero distinct paid grade"
+  ],
+  [
+    287,
+    141,
+    "zero distinct paid grade"
+  ],
+  [
+    287,
+    154,
+    "zero distinct paid grade"
+  ],
+  [
+    287,
+    174,
+    "zero distinct paid grade"
+  ],
+  [
+    287,
+    184,
+    "zero distinct paid grade"
+  ],
+  [
+    287,
+    336,
+    "zero distinct paid grade"
+  ],
+  [
+    287,
+    354,
+    "zero distinct paid grade"
+  ],
+  [
+    287,
+    372,
+    "zero distinct paid grade"
+  ],
+  [
+    287,
+    383,
+    "zero distinct paid grade"
+  ],
+  [
+    287,
+    405,
+    "zero distinct paid grade"
+  ],
+  [
+    287,
+    418,
+    "zero distinct paid grade"
+  ],
+  [
+    288,
+    48,
+    "zero distinct paid grade"
+  ],
+  [
+    288,
+    64,
+    "zero distinct paid grade"
+  ],
+  [
+    288,
+    147,
+    "zero distinct paid grade"
+  ],
+  [
+    288,
+    177,
+    "zero distinct paid grade"
+  ],
+  [
+    288,
+    213,
+    "zero distinct paid grade"
+  ],
+  [
+    288,
+    231,
+    "zero distinct paid grade"
+  ],
+  [
+    288,
+    337,
+    "zero distinct paid grade"
+  ],
+  [
+    288,
+    355,
+    "zero distinct paid grade"
+  ],
+  [
+    288,
+    378,
+    "zero distinct paid grade"
+  ],
+  [
+    288,
+    414,
+    "zero distinct paid grade"
+  ],
+  [
+    288,
+    456,
+    "zero distinct paid grade"
+  ],
+  [
+    288,
+    474,
+    "zero distinct paid grade"
+  ],
+  [
+    289,
+    48,
+    "zero distinct paid grade"
+  ],
+  [
+    289,
+    62,
+    "zero distinct paid grade"
+  ],
+  [
+    289,
+    130,
+    "zero distinct paid grade"
+  ],
+  [
+    289,
+    161,
+    "zero distinct paid grade"
+  ],
+  [
+    289,
+    196,
+    "zero distinct paid grade"
+  ],
+  [
+    289,
+    250,
+    "zero distinct paid grade"
+  ],
+  [
+    289,
+    337,
+    "zero distinct paid grade"
+  ],
+  [
+    289,
+    350,
+    "zero distinct paid grade"
+  ],
+  [
+    289,
+    394,
+    "zero distinct paid grade"
+  ],
+  [
+    289,
+    430,
+    "zero distinct paid grade"
+  ],
+  [
+    289,
+    437,
+    "zero distinct paid grade"
+  ],
+  [
+    289,
+    491,
+    "zero distinct paid grade"
+  ],
+  [
+    290,
+    69,
+    "zero distinct paid grade"
+  ],
+  [
+    290,
+    70,
+    "zero distinct paid grade"
+  ],
+  [
+    290,
+    124,
+    "zero distinct paid grade"
+  ],
+  [
+    290,
+    162,
+    "zero distinct paid grade"
+  ],
+  [
+    290,
+    215,
+    "zero distinct paid grade"
+  ],
+  [
+    290,
+    233,
+    "zero distinct paid grade"
+  ],
+  [
+    290,
+    338,
+    "zero distinct paid grade"
+  ],
+  [
+    290,
+    356,
+    "zero distinct paid grade"
+  ],
+  [
+    290,
+    393,
+    "zero distinct paid grade"
+  ],
+  [
+    290,
+    429,
+    "zero distinct paid grade"
+  ],
+  [
+    290,
+    454,
+    "zero distinct paid grade"
+  ],
+  [
+    290,
+    472,
+    "zero distinct paid grade"
+  ],
+  [
+    291,
+    124,
+    "zero distinct paid grade"
+  ],
+  [
+    291,
+    131,
+    "zero distinct paid grade"
+  ],
+  [
+    291,
+    148,
+    "zero distinct paid grade"
+  ],
+  [
+    291,
+    178,
+    "zero distinct paid grade"
+  ],
+  [
+    291,
+    198,
+    "zero distinct paid grade"
+  ],
+  [
+    291,
+    252,
+    "zero distinct paid grade"
+  ],
+  [
+    291,
+    338,
+    "zero distinct paid grade"
+  ],
+  [
+    291,
+    361,
+    "zero distinct paid grade"
+  ],
+  [
+    291,
+    377,
+    "zero distinct paid grade"
+  ],
+  [
+    291,
+    413,
+    "zero distinct paid grade"
+  ],
+  [
+    291,
+    435,
+    "zero distinct paid grade"
+  ],
+  [
+    291,
+    489,
+    "zero distinct paid grade"
+  ],
+  [
+    292,
+    123,
+    "zero distinct paid grade"
+  ],
+  [
+    292,
+    133,
+    "zero distinct paid grade"
+  ],
+  [
+    292,
+    143,
+    "zero distinct paid grade"
+  ],
+  [
+    292,
+    172,
+    "zero distinct paid grade"
+  ],
+  [
+    292,
+    221,
+    "zero distinct paid grade"
+  ],
+  [
+    292,
+    244,
+    "zero distinct paid grade"
+  ],
+  [
+    292,
+    339,
+    "zero distinct paid grade"
+  ],
+  [
+    292,
+    357,
+    "zero distinct paid grade"
+  ],
+  [
+    292,
+    370,
+    "zero distinct paid grade"
+  ],
+  [
+    292,
+    407,
+    "zero distinct paid grade"
+  ],
+  [
+    292,
+    460,
+    "zero distinct paid grade"
+  ],
+  [
+    292,
+    485,
+    "zero distinct paid grade"
+  ],
+  [
+    293,
+    24,
+    "zero distinct paid grade"
+  ],
+  [
+    293,
+    63,
+    "zero distinct paid grade"
+  ],
+  [
+    293,
+    123,
+    "zero distinct paid grade"
+  ],
+  [
+    293,
+    153,
+    "zero distinct paid grade"
+  ],
+  [
+    293,
+    210,
+    "zero distinct paid grade"
+  ],
+  [
+    293,
+    255,
+    "zero distinct paid grade"
+  ],
+  [
+    293,
+    339,
+    "zero distinct paid grade"
+  ],
+  [
+    293,
+    360,
+    "zero distinct paid grade"
+  ],
+  [
+    293,
+    384,
+    "zero distinct paid grade"
+  ],
+  [
+    293,
+    417,
+    "zero distinct paid grade"
+  ],
+  [
+    293,
+    447,
+    "zero distinct paid grade"
+  ],
+  [
+    293,
+    498,
+    "zero distinct paid grade"
+  ],
+  [
+    294,
+    65,
+    "raw ceiling"
+  ],
+  [
+    294,
+    122,
+    "zero distinct paid grade"
+  ],
+  [
+    294,
+    204,
+    "zero distinct paid grade"
+  ],
+  [
+    294,
+    227,
+    "zero distinct paid grade"
+  ],
+  [
+    294,
+    238,
+    "zero distinct paid grade"
+  ],
+  [
+    294,
+    261,
+    "zero distinct paid grade"
+  ],
+  [
+    294,
+    340,
+    "zero distinct paid grade"
+  ],
+  [
+    294,
+    358,
+    "zero distinct paid grade"
+  ],
+  [
+    294,
+    441,
+    "zero distinct paid grade"
+  ],
+  [
+    294,
+    466,
+    "zero distinct paid grade"
+  ],
+  [
+    294,
+    479,
+    "zero distinct paid grade"
+  ],
+  [
+    294,
+    504,
+    "zero distinct paid grade"
+  ],
+  [
+    295,
+    45,
+    "raw ceiling"
+  ],
+  [
+    295,
+    122,
+    "zero distinct paid grade"
+  ],
+  [
+    295,
+    132,
+    "zero distinct paid grade"
+  ],
+  [
+    295,
+    137,
+    "zero distinct paid grade"
+  ],
+  [
+    295,
+    166,
+    "zero distinct paid grade"
+  ],
+  [
+    295,
+    186,
+    "zero distinct paid grade"
+  ],
+  [
+    295,
+    340,
+    "zero distinct paid grade"
+  ],
+  [
+    295,
+    359,
+    "zero distinct paid grade"
+  ],
+  [
+    295,
+    364,
+    "zero distinct paid grade"
+  ],
+  [
+    295,
+    387,
+    "zero distinct paid grade"
+  ],
+  [
+    295,
+    401,
+    "zero distinct paid grade"
+  ],
+  [
+    295,
+    426,
+    "zero distinct paid grade"
+  ],
+  [
+    296,
+    65,
+    "raw ceiling"
+  ],
+  [
+    296,
+    121,
+    "zero distinct paid grade"
+  ],
+  [
+    296,
+    136,
+    "zero distinct paid grade"
+  ],
+  [
+    296,
+    159,
+    "zero distinct paid grade"
+  ],
+  [
+    296,
+    167,
+    "zero distinct paid grade"
+  ],
+  [
+    296,
+    189,
+    "zero distinct paid grade"
+  ],
+  [
+    296,
+    341,
+    "zero distinct paid grade"
+  ],
+  [
+    296,
+    358,
+    "zero distinct paid grade"
+  ],
+  [
+    296,
+    365,
+    "zero distinct paid grade"
+  ],
+  [
+    296,
+    390,
+    "zero distinct paid grade"
+  ],
+  [
+    296,
+    400,
+    "zero distinct paid grade"
+  ],
+  [
+    296,
+    423,
+    "zero distinct paid grade"
+  ],
+  [
+    297,
+    121,
+    "zero distinct paid grade"
+  ],
+  [
+    297,
+    132,
+    "zero distinct paid grade"
+  ],
+  [
+    297,
+    201,
+    "zero distinct paid grade"
+  ],
+  [
+    297,
+    226,
+    "zero distinct paid grade"
+  ],
+  [
+    297,
+    239,
+    "zero distinct paid grade"
+  ],
+  [
+    297,
+    264,
+    "zero distinct paid grade"
+  ],
+  [
+    297,
+    341,
+    "zero distinct paid grade"
+  ],
+  [
+    297,
+    359,
+    "zero distinct paid grade"
+  ],
+  [
+    297,
+    444,
+    "zero distinct paid grade"
+  ],
+  [
+    297,
+    467,
+    "zero distinct paid grade"
+  ],
+  [
+    297,
+    478,
+    "zero distinct paid grade"
+  ],
+  [
+    297,
+    501,
+    "zero distinct paid grade"
+  ],
+  [
+    298,
+    120,
+    "zero distinct paid grade"
+  ],
+  [
+    298,
+    133,
+    "zero distinct paid grade"
+  ],
+  [
+    298,
+    156,
+    "zero distinct paid grade"
+  ],
+  [
+    298,
+    183,
+    "zero distinct paid grade"
+  ],
+  [
+    298,
+    207,
+    "zero distinct paid grade"
+  ],
+  [
+    298,
+    258,
+    "zero distinct paid grade"
+  ],
+  [
+    298,
+    342,
+    "zero distinct paid grade"
+  ],
+  [
+    298,
+    357,
+    "zero distinct paid grade"
+  ],
+  [
+    298,
+    381,
+    "zero distinct paid grade"
+  ],
+  [
+    298,
+    420,
+    "zero distinct paid grade"
+  ],
+  [
+    298,
+    450,
+    "zero distinct paid grade"
+  ],
+  [
+    298,
+    495,
+    "zero distinct paid grade"
+  ],
+  [
+    299,
+    63,
+    "raw ceiling"
+  ],
+  [
+    299,
+    120,
+    "zero distinct paid grade"
+  ],
+  [
+    299,
+    142,
+    "zero distinct paid grade"
+  ],
+  [
+    299,
+    173,
+    "zero distinct paid grade"
+  ],
+  [
+    299,
+    220,
+    "zero distinct paid grade"
+  ],
+  [
+    299,
+    245,
+    "zero distinct paid grade"
+  ],
+  [
+    299,
+    342,
+    "zero distinct paid grade"
+  ],
+  [
+    299,
+    360,
+    "zero distinct paid grade"
+  ],
+  [
+    299,
+    371,
+    "zero distinct paid grade"
+  ],
+  [
+    299,
+    406,
+    "zero distinct paid grade"
+  ],
+  [
+    299,
+    461,
+    "zero distinct paid grade"
+  ],
+  [
+    299,
+    484,
+    "zero distinct paid grade"
+  ],
+  [
+    300,
+    67,
+    "raw ceiling"
+  ],
+  [
+    300,
+    119,
+    "zero distinct paid grade"
+  ],
+  [
+    300,
+    131,
+    "zero distinct paid grade"
+  ],
+  [
+    300,
+    191,
+    "zero distinct paid grade"
+  ],
+  [
+    300,
+    214,
+    "zero distinct paid grade"
+  ],
+  [
+    300,
+    232,
+    "zero distinct paid grade"
+  ],
+  [
+    300,
+    343,
+    "zero distinct paid grade"
+  ],
+  [
+    300,
+    361,
+    "zero distinct paid grade"
+  ],
+  [
+    300,
+    396,
+    "zero distinct paid grade"
+  ],
+  [
+    300,
+    432,
+    "zero distinct paid grade"
+  ],
+  [
+    300,
+    455,
+    "zero distinct paid grade"
+  ],
+  [
+    300,
+    473,
+    "zero distinct paid grade"
+  ],
+  [
+    301,
+    70,
+    "raw ceiling"
+  ],
+  [
+    301,
+    119,
+    "zero distinct paid grade"
+  ],
+  [
+    301,
+    149,
+    "zero distinct paid grade"
+  ],
+  [
+    301,
+    179,
+    "zero distinct paid grade"
+  ],
+  [
+    301,
+    195,
+    "zero distinct paid grade"
+  ],
+  [
+    301,
+    249,
+    "zero distinct paid grade"
+  ],
+  [
+    301,
+    343,
+    "zero distinct paid grade"
+  ],
+  [
+    301,
+    356,
+    "zero distinct paid grade"
+  ],
+  [
+    301,
+    376,
+    "zero distinct paid grade"
+  ],
+  [
+    301,
+    412,
+    "zero distinct paid grade"
+  ],
+  [
+    301,
+    438,
+    "zero distinct paid grade"
+  ],
+  [
+    301,
+    492,
+    "zero distinct paid grade"
+  ],
+  [
+    302,
+    67,
+    "zero distinct paid grade"
+  ],
+  [
+    302,
+    69,
+    "zero distinct paid grade"
+  ],
+  [
+    302,
+    139,
+    "zero distinct paid grade"
+  ],
+  [
+    302,
+    164,
+    "zero distinct paid grade"
+  ],
+  [
+    302,
+    209,
+    "zero distinct paid grade"
+  ],
+  [
+    302,
+    257,
+    "zero distinct paid grade"
+  ],
+  [
+    302,
+    362,
+    "zero distinct paid grade"
+  ],
+  [
+    302,
+    396,
+    "zero distinct paid grade"
+  ],
+  [
+    302,
+    403,
+    "zero distinct paid grade"
+  ],
+  [
+    302,
+    429,
+    "zero distinct paid grade"
+  ],
+  [
+    302,
+    448,
+    "zero distinct paid grade"
+  ],
+  [
+    302,
+    496,
+    "zero distinct paid grade"
+  ],
+  [
+    303,
+    24,
+    "raw ceiling"
+  ],
+  [
+    303,
+    138,
+    "zero distinct paid grade"
+  ],
+  [
+    303,
+    156,
+    "zero distinct paid grade"
+  ],
+  [
+    303,
+    168,
+    "zero distinct paid grade"
+  ],
+  [
+    303,
+    212,
+    "zero distinct paid grade"
+  ],
+  [
+    303,
+    235,
+    "zero distinct paid grade"
+  ],
+  [
+    303,
+    363,
+    "zero distinct paid grade"
+  ],
+  [
+    303,
+    381,
+    "zero distinct paid grade"
+  ],
+  [
+    303,
+    399,
+    "zero distinct paid grade"
+  ],
+  [
+    303,
+    417,
+    "zero distinct paid grade"
+  ],
+  [
+    303,
+    457,
+    "zero distinct paid grade"
+  ],
+  [
+    303,
+    470,
+    "zero distinct paid grade"
+  ],
+  [
+    304,
+    137,
+    "zero distinct paid grade"
+  ],
+  [
+    304,
+    167,
+    "zero distinct paid grade"
+  ],
+  [
+    304,
+    196,
+    "zero distinct paid grade"
+  ],
+  [
+    304,
+    223,
+    "zero distinct paid grade"
+  ],
+  [
+    304,
+    242,
+    "zero distinct paid grade"
+  ],
+  [
+    304,
+    251,
+    "zero distinct paid grade"
+  ],
+  [
+    304,
+    364,
+    "zero distinct paid grade"
+  ],
+  [
+    304,
+    400,
+    "zero distinct paid grade"
+  ],
+  [
+    304,
+    437,
+    "zero distinct paid grade"
+  ],
+  [
+    304,
+    458,
+    "zero distinct paid grade"
+  ],
+  [
+    304,
+    487,
+    "zero distinct paid grade"
+  ],
+  [
+    304,
+    490,
+    "zero distinct paid grade"
+  ],
+  [
+    305,
+    136,
+    "zero distinct paid grade"
+  ],
+  [
+    305,
+    166,
+    "zero distinct paid grade"
+  ],
+  [
+    305,
+    197,
+    "zero distinct paid grade"
+  ],
+  [
+    305,
+    218,
+    "zero distinct paid grade"
+  ],
+  [
+    305,
+    247,
+    "zero distinct paid grade"
+  ],
+  [
+    305,
+    250,
+    "zero distinct paid grade"
+  ],
+  [
+    305,
+    365,
+    "zero distinct paid grade"
+  ],
+  [
+    305,
+    401,
+    "zero distinct paid grade"
+  ],
+  [
+    305,
+    436,
+    "zero distinct paid grade"
+  ],
+  [
+    305,
+    463,
+    "zero distinct paid grade"
+  ],
+  [
+    305,
+    482,
+    "zero distinct paid grade"
+  ],
+  [
+    305,
+    491,
+    "zero distinct paid grade"
+  ],
+  [
+    306,
+    135,
+    "zero distinct paid grade"
+  ],
+  [
+    306,
+    153,
+    "zero distinct paid grade"
+  ],
+  [
+    306,
+    165,
+    "zero distinct paid grade"
+  ],
+  [
+    306,
+    183,
+    "zero distinct paid grade"
+  ],
+  [
+    306,
+    217,
+    "zero distinct paid grade"
+  ],
+  [
+    306,
+    230,
+    "zero distinct paid grade"
+  ],
+  [
+    306,
+    366,
+    "zero distinct paid grade"
+  ],
+  [
+    306,
+    384,
+    "zero distinct paid grade"
+  ],
+  [
+    306,
+    402,
+    "zero distinct paid grade"
+  ],
+  [
+    306,
+    420,
+    "zero distinct paid grade"
+  ],
+  [
+    306,
+    452,
+    "zero distinct paid grade"
+  ],
+  [
+    306,
+    475,
+    "zero distinct paid grade"
+  ],
+  [
+    307,
+    134,
+    "zero distinct paid grade"
+  ],
+  [
+    307,
+    162,
+    "zero distinct paid grade"
+  ],
+  [
+    307,
+    169,
+    "zero distinct paid grade"
+  ],
+  [
+    307,
+    191,
+    "zero distinct paid grade"
+  ],
+  [
+    307,
+    208,
+    "zero distinct paid grade"
+  ],
+  [
+    307,
+    256,
+    "zero distinct paid grade"
+  ],
+  [
+    307,
+    367,
+    "zero distinct paid grade"
+  ],
+  [
+    307,
+    393,
+    "zero distinct paid grade"
+  ],
+  [
+    307,
+    398,
+    "zero distinct paid grade"
+  ],
+  [
+    307,
+    432,
+    "zero distinct paid grade"
+  ],
+  [
+    307,
+    449,
+    "zero distinct paid grade"
+  ],
+  [
+    307,
+    497,
+    "zero distinct paid grade"
+  ],
+  [
+    308,
+    145,
+    "zero distinct paid grade"
+  ],
+  [
+    308,
+    161,
+    "zero distinct paid grade"
+  ],
+  [
+    308,
+    170,
+    "zero distinct paid grade"
+  ],
+  [
+    308,
+    192,
+    "zero distinct paid grade"
+  ],
+  [
+    308,
+    227,
+    "zero distinct paid grade"
+  ],
+  [
+    308,
+    239,
+    "zero distinct paid grade"
+  ],
+  [
+    308,
+    368,
+    "zero distinct paid grade"
+  ],
+  [
+    308,
+    394,
+    "zero distinct paid grade"
+  ],
+  [
+    308,
+    409,
+    "zero distinct paid grade"
+  ],
+  [
+    308,
+    431,
+    "zero distinct paid grade"
+  ],
+  [
+    308,
+    466,
+    "zero distinct paid grade"
+  ],
+  [
+    308,
+    478,
+    "zero distinct paid grade"
+  ],
+  [
+    309,
+    144,
+    "zero distinct paid grade"
+  ],
+  [
+    309,
+    174,
+    "zero distinct paid grade"
+  ],
+  [
+    309,
+    205,
+    "zero distinct paid grade"
+  ],
+  [
+    309,
+    215,
+    "zero distinct paid grade"
+  ],
+  [
+    309,
+    232,
+    "zero distinct paid grade"
+  ],
+  [
+    309,
+    260,
+    "zero distinct paid grade"
+  ],
+  [
+    309,
+    369,
+    "zero distinct paid grade"
+  ],
+  [
+    309,
+    405,
+    "zero distinct paid grade"
+  ],
+  [
+    309,
+    440,
+    "zero distinct paid grade"
+  ],
+  [
+    309,
+    454,
+    "zero distinct paid grade"
+  ],
+  [
+    309,
+    473,
+    "zero distinct paid grade"
+  ],
+  [
+    309,
+    505,
+    "zero distinct paid grade"
+  ],
+  [
+    310,
+    37,
+    "raw ceiling"
+  ],
+  [
+    310,
+    143,
+    "zero distinct paid grade"
+  ],
+  [
+    310,
+    173,
+    "zero distinct paid grade"
+  ],
+  [
+    310,
+    187,
+    "zero distinct paid grade"
+  ],
+  [
+    310,
+    194,
+    "zero distinct paid grade"
+  ],
+  [
+    310,
+    253,
+    "zero distinct paid grade"
+  ],
+  [
+    310,
+    370,
+    "zero distinct paid grade"
+  ],
+  [
+    310,
+    389,
+    "zero distinct paid grade"
+  ],
+  [
+    310,
+    406,
+    "zero distinct paid grade"
+  ],
+  [
+    310,
+    425,
+    "zero distinct paid grade"
+  ],
+  [
+    310,
+    439,
+    "zero distinct paid grade"
+  ],
+  [
+    310,
+    488,
+    "zero distinct paid grade"
+  ],
+  [
+    311,
+    142,
+    "zero distinct paid grade"
+  ],
+  [
+    311,
+    160,
+    "zero distinct paid grade"
+  ],
+  [
+    311,
+    172,
+    "zero distinct paid grade"
+  ],
+  [
+    311,
+    188,
+    "zero distinct paid grade"
+  ],
+  [
+    311,
+    199,
+    "zero distinct paid grade"
+  ],
+  [
+    311,
+    248,
+    "zero distinct paid grade"
+  ],
+  [
+    311,
+    371,
+    "zero distinct paid grade"
+  ],
+  [
+    311,
+    388,
+    "zero distinct paid grade"
+  ],
+  [
+    311,
+    407,
+    "zero distinct paid grade"
+  ],
+  [
+    311,
+    424,
+    "zero distinct paid grade"
+  ],
+  [
+    311,
+    434,
+    "zero distinct paid grade"
+  ],
+  [
+    311,
+    493,
+    "zero distinct paid grade"
+  ],
+  [
+    312,
+    141,
+    "zero distinct paid grade"
+  ],
+  [
+    312,
+    171,
+    "zero distinct paid grade"
+  ],
+  [
+    312,
+    200,
+    "zero distinct paid grade"
+  ],
+  [
+    312,
+    214,
+    "zero distinct paid grade"
+  ],
+  [
+    312,
+    233,
+    "zero distinct paid grade"
+  ],
+  [
+    312,
+    265,
+    "zero distinct paid grade"
+  ],
+  [
+    312,
+    372,
+    "zero distinct paid grade"
+  ],
+  [
+    312,
+    408,
+    "zero distinct paid grade"
+  ],
+  [
+    312,
+    445,
+    "zero distinct paid grade"
+  ],
+  [
+    312,
+    455,
+    "zero distinct paid grade"
+  ],
+  [
+    312,
+    472,
+    "zero distinct paid grade"
+  ],
+  [
+    312,
+    500,
+    "zero distinct paid grade"
+  ],
+  [
+    313,
+    62,
+    "zero distinct paid grade"
+  ],
+  [
+    313,
+    68,
+    "zero distinct paid grade"
+  ],
+  [
+    313,
+    140,
+    "zero distinct paid grade"
+  ],
+  [
+    313,
+    175,
+    "zero distinct paid grade"
+  ],
+  [
+    313,
+    226,
+    "zero distinct paid grade"
+  ],
+  [
+    313,
+    238,
+    "zero distinct paid grade"
+  ],
+  [
+    313,
+    373,
+    "zero distinct paid grade"
+  ],
+  [
+    313,
+    395,
+    "zero distinct paid grade"
+  ],
+  [
+    313,
+    404,
+    "zero distinct paid grade"
+  ],
+  [
+    313,
+    430,
+    "zero distinct paid grade"
+  ],
+  [
+    313,
+    467,
+    "zero distinct paid grade"
+  ],
+  [
+    313,
+    479,
+    "zero distinct paid grade"
+  ],
+  [
+    314,
+    151,
+    "zero distinct paid grade"
+  ],
+  [
+    314,
+    176,
+    "zero distinct paid grade"
+  ],
+  [
+    314,
+    207,
+    "zero distinct paid grade"
+  ],
+  [
+    314,
+    225,
+    "zero distinct paid grade"
+  ],
+  [
+    314,
+    237,
+    "zero distinct paid grade"
+  ],
+  [
+    314,
+    255,
+    "zero distinct paid grade"
+  ],
+  [
+    314,
+    374,
+    "zero distinct paid grade"
+  ],
+  [
+    314,
+    415,
+    "zero distinct paid grade"
+  ],
+  [
+    314,
+    450,
+    "zero distinct paid grade"
+  ],
+  [
+    314,
+    468,
+    "zero distinct paid grade"
+  ],
+  [
+    314,
+    480,
+    "zero distinct paid grade"
+  ],
+  [
+    314,
+    498,
+    "zero distinct paid grade"
+  ],
+  [
+    315,
+    94,
+    "raw ceiling"
+  ],
+  [
+    315,
+    150,
+    "zero distinct paid grade"
+  ],
+  [
+    315,
+    152,
+    "zero distinct paid grade"
+  ],
+  [
+    315,
+    177,
+    "zero distinct paid grade"
+  ],
+  [
+    315,
+    204,
+    "zero distinct paid grade"
+  ],
+  [
+    315,
+    264,
+    "zero distinct paid grade"
+  ],
+  [
+    315,
+    375,
+    "zero distinct paid grade"
+  ],
+  [
+    315,
+    385,
+    "zero distinct paid grade"
+  ],
+  [
+    315,
+    414,
+    "zero distinct paid grade"
+  ],
+  [
+    315,
+    416,
+    "zero distinct paid grade"
+  ],
+  [
+    315,
+    441,
+    "zero distinct paid grade"
+  ],
+  [
+    315,
+    501,
+    "zero distinct paid grade"
+  ],
+  [
+    316,
+    76,
+    "raw ceiling"
+  ],
+  [
+    316,
+    149,
+    "zero distinct paid grade"
+  ],
+  [
+    316,
+    178,
+    "zero distinct paid grade"
+  ],
+  [
+    316,
+    185,
+    "zero distinct paid grade"
+  ],
+  [
+    316,
+    219,
+    "zero distinct paid grade"
+  ],
+  [
+    316,
+    243,
+    "zero distinct paid grade"
+  ],
+  [
+    316,
+    376,
+    "zero distinct paid grade"
+  ],
+  [
+    316,
+    386,
+    "zero distinct paid grade"
+  ],
+  [
+    316,
+    413,
+    "zero distinct paid grade"
+  ],
+  [
+    316,
+    427,
+    "zero distinct paid grade"
+  ],
+  [
+    316,
+    462,
+    "zero distinct paid grade"
+  ],
+  [
+    316,
+    486,
+    "zero distinct paid grade"
+  ],
+  [
+    317,
+    148,
+    "zero distinct paid grade"
+  ],
+  [
+    317,
+    158,
+    "zero distinct paid grade"
+  ],
+  [
+    317,
+    179,
+    "zero distinct paid grade"
+  ],
+  [
+    317,
+    190,
+    "zero distinct paid grade"
+  ],
+  [
+    317,
+    222,
+    "zero distinct paid grade"
+  ],
+  [
+    317,
+    246,
+    "zero distinct paid grade"
+  ],
+  [
+    317,
+    377,
+    "zero distinct paid grade"
+  ],
+  [
+    317,
+    391,
+    "zero distinct paid grade"
+  ],
+  [
+    317,
+    412,
+    "zero distinct paid grade"
+  ],
+  [
+    317,
+    422,
+    "zero distinct paid grade"
+  ],
+  [
+    317,
+    459,
+    "zero distinct paid grade"
+  ],
+  [
+    317,
+    483,
+    "zero distinct paid grade"
+  ],
+  [
+    318,
+    147,
+    "zero distinct paid grade"
+  ],
+  [
+    318,
+    157,
+    "zero distinct paid grade"
+  ],
+  [
+    318,
+    180,
+    "zero distinct paid grade"
+  ],
+  [
+    318,
+    182,
+    "zero distinct paid grade"
+  ],
+  [
+    318,
+    201,
+    "zero distinct paid grade"
+  ],
+  [
+    318,
+    261,
+    "zero distinct paid grade"
+  ],
+  [
+    318,
+    378,
+    "zero distinct paid grade"
+  ],
+  [
+    318,
+    380,
+    "zero distinct paid grade"
+  ],
+  [
+    318,
+    411,
+    "zero distinct paid grade"
+  ],
+  [
+    318,
+    421,
+    "zero distinct paid grade"
+  ],
+  [
+    318,
+    444,
+    "zero distinct paid grade"
+  ],
+  [
+    318,
+    504,
+    "zero distinct paid grade"
+  ],
+  [
+    319,
+    146,
+    "zero distinct paid grade"
+  ],
+  [
+    319,
+    181,
+    "zero distinct paid grade"
+  ],
+  [
+    319,
+    210,
+    "zero distinct paid grade"
+  ],
+  [
+    319,
+    228,
+    "zero distinct paid grade"
+  ],
+  [
+    319,
+    240,
+    "zero distinct paid grade"
+  ],
+  [
+    319,
+    258,
+    "zero distinct paid grade"
+  ],
+  [
+    319,
+    379,
+    "zero distinct paid grade"
+  ],
+  [
+    319,
+    410,
+    "zero distinct paid grade"
+  ],
+  [
+    319,
+    447,
+    "zero distinct paid grade"
+  ],
+  [
+    319,
+    465,
+    "zero distinct paid grade"
+  ],
+  [
+    319,
+    477,
+    "zero distinct paid grade"
+  ],
+  [
+    319,
+    495,
+    "zero distinct paid grade"
+  ],
+  [
+    320,
+    155,
+    "zero distinct paid grade"
+  ],
+  [
+    320,
+    184,
+    "zero distinct paid grade"
+  ],
+  [
+    320,
+    198,
+    "zero distinct paid grade"
+  ],
+  [
+    320,
+    229,
+    "zero distinct paid grade"
+  ],
+  [
+    320,
+    236,
+    "zero distinct paid grade"
+  ],
+  [
+    320,
+    249,
+    "zero distinct paid grade"
+  ],
+  [
+    320,
+    382,
+    "zero distinct paid grade"
+  ],
+  [
+    320,
+    418,
+    "zero distinct paid grade"
+  ],
+  [
+    320,
+    435,
+    "zero distinct paid grade"
+  ],
+  [
+    320,
+    464,
+    "zero distinct paid grade"
+  ],
+  [
+    320,
+    481,
+    "zero distinct paid grade"
+  ],
+  [
+    320,
+    492,
+    "zero distinct paid grade"
+  ],
+  [
+    321,
+    19,
+    "raw ceiling"
+  ],
+  [
+    321,
+    154,
+    "zero distinct paid grade"
+  ],
+  [
+    321,
+    195,
+    "zero distinct paid grade"
+  ],
+  [
+    321,
+    224,
+    "zero distinct paid grade"
+  ],
+  [
+    321,
+    241,
+    "zero distinct paid grade"
+  ],
+  [
+    321,
+    252,
+    "zero distinct paid grade"
+  ],
+  [
+    321,
+    383,
+    "zero distinct paid grade"
+  ],
+  [
+    321,
+    419,
+    "zero distinct paid grade"
+  ],
+  [
+    321,
+    438,
+    "zero distinct paid grade"
+  ],
+  [
+    321,
+    469,
+    "zero distinct paid grade"
+  ],
+  [
+    321,
+    476,
+    "zero distinct paid grade"
+  ],
+  [
+    321,
+    489,
+    "zero distinct paid grade"
+  ],
+  [
+    322,
+    45,
+    "raw ceiling"
+  ],
+  [
+    322,
+    189,
+    "zero distinct paid grade"
+  ],
+  [
+    322,
+    206,
+    "zero distinct paid grade"
+  ],
+  [
+    322,
+    216,
+    "zero distinct paid grade"
+  ],
+  [
+    322,
+    231,
+    "zero distinct paid grade"
+  ],
+  [
+    322,
+    259,
+    "zero distinct paid grade"
+  ],
+  [
+    322,
+    387,
+    "zero distinct paid grade"
+  ],
+  [
+    322,
+    423,
+    "zero distinct paid grade"
+  ],
+  [
+    322,
+    451,
+    "zero distinct paid grade"
+  ],
+  [
+    322,
+    453,
+    "zero distinct paid grade"
+  ],
+  [
+    322,
+    474,
+    "zero distinct paid grade"
+  ],
+  [
+    322,
+    494,
+    "zero distinct paid grade"
+  ],
+  [
+    323,
+    159,
+    "zero distinct paid grade"
+  ],
+  [
+    323,
+    186,
+    "zero distinct paid grade"
+  ],
+  [
+    323,
+    211,
+    "zero distinct paid grade"
+  ],
+  [
+    323,
+    213,
+    "zero distinct paid grade"
+  ],
+  [
+    323,
+    234,
+    "zero distinct paid grade"
+  ],
+  [
+    323,
+    254,
+    "zero distinct paid grade"
+  ],
+  [
+    323,
+    390,
+    "zero distinct paid grade"
+  ],
+  [
+    323,
+    426,
+    "zero distinct paid grade"
+  ],
+  [
+    323,
+    446,
+    "zero distinct paid grade"
+  ],
+  [
+    323,
+    456,
+    "zero distinct paid grade"
+  ],
+  [
+    323,
+    471,
+    "zero distinct paid grade"
+  ],
+  [
+    323,
+    499,
+    "zero distinct paid grade"
+  ],
+  [
+    324,
+    52,
+    "raw ceiling"
+  ],
+  [
+    324,
+    163,
+    "zero distinct paid grade"
+  ],
+  [
+    324,
+    203,
+    "zero distinct paid grade"
+  ],
+  [
+    324,
+    221,
+    "zero distinct paid grade"
+  ],
+  [
+    324,
+    245,
+    "zero distinct paid grade"
+  ],
+  [
+    324,
+    263,
+    "zero distinct paid grade"
+  ],
+  [
+    324,
+    392,
+    "zero distinct paid grade"
+  ],
+  [
+    324,
+    433,
+    "zero distinct paid grade"
+  ],
+  [
+    324,
+    442,
+    "zero distinct paid grade"
+  ],
+  [
+    324,
+    460,
+    "zero distinct paid grade"
+  ],
+  [
+    324,
+    484,
+    "zero distinct paid grade"
+  ],
+  [
+    324,
+    502,
+    "zero distinct paid grade"
+  ],
+  [
+    325,
+    59,
+    "raw ceiling"
+  ],
+  [
+    325,
+    193,
+    "zero distinct paid grade"
+  ],
+  [
+    325,
+    202,
+    "zero distinct paid grade"
+  ],
+  [
+    325,
+    220,
+    "zero distinct paid grade"
+  ],
+  [
+    325,
+    244,
+    "zero distinct paid grade"
+  ],
+  [
+    325,
+    262,
+    "zero distinct paid grade"
+  ],
+  [
+    325,
+    397,
+    "zero distinct paid grade"
+  ],
+  [
+    325,
+    428,
+    "zero distinct paid grade"
+  ],
+  [
+    325,
+    443,
+    "zero distinct paid grade"
+  ],
+  [
+    325,
+    461,
+    "zero distinct paid grade"
+  ],
+  [
+    325,
+    485,
+    "zero distinct paid grade"
+  ],
+  [
+    325,
+    503,
+    "zero distinct paid grade"
+  ],
+  [
+    326,
+    1,
+    "raw ceiling"
+  ],
+  [
+    326,
+    266,
+    "zero distinct paid grade"
+  ],
+  [
+    326,
+    267,
+    "zero distinct paid grade"
+  ],
+  [
+    326,
+    507,
+    "zero distinct paid grade"
+  ],
+  [
+    326,
+    530,
+    "zero distinct paid grade"
+  ],
+  [
+    326,
+    531,
+    "zero distinct paid grade"
+  ],
+  [
+    327,
+    1,
+    "raw ceiling"
+  ],
+  [
+    327,
+    268,
+    "zero distinct paid grade"
+  ],
+  [
+    327,
+    269,
+    "zero distinct paid grade"
+  ],
+  [
+    327,
+    507,
+    "zero distinct paid grade"
+  ],
+  [
+    327,
+    530,
+    "zero distinct paid grade"
+  ],
+  [
+    327,
+    534,
+    "zero distinct paid grade"
+  ],
+  [
+    328,
+    1,
+    "raw ceiling"
+  ],
+  [
+    328,
+    8,
+    "raw ceiling"
+  ],
+  [
+    328,
+    270,
+    "zero distinct paid grade"
+  ],
+  [
+    328,
+    271,
+    "zero distinct paid grade"
+  ],
+  [
+    328,
+    510,
+    "zero distinct paid grade"
+  ],
+  [
+    328,
+    530,
+    "zero distinct paid grade"
+  ],
+  [
+    329,
+    1,
+    "raw ceiling"
+  ],
+  [
+    329,
+    272,
+    "zero distinct paid grade"
+  ],
+  [
+    329,
+    273,
+    "zero distinct paid grade"
+  ],
+  [
+    329,
+    507,
+    "zero distinct paid grade"
+  ],
+  [
+    329,
+    531,
+    "zero distinct paid grade"
+  ],
+  [
+    329,
+    534,
+    "zero distinct paid grade"
+  ],
+  [
+    330,
+    1,
+    "raw ceiling"
+  ],
+  [
+    330,
+    7,
+    "raw ceiling"
+  ],
+  [
+    330,
+    274,
+    "zero distinct paid grade"
+  ],
+  [
+    330,
+    275,
+    "zero distinct paid grade"
+  ],
+  [
+    330,
+    510,
+    "zero distinct paid grade"
+  ],
+  [
+    330,
+    531,
+    "zero distinct paid grade"
+  ],
+  [
+    331,
+    1,
+    "raw ceiling"
+  ],
+  [
+    331,
+    276,
+    "zero distinct paid grade"
+  ],
+  [
+    331,
+    277,
+    "zero distinct paid grade"
+  ],
+  [
+    331,
+    507,
+    "zero distinct paid grade"
+  ],
+  [
+    331,
+    510,
+    "zero distinct paid grade"
+  ],
+  [
+    331,
+    534,
+    "zero distinct paid grade"
+  ],
+  [
+    332,
+    1,
+    "raw ceiling"
+  ],
+  [
+    332,
+    278,
+    "zero distinct paid grade"
+  ],
+  [
+    332,
+    279,
+    "zero distinct paid grade"
+  ],
+  [
+    332,
+    507,
+    "zero distinct paid grade"
+  ],
+  [
+    332,
+    512,
+    "zero distinct paid grade"
+  ],
+  [
+    332,
+    571,
+    "zero distinct paid grade"
+  ],
+  [
+    333,
+    1,
+    "raw ceiling"
+  ],
+  [
+    333,
+    280,
+    "zero distinct paid grade"
+  ],
+  [
+    333,
+    281,
+    "zero distinct paid grade"
+  ],
+  [
+    333,
+    507,
+    "zero distinct paid grade"
+  ],
+  [
+    333,
+    571,
+    "zero distinct paid grade"
+  ],
+  [
+    333,
+    579,
+    "zero distinct paid grade"
+  ],
+  [
+    334,
+    1,
+    "raw ceiling"
+  ],
+  [
+    334,
+    56,
+    "raw ceiling"
+  ],
+  [
+    334,
+    282,
+    "zero distinct paid grade"
+  ],
+  [
+    334,
+    283,
+    "zero distinct paid grade"
+  ],
+  [
+    334,
+    571,
+    "zero distinct paid grade"
+  ],
+  [
+    334,
+    581,
+    "zero distinct paid grade"
+  ],
+  [
+    335,
+    1,
+    "raw ceiling"
+  ],
+  [
+    335,
+    58,
+    "raw ceiling"
+  ],
+  [
+    335,
+    284,
+    "zero distinct paid grade"
+  ],
+  [
+    335,
+    285,
+    "zero distinct paid grade"
+  ],
+  [
+    335,
+    512,
+    "zero distinct paid grade"
+  ],
+  [
+    335,
+    579,
+    "zero distinct paid grade"
+  ],
+  [
+    336,
+    1,
+    "raw ceiling"
+  ],
+  [
+    336,
+    286,
+    "zero distinct paid grade"
+  ],
+  [
+    336,
+    287,
+    "zero distinct paid grade"
+  ],
+  [
+    336,
+    507,
+    "zero distinct paid grade"
+  ],
+  [
+    336,
+    512,
+    "zero distinct paid grade"
+  ],
+  [
+    336,
+    581,
+    "zero distinct paid grade"
+  ],
+  [
+    337,
+    1,
+    "raw ceiling"
+  ],
+  [
+    337,
+    288,
+    "zero distinct paid grade"
+  ],
+  [
+    337,
+    289,
+    "zero distinct paid grade"
+  ],
+  [
+    337,
+    507,
+    "zero distinct paid grade"
+  ],
+  [
+    337,
+    579,
+    "zero distinct paid grade"
+  ],
+  [
+    337,
+    581,
+    "zero distinct paid grade"
+  ],
+  [
+    338,
+    1,
+    "raw ceiling"
+  ],
+  [
+    338,
+    60,
+    "raw ceiling"
+  ],
+  [
+    338,
+    290,
+    "zero distinct paid grade"
+  ],
+  [
+    338,
+    291,
+    "zero distinct paid grade"
+  ],
+  [
+    338,
+    572,
+    "zero distinct paid grade"
+  ],
+  [
+    338,
+    573,
+    "zero distinct paid grade"
+  ],
+  [
+    339,
+    1,
+    "raw ceiling"
+  ],
+  [
+    339,
+    292,
+    "zero distinct paid grade"
+  ],
+  [
+    339,
+    293,
+    "zero distinct paid grade"
+  ],
+  [
+    339,
+    507,
+    "zero distinct paid grade"
+  ],
+  [
+    339,
+    572,
+    "zero distinct paid grade"
+  ],
+  [
+    339,
+    577,
+    "zero distinct paid grade"
+  ],
+  [
+    340,
+    1,
+    "raw ceiling"
+  ],
+  [
+    340,
+    294,
+    "zero distinct paid grade"
+  ],
+  [
+    340,
+    295,
+    "zero distinct paid grade"
+  ],
+  [
+    340,
+    507,
+    "zero distinct paid grade"
+  ],
+  [
+    340,
+    572,
+    "zero distinct paid grade"
+  ],
+  [
+    340,
+    583,
+    "zero distinct paid grade"
+  ],
+  [
+    341,
+    1,
+    "raw ceiling"
+  ],
+  [
+    341,
+    296,
+    "zero distinct paid grade"
+  ],
+  [
+    341,
+    297,
+    "zero distinct paid grade"
+  ],
+  [
+    341,
+    507,
+    "zero distinct paid grade"
+  ],
+  [
+    341,
+    573,
+    "zero distinct paid grade"
+  ],
+  [
+    341,
+    577,
+    "zero distinct paid grade"
+  ],
+  [
+    342,
+    1,
+    "raw ceiling"
+  ],
+  [
+    342,
+    49,
+    "raw ceiling"
+  ],
+  [
+    342,
+    298,
+    "zero distinct paid grade"
+  ],
+  [
+    342,
+    299,
+    "zero distinct paid grade"
+  ],
+  [
+    342,
+    573,
+    "zero distinct paid grade"
+  ],
+  [
+    342,
+    583,
+    "zero distinct paid grade"
+  ],
+  [
+    343,
+    1,
+    "raw ceiling"
+  ],
+  [
+    343,
+    300,
+    "zero distinct paid grade"
+  ],
+  [
+    343,
+    301,
+    "zero distinct paid grade"
+  ],
+  [
+    343,
+    507,
+    "zero distinct paid grade"
+  ],
+  [
+    343,
+    577,
+    "zero distinct paid grade"
+  ],
+  [
+    343,
+    583,
+    "zero distinct paid grade"
+  ],
+  [
+    344,
+    1,
+    "raw ceiling"
+  ],
+  [
+    344,
+    266,
+    "zero distinct paid grade"
+  ],
+  [
+    344,
+    276,
+    "zero distinct paid grade"
+  ],
+  [
+    344,
+    506,
+    "zero distinct paid grade"
+  ],
+  [
+    344,
+    525,
+    "zero distinct paid grade"
+  ],
+  [
+    344,
+    528,
+    "zero distinct paid grade"
+  ],
+  [
+    345,
+    1,
+    "raw ceiling"
+  ],
+  [
+    345,
+    269,
+    "zero distinct paid grade"
+  ],
+  [
+    345,
+    275,
+    "zero distinct paid grade"
+  ],
+  [
+    345,
+    506,
+    "zero distinct paid grade"
+  ],
+  [
+    345,
+    525,
+    "zero distinct paid grade"
+  ],
+  [
+    345,
+    536,
+    "zero distinct paid grade"
+  ],
+  [
+    346,
+    1,
+    "raw ceiling"
+  ],
+  [
+    346,
+    13,
+    "raw ceiling"
+  ],
+  [
+    346,
+    271,
+    "zero distinct paid grade"
+  ],
+  [
+    346,
+    273,
+    "zero distinct paid grade"
+  ],
+  [
+    346,
+    511,
+    "zero distinct paid grade"
+  ],
+  [
+    346,
+    525,
+    "zero distinct paid grade"
+  ],
+  [
+    347,
+    1,
+    "raw ceiling"
+  ],
+  [
+    347,
+    2,
+    "raw ceiling"
+  ],
+  [
+    347,
+    270,
+    "zero distinct paid grade"
+  ],
+  [
+    347,
+    272,
+    "zero distinct paid grade"
+  ],
+  [
+    347,
+    528,
+    "zero distinct paid grade"
+  ],
+  [
+    347,
+    536,
+    "zero distinct paid grade"
+  ],
+  [
+    348,
+    1,
+    "raw ceiling"
+  ],
+  [
+    348,
+    268,
+    "zero distinct paid grade"
+  ],
+  [
+    348,
+    274,
+    "zero distinct paid grade"
+  ],
+  [
+    348,
+    506,
+    "zero distinct paid grade"
+  ],
+  [
+    348,
+    511,
+    "zero distinct paid grade"
+  ],
+  [
+    348,
+    528,
+    "zero distinct paid grade"
+  ],
+  [
+    349,
+    1,
+    "raw ceiling"
+  ],
+  [
+    349,
+    267,
+    "zero distinct paid grade"
+  ],
+  [
+    349,
+    277,
+    "zero distinct paid grade"
+  ],
+  [
+    349,
+    506,
+    "zero distinct paid grade"
+  ],
+  [
+    349,
+    511,
+    "zero distinct paid grade"
+  ],
+  [
+    349,
+    536,
+    "zero distinct paid grade"
+  ],
+  [
+    350,
+    1,
+    "raw ceiling"
+  ],
+  [
+    350,
+    71,
+    "raw ceiling"
+  ],
+  [
+    350,
+    278,
+    "zero distinct paid grade"
+  ],
+  [
+    350,
+    289,
+    "zero distinct paid grade"
+  ],
+  [
+    350,
+    515,
+    "zero distinct paid grade"
+  ],
+  [
+    350,
+    587,
+    "zero distinct paid grade"
+  ],
+  [
+    351,
+    1,
+    "raw ceiling"
+  ],
+  [
+    351,
+    280,
+    "zero distinct paid grade"
+  ],
+  [
+    351,
+    286,
+    "zero distinct paid grade"
+  ],
+  [
+    351,
+    506,
+    "zero distinct paid grade"
+  ],
+  [
+    351,
+    515,
+    "zero distinct paid grade"
+  ],
+  [
+    351,
+    594,
+    "zero distinct paid grade"
+  ],
+  [
+    352,
+    1,
+    "raw ceiling"
+  ],
+  [
+    352,
+    282,
+    "zero distinct paid grade"
+  ],
+  [
+    352,
+    284,
+    "zero distinct paid grade"
+  ],
+  [
+    352,
+    506,
+    "zero distinct paid grade"
+  ],
+  [
+    352,
+    515,
+    "zero distinct paid grade"
+  ],
+  [
+    352,
+    597,
+    "zero distinct paid grade"
+  ],
+  [
+    353,
+    1,
+    "raw ceiling"
+  ],
+  [
+    353,
+    283,
+    "zero distinct paid grade"
+  ],
+  [
+    353,
+    285,
+    "zero distinct paid grade"
+  ],
+  [
+    353,
+    506,
+    "zero distinct paid grade"
+  ],
+  [
+    353,
+    587,
+    "zero distinct paid grade"
+  ],
+  [
+    353,
+    594,
+    "zero distinct paid grade"
+  ],
+  [
+    354,
+    1,
+    "raw ceiling"
+  ],
+  [
+    354,
+    281,
+    "zero distinct paid grade"
+  ],
+  [
+    354,
+    287,
+    "zero distinct paid grade"
+  ],
+  [
+    354,
+    506,
+    "zero distinct paid grade"
+  ],
+  [
+    354,
+    587,
+    "zero distinct paid grade"
+  ],
+  [
+    354,
+    597,
+    "zero distinct paid grade"
+  ],
+  [
+    355,
+    1,
+    "raw ceiling"
+  ],
+  [
+    355,
+    279,
+    "zero distinct paid grade"
+  ],
+  [
+    355,
+    288,
+    "zero distinct paid grade"
+  ],
+  [
+    355,
+    506,
+    "zero distinct paid grade"
+  ],
+  [
+    355,
+    594,
+    "zero distinct paid grade"
+  ],
+  [
+    355,
+    597,
+    "zero distinct paid grade"
+  ],
+  [
+    356,
+    1,
+    "raw ceiling"
+  ],
+  [
+    356,
+    290,
+    "zero distinct paid grade"
+  ],
+  [
+    356,
+    301,
+    "zero distinct paid grade"
+  ],
+  [
+    356,
+    506,
+    "zero distinct paid grade"
+  ],
+  [
+    356,
+    586,
+    "zero distinct paid grade"
+  ],
+  [
+    356,
+    588,
+    "zero distinct paid grade"
+  ],
+  [
+    357,
+    1,
+    "raw ceiling"
+  ],
+  [
+    357,
+    292,
+    "zero distinct paid grade"
+  ],
+  [
+    357,
+    298,
+    "zero distinct paid grade"
+  ],
+  [
+    357,
+    506,
+    "zero distinct paid grade"
+  ],
+  [
+    357,
+    516,
+    "zero distinct paid grade"
+  ],
+  [
+    357,
+    586,
+    "zero distinct paid grade"
+  ],
+  [
+    358,
+    1,
+    "raw ceiling"
+  ],
+  [
+    358,
+    294,
+    "zero distinct paid grade"
+  ],
+  [
+    358,
+    296,
+    "zero distinct paid grade"
+  ],
+  [
+    358,
+    506,
+    "zero distinct paid grade"
+  ],
+  [
+    358,
+    586,
+    "zero distinct paid grade"
+  ],
+  [
+    358,
+    593,
+    "zero distinct paid grade"
+  ],
+  [
+    359,
+    1,
+    "raw ceiling"
+  ],
+  [
+    359,
+    70,
+    "raw ceiling"
+  ],
+  [
+    359,
+    295,
+    "zero distinct paid grade"
+  ],
+  [
+    359,
+    297,
+    "zero distinct paid grade"
+  ],
+  [
+    359,
+    516,
+    "zero distinct paid grade"
+  ],
+  [
+    359,
+    588,
+    "zero distinct paid grade"
+  ],
+  [
+    360,
+    1,
+    "raw ceiling"
+  ],
+  [
+    360,
+    293,
+    "zero distinct paid grade"
+  ],
+  [
+    360,
+    299,
+    "zero distinct paid grade"
+  ],
+  [
+    360,
+    506,
+    "zero distinct paid grade"
+  ],
+  [
+    360,
+    588,
+    "zero distinct paid grade"
+  ],
+  [
+    360,
+    593,
+    "zero distinct paid grade"
+  ],
+  [
+    361,
+    1,
+    "raw ceiling"
+  ],
+  [
+    361,
+    291,
+    "zero distinct paid grade"
+  ],
+  [
+    361,
+    300,
+    "zero distinct paid grade"
+  ],
+  [
+    361,
+    506,
+    "zero distinct paid grade"
+  ],
+  [
+    361,
+    516,
+    "zero distinct paid grade"
+  ],
+  [
+    361,
+    593,
+    "zero distinct paid grade"
+  ],
+  [
+    362,
+    1,
+    "raw ceiling"
+  ],
+  [
+    362,
+    273,
+    "zero distinct paid grade"
+  ],
+  [
+    362,
+    302,
+    "zero distinct paid grade"
+  ],
+  [
+    362,
+    520,
+    "zero distinct paid grade"
+  ],
+  [
+    362,
+    540,
+    "zero distinct paid grade"
+  ],
+  [
+    362,
+    548,
+    "zero distinct paid grade"
+  ],
+  [
+    363,
+    1,
+    "raw ceiling"
+  ],
+  [
+    363,
+    285,
+    "zero distinct paid grade"
+  ],
+  [
+    363,
+    303,
+    "zero distinct paid grade"
+  ],
+  [
+    363,
+    520,
+    "zero distinct paid grade"
+  ],
+  [
+    363,
+    540,
+    "zero distinct paid grade"
+  ],
+  [
+    363,
+    616,
+    "zero distinct paid grade"
+  ],
+  [
+    364,
+    1,
+    "raw ceiling"
+  ],
+  [
+    364,
+    173,
+    "raw ceiling"
+  ],
+  [
+    364,
+    295,
+    "zero distinct paid grade"
+  ],
+  [
+    364,
+    304,
+    "zero distinct paid grade"
+  ],
+  [
+    364,
+    540,
+    "zero distinct paid grade"
+  ],
+  [
+    364,
+    621,
+    "zero distinct paid grade"
+  ],
+  [
+    365,
+    1,
+    "raw ceiling"
+  ],
+  [
+    365,
+    296,
+    "zero distinct paid grade"
+  ],
+  [
+    365,
+    305,
+    "zero distinct paid grade"
+  ],
+  [
+    365,
+    520,
+    "zero distinct paid grade"
+  ],
+  [
+    365,
+    548,
+    "zero distinct paid grade"
+  ],
+  [
+    365,
+    616,
+    "zero distinct paid grade"
+  ],
+  [
+    366,
+    1,
+    "raw ceiling"
+  ],
+  [
+    366,
+    282,
+    "zero distinct paid grade"
+  ],
+  [
+    366,
+    306,
+    "zero distinct paid grade"
+  ],
+  [
+    366,
+    520,
+    "zero distinct paid grade"
+  ],
+  [
+    366,
+    548,
+    "zero distinct paid grade"
+  ],
+  [
+    366,
+    621,
+    "zero distinct paid grade"
+  ],
+  [
+    367,
+    1,
+    "raw ceiling"
+  ],
+  [
+    367,
+    25,
+    "raw ceiling"
+  ],
+  [
+    367,
+    270,
+    "zero distinct paid grade"
+  ],
+  [
+    367,
+    307,
+    "zero distinct paid grade"
+  ],
+  [
+    367,
+    616,
+    "zero distinct paid grade"
+  ],
+  [
+    367,
+    621,
+    "zero distinct paid grade"
+  ],
+  [
+    368,
+    1,
+    "raw ceiling"
+  ],
+  [
+    368,
+    269,
+    "zero distinct paid grade"
+  ],
+  [
+    368,
+    308,
+    "zero distinct paid grade"
+  ],
+  [
+    368,
+    520,
+    "zero distinct paid grade"
+  ],
+  [
+    368,
+    555,
+    "zero distinct paid grade"
+  ],
+  [
+    368,
+    566,
+    "zero distinct paid grade"
+  ],
+  [
+    369,
+    1,
+    "raw ceiling"
+  ],
+  [
+    369,
+    280,
+    "zero distinct paid grade"
+  ],
+  [
+    369,
+    309,
+    "zero distinct paid grade"
+  ],
+  [
+    369,
+    520,
+    "zero distinct paid grade"
+  ],
+  [
+    369,
+    555,
+    "zero distinct paid grade"
+  ],
+  [
+    369,
+    600,
+    "zero distinct paid grade"
+  ],
+  [
+    370,
+    1,
+    "raw ceiling"
+  ],
+  [
+    370,
+    292,
+    "zero distinct paid grade"
+  ],
+  [
+    370,
+    310,
+    "zero distinct paid grade"
+  ],
+  [
+    370,
+    520,
+    "zero distinct paid grade"
+  ],
+  [
+    370,
+    555,
+    "zero distinct paid grade"
+  ],
+  [
+    370,
+    607,
+    "zero distinct paid grade"
+  ],
+  [
+    371,
+    1,
+    "raw ceiling"
+  ],
+  [
+    371,
+    299,
+    "zero distinct paid grade"
+  ],
+  [
+    371,
+    311,
+    "zero distinct paid grade"
+  ],
+  [
+    371,
+    520,
+    "zero distinct paid grade"
+  ],
+  [
+    371,
+    566,
+    "zero distinct paid grade"
+  ],
+  [
+    371,
+    600,
+    "zero distinct paid grade"
+  ],
+  [
+    372,
+    1,
+    "raw ceiling"
+  ],
+  [
+    372,
+    168,
+    "raw ceiling"
+  ],
+  [
+    372,
+    287,
+    "zero distinct paid grade"
+  ],
+  [
+    372,
+    312,
+    "zero distinct paid grade"
+  ],
+  [
+    372,
+    566,
+    "zero distinct paid grade"
+  ],
+  [
+    372,
+    607,
+    "zero distinct paid grade"
+  ],
+  [
+    373,
+    1,
+    "raw ceiling"
+  ],
+  [
+    373,
+    32,
+    "raw ceiling"
+  ],
+  [
+    373,
+    274,
+    "zero distinct paid grade"
+  ],
+  [
+    373,
+    313,
+    "zero distinct paid grade"
+  ],
+  [
+    373,
+    600,
+    "zero distinct paid grade"
+  ],
+  [
+    373,
+    607,
+    "zero distinct paid grade"
+  ],
+  [
+    374,
+    1,
+    "raw ceiling"
+  ],
+  [
+    374,
+    176,
+    "raw ceiling"
+  ],
+  [
+    374,
+    267,
+    "zero distinct paid grade"
+  ],
+  [
+    374,
+    314,
+    "zero distinct paid grade"
+  ],
+  [
+    374,
+    574,
+    "zero distinct paid grade"
+  ],
+  [
+    374,
+    578,
+    "zero distinct paid grade"
+  ],
+  [
+    375,
+    1,
+    "raw ceiling"
+  ],
+  [
+    375,
+    278,
+    "zero distinct paid grade"
+  ],
+  [
+    375,
+    315,
+    "zero distinct paid grade"
+  ],
+  [
+    375,
+    520,
+    "zero distinct paid grade"
+  ],
+  [
+    375,
+    574,
+    "zero distinct paid grade"
+  ],
+  [
+    375,
+    584,
+    "zero distinct paid grade"
+  ],
+  [
+    376,
+    1,
+    "raw ceiling"
+  ],
+  [
+    376,
+    172,
+    "raw ceiling"
+  ],
+  [
+    376,
+    301,
+    "zero distinct paid grade"
+  ],
+  [
+    376,
+    316,
+    "zero distinct paid grade"
+  ],
+  [
+    376,
+    574,
+    "zero distinct paid grade"
+  ],
+  [
+    376,
+    595,
+    "zero distinct paid grade"
+  ],
+  [
+    377,
+    1,
+    "raw ceiling"
+  ],
+  [
+    377,
+    291,
+    "zero distinct paid grade"
+  ],
+  [
+    377,
+    317,
+    "zero distinct paid grade"
+  ],
+  [
+    377,
+    520,
+    "zero distinct paid grade"
+  ],
+  [
+    377,
+    578,
+    "zero distinct paid grade"
+  ],
+  [
+    377,
+    584,
+    "zero distinct paid grade"
+  ],
+  [
+    378,
+    1,
+    "raw ceiling"
+  ],
+  [
+    378,
+    288,
+    "zero distinct paid grade"
+  ],
+  [
+    378,
+    318,
+    "zero distinct paid grade"
+  ],
+  [
+    378,
+    520,
+    "zero distinct paid grade"
+  ],
+  [
+    378,
+    578,
+    "zero distinct paid grade"
+  ],
+  [
+    378,
+    595,
+    "zero distinct paid grade"
+  ],
+  [
+    379,
+    1,
+    "raw ceiling"
+  ],
+  [
+    379,
+    276,
+    "zero distinct paid grade"
+  ],
+  [
+    379,
+    319,
+    "zero distinct paid grade"
+  ],
+  [
+    379,
+    520,
+    "zero distinct paid grade"
+  ],
+  [
+    379,
+    584,
+    "zero distinct paid grade"
+  ],
+  [
+    379,
+    595,
+    "zero distinct paid grade"
+  ],
+  [
+    380,
+    1,
+    "raw ceiling"
+  ],
+  [
+    380,
+    275,
+    "zero distinct paid grade"
+  ],
+  [
+    380,
+    318,
+    "zero distinct paid grade"
+  ],
+  [
+    380,
+    509,
+    "zero distinct paid grade"
+  ],
+  [
+    380,
+    544,
+    "zero distinct paid grade"
+  ],
+  [
+    380,
+    552,
+    "zero distinct paid grade"
+  ],
+  [
+    381,
+    1,
+    "raw ceiling"
+  ],
+  [
+    381,
+    29,
+    "raw ceiling"
+  ],
+  [
+    381,
+    298,
+    "zero distinct paid grade"
+  ],
+  [
+    381,
+    303,
+    "zero distinct paid grade"
+  ],
+  [
+    381,
+    544,
+    "zero distinct paid grade"
+  ],
+  [
+    381,
+    614,
+    "zero distinct paid grade"
+  ],
+  [
+    382,
+    1,
+    "raw ceiling"
+  ],
+  [
+    382,
+    280,
+    "zero distinct paid grade"
+  ],
+  [
+    382,
+    320,
+    "zero distinct paid grade"
+  ],
+  [
+    382,
+    509,
+    "zero distinct paid grade"
+  ],
+  [
+    382,
+    544,
+    "zero distinct paid grade"
+  ],
+  [
+    382,
+    622,
+    "zero distinct paid grade"
+  ],
+  [
+    383,
+    1,
+    "raw ceiling"
+  ],
+  [
+    383,
+    287,
+    "zero distinct paid grade"
+  ],
+  [
+    383,
+    321,
+    "zero distinct paid grade"
+  ],
+  [
+    383,
+    509,
+    "zero distinct paid grade"
+  ],
+  [
+    383,
+    552,
+    "zero distinct paid grade"
+  ],
+  [
+    383,
+    614,
+    "zero distinct paid grade"
+  ],
+  [
+    384,
+    1,
+    "raw ceiling"
+  ],
+  [
+    384,
+    21,
+    "raw ceiling"
+  ],
+  [
+    384,
+    293,
+    "zero distinct paid grade"
+  ],
+  [
+    384,
+    306,
+    "zero distinct paid grade"
+  ],
+  [
+    384,
+    552,
+    "zero distinct paid grade"
+  ],
+  [
+    384,
+    622,
+    "zero distinct paid grade"
+  ],
+  [
+    385,
+    1,
+    "raw ceiling"
+  ],
+  [
+    385,
+    268,
+    "zero distinct paid grade"
+  ],
+  [
+    385,
+    315,
+    "zero distinct paid grade"
+  ],
+  [
+    385,
+    509,
+    "zero distinct paid grade"
+  ],
+  [
+    385,
+    614,
+    "zero distinct paid grade"
+  ],
+  [
+    385,
+    622,
+    "zero distinct paid grade"
+  ],
+  [
+    386,
+    1,
+    "raw ceiling"
+  ],
+  [
+    386,
+    271,
+    "zero distinct paid grade"
+  ],
+  [
+    386,
+    316,
+    "zero distinct paid grade"
+  ],
+  [
+    386,
+    509,
+    "zero distinct paid grade"
+  ],
+  [
+    386,
+    560,
+    "zero distinct paid grade"
+  ],
+  [
+    386,
+    568,
+    "zero distinct paid grade"
+  ],
+  [
+    387,
+    1,
+    "raw ceiling"
+  ],
+  [
+    387,
+    295,
+    "zero distinct paid grade"
+  ],
+  [
+    387,
+    322,
+    "zero distinct paid grade"
+  ],
+  [
+    387,
+    509,
+    "zero distinct paid grade"
+  ],
+  [
+    387,
+    560,
+    "zero distinct paid grade"
+  ],
+  [
+    387,
+    599,
+    "zero distinct paid grade"
+  ],
+  [
+    388,
+    1,
+    "raw ceiling"
+  ],
+  [
+    388,
+    45,
+    "raw ceiling"
+  ],
+  [
+    388,
+    283,
+    "zero distinct paid grade"
+  ],
+  [
+    388,
+    311,
+    "zero distinct paid grade"
+  ],
+  [
+    388,
+    517,
+    "zero distinct paid grade"
+  ],
+  [
+    388,
+    560,
+    "zero distinct paid grade"
+  ],
+  [
+    389,
+    1,
+    "raw ceiling"
+  ],
+  [
+    389,
+    284,
+    "zero distinct paid grade"
+  ],
+  [
+    389,
+    310,
+    "zero distinct paid grade"
+  ],
+  [
+    389,
+    509,
+    "zero distinct paid grade"
+  ],
+  [
+    389,
+    568,
+    "zero distinct paid grade"
+  ],
+  [
+    389,
+    599,
+    "zero distinct paid grade"
+  ],
+  [
+    390,
+    1,
+    "raw ceiling"
+  ],
+  [
+    390,
+    296,
+    "zero distinct paid grade"
+  ],
+  [
+    390,
+    323,
+    "zero distinct paid grade"
+  ],
+  [
+    390,
+    509,
+    "zero distinct paid grade"
+  ],
+  [
+    390,
+    517,
+    "zero distinct paid grade"
+  ],
+  [
+    390,
+    568,
+    "zero distinct paid grade"
+  ],
+  [
+    391,
+    1,
+    "raw ceiling"
+  ],
+  [
+    391,
+    272,
+    "zero distinct paid grade"
+  ],
+  [
+    391,
+    317,
+    "zero distinct paid grade"
+  ],
+  [
+    391,
+    509,
+    "zero distinct paid grade"
+  ],
+  [
+    391,
+    517,
+    "zero distinct paid grade"
+  ],
+  [
+    391,
+    599,
+    "zero distinct paid grade"
+  ],
+  [
+    392,
+    1,
+    "raw ceiling"
+  ],
+  [
+    392,
+    267,
+    "zero distinct paid grade"
+  ],
+  [
+    392,
+    324,
+    "zero distinct paid grade"
+  ],
+  [
+    392,
+    509,
+    "zero distinct paid grade"
+  ],
+  [
+    392,
+    513,
+    "zero distinct paid grade"
+  ],
+  [
+    392,
+    582,
+    "zero distinct paid grade"
+  ],
+  [
+    393,
+    1,
+    "raw ceiling"
+  ],
+  [
+    393,
+    68,
+    "raw ceiling"
+  ],
+  [
+    393,
+    290,
+    "zero distinct paid grade"
+  ],
+  [
+    393,
+    307,
+    "zero distinct paid grade"
+  ],
+  [
+    393,
+    513,
+    "zero distinct paid grade"
+  ],
+  [
+    393,
+    590,
+    "zero distinct paid grade"
+  ],
+  [
+    394,
+    1,
+    "raw ceiling"
+  ],
+  [
+    394,
+    59,
+    "raw ceiling"
+  ],
+  [
+    394,
+    289,
+    "zero distinct paid grade"
+  ],
+  [
+    394,
+    308,
+    "zero distinct paid grade"
+  ],
+  [
+    394,
+    513,
+    "zero distinct paid grade"
+  ],
+  [
+    394,
+    591,
+    "zero distinct paid grade"
+  ],
+  [
+    395,
+    1,
+    "raw ceiling"
+  ],
+  [
+    395,
+    279,
+    "zero distinct paid grade"
+  ],
+  [
+    395,
+    313,
+    "zero distinct paid grade"
+  ],
+  [
+    395,
+    509,
+    "zero distinct paid grade"
+  ],
+  [
+    395,
+    582,
+    "zero distinct paid grade"
+  ],
+  [
+    395,
+    590,
+    "zero distinct paid grade"
+  ],
+  [
+    396,
+    1,
+    "raw ceiling"
+  ],
+  [
+    396,
+    300,
+    "zero distinct paid grade"
+  ],
+  [
+    396,
+    302,
+    "zero distinct paid grade"
+  ],
+  [
+    396,
+    509,
+    "zero distinct paid grade"
+  ],
+  [
+    396,
+    582,
+    "zero distinct paid grade"
+  ],
+  [
+    396,
+    591,
+    "zero distinct paid grade"
+  ],
+  [
+    397,
+    1,
+    "raw ceiling"
+  ],
+  [
+    397,
+    276,
+    "zero distinct paid grade"
+  ],
+  [
+    397,
+    325,
+    "zero distinct paid grade"
+  ],
+  [
+    397,
+    509,
+    "zero distinct paid grade"
+  ],
+  [
+    397,
+    590,
+    "zero distinct paid grade"
+  ],
+  [
+    397,
+    591,
+    "zero distinct paid grade"
+  ],
+  [
+    398,
+    1,
+    "raw ceiling"
+  ],
+  [
+    398,
+    273,
+    "zero distinct paid grade"
+  ],
+  [
+    398,
+    307,
+    "zero distinct paid grade"
+  ],
+  [
+    398,
+    519,
+    "zero distinct paid grade"
+  ],
+  [
+    398,
+    546,
+    "zero distinct paid grade"
+  ],
+  [
+    398,
+    551,
+    "zero distinct paid grade"
+  ],
+  [
+    399,
+    1,
+    "raw ceiling"
+  ],
+  [
+    399,
+    136,
+    "raw ceiling"
+  ],
+  [
+    399,
+    282,
+    "zero distinct paid grade"
+  ],
+  [
+    399,
+    303,
+    "zero distinct paid grade"
+  ],
+  [
+    399,
+    546,
+    "zero distinct paid grade"
+  ],
+  [
+    399,
+    619,
+    "zero distinct paid grade"
+  ],
+  [
+    400,
+    1,
+    "raw ceiling"
+  ],
+  [
+    400,
+    296,
+    "zero distinct paid grade"
+  ],
+  [
+    400,
+    304,
+    "zero distinct paid grade"
+  ],
+  [
+    400,
+    519,
+    "zero distinct paid grade"
+  ],
+  [
+    400,
+    546,
+    "zero distinct paid grade"
+  ],
+  [
+    400,
+    627,
+    "zero distinct paid grade"
+  ],
+  [
+    401,
+    1,
+    "raw ceiling"
+  ],
+  [
+    401,
+    137,
+    "raw ceiling"
+  ],
+  [
+    401,
+    295,
+    "zero distinct paid grade"
+  ],
+  [
+    401,
+    305,
+    "zero distinct paid grade"
+  ],
+  [
+    401,
+    551,
+    "zero distinct paid grade"
+  ],
+  [
+    401,
+    619,
+    "zero distinct paid grade"
+  ],
+  [
+    402,
+    1,
+    "raw ceiling"
+  ],
+  [
+    402,
+    285,
+    "zero distinct paid grade"
+  ],
+  [
+    402,
+    306,
+    "zero distinct paid grade"
+  ],
+  [
+    402,
+    519,
+    "zero distinct paid grade"
+  ],
+  [
+    402,
+    551,
+    "zero distinct paid grade"
+  ],
+  [
+    402,
+    627,
+    "zero distinct paid grade"
+  ],
+  [
+    403,
+    1,
+    "raw ceiling"
+  ],
+  [
+    403,
+    270,
+    "zero distinct paid grade"
+  ],
+  [
+    403,
+    302,
+    "zero distinct paid grade"
+  ],
+  [
+    403,
+    519,
+    "zero distinct paid grade"
+  ],
+  [
+    403,
+    619,
+    "zero distinct paid grade"
+  ],
+  [
+    403,
+    627,
+    "zero distinct paid grade"
+  ],
+  [
+    404,
+    1,
+    "raw ceiling"
+  ],
+  [
+    404,
+    269,
+    "zero distinct paid grade"
+  ],
+  [
+    404,
+    313,
+    "zero distinct paid grade"
+  ],
+  [
+    404,
+    519,
+    "zero distinct paid grade"
+  ],
+  [
+    404,
+    561,
+    "zero distinct paid grade"
+  ],
+  [
+    404,
+    569,
+    "zero distinct paid grade"
+  ],
+  [
+    405,
+    1,
+    "raw ceiling"
+  ],
+  [
+    405,
+    287,
+    "zero distinct paid grade"
+  ],
+  [
+    405,
+    309,
+    "zero distinct paid grade"
+  ],
+  [
+    405,
+    519,
+    "zero distinct paid grade"
+  ],
+  [
+    405,
+    561,
+    "zero distinct paid grade"
+  ],
+  [
+    405,
+    605,
+    "zero distinct paid grade"
+  ],
+  [
+    406,
+    1,
+    "raw ceiling"
+  ],
+  [
+    406,
+    146,
+    "raw ceiling"
+  ],
+  [
+    406,
+    299,
+    "zero distinct paid grade"
+  ],
+  [
+    406,
+    310,
+    "zero distinct paid grade"
+  ],
+  [
+    406,
+    561,
+    "zero distinct paid grade"
+  ],
+  [
+    406,
+    609,
+    "zero distinct paid grade"
+  ],
+  [
+    407,
+    1,
+    "raw ceiling"
+  ],
+  [
+    407,
+    292,
+    "zero distinct paid grade"
+  ],
+  [
+    407,
+    311,
+    "zero distinct paid grade"
+  ],
+  [
+    407,
+    519,
+    "zero distinct paid grade"
+  ],
+  [
+    407,
+    569,
+    "zero distinct paid grade"
+  ],
+  [
+    407,
+    605,
+    "zero distinct paid grade"
+  ],
+  [
+    408,
+    1,
+    "raw ceiling"
+  ],
+  [
+    408,
+    148,
+    "raw ceiling"
+  ],
+  [
+    408,
+    280,
+    "zero distinct paid grade"
+  ],
+  [
+    408,
+    312,
+    "zero distinct paid grade"
+  ],
+  [
+    408,
+    569,
+    "zero distinct paid grade"
+  ],
+  [
+    408,
+    609,
+    "zero distinct paid grade"
+  ],
+  [
+    409,
+    1,
+    "raw ceiling"
+  ],
+  [
+    409,
+    274,
+    "zero distinct paid grade"
+  ],
+  [
+    409,
+    308,
+    "zero distinct paid grade"
+  ],
+  [
+    409,
+    519,
+    "zero distinct paid grade"
+  ],
+  [
+    409,
+    605,
+    "zero distinct paid grade"
+  ],
+  [
+    409,
+    609,
+    "zero distinct paid grade"
+  ],
+  [
+    410,
+    1,
+    "raw ceiling"
+  ],
+  [
+    410,
+    66,
+    "raw ceiling"
+  ],
+  [
+    410,
+    267,
+    "zero distinct paid grade"
+  ],
+  [
+    410,
+    319,
+    "zero distinct paid grade"
+  ],
+  [
+    410,
+    576,
+    "zero distinct paid grade"
+  ],
+  [
+    410,
+    580,
+    "zero distinct paid grade"
+  ],
+  [
+    411,
+    1,
+    "raw ceiling"
+  ],
+  [
+    411,
+    141,
+    "raw ceiling"
+  ],
+  [
+    411,
+    278,
+    "zero distinct paid grade"
+  ],
+  [
+    411,
+    318,
+    "zero distinct paid grade"
+  ],
+  [
+    411,
+    576,
+    "zero distinct paid grade"
+  ],
+  [
+    411,
+    589,
+    "zero distinct paid grade"
+  ],
+  [
+    412,
+    1,
+    "raw ceiling"
+  ],
+  [
+    412,
+    301,
+    "zero distinct paid grade"
+  ],
+  [
+    412,
+    317,
+    "zero distinct paid grade"
+  ],
+  [
+    412,
+    519,
+    "zero distinct paid grade"
+  ],
+  [
+    412,
+    576,
+    "zero distinct paid grade"
+  ],
+  [
+    412,
+    596,
+    "zero distinct paid grade"
+  ],
+  [
+    413,
+    1,
+    "raw ceiling"
+  ],
+  [
+    413,
+    291,
+    "zero distinct paid grade"
+  ],
+  [
+    413,
+    316,
+    "zero distinct paid grade"
+  ],
+  [
+    413,
+    519,
+    "zero distinct paid grade"
+  ],
+  [
+    413,
+    580,
+    "zero distinct paid grade"
+  ],
+  [
+    413,
+    589,
+    "zero distinct paid grade"
+  ],
+  [
+    414,
+    1,
+    "raw ceiling"
+  ],
+  [
+    414,
+    288,
+    "zero distinct paid grade"
+  ],
+  [
+    414,
+    315,
+    "zero distinct paid grade"
+  ],
+  [
+    414,
+    519,
+    "zero distinct paid grade"
+  ],
+  [
+    414,
+    580,
+    "zero distinct paid grade"
+  ],
+  [
+    414,
+    596,
+    "zero distinct paid grade"
+  ],
+  [
+    415,
+    1,
+    "raw ceiling"
+  ],
+  [
+    415,
+    276,
+    "zero distinct paid grade"
+  ],
+  [
+    415,
+    314,
+    "zero distinct paid grade"
+  ],
+  [
+    415,
+    519,
+    "zero distinct paid grade"
+  ],
+  [
+    415,
+    589,
+    "zero distinct paid grade"
+  ],
+  [
+    415,
+    596,
+    "zero distinct paid grade"
+  ],
+  [
+    416,
+    1,
+    "raw ceiling"
+  ],
+  [
+    416,
+    94,
+    "raw ceiling"
+  ],
+  [
+    416,
+    275,
+    "zero distinct paid grade"
+  ],
+  [
+    416,
+    315,
+    "zero distinct paid grade"
+  ],
+  [
+    416,
+    542,
+    "zero distinct paid grade"
+  ],
+  [
+    416,
+    547,
+    "zero distinct paid grade"
+  ],
+  [
+    417,
+    1,
+    "raw ceiling"
+  ],
+  [
+    417,
+    293,
+    "zero distinct paid grade"
+  ],
+  [
+    417,
+    303,
+    "zero distinct paid grade"
+  ],
+  [
+    417,
+    508,
+    "zero distinct paid grade"
+  ],
+  [
+    417,
+    542,
+    "zero distinct paid grade"
+  ],
+  [
+    417,
+    617,
+    "zero distinct paid grade"
+  ],
+  [
+    418,
+    1,
+    "raw ceiling"
+  ],
+  [
+    418,
+    287,
+    "zero distinct paid grade"
+  ],
+  [
+    418,
+    320,
+    "zero distinct paid grade"
+  ],
+  [
+    418,
+    508,
+    "zero distinct paid grade"
+  ],
+  [
+    418,
+    518,
+    "zero distinct paid grade"
+  ],
+  [
+    418,
+    542,
+    "zero distinct paid grade"
+  ],
+  [
+    419,
+    1,
+    "raw ceiling"
+  ],
+  [
+    419,
+    280,
+    "zero distinct paid grade"
+  ],
+  [
+    419,
+    321,
+    "zero distinct paid grade"
+  ],
+  [
+    419,
+    508,
+    "zero distinct paid grade"
+  ],
+  [
+    419,
+    547,
+    "zero distinct paid grade"
+  ],
+  [
+    419,
+    617,
+    "zero distinct paid grade"
+  ],
+  [
+    420,
+    1,
+    "raw ceiling"
+  ],
+  [
+    420,
+    298,
+    "zero distinct paid grade"
+  ],
+  [
+    420,
+    306,
+    "zero distinct paid grade"
+  ],
+  [
+    420,
+    508,
+    "zero distinct paid grade"
+  ],
+  [
+    420,
+    518,
+    "zero distinct paid grade"
+  ],
+  [
+    420,
+    547,
+    "zero distinct paid grade"
+  ],
+  [
+    421,
+    1,
+    "raw ceiling"
+  ],
+  [
+    421,
+    19,
+    "raw ceiling"
+  ],
+  [
+    421,
+    268,
+    "zero distinct paid grade"
+  ],
+  [
+    421,
+    318,
+    "zero distinct paid grade"
+  ],
+  [
+    421,
+    518,
+    "zero distinct paid grade"
+  ],
+  [
+    421,
+    617,
+    "zero distinct paid grade"
+  ],
+  [
+    422,
+    1,
+    "raw ceiling"
+  ],
+  [
+    422,
+    271,
+    "zero distinct paid grade"
+  ],
+  [
+    422,
+    317,
+    "zero distinct paid grade"
+  ],
+  [
+    422,
+    508,
+    "zero distinct paid grade"
+  ],
+  [
+    422,
+    558,
+    "zero distinct paid grade"
+  ],
+  [
+    422,
+    563,
+    "zero distinct paid grade"
+  ],
+  [
+    423,
+    1,
+    "raw ceiling"
+  ],
+  [
+    423,
+    296,
+    "zero distinct paid grade"
+  ],
+  [
+    423,
+    322,
+    "zero distinct paid grade"
+  ],
+  [
+    423,
+    508,
+    "zero distinct paid grade"
+  ],
+  [
+    423,
+    558,
+    "zero distinct paid grade"
+  ],
+  [
+    423,
+    602,
+    "zero distinct paid grade"
+  ],
+  [
+    424,
+    1,
+    "raw ceiling"
+  ],
+  [
+    424,
+    40,
+    "raw ceiling"
+  ],
+  [
+    424,
+    284,
+    "zero distinct paid grade"
+  ],
+  [
+    424,
+    311,
+    "zero distinct paid grade"
+  ],
+  [
+    424,
+    558,
+    "zero distinct paid grade"
+  ],
+  [
+    424,
+    612,
+    "zero distinct paid grade"
+  ],
+  [
+    425,
+    1,
+    "raw ceiling"
+  ],
+  [
+    425,
+    283,
+    "zero distinct paid grade"
+  ],
+  [
+    425,
+    310,
+    "zero distinct paid grade"
+  ],
+  [
+    425,
+    508,
+    "zero distinct paid grade"
+  ],
+  [
+    425,
+    563,
+    "zero distinct paid grade"
+  ],
+  [
+    425,
+    602,
+    "zero distinct paid grade"
+  ],
+  [
+    426,
+    1,
+    "raw ceiling"
+  ],
+  [
+    426,
+    153,
+    "raw ceiling"
+  ],
+  [
+    426,
+    295,
+    "zero distinct paid grade"
+  ],
+  [
+    426,
+    323,
+    "zero distinct paid grade"
+  ],
+  [
+    426,
+    563,
+    "zero distinct paid grade"
+  ],
+  [
+    426,
+    612,
+    "zero distinct paid grade"
+  ],
+  [
+    427,
+    1,
+    "raw ceiling"
+  ],
+  [
+    427,
+    272,
+    "zero distinct paid grade"
+  ],
+  [
+    427,
+    316,
+    "zero distinct paid grade"
+  ],
+  [
+    427,
+    508,
+    "zero distinct paid grade"
+  ],
+  [
+    427,
+    602,
+    "zero distinct paid grade"
+  ],
+  [
+    427,
+    612,
+    "zero distinct paid grade"
+  ],
+  [
+    428,
+    1,
+    "raw ceiling"
+  ],
+  [
+    428,
+    267,
+    "zero distinct paid grade"
+  ],
+  [
+    428,
+    325,
+    "zero distinct paid grade"
+  ],
+  [
+    428,
+    508,
+    "zero distinct paid grade"
+  ],
+  [
+    428,
+    514,
+    "zero distinct paid grade"
+  ],
+  [
+    428,
+    575,
+    "zero distinct paid grade"
+  ],
+  [
+    429,
+    1,
+    "raw ceiling"
+  ],
+  [
+    429,
+    290,
+    "zero distinct paid grade"
+  ],
+  [
+    429,
+    302,
+    "zero distinct paid grade"
+  ],
+  [
+    429,
+    508,
+    "zero distinct paid grade"
+  ],
+  [
+    429,
+    575,
+    "zero distinct paid grade"
+  ],
+  [
+    429,
+    585,
+    "zero distinct paid grade"
+  ],
+  [
+    430,
+    1,
+    "raw ceiling"
+  ],
+  [
+    430,
+    62,
+    "raw ceiling"
+  ],
+  [
+    430,
+    289,
+    "zero distinct paid grade"
+  ],
+  [
+    430,
+    313,
+    "zero distinct paid grade"
+  ],
+  [
+    430,
+    575,
+    "zero distinct paid grade"
+  ],
+  [
+    430,
+    592,
+    "zero distinct paid grade"
+  ],
+  [
+    431,
+    1,
+    "raw ceiling"
+  ],
+  [
+    431,
+    69,
+    "raw ceiling"
+  ],
+  [
+    431,
+    279,
+    "zero distinct paid grade"
+  ],
+  [
+    431,
+    308,
+    "zero distinct paid grade"
+  ],
+  [
+    431,
+    514,
+    "zero distinct paid grade"
+  ],
+  [
+    431,
+    585,
+    "zero distinct paid grade"
+  ],
+  [
+    432,
+    1,
+    "raw ceiling"
+  ],
+  [
+    432,
+    300,
+    "zero distinct paid grade"
+  ],
+  [
+    432,
+    307,
+    "zero distinct paid grade"
+  ],
+  [
+    432,
+    508,
+    "zero distinct paid grade"
+  ],
+  [
+    432,
+    514,
+    "zero distinct paid grade"
+  ],
+  [
+    432,
+    592,
+    "zero distinct paid grade"
+  ],
+  [
+    433,
+    1,
+    "raw ceiling"
+  ],
+  [
+    433,
+    276,
+    "zero distinct paid grade"
+  ],
+  [
+    433,
+    324,
+    "zero distinct paid grade"
+  ],
+  [
+    433,
+    508,
+    "zero distinct paid grade"
+  ],
+  [
+    433,
+    585,
+    "zero distinct paid grade"
+  ],
+  [
+    433,
+    592,
+    "zero distinct paid grade"
+  ],
+  [
+    434,
+    1,
+    "raw ceiling"
+  ],
+  [
+    434,
+    277,
+    "zero distinct paid grade"
+  ],
+  [
+    434,
+    311,
+    "zero distinct paid grade"
+  ],
+  [
+    434,
+    524,
+    "zero distinct paid grade"
+  ],
+  [
+    434,
+    535,
+    "zero distinct paid grade"
+  ],
+  [
+    434,
+    538,
+    "zero distinct paid grade"
+  ],
+  [
+    435,
+    1,
+    "raw ceiling"
+  ],
+  [
+    435,
+    291,
+    "zero distinct paid grade"
+  ],
+  [
+    435,
+    320,
+    "zero distinct paid grade"
+  ],
+  [
+    435,
+    524,
+    "zero distinct paid grade"
+  ],
+  [
+    435,
+    535,
+    "zero distinct paid grade"
+  ],
+  [
+    435,
+    629,
+    "zero distinct paid grade"
+  ],
+  [
+    436,
+    1,
+    "raw ceiling"
+  ],
+  [
+    436,
+    279,
+    "zero distinct paid grade"
+  ],
+  [
+    436,
+    305,
+    "zero distinct paid grade"
+  ],
+  [
+    436,
+    524,
+    "zero distinct paid grade"
+  ],
+  [
+    436,
+    535,
+    "zero distinct paid grade"
+  ],
+  [
+    436,
+    632,
+    "zero distinct paid grade"
+  ],
+  [
+    437,
+    1,
+    "raw ceiling"
+  ],
+  [
+    437,
+    289,
+    "zero distinct paid grade"
+  ],
+  [
+    437,
+    304,
+    "zero distinct paid grade"
+  ],
+  [
+    437,
+    524,
+    "zero distinct paid grade"
+  ],
+  [
+    437,
+    538,
+    "zero distinct paid grade"
+  ],
+  [
+    437,
+    629,
+    "zero distinct paid grade"
+  ],
+  [
+    438,
+    1,
+    "raw ceiling"
+  ],
+  [
+    438,
+    263,
+    "raw ceiling"
+  ],
+  [
+    438,
+    301,
+    "zero distinct paid grade"
+  ],
+  [
+    438,
+    321,
+    "zero distinct paid grade"
+  ],
+  [
+    438,
+    538,
+    "zero distinct paid grade"
+  ],
+  [
+    438,
+    632,
+    "zero distinct paid grade"
+  ],
+  [
+    439,
+    1,
+    "raw ceiling"
+  ],
+  [
+    439,
+    258,
+    "raw ceiling"
+  ],
+  [
+    439,
+    266,
+    "zero distinct paid grade"
+  ],
+  [
+    439,
+    310,
+    "zero distinct paid grade"
+  ],
+  [
+    439,
+    629,
+    "zero distinct paid grade"
+  ],
+  [
+    439,
+    632,
+    "zero distinct paid grade"
+  ],
+  [
+    440,
+    1,
+    "raw ceiling"
+  ],
+  [
+    440,
+    271,
+    "zero distinct paid grade"
+  ],
+  [
+    440,
+    309,
+    "zero distinct paid grade"
+  ],
+  [
+    440,
+    524,
+    "zero distinct paid grade"
+  ],
+  [
+    440,
+    557,
+    "zero distinct paid grade"
+  ],
+  [
+    440,
+    559,
+    "zero distinct paid grade"
+  ],
+  [
+    441,
+    1,
+    "raw ceiling"
+  ],
+  [
+    441,
+    294,
+    "zero distinct paid grade"
+  ],
+  [
+    441,
+    315,
+    "zero distinct paid grade"
+  ],
+  [
+    441,
+    524,
+    "zero distinct paid grade"
+  ],
+  [
+    441,
+    557,
+    "zero distinct paid grade"
+  ],
+  [
+    441,
+    608,
+    "zero distinct paid grade"
+  ],
+  [
+    442,
+    1,
+    "raw ceiling"
+  ],
+  [
+    442,
+    282,
+    "zero distinct paid grade"
+  ],
+  [
+    442,
+    324,
+    "zero distinct paid grade"
+  ],
+  [
+    442,
+    524,
+    "zero distinct paid grade"
+  ],
+  [
+    442,
+    557,
+    "zero distinct paid grade"
+  ],
+  [
+    442,
+    610,
+    "zero distinct paid grade"
+  ],
+  [
+    443,
+    1,
+    "raw ceiling"
+  ],
+  [
+    443,
+    285,
+    "zero distinct paid grade"
+  ],
+  [
+    443,
+    325,
+    "zero distinct paid grade"
+  ],
+  [
+    443,
+    524,
+    "zero distinct paid grade"
+  ],
+  [
+    443,
+    559,
+    "zero distinct paid grade"
+  ],
+  [
+    443,
+    608,
+    "zero distinct paid grade"
+  ],
+  [
+    444,
+    1,
+    "raw ceiling"
+  ],
+  [
+    444,
+    252,
+    "raw ceiling"
+  ],
+  [
+    444,
+    297,
+    "zero distinct paid grade"
+  ],
+  [
+    444,
+    318,
+    "zero distinct paid grade"
+  ],
+  [
+    444,
+    559,
+    "zero distinct paid grade"
+  ],
+  [
+    444,
+    610,
+    "zero distinct paid grade"
+  ],
+  [
+    445,
+    1,
+    "raw ceiling"
+  ],
+  [
+    445,
+    36,
+    "raw ceiling"
+  ],
+  [
+    445,
+    272,
+    "zero distinct paid grade"
+  ],
+  [
+    445,
+    312,
+    "zero distinct paid grade"
+  ],
+  [
+    445,
+    608,
+    "zero distinct paid grade"
+  ],
+  [
+    445,
+    610,
+    "zero distinct paid grade"
+  ],
+  [
+    446,
+    1,
+    "raw ceiling"
+  ],
+  [
+    446,
+    269,
+    "zero distinct paid grade"
+  ],
+  [
+    446,
+    323,
+    "zero distinct paid grade"
+  ],
+  [
+    446,
+    524,
+    "zero distinct paid grade"
+  ],
+  [
+    446,
+    564,
+    "zero distinct paid grade"
+  ],
+  [
+    446,
+    567,
+    "zero distinct paid grade"
+  ],
+  [
+    447,
+    1,
+    "raw ceiling"
+  ],
+  [
+    447,
+    251,
+    "raw ceiling"
+  ],
+  [
+    447,
+    293,
+    "zero distinct paid grade"
+  ],
+  [
+    447,
+    319,
+    "zero distinct paid grade"
+  ],
+  [
+    447,
+    564,
+    "zero distinct paid grade"
+  ],
+  [
+    447,
+    601,
+    "zero distinct paid grade"
+  ],
+  [
+    448,
+    1,
+    "raw ceiling"
+  ],
+  [
+    448,
+    281,
+    "zero distinct paid grade"
+  ],
+  [
+    448,
+    302,
+    "zero distinct paid grade"
+  ],
+  [
+    448,
+    524,
+    "zero distinct paid grade"
+  ],
+  [
+    448,
+    564,
+    "zero distinct paid grade"
+  ],
+  [
+    448,
+    604,
+    "zero distinct paid grade"
+  ],
+  [
+    449,
+    1,
+    "raw ceiling"
+  ],
+  [
+    449,
+    286,
+    "zero distinct paid grade"
+  ],
+  [
+    449,
+    307,
+    "zero distinct paid grade"
+  ],
+  [
+    449,
+    524,
+    "zero distinct paid grade"
+  ],
+  [
+    449,
+    567,
+    "zero distinct paid grade"
+  ],
+  [
+    449,
+    601,
+    "zero distinct paid grade"
+  ],
+  [
+    450,
+    1,
+    "raw ceiling"
+  ],
+  [
+    450,
+    298,
+    "zero distinct paid grade"
+  ],
+  [
+    450,
+    314,
+    "zero distinct paid grade"
+  ],
+  [
+    450,
+    524,
+    "zero distinct paid grade"
+  ],
+  [
+    450,
+    567,
+    "zero distinct paid grade"
+  ],
+  [
+    450,
+    604,
+    "zero distinct paid grade"
+  ],
+  [
+    451,
+    1,
+    "raw ceiling"
+  ],
+  [
+    451,
+    44,
+    "raw ceiling"
+  ],
+  [
+    451,
+    274,
+    "zero distinct paid grade"
+  ],
+  [
+    451,
+    322,
+    "zero distinct paid grade"
+  ],
+  [
+    451,
+    601,
+    "zero distinct paid grade"
+  ],
+  [
+    451,
+    604,
+    "zero distinct paid grade"
+  ],
+  [
+    452,
+    1,
+    "raw ceiling"
+  ],
+  [
+    452,
+    277,
+    "zero distinct paid grade"
+  ],
+  [
+    452,
+    306,
+    "zero distinct paid grade"
+  ],
+  [
+    452,
+    523,
+    "zero distinct paid grade"
+  ],
+  [
+    452,
+    526,
+    "zero distinct paid grade"
+  ],
+  [
+    452,
+    532,
+    "zero distinct paid grade"
+  ],
+  [
+    453,
+    1,
+    "raw ceiling"
+  ],
+  [
+    453,
+    278,
+    "zero distinct paid grade"
+  ],
+  [
+    453,
+    322,
+    "zero distinct paid grade"
+  ],
+  [
+    453,
+    523,
+    "zero distinct paid grade"
+  ],
+  [
+    453,
+    526,
+    "zero distinct paid grade"
+  ],
+  [
+    453,
+    631,
+    "zero distinct paid grade"
+  ],
+  [
+    454,
+    1,
+    "raw ceiling"
+  ],
+  [
+    454,
+    290,
+    "zero distinct paid grade"
+  ],
+  [
+    454,
+    309,
+    "zero distinct paid grade"
+  ],
+  [
+    454,
+    523,
+    "zero distinct paid grade"
+  ],
+  [
+    454,
+    526,
+    "zero distinct paid grade"
+  ],
+  [
+    454,
+    633,
+    "zero distinct paid grade"
+  ],
+  [
+    455,
+    1,
+    "raw ceiling"
+  ],
+  [
+    455,
+    110,
+    "raw ceiling"
+  ],
+  [
+    455,
+    300,
+    "zero distinct paid grade"
+  ],
+  [
+    455,
+    312,
+    "zero distinct paid grade"
+  ],
+  [
+    455,
+    532,
+    "zero distinct paid grade"
+  ],
+  [
+    455,
+    631,
+    "zero distinct paid grade"
+  ],
+  [
+    456,
+    1,
+    "raw ceiling"
+  ],
+  [
+    456,
+    230,
+    "raw ceiling"
+  ],
+  [
+    456,
+    288,
+    "zero distinct paid grade"
+  ],
+  [
+    456,
+    323,
+    "zero distinct paid grade"
+  ],
+  [
+    456,
+    532,
+    "zero distinct paid grade"
+  ],
+  [
+    456,
+    633,
+    "zero distinct paid grade"
+  ],
+  [
+    457,
+    1,
+    "raw ceiling"
+  ],
+  [
+    457,
+    266,
+    "zero distinct paid grade"
+  ],
+  [
+    457,
+    303,
+    "zero distinct paid grade"
+  ],
+  [
+    457,
+    523,
+    "zero distinct paid grade"
+  ],
+  [
+    457,
+    631,
+    "zero distinct paid grade"
+  ],
+  [
+    457,
+    633,
+    "zero distinct paid grade"
+  ],
+  [
+    458,
+    1,
+    "raw ceiling"
+  ],
+  [
+    458,
+    235,
+    "raw ceiling"
+  ],
+  [
+    458,
+    275,
+    "zero distinct paid grade"
+  ],
+  [
+    458,
+    304,
+    "zero distinct paid grade"
+  ],
+  [
+    458,
+    549,
+    "zero distinct paid grade"
+  ],
+  [
+    458,
+    554,
+    "zero distinct paid grade"
+  ],
+  [
+    459,
+    1,
+    "raw ceiling"
+  ],
+  [
+    459,
+    286,
+    "zero distinct paid grade"
+  ],
+  [
+    459,
+    317,
+    "zero distinct paid grade"
+  ],
+  [
+    459,
+    523,
+    "zero distinct paid grade"
+  ],
+  [
+    459,
+    549,
+    "zero distinct paid grade"
+  ],
+  [
+    459,
+    624,
+    "zero distinct paid grade"
+  ],
+  [
+    460,
+    1,
+    "raw ceiling"
+  ],
+  [
+    460,
+    292,
+    "zero distinct paid grade"
+  ],
+  [
+    460,
+    324,
+    "zero distinct paid grade"
+  ],
+  [
+    460,
+    523,
+    "zero distinct paid grade"
+  ],
+  [
+    460,
+    549,
+    "zero distinct paid grade"
+  ],
+  [
+    460,
+    626,
+    "zero distinct paid grade"
+  ],
+  [
+    461,
+    1,
+    "raw ceiling"
+  ],
+  [
+    461,
+    244,
+    "raw ceiling"
+  ],
+  [
+    461,
+    299,
+    "zero distinct paid grade"
+  ],
+  [
+    461,
+    325,
+    "zero distinct paid grade"
+  ],
+  [
+    461,
+    554,
+    "zero distinct paid grade"
+  ],
+  [
+    461,
+    624,
+    "zero distinct paid grade"
+  ],
+  [
+    462,
+    1,
+    "raw ceiling"
+  ],
+  [
+    462,
+    281,
+    "zero distinct paid grade"
+  ],
+  [
+    462,
+    316,
+    "zero distinct paid grade"
+  ],
+  [
+    462,
+    523,
+    "zero distinct paid grade"
+  ],
+  [
+    462,
+    554,
+    "zero distinct paid grade"
+  ],
+  [
+    462,
+    626,
+    "zero distinct paid grade"
+  ],
+  [
+    463,
+    1,
+    "raw ceiling"
+  ],
+  [
+    463,
+    268,
+    "zero distinct paid grade"
+  ],
+  [
+    463,
+    305,
+    "zero distinct paid grade"
+  ],
+  [
+    463,
+    523,
+    "zero distinct paid grade"
+  ],
+  [
+    463,
+    624,
+    "zero distinct paid grade"
+  ],
+  [
+    463,
+    626,
+    "zero distinct paid grade"
+  ],
+  [
+    464,
+    1,
+    "raw ceiling"
+  ],
+  [
+    464,
+    273,
+    "zero distinct paid grade"
+  ],
+  [
+    464,
+    320,
+    "zero distinct paid grade"
+  ],
+  [
+    464,
+    523,
+    "zero distinct paid grade"
+  ],
+  [
+    464,
+    550,
+    "zero distinct paid grade"
+  ],
+  [
+    464,
+    553,
+    "zero distinct paid grade"
+  ],
+  [
+    465,
+    1,
+    "raw ceiling"
+  ],
+  [
+    465,
+    102,
+    "raw ceiling"
+  ],
+  [
+    465,
+    284,
+    "zero distinct paid grade"
+  ],
+  [
+    465,
+    319,
+    "zero distinct paid grade"
+  ],
+  [
+    465,
+    550,
+    "zero distinct paid grade"
+  ],
+  [
+    465,
+    623,
+    "zero distinct paid grade"
+  ],
+  [
+    466,
+    1,
+    "raw ceiling"
+  ],
+  [
+    466,
+    294,
+    "zero distinct paid grade"
+  ],
+  [
+    466,
+    308,
+    "zero distinct paid grade"
+  ],
+  [
+    466,
+    523,
+    "zero distinct paid grade"
+  ],
+  [
+    466,
+    550,
+    "zero distinct paid grade"
+  ],
+  [
+    466,
+    625,
+    "zero distinct paid grade"
+  ],
+  [
+    467,
+    1,
+    "raw ceiling"
+  ],
+  [
+    467,
+    297,
+    "zero distinct paid grade"
+  ],
+  [
+    467,
+    313,
+    "zero distinct paid grade"
+  ],
+  [
+    467,
+    523,
+    "zero distinct paid grade"
+  ],
+  [
+    467,
+    553,
+    "zero distinct paid grade"
+  ],
+  [
+    467,
+    623,
+    "zero distinct paid grade"
+  ],
+  [
+    468,
+    1,
+    "raw ceiling"
+  ],
+  [
+    468,
+    283,
+    "zero distinct paid grade"
+  ],
+  [
+    468,
+    314,
+    "zero distinct paid grade"
+  ],
+  [
+    468,
+    523,
+    "zero distinct paid grade"
+  ],
+  [
+    468,
+    553,
+    "zero distinct paid grade"
+  ],
+  [
+    468,
+    625,
+    "zero distinct paid grade"
+  ],
+  [
+    469,
+    1,
+    "raw ceiling"
+  ],
+  [
+    469,
+    240,
+    "raw ceiling"
+  ],
+  [
+    469,
+    270,
+    "zero distinct paid grade"
+  ],
+  [
+    469,
+    321,
+    "zero distinct paid grade"
+  ],
+  [
+    469,
+    623,
+    "zero distinct paid grade"
+  ],
+  [
+    469,
+    625,
+    "zero distinct paid grade"
+  ],
+  [
+    470,
+    1,
+    "raw ceiling"
+  ],
+  [
+    470,
+    219,
+    "raw ceiling"
+  ],
+  [
+    470,
+    277,
+    "zero distinct paid grade"
+  ],
+  [
+    470,
+    303,
+    "zero distinct paid grade"
+  ],
+  [
+    470,
+    527,
+    "zero distinct paid grade"
+  ],
+  [
+    470,
+    529,
+    "zero distinct paid grade"
+  ],
+  [
+    471,
+    1,
+    "raw ceiling"
+  ],
+  [
+    471,
+    278,
+    "zero distinct paid grade"
+  ],
+  [
+    471,
+    323,
+    "zero distinct paid grade"
+  ],
+  [
+    471,
+    522,
+    "zero distinct paid grade"
+  ],
+  [
+    471,
+    527,
+    "zero distinct paid grade"
+  ],
+  [
+    471,
+    628,
+    "zero distinct paid grade"
+  ],
+  [
+    472,
+    1,
+    "raw ceiling"
+  ],
+  [
+    472,
+    290,
+    "zero distinct paid grade"
+  ],
+  [
+    472,
+    312,
+    "zero distinct paid grade"
+  ],
+  [
+    472,
+    522,
+    "zero distinct paid grade"
+  ],
+  [
+    472,
+    527,
+    "zero distinct paid grade"
+  ],
+  [
+    472,
+    634,
+    "zero distinct paid grade"
+  ],
+  [
+    473,
+    1,
+    "raw ceiling"
+  ],
+  [
+    473,
+    300,
+    "zero distinct paid grade"
+  ],
+  [
+    473,
+    309,
+    "zero distinct paid grade"
+  ],
+  [
+    473,
+    522,
+    "zero distinct paid grade"
+  ],
+  [
+    473,
+    529,
+    "zero distinct paid grade"
+  ],
+  [
+    473,
+    628,
+    "zero distinct paid grade"
+  ],
+  [
+    474,
+    1,
+    "raw ceiling"
+  ],
+  [
+    474,
+    288,
+    "zero distinct paid grade"
+  ],
+  [
+    474,
+    322,
+    "zero distinct paid grade"
+  ],
+  [
+    474,
+    522,
+    "zero distinct paid grade"
+  ],
+  [
+    474,
+    529,
+    "zero distinct paid grade"
+  ],
+  [
+    474,
+    634,
+    "zero distinct paid grade"
+  ],
+  [
+    475,
+    1,
+    "raw ceiling"
+  ],
+  [
+    475,
+    225,
+    "raw ceiling"
+  ],
+  [
+    475,
+    266,
+    "zero distinct paid grade"
+  ],
+  [
+    475,
+    306,
+    "zero distinct paid grade"
+  ],
+  [
+    475,
+    628,
+    "zero distinct paid grade"
+  ],
+  [
+    475,
+    634,
+    "zero distinct paid grade"
+  ],
+  [
+    476,
+    1,
+    "raw ceiling"
+  ],
+  [
+    476,
+    273,
+    "zero distinct paid grade"
+  ],
+  [
+    476,
+    321,
+    "zero distinct paid grade"
+  ],
+  [
+    476,
+    522,
+    "zero distinct paid grade"
+  ],
+  [
+    476,
+    539,
+    "zero distinct paid grade"
+  ],
+  [
+    476,
+    545,
+    "zero distinct paid grade"
+  ],
+  [
+    477,
+    1,
+    "raw ceiling"
+  ],
+  [
+    477,
+    283,
+    "zero distinct paid grade"
+  ],
+  [
+    477,
+    319,
+    "zero distinct paid grade"
+  ],
+  [
+    477,
+    522,
+    "zero distinct paid grade"
+  ],
+  [
+    477,
+    539,
+    "zero distinct paid grade"
+  ],
+  [
+    477,
+    615,
+    "zero distinct paid grade"
+  ],
+  [
+    478,
+    1,
+    "raw ceiling"
+  ],
+  [
+    478,
+    227,
+    "raw ceiling"
+  ],
+  [
+    478,
+    297,
+    "zero distinct paid grade"
+  ],
+  [
+    478,
+    308,
+    "zero distinct paid grade"
+  ],
+  [
+    478,
+    539,
+    "zero distinct paid grade"
+  ],
+  [
+    478,
+    620,
+    "zero distinct paid grade"
+  ],
+  [
+    479,
+    1,
+    "raw ceiling"
+  ],
+  [
+    479,
+    294,
+    "zero distinct paid grade"
+  ],
+  [
+    479,
+    313,
+    "zero distinct paid grade"
+  ],
+  [
+    479,
+    522,
+    "zero distinct paid grade"
+  ],
+  [
+    479,
+    545,
+    "zero distinct paid grade"
+  ],
+  [
+    479,
+    615,
+    "zero distinct paid grade"
+  ],
+  [
+    480,
+    1,
+    "raw ceiling"
+  ],
+  [
+    480,
+    284,
+    "zero distinct paid grade"
+  ],
+  [
+    480,
+    314,
+    "zero distinct paid grade"
+  ],
+  [
+    480,
+    522,
+    "zero distinct paid grade"
+  ],
+  [
+    480,
+    545,
+    "zero distinct paid grade"
+  ],
+  [
+    480,
+    620,
+    "zero distinct paid grade"
+  ],
+  [
+    481,
+    1,
+    "raw ceiling"
+  ],
+  [
+    481,
+    213,
+    "raw ceiling"
+  ],
+  [
+    481,
+    270,
+    "zero distinct paid grade"
+  ],
+  [
+    481,
+    320,
+    "zero distinct paid grade"
+  ],
+  [
+    481,
+    615,
+    "zero distinct paid grade"
+  ],
+  [
+    481,
+    620,
+    "zero distinct paid grade"
+  ],
+  [
+    482,
+    1,
+    "raw ceiling"
+  ],
+  [
+    482,
+    275,
+    "zero distinct paid grade"
+  ],
+  [
+    482,
+    305,
+    "zero distinct paid grade"
+  ],
+  [
+    482,
+    522,
+    "zero distinct paid grade"
+  ],
+  [
+    482,
+    541,
+    "zero distinct paid grade"
+  ],
+  [
+    482,
+    543,
+    "zero distinct paid grade"
+  ],
+  [
+    483,
+    1,
+    "raw ceiling"
+  ],
+  [
+    483,
+    216,
+    "raw ceiling"
+  ],
+  [
+    483,
+    281,
+    "zero distinct paid grade"
+  ],
+  [
+    483,
+    317,
+    "zero distinct paid grade"
+  ],
+  [
+    483,
+    541,
+    "zero distinct paid grade"
+  ],
+  [
+    483,
+    613,
+    "zero distinct paid grade"
+  ],
+  [
+    484,
+    1,
+    "raw ceiling"
+  ],
+  [
+    484,
+    299,
+    "zero distinct paid grade"
+  ],
+  [
+    484,
+    324,
+    "zero distinct paid grade"
+  ],
+  [
+    484,
+    522,
+    "zero distinct paid grade"
+  ],
+  [
+    484,
+    541,
+    "zero distinct paid grade"
+  ],
+  [
+    484,
+    618,
+    "zero distinct paid grade"
+  ],
+  [
+    485,
+    1,
+    "raw ceiling"
+  ],
+  [
+    485,
+    222,
+    "raw ceiling"
+  ],
+  [
+    485,
+    292,
+    "zero distinct paid grade"
+  ],
+  [
+    485,
+    325,
+    "zero distinct paid grade"
+  ],
+  [
+    485,
+    543,
+    "zero distinct paid grade"
+  ],
+  [
+    485,
+    613,
+    "zero distinct paid grade"
+  ],
+  [
+    486,
+    1,
+    "raw ceiling"
+  ],
+  [
+    486,
+    286,
+    "zero distinct paid grade"
+  ],
+  [
+    486,
+    316,
+    "zero distinct paid grade"
+  ],
+  [
+    486,
+    522,
+    "zero distinct paid grade"
+  ],
+  [
+    486,
+    543,
+    "zero distinct paid grade"
+  ],
+  [
+    486,
+    618,
+    "zero distinct paid grade"
+  ],
+  [
+    487,
+    1,
+    "raw ceiling"
+  ],
+  [
+    487,
+    268,
+    "zero distinct paid grade"
+  ],
+  [
+    487,
+    304,
+    "zero distinct paid grade"
+  ],
+  [
+    487,
+    522,
+    "zero distinct paid grade"
+  ],
+  [
+    487,
+    613,
+    "zero distinct paid grade"
+  ],
+  [
+    487,
+    618,
+    "zero distinct paid grade"
+  ],
+  [
+    488,
+    1,
+    "raw ceiling"
+  ],
+  [
+    488,
+    277,
+    "zero distinct paid grade"
+  ],
+  [
+    488,
+    310,
+    "zero distinct paid grade"
+  ],
+  [
+    488,
+    521,
+    "zero distinct paid grade"
+  ],
+  [
+    488,
+    533,
+    "zero distinct paid grade"
+  ],
+  [
+    488,
+    537,
+    "zero distinct paid grade"
+  ],
+  [
+    489,
+    1,
+    "raw ceiling"
+  ],
+  [
+    489,
+    291,
+    "zero distinct paid grade"
+  ],
+  [
+    489,
+    321,
+    "zero distinct paid grade"
+  ],
+  [
+    489,
+    521,
+    "zero distinct paid grade"
+  ],
+  [
+    489,
+    533,
+    "zero distinct paid grade"
+  ],
+  [
+    489,
+    630,
+    "zero distinct paid grade"
+  ],
+  [
+    490,
+    1,
+    "raw ceiling"
+  ],
+  [
+    490,
+    210,
+    "raw ceiling"
+  ],
+  [
+    490,
+    279,
+    "zero distinct paid grade"
+  ],
+  [
+    490,
+    304,
+    "zero distinct paid grade"
+  ],
+  [
+    490,
+    533,
+    "zero distinct paid grade"
+  ],
+  [
+    490,
+    635,
+    "zero distinct paid grade"
+  ],
+  [
+    491,
+    1,
+    "raw ceiling"
+  ],
+  [
+    491,
+    203,
+    "raw ceiling"
+  ],
+  [
+    491,
+    289,
+    "zero distinct paid grade"
+  ],
+  [
+    491,
+    305,
+    "zero distinct paid grade"
+  ],
+  [
+    491,
+    537,
+    "zero distinct paid grade"
+  ],
+  [
+    491,
+    630,
+    "zero distinct paid grade"
+  ],
+  [
+    492,
+    1,
+    "raw ceiling"
+  ],
+  [
+    492,
+    301,
+    "zero distinct paid grade"
+  ],
+  [
+    492,
+    320,
+    "zero distinct paid grade"
+  ],
+  [
+    492,
+    521,
+    "zero distinct paid grade"
+  ],
+  [
+    492,
+    537,
+    "zero distinct paid grade"
+  ],
+  [
+    492,
+    635,
+    "zero distinct paid grade"
+  ],
+  [
+    493,
+    1,
+    "raw ceiling"
+  ],
+  [
+    493,
+    266,
+    "zero distinct paid grade"
+  ],
+  [
+    493,
+    311,
+    "zero distinct paid grade"
+  ],
+  [
+    493,
+    521,
+    "zero distinct paid grade"
+  ],
+  [
+    493,
+    630,
+    "zero distinct paid grade"
+  ],
+  [
+    493,
+    635,
+    "zero distinct paid grade"
+  ],
+  [
+    494,
+    1,
+    "raw ceiling"
+  ],
+  [
+    494,
+    88,
+    "raw ceiling"
+  ],
+  [
+    494,
+    269,
+    "zero distinct paid grade"
+  ],
+  [
+    494,
+    322,
+    "zero distinct paid grade"
+  ],
+  [
+    494,
+    556,
+    "zero distinct paid grade"
+  ],
+  [
+    494,
+    562,
+    "zero distinct paid grade"
+  ],
+  [
+    495,
+    1,
+    "raw ceiling"
+  ],
+  [
+    495,
+    298,
+    "zero distinct paid grade"
+  ],
+  [
+    495,
+    319,
+    "zero distinct paid grade"
+  ],
+  [
+    495,
+    521,
+    "zero distinct paid grade"
+  ],
+  [
+    495,
+    556,
+    "zero distinct paid grade"
+  ],
+  [
+    495,
+    606,
+    "zero distinct paid grade"
+  ],
+  [
+    496,
+    1,
+    "raw ceiling"
+  ],
+  [
+    496,
+    286,
+    "zero distinct paid grade"
+  ],
+  [
+    496,
+    302,
+    "zero distinct paid grade"
+  ],
+  [
+    496,
+    521,
+    "zero distinct paid grade"
+  ],
+  [
+    496,
+    556,
+    "zero distinct paid grade"
+  ],
+  [
+    496,
+    611,
+    "zero distinct paid grade"
+  ],
+  [
+    497,
+    1,
+    "raw ceiling"
+  ],
+  [
+    497,
+    281,
+    "zero distinct paid grade"
+  ],
+  [
+    497,
+    307,
+    "zero distinct paid grade"
+  ],
+  [
+    497,
+    521,
+    "zero distinct paid grade"
+  ],
+  [
+    497,
+    562,
+    "zero distinct paid grade"
+  ],
+  [
+    497,
+    606,
+    "zero distinct paid grade"
+  ],
+  [
+    498,
+    1,
+    "raw ceiling"
+  ],
+  [
+    498,
+    293,
+    "zero distinct paid grade"
+  ],
+  [
+    498,
+    314,
+    "zero distinct paid grade"
+  ],
+  [
+    498,
+    521,
+    "zero distinct paid grade"
+  ],
+  [
+    498,
+    562,
+    "zero distinct paid grade"
+  ],
+  [
+    498,
+    611,
+    "zero distinct paid grade"
+  ],
+  [
+    499,
+    1,
+    "raw ceiling"
+  ],
+  [
+    499,
+    208,
+    "raw ceiling"
+  ],
+  [
+    499,
+    274,
+    "zero distinct paid grade"
+  ],
+  [
+    499,
+    323,
+    "zero distinct paid grade"
+  ],
+  [
+    499,
+    606,
+    "zero distinct paid grade"
+  ],
+  [
+    499,
+    611,
+    "zero distinct paid grade"
+  ],
+  [
+    500,
+    1,
+    "raw ceiling"
+  ],
+  [
+    500,
+    271,
+    "zero distinct paid grade"
+  ],
+  [
+    500,
+    312,
+    "zero distinct paid grade"
+  ],
+  [
+    500,
+    521,
+    "zero distinct paid grade"
+  ],
+  [
+    500,
+    565,
+    "zero distinct paid grade"
+  ],
+  [
+    500,
+    570,
+    "zero distinct paid grade"
+  ],
+  [
+    501,
+    1,
+    "raw ceiling"
+  ],
+  [
+    501,
+    80,
+    "raw ceiling"
+  ],
+  [
+    501,
+    297,
+    "zero distinct paid grade"
+  ],
+  [
+    501,
+    315,
+    "zero distinct paid grade"
+  ],
+  [
+    501,
+    565,
+    "zero distinct paid grade"
+  ],
+  [
+    501,
+    598,
+    "zero distinct paid grade"
+  ],
+  [
+    502,
+    1,
+    "raw ceiling"
+  ],
+  [
+    502,
+    285,
+    "zero distinct paid grade"
+  ],
+  [
+    502,
+    324,
+    "zero distinct paid grade"
+  ],
+  [
+    502,
+    521,
+    "zero distinct paid grade"
+  ],
+  [
+    502,
+    565,
+    "zero distinct paid grade"
+  ],
+  [
+    502,
+    603,
+    "zero distinct paid grade"
+  ],
+  [
+    503,
+    1,
+    "raw ceiling"
+  ],
+  [
+    503,
+    282,
+    "zero distinct paid grade"
+  ],
+  [
+    503,
+    325,
+    "zero distinct paid grade"
+  ],
+  [
+    503,
+    521,
+    "zero distinct paid grade"
+  ],
+  [
+    503,
+    570,
+    "zero distinct paid grade"
+  ],
+  [
+    503,
+    598,
+    "zero distinct paid grade"
+  ],
+  [
+    504,
+    1,
+    "raw ceiling"
+  ],
+  [
+    504,
+    294,
+    "zero distinct paid grade"
+  ],
+  [
+    504,
+    318,
+    "zero distinct paid grade"
+  ],
+  [
+    504,
+    521,
+    "zero distinct paid grade"
+  ],
+  [
+    504,
+    570,
+    "zero distinct paid grade"
+  ],
+  [
+    504,
+    603,
+    "zero distinct paid grade"
+  ],
+  [
+    505,
+    1,
+    "raw ceiling"
+  ],
+  [
+    505,
+    194,
+    "raw ceiling"
+  ],
+  [
+    505,
+    272,
+    "zero distinct paid grade"
+  ],
+  [
+    505,
+    309,
+    "zero distinct paid grade"
+  ],
+  [
+    505,
+    598,
+    "zero distinct paid grade"
+  ],
+  [
+    505,
+    603,
+    "zero distinct paid grade"
+  ],
+  [
+    506,
+    0,
+    "nonpositive productive grade"
+  ],
+  [
+    506,
+    1,
+    "nonpositive productive grade"
+  ],
+  [
+    506,
+    113,
+    "zero distinct paid grade"
+  ],
+  [
+    506,
+    114,
+    "zero distinct paid grade"
+  ],
+  [
+    506,
+    115,
+    "zero distinct paid grade"
+  ],
+  [
+    506,
+    116,
+    "zero distinct paid grade"
+  ],
+  [
+    506,
+    117,
+    "zero distinct paid grade"
+  ],
+  [
+    506,
+    118,
+    "zero distinct paid grade"
+  ],
+  [
+    506,
+    119,
+    "zero distinct paid grade"
+  ],
+  [
+    506,
+    120,
+    "zero distinct paid grade"
+  ],
+  [
+    506,
+    121,
+    "zero distinct paid grade"
+  ],
+  [
+    506,
+    122,
+    "zero distinct paid grade"
+  ],
+  [
+    506,
+    123,
+    "zero distinct paid grade"
+  ],
+  [
+    506,
+    124,
+    "zero distinct paid grade"
+  ],
+  [
+    506,
+    344,
+    "zero distinct paid grade"
+  ],
+  [
+    506,
+    345,
+    "zero distinct paid grade"
+  ],
+  [
+    506,
+    348,
+    "zero distinct paid grade"
+  ],
+  [
+    506,
+    349,
+    "zero distinct paid grade"
+  ],
+  [
+    506,
+    351,
+    "zero distinct paid grade"
+  ],
+  [
+    506,
+    352,
+    "zero distinct paid grade"
+  ],
+  [
+    506,
+    353,
+    "zero distinct paid grade"
+  ],
+  [
+    506,
+    354,
+    "zero distinct paid grade"
+  ],
+  [
+    506,
+    355,
+    "zero distinct paid grade"
+  ],
+  [
+    506,
+    356,
+    "zero distinct paid grade"
+  ],
+  [
+    506,
+    357,
+    "zero distinct paid grade"
+  ],
+  [
+    506,
+    358,
+    "zero distinct paid grade"
+  ],
+  [
+    506,
+    360,
+    "zero distinct paid grade"
+  ],
+  [
+    506,
+    361,
+    "zero distinct paid grade"
+  ],
+  [
+    507,
+    0,
+    "raw ceiling"
+  ],
+  [
+    507,
+    125,
+    "zero distinct paid grade"
+  ],
+  [
+    507,
+    126,
+    "zero distinct paid grade"
+  ],
+  [
+    507,
+    127,
+    "zero distinct paid grade"
+  ],
+  [
+    507,
+    128,
+    "zero distinct paid grade"
+  ],
+  [
+    507,
+    129,
+    "zero distinct paid grade"
+  ],
+  [
+    507,
+    130,
+    "zero distinct paid grade"
+  ],
+  [
+    507,
+    131,
+    "zero distinct paid grade"
+  ],
+  [
+    507,
+    132,
+    "zero distinct paid grade"
+  ],
+  [
+    507,
+    133,
+    "zero distinct paid grade"
+  ],
+  [
+    507,
+    326,
+    "zero distinct paid grade"
+  ],
+  [
+    507,
+    327,
+    "zero distinct paid grade"
+  ],
+  [
+    507,
+    329,
+    "zero distinct paid grade"
+  ],
+  [
+    507,
+    331,
+    "zero distinct paid grade"
+  ],
+  [
+    507,
+    332,
+    "zero distinct paid grade"
+  ],
+  [
+    507,
+    333,
+    "zero distinct paid grade"
+  ],
+  [
+    507,
+    336,
+    "zero distinct paid grade"
+  ],
+  [
+    507,
+    337,
+    "zero distinct paid grade"
+  ],
+  [
+    507,
+    339,
+    "zero distinct paid grade"
+  ],
+  [
+    507,
+    340,
+    "zero distinct paid grade"
+  ],
+  [
+    507,
+    341,
+    "zero distinct paid grade"
+  ],
+  [
+    507,
+    343,
+    "zero distinct paid grade"
+  ],
+  [
+    508,
+    0,
+    "nonpositive productive grade"
+  ],
+  [
+    508,
+    152,
+    "zero distinct paid grade"
+  ],
+  [
+    508,
+    154,
+    "zero distinct paid grade"
+  ],
+  [
+    508,
+    155,
+    "zero distinct paid grade"
+  ],
+  [
+    508,
+    156,
+    "zero distinct paid grade"
+  ],
+  [
+    508,
+    157,
+    "zero distinct paid grade"
+  ],
+  [
+    508,
+    158,
+    "zero distinct paid grade"
+  ],
+  [
+    508,
+    159,
+    "zero distinct paid grade"
+  ],
+  [
+    508,
+    160,
+    "zero distinct paid grade"
+  ],
+  [
+    508,
+    161,
+    "zero distinct paid grade"
+  ],
+  [
+    508,
+    162,
+    "zero distinct paid grade"
+  ],
+  [
+    508,
+    163,
+    "zero distinct paid grade"
+  ],
+  [
+    508,
+    417,
+    "zero distinct paid grade"
+  ],
+  [
+    508,
+    418,
+    "zero distinct paid grade"
+  ],
+  [
+    508,
+    419,
+    "zero distinct paid grade"
+  ],
+  [
+    508,
+    420,
+    "zero distinct paid grade"
+  ],
+  [
+    508,
+    422,
+    "zero distinct paid grade"
+  ],
+  [
+    508,
+    423,
+    "zero distinct paid grade"
+  ],
+  [
+    508,
+    425,
+    "zero distinct paid grade"
+  ],
+  [
+    508,
+    427,
+    "zero distinct paid grade"
+  ],
+  [
+    508,
+    428,
+    "zero distinct paid grade"
+  ],
+  [
+    508,
+    429,
+    "zero distinct paid grade"
+  ],
+  [
+    508,
+    432,
+    "zero distinct paid grade"
+  ],
+  [
+    508,
+    433,
+    "zero distinct paid grade"
+  ],
+  [
+    509,
+    0,
+    "nonpositive productive grade"
+  ],
+  [
+    509,
+    1,
+    "raw ceiling"
+  ],
+  [
+    509,
+    182,
+    "zero distinct paid grade"
+  ],
+  [
+    509,
+    183,
+    "zero distinct paid grade"
+  ],
+  [
+    509,
+    184,
+    "zero distinct paid grade"
+  ],
+  [
+    509,
+    185,
+    "zero distinct paid grade"
+  ],
+  [
+    509,
+    186,
+    "zero distinct paid grade"
+  ],
+  [
+    509,
+    187,
+    "zero distinct paid grade"
+  ],
+  [
+    509,
+    188,
+    "zero distinct paid grade"
+  ],
+  [
+    509,
+    189,
+    "zero distinct paid grade"
+  ],
+  [
+    509,
+    190,
+    "zero distinct paid grade"
+  ],
+  [
+    509,
+    191,
+    "zero distinct paid grade"
+  ],
+  [
+    509,
+    192,
+    "zero distinct paid grade"
+  ],
+  [
+    509,
+    193,
+    "zero distinct paid grade"
+  ],
+  [
+    509,
+    380,
+    "zero distinct paid grade"
+  ],
+  [
+    509,
+    382,
+    "zero distinct paid grade"
+  ],
+  [
+    509,
+    383,
+    "zero distinct paid grade"
+  ],
+  [
+    509,
+    385,
+    "zero distinct paid grade"
+  ],
+  [
+    509,
+    386,
+    "zero distinct paid grade"
+  ],
+  [
+    509,
+    387,
+    "zero distinct paid grade"
+  ],
+  [
+    509,
+    389,
+    "zero distinct paid grade"
+  ],
+  [
+    509,
+    390,
+    "zero distinct paid grade"
+  ],
+  [
+    509,
+    391,
+    "zero distinct paid grade"
+  ],
+  [
+    509,
+    392,
+    "zero distinct paid grade"
+  ],
+  [
+    509,
+    395,
+    "zero distinct paid grade"
+  ],
+  [
+    509,
+    396,
+    "zero distinct paid grade"
+  ],
+  [
+    509,
+    397,
+    "zero distinct paid grade"
+  ],
+  [
+    510,
+    1,
+    "raw ceiling"
+  ],
+  [
+    510,
+    328,
+    "zero distinct paid grade"
+  ],
+  [
+    510,
+    330,
+    "zero distinct paid grade"
+  ],
+  [
+    510,
+    331,
+    "zero distinct paid grade"
+  ],
+  [
+    511,
+    1,
+    "raw ceiling"
+  ],
+  [
+    511,
+    346,
+    "zero distinct paid grade"
+  ],
+  [
+    511,
+    348,
+    "zero distinct paid grade"
+  ],
+  [
+    511,
+    349,
+    "zero distinct paid grade"
+  ],
+  [
+    512,
+    1,
+    "raw ceiling"
+  ],
+  [
+    512,
+    332,
+    "zero distinct paid grade"
+  ],
+  [
+    512,
+    335,
+    "zero distinct paid grade"
+  ],
+  [
+    512,
+    336,
+    "zero distinct paid grade"
+  ],
+  [
+    513,
+    1,
+    "raw ceiling"
+  ],
+  [
+    513,
+    392,
+    "zero distinct paid grade"
+  ],
+  [
+    513,
+    393,
+    "zero distinct paid grade"
+  ],
+  [
+    513,
+    394,
+    "zero distinct paid grade"
+  ],
+  [
+    514,
+    1,
+    "raw ceiling"
+  ],
+  [
+    514,
+    428,
+    "zero distinct paid grade"
+  ],
+  [
+    514,
+    431,
+    "zero distinct paid grade"
+  ],
+  [
+    514,
+    432,
+    "zero distinct paid grade"
+  ],
+  [
+    515,
+    1,
+    "raw ceiling"
+  ],
+  [
+    515,
+    350,
+    "zero distinct paid grade"
+  ],
+  [
+    515,
+    351,
+    "zero distinct paid grade"
+  ],
+  [
+    515,
+    352,
+    "zero distinct paid grade"
+  ],
+  [
+    516,
+    1,
+    "raw ceiling"
+  ],
+  [
+    516,
+    357,
+    "zero distinct paid grade"
+  ],
+  [
+    516,
+    359,
+    "zero distinct paid grade"
+  ],
+  [
+    516,
+    361,
+    "zero distinct paid grade"
+  ],
+  [
+    517,
+    1,
+    "raw ceiling"
+  ],
+  [
+    517,
+    388,
+    "zero distinct paid grade"
+  ],
+  [
+    517,
+    390,
+    "zero distinct paid grade"
+  ],
+  [
+    517,
+    391,
+    "zero distinct paid grade"
+  ],
+  [
+    518,
+    1,
+    "raw ceiling"
+  ],
+  [
+    518,
+    418,
+    "zero distinct paid grade"
+  ],
+  [
+    518,
+    420,
+    "zero distinct paid grade"
+  ],
+  [
+    518,
+    421,
+    "zero distinct paid grade"
+  ],
+  [
+    519,
+    134,
+    "zero distinct paid grade"
+  ],
+  [
+    519,
+    135,
+    "zero distinct paid grade"
+  ],
+  [
+    519,
+    138,
+    "zero distinct paid grade"
+  ],
+  [
+    519,
+    139,
+    "zero distinct paid grade"
+  ],
+  [
+    519,
+    140,
+    "zero distinct paid grade"
+  ],
+  [
+    519,
+    142,
+    "zero distinct paid grade"
+  ],
+  [
+    519,
+    143,
+    "zero distinct paid grade"
+  ],
+  [
+    519,
+    144,
+    "zero distinct paid grade"
+  ],
+  [
+    519,
+    145,
+    "zero distinct paid grade"
+  ],
+  [
+    519,
+    147,
+    "zero distinct paid grade"
+  ],
+  [
+    519,
+    149,
+    "zero distinct paid grade"
+  ],
+  [
+    519,
+    150,
+    "zero distinct paid grade"
+  ],
+  [
+    519,
+    151,
+    "zero distinct paid grade"
+  ],
+  [
+    519,
+    398,
+    "zero distinct paid grade"
+  ],
+  [
+    519,
+    400,
+    "zero distinct paid grade"
+  ],
+  [
+    519,
+    402,
+    "zero distinct paid grade"
+  ],
+  [
+    519,
+    403,
+    "zero distinct paid grade"
+  ],
+  [
+    519,
+    404,
+    "zero distinct paid grade"
+  ],
+  [
+    519,
+    405,
+    "zero distinct paid grade"
+  ],
+  [
+    519,
+    407,
+    "zero distinct paid grade"
+  ],
+  [
+    519,
+    409,
+    "zero distinct paid grade"
+  ],
+  [
+    519,
+    412,
+    "zero distinct paid grade"
+  ],
+  [
+    519,
+    413,
+    "zero distinct paid grade"
+  ],
+  [
+    519,
+    414,
+    "zero distinct paid grade"
+  ],
+  [
+    519,
+    415,
+    "zero distinct paid grade"
+  ],
+  [
+    520,
+    164,
+    "zero distinct paid grade"
+  ],
+  [
+    520,
+    165,
+    "zero distinct paid grade"
+  ],
+  [
+    520,
+    166,
+    "zero distinct paid grade"
+  ],
+  [
+    520,
+    167,
+    "zero distinct paid grade"
+  ],
+  [
+    520,
+    169,
+    "zero distinct paid grade"
+  ],
+  [
+    520,
+    170,
+    "zero distinct paid grade"
+  ],
+  [
+    520,
+    171,
+    "zero distinct paid grade"
+  ],
+  [
+    520,
+    174,
+    "zero distinct paid grade"
+  ],
+  [
+    520,
+    175,
+    "zero distinct paid grade"
+  ],
+  [
+    520,
+    177,
+    "zero distinct paid grade"
+  ],
+  [
+    520,
+    178,
+    "zero distinct paid grade"
+  ],
+  [
+    520,
+    179,
+    "zero distinct paid grade"
+  ],
+  [
+    520,
+    180,
+    "zero distinct paid grade"
+  ],
+  [
+    520,
+    181,
+    "zero distinct paid grade"
+  ],
+  [
+    520,
+    362,
+    "zero distinct paid grade"
+  ],
+  [
+    520,
+    363,
+    "zero distinct paid grade"
+  ],
+  [
+    520,
+    365,
+    "zero distinct paid grade"
+  ],
+  [
+    520,
+    366,
+    "zero distinct paid grade"
+  ],
+  [
+    520,
+    368,
+    "zero distinct paid grade"
+  ],
+  [
+    520,
+    369,
+    "zero distinct paid grade"
+  ],
+  [
+    520,
+    370,
+    "zero distinct paid grade"
+  ],
+  [
+    520,
+    371,
+    "zero distinct paid grade"
+  ],
+  [
+    520,
+    375,
+    "zero distinct paid grade"
+  ],
+  [
+    520,
+    377,
+    "zero distinct paid grade"
+  ],
+  [
+    520,
+    378,
+    "zero distinct paid grade"
+  ],
+  [
+    520,
+    379,
+    "zero distinct paid grade"
+  ],
+  [
+    521,
+    195,
+    "zero distinct paid grade"
+  ],
+  [
+    521,
+    196,
+    "zero distinct paid grade"
+  ],
+  [
+    521,
+    197,
+    "zero distinct paid grade"
+  ],
+  [
+    521,
+    198,
+    "zero distinct paid grade"
+  ],
+  [
+    521,
+    199,
+    "zero distinct paid grade"
+  ],
+  [
+    521,
+    200,
+    "zero distinct paid grade"
+  ],
+  [
+    521,
+    201,
+    "zero distinct paid grade"
+  ],
+  [
+    521,
+    202,
+    "zero distinct paid grade"
+  ],
+  [
+    521,
+    204,
+    "zero distinct paid grade"
+  ],
+  [
+    521,
+    205,
+    "zero distinct paid grade"
+  ],
+  [
+    521,
+    206,
+    "zero distinct paid grade"
+  ],
+  [
+    521,
+    207,
+    "zero distinct paid grade"
+  ],
+  [
+    521,
+    209,
+    "zero distinct paid grade"
+  ],
+  [
+    521,
+    211,
+    "zero distinct paid grade"
+  ],
+  [
+    521,
+    488,
+    "zero distinct paid grade"
+  ],
+  [
+    521,
+    489,
+    "zero distinct paid grade"
+  ],
+  [
+    521,
+    492,
+    "zero distinct paid grade"
+  ],
+  [
+    521,
+    493,
+    "zero distinct paid grade"
+  ],
+  [
+    521,
+    495,
+    "zero distinct paid grade"
+  ],
+  [
+    521,
+    496,
+    "zero distinct paid grade"
+  ],
+  [
+    521,
+    497,
+    "zero distinct paid grade"
+  ],
+  [
+    521,
+    498,
+    "zero distinct paid grade"
+  ],
+  [
+    521,
+    500,
+    "zero distinct paid grade"
+  ],
+  [
+    521,
+    502,
+    "zero distinct paid grade"
+  ],
+  [
+    521,
+    503,
+    "zero distinct paid grade"
+  ],
+  [
+    521,
+    504,
+    "zero distinct paid grade"
+  ],
+  [
+    522,
+    212,
+    "zero distinct paid grade"
+  ],
+  [
+    522,
+    214,
+    "zero distinct paid grade"
+  ],
+  [
+    522,
+    215,
+    "zero distinct paid grade"
+  ],
+  [
+    522,
+    217,
+    "zero distinct paid grade"
+  ],
+  [
+    522,
+    218,
+    "zero distinct paid grade"
+  ],
+  [
+    522,
+    220,
+    "zero distinct paid grade"
+  ],
+  [
+    522,
+    221,
+    "zero distinct paid grade"
+  ],
+  [
+    522,
+    223,
+    "zero distinct paid grade"
+  ],
+  [
+    522,
+    224,
+    "zero distinct paid grade"
+  ],
+  [
+    522,
+    226,
+    "zero distinct paid grade"
+  ],
+  [
+    522,
+    228,
+    "zero distinct paid grade"
+  ],
+  [
+    522,
+    229,
+    "zero distinct paid grade"
+  ],
+  [
+    522,
+    471,
+    "zero distinct paid grade"
+  ],
+  [
+    522,
+    472,
+    "zero distinct paid grade"
+  ],
+  [
+    522,
+    473,
+    "zero distinct paid grade"
+  ],
+  [
+    522,
+    474,
+    "zero distinct paid grade"
+  ],
+  [
+    522,
+    476,
+    "zero distinct paid grade"
+  ],
+  [
+    522,
+    477,
+    "zero distinct paid grade"
+  ],
+  [
+    522,
+    479,
+    "zero distinct paid grade"
+  ],
+  [
+    522,
+    480,
+    "zero distinct paid grade"
+  ],
+  [
+    522,
+    482,
+    "zero distinct paid grade"
+  ],
+  [
+    522,
+    484,
+    "zero distinct paid grade"
+  ],
+  [
+    522,
+    486,
+    "zero distinct paid grade"
+  ],
+  [
+    522,
+    487,
+    "zero distinct paid grade"
+  ],
+  [
+    523,
+    231,
+    "zero distinct paid grade"
+  ],
+  [
+    523,
+    232,
+    "zero distinct paid grade"
+  ],
+  [
+    523,
+    233,
+    "zero distinct paid grade"
+  ],
+  [
+    523,
+    234,
+    "zero distinct paid grade"
+  ],
+  [
+    523,
+    236,
+    "zero distinct paid grade"
+  ],
+  [
+    523,
+    237,
+    "zero distinct paid grade"
+  ],
+  [
+    523,
+    238,
+    "zero distinct paid grade"
+  ],
+  [
+    523,
+    239,
+    "zero distinct paid grade"
+  ],
+  [
+    523,
+    241,
+    "zero distinct paid grade"
+  ],
+  [
+    523,
+    242,
+    "zero distinct paid grade"
+  ],
+  [
+    523,
+    243,
+    "zero distinct paid grade"
+  ],
+  [
+    523,
+    245,
+    "zero distinct paid grade"
+  ],
+  [
+    523,
+    246,
+    "zero distinct paid grade"
+  ],
+  [
+    523,
+    247,
+    "zero distinct paid grade"
+  ],
+  [
+    523,
+    452,
+    "zero distinct paid grade"
+  ],
+  [
+    523,
+    453,
+    "zero distinct paid grade"
+  ],
+  [
+    523,
+    454,
+    "zero distinct paid grade"
+  ],
+  [
+    523,
+    457,
+    "zero distinct paid grade"
+  ],
+  [
+    523,
+    459,
+    "zero distinct paid grade"
+  ],
+  [
+    523,
+    460,
+    "zero distinct paid grade"
+  ],
+  [
+    523,
+    462,
+    "zero distinct paid grade"
+  ],
+  [
+    523,
+    463,
+    "zero distinct paid grade"
+  ],
+  [
+    523,
+    464,
+    "zero distinct paid grade"
+  ],
+  [
+    523,
+    466,
+    "zero distinct paid grade"
+  ],
+  [
+    523,
+    467,
+    "zero distinct paid grade"
+  ],
+  [
+    523,
+    468,
+    "zero distinct paid grade"
+  ],
+  [
+    524,
+    248,
+    "zero distinct paid grade"
+  ],
+  [
+    524,
+    249,
+    "zero distinct paid grade"
+  ],
+  [
+    524,
+    250,
+    "zero distinct paid grade"
+  ],
+  [
+    524,
+    253,
+    "zero distinct paid grade"
+  ],
+  [
+    524,
+    254,
+    "zero distinct paid grade"
+  ],
+  [
+    524,
+    255,
+    "zero distinct paid grade"
+  ],
+  [
+    524,
+    256,
+    "zero distinct paid grade"
+  ],
+  [
+    524,
+    257,
+    "zero distinct paid grade"
+  ],
+  [
+    524,
+    259,
+    "zero distinct paid grade"
+  ],
+  [
+    524,
+    260,
+    "zero distinct paid grade"
+  ],
+  [
+    524,
+    261,
+    "zero distinct paid grade"
+  ],
+  [
+    524,
+    262,
+    "zero distinct paid grade"
+  ],
+  [
+    524,
+    264,
+    "zero distinct paid grade"
+  ],
+  [
+    524,
+    265,
+    "zero distinct paid grade"
+  ],
+  [
+    524,
+    434,
+    "zero distinct paid grade"
+  ],
+  [
+    524,
+    435,
+    "zero distinct paid grade"
+  ],
+  [
+    524,
+    436,
+    "zero distinct paid grade"
+  ],
+  [
+    524,
+    437,
+    "zero distinct paid grade"
+  ],
+  [
+    524,
+    440,
+    "zero distinct paid grade"
+  ],
+  [
+    524,
+    441,
+    "zero distinct paid grade"
+  ],
+  [
+    524,
+    442,
+    "zero distinct paid grade"
+  ],
+  [
+    524,
+    443,
+    "zero distinct paid grade"
+  ],
+  [
+    524,
+    446,
+    "zero distinct paid grade"
+  ],
+  [
+    524,
+    448,
+    "zero distinct paid grade"
+  ],
+  [
+    524,
+    449,
+    "zero distinct paid grade"
+  ],
+  [
+    524,
+    450,
+    "zero distinct paid grade"
+  ]
+]

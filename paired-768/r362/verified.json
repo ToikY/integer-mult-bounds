@@ -1,0 +1,33 @@
+{
+  "R361_complete_dim_valid_ordinary": {
+    "1": {
+      "cases": 444,
+      "ordinary_records": 896658464208,
+      "owned_backing": 6994188
+    },
+    "2": {
+      "cases": 9,
+      "ordinary_records": 896447724816,
+      "owned_backing": 6994188
+    },
+    "3": {
+      "cases": 1,
+      "ordinary_records": 896236985424,
+      "owned_backing": 6994188
+    }
+  },
+  "actual_one_to_one_components": 636,
+  "exhaustive_price_coverage": {
+    "R360 no identity contractions": 258610,
+    "R361 paid-neighbor contractions": 3010
+  },
+  "graph_controls": {
+    "changed_add_clock": 1,
+    "changed_chart_rejected": true,
+    "omitted_swap_rejected": true,
+    "swapped_owner_contact": true
+  },
+  "primary_result": "61c3579b9ce12965ff025e07d03b3ebb751218d645557afbbf86a6d7570c1886",
+  "source": "b8386887fcf5dd23afac61d03b228e31f3f1dfd3af2d24f0de851ea4d20171d7",
+  "unresolved": 0
+}

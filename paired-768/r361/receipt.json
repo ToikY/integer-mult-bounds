@@ -1,0 +1,66 @@
+{
+  "C": "1945057638797/500000000000000",
+  "candidate_family": "one attached pair only",
+  "comparator": "389011527141/100000000000000",
+  "control": {
+    "calls": 36,
+    "native_paid": {
+      "1": 1348,
+      "2": 1247,
+      "3": 55,
+      "4": 42,
+      "5": 29,
+      "6": 81,
+      "7": 1
+    },
+    "native_productive": {
+      "4": 17,
+      "8": 391
+    },
+    "ordinary": {
+      "caller_bank_transits": 3507600,
+      "native_bank_transits_per_call": 2576851200,
+      "native_banks_and_scratch": 4067,
+      "ordinary_records": 896869203600,
+      "owned_backing": 6994188,
+      "raw_ordinary_allowance": 1000000000000,
+      "raw_owned_allowance": 10000000,
+      "route_groups": 555624,
+      "route_records": 804099052800
+    }
+  },
+  "distinct_profiles": 11,
+  "eligible_count": 0,
+  "invalid": {
+    "equal_dimension_distinct_labels": 2552,
+    "nonpositive_productive": 4
+  },
+  "multiplicity_histogram": {
+    "1": 2998,
+    "2": 9,
+    "3": 2,
+    "4": 1
+  },
+  "one_candidate": null,
+  "optimistic_max_full_margin_change_at_old": "-44272946605300316310433/1250000000000000000000",
+  "optimistic_max_old_charge_removed": "716127602701243606337509/1250000000000000000000",
+  "price_counts": {
+    "below_comparator": 454
+  },
+  "ranked": [],
+  "raw_eligible_unvisited": 0,
+  "scope": 3010,
+  "selected": [],
+  "source": {
+    "APPLICATION-SOURCES.tar.gz": "d85d011ca74e8592c21c1e4db91a1a9021af26dcebc4dfdc2af7251f9c1bf968",
+    "APPLICATION.json": "587ece477179606eed6fd9a334ac6d6e27f0067f82c3d6281993736e0570a76f",
+    "BINARY-CANDIDATE.json.gz": "74e93daf2b7acf794ffb51f92f03f51556f68126d41ee13a8969bddb4cbe6326"
+  },
+  "trial_stages": [
+    "486245591427/125000000000000",
+    "1945057335171/500000000000000",
+    "3890115270097/1000000000000000",
+    "243132204531/62500000000000"
+  ],
+  "visited_bad": []
+}

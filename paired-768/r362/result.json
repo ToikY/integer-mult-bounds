@@ -1,0 +1,34 @@
+{
+  "bins_sha256": "0942753609e1bb967821aa6202cf04e103bcd2755b8ee169f5f1dcaf83c876ab",
+  "built": null,
+  "classification": {
+    "below_comparator": 96638,
+    "different_equal_dimension_neighbors": 103595,
+    "nonpositive_productive": 10,
+    "same_histograms": 61377
+  },
+  "comparator": "389011527141/100000000000000",
+  "components": 636,
+  "eligible": 412,
+  "eligible_components_split_from_label": 0,
+  "geometry_rejects": [],
+  "helper_endpoints": 408,
+  "main_anchored": 224,
+  "moves": 2803,
+  "no_cost_and_unanchored": 0,
+  "price_positive": 0,
+  "price_trial": "1945057638797/500000000000000",
+  "rank_sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+  "raw_upper": "778023057319/200000000000000",
+  "restart_index": 0,
+  "segments": 6866,
+  "signed_profiles": 49,
+  "source": {
+    "APPLICATION-SOURCES.tar.gz": "d85d011ca74e8592c21c1e4db91a1a9021af26dcebc4dfdc2af7251f9c1bf968",
+    "APPLICATION.json": "587ece477179606eed6fd9a334ac6d6e27f0067f82c3d6281993736e0570a76f",
+    "BINARY-CANDIDATE.json.gz": "74e93daf2b7acf794ffb51f92f03f51556f68126d41ee13a8969bddb4cbe6326"
+  },
+  "typed_instructions": 39600,
+  "unvisited": 0,
+  "word": "b096d6df2a0c4688296b13ab0cfd50fec1c7dec732819c624ddd7a745a144b69"
+}

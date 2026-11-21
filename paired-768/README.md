@@ -95,3 +95,28 @@ Every one of the 635 source-chart matrices has a trivial kernel. On the largest 
 From `paired-768/`, run `python3.12 -IB r359/audit.py --peer inputs --accept r352/accept.json --r354-code r354/audit.py --r357-code r357/audit.py --r358-code r358/audit.py --r357 r357/receipt.json --r358 r358/receipt.json --out new-r359.json`. The expected SHA-256 is `5a093254a2244c6289fb13aff19fd18eae5ec7b59d87d1e84a0023adc9a42d1c`.
 
 The earlier matched solver comparison is also replayable from this directory with `python3.12 -IB r356/timing.py . new-timing.json`. Elapsed times depend on the machine. Both modes must produce the same rank, separator and full independent receipt. The recorded comparison was inconclusive for end-to-end speed, so the exact solver remains the default. [Recorded timings](r356/timing-result.json)
+
+## Round 360 · every opcode-preserving single-frame substitution
+
+There are 261,620 assignments of a different catalogued label to one of the 412 eligible original labels. Of those, 61,377 leave the dimension and price unchanged, and 104,059 violate a required positive paid or productive gap. The other 96,184 have 37 distinct complete profiles. Even before downstream costs, each has negative absolute signed margin at the comparator. Its margin decreases throughout the interval to the rational supplier ceiling. This exhausts the specified family while retaining all original MOVE opcodes and protecting the first 222 public endpoints. [Exact profile receipt](r360/receipt.json) · [Proof](r360/PROOF.md)
+
+From `paired-768/`, run `python3.12 -IB r360/audit.py --peer inputs --accept r352/accept.json --out new-r360.json`. The expected SHA-256 is `5874d9ebb3838cd7bb4bed94c1c8dbb4845f468324dddde146b3111a773fe564`. An eligible extension must give a literal treatment of equal endpoints, change more than one assignment, or change the cost another way.
+
+## Round 361 · substitutions that delete literal identities
+
+All 3,010 ordered assignments to an actual neighboring chart were checked. Moving both endpoints to the identical physical frame allows deletion of that MOVE. Even with this credit, 2,552 assignments create another equal-dimension edge between different frames and four violate a productive gap. The remaining 454 give 11 complete invoices, all below the comparator. The most favorable signed margin upper bound is below −35.41835. None reached a build. [Proof](r361/PROOF.md) · [Complete price and scope](r361/receipt.json)
+
+From `paired-768/`, run `python3.12 -IB r361/audit.py --peer inputs --accept r352/accept.json --math r360/audit.py --out new-r361.json`. The expected SHA-256 is `612b209c1567c8a811bfbce9cc50655c74f5c04be234d47db0b433218c09823e`. The next screen allows only one connected group of co-chart values to change, leaving unrelated uses of that label in place.
+
+## Round 362 · every maximal group constrained by ADD
+
+All 29,301 ADDs connect 6,866 live segments into exactly 636 components, one for each atlas label. Every one of the 2,803 paid boundaries and 408 productive endpoints agrees with the original label census. All 261,620 replacements are therefore covered by R360 and R361, including the 3,010 identity-eligible cases. Multiple simultaneous component changes remain open. [Graph proof](r362/PROOF.md) · [Verified scope and controls](r362/verified.json)
+
+From `paired-768/` on CPython 3.12 use a fresh output directory.
+
+```sh
+python3.12 -IB r362/check.py --peer inputs --helper r360/directed.py --accept r352/accept.json --out fresh-362
+python3.12 -IB r362/verify.py --word inputs/BINARY-CANDIDATE.json.gz --result fresh-362/result.json --r361 r361/excluded.json --out fresh-362/verified.json
+```
+
+Expected SHA-256 for `fresh-362/verified.json` is `f9d7dd7e5c19672a61edf9f67fe14deb863ecad872eb1d7c2e1700b0d5bce07b`. The controls reject a changed ADD and an omitted SWAP. The public checkout includes the pinned #8027 binary, application archive and caller plus the #8029 acceptance. The next test permits two coupled assignments and charges each shared edge once.
