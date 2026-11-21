@@ -1,0 +1,28 @@
+# Proposed R346 — certify or retire one p15/B9 proof
+
+No new numerical experiment was run to prepare this design. Freeze p=15, h=1804, q=749/1000, B=9 on the original H, word, paid inventory, owned stock and signed caller. Use the existing height polynomial with shift 7/6, denominator constant 319/100 and slope β=23/20. The complete p16 scientific receipt is 25c71dab6c8c1fbc6f7aeda9f23ecb2c9da108a6938f22edfeaafa967bc03417, its signed binding is 1b7eaaeb26ab5b6e22407a2d56b7a2922ebd429843ec97f040c2654e0f6fb906, and primary receipt is 5d3a25fe5e45266332f0707d584c6c2e1b4cbb6ed883deb5c12acc8ccbb4e6bc. Refresh the comparable frontier before launch. One scientific case, external 45-second SIGKILL deadline and 15-second reserve. No adaptive cutoffs, extra tilts or adjacent power trials.
+
+**Price before the source proof.** Authenticate p16/J629 and its complete claim 0.00387992804554. Prove the normalized base, strict carrier, tail derivative and actual full cover for p15. Compute all seven strict restored stages and the signed tested and grid rates; require separation above raw_upper−629/H−7 ticks and the updated complete comparator. Reject the frozen case if (749/1150)^15≥9η_lower or if price does not qualify. Apply exact unity logarithms and directed powers.
+
+**Nonroot groups.** Set v=451, K=16^v, J=11^v. For an unmatched Pascal group the rank factor is kr/L with r≤L<k and k≥K. Always count distinct paid labels. If L<4^v require (16/4)^(vδ)>9. For 4^v≤L<6^v use (m,c,d)=(4,6,7/5); for 6^v≤L<7^v use (6,7,8/5). In either middle range all tuples of grades ≤m are admitted and unchanged. Their t-denominator is at least S_m^v, S_m=Σ_{r≤m}Pᵣrᵗ. By the R345 full-slab/remainder accounting each of N₀^v original tuples contributes at most one rank below d^v<J. This includes unsplit tuples, excludes zero remainders and keeps all work on deleted productive outputs. The conditional low-rank t-fraction is bounded by U_m=[N₀dᵗ/S_m]^v. Require U_m,hi<1 and
+
+    (16/c)^(vδ) [1+(1−U_m,hi)(d^(vδ)−1)] > 9.
+
+For 7^v≤L<J the R344 band proof gave the conditional lower bound 1+f((4^v)^δ−1) on the sibling average of r^δ itself, using only the known admitted unsplit subset and the full completed denominator. Reapply this literal lower separately from k/L: since k/L≥K/J, the complete multiplier is ≥(K/J)^δ times that band lower. Do not multiply an old charged k/L gain a second time. For L≥J all paid labels occur, giving the R341 B_paid=(ΣP_r r)/(ΣP_r rᵗ) lower already independently checked. Require both rows >9. Assign equality at each interior boundary to its next region.
+
+**One root proof.** Use the attained K from R341 and n=A K^G x, 1≤x<K. In the low cell x≤K^(2/3), require b K^(δ/3)>9 from the R341 weighted root lower b. For the remaining cells use the frozen increasing boundaries
+
+    2/3, 3/4, 5/6, 7/8, 11/12, 23/24, 47/48, 1.
+
+Use K^l<x≤K^u in each cell and retain the physical upper exclusion at x=K. For b_u=min(9,b K^(δ(1−u))) and fixed w in {17/50,17/100,1/10}, set
+
+    R_u(G) = min(1, min_w α_lo^(−v) K^(u w) [(λ_w,hi/α_lo)^v]^G),
+    H_u(G) = η_lower[9−(9−b_u)R_u(G)].
+
+Compute only the new λ_(1/10)=16^(1/10)T_(t−1/10),raw/T_t,raw from the same positive productive inventory with directed upper numerator and lower denominator. Check every retained geometric factor decreases. These are independent upper bounds on the root fraction, so take their minimum. Deleting productive positions decreases raw positive moments, splitting paid labels does not reduce their raw t-total, and complete source t-mass dominates exit t-mass. No new physical cutoff or independence assumption follows from the third tilt.
+
+**Early ceiling before the grid.** The predecessor's tightest finite row was near the upper endpoint at G=10. Calculate the single p15 numerator C(10). If C(10)/(319/100+β·11)^15 ≥ H_1(10), retire this fixed conditional-mass certificate at once. Any final cell ending at u=1 uses the same lower capacity H_1 and, for every l<1, a strictly smaller denominator than this optimistic limiting denominator. Finer x subdivision alone cannot redeem that row under the frozen inequalities. This is a ceiling for this certificate at this height, not a counterexample to the graph's true contraction. If comparisons are undecided by directed arithmetic, label them unresolved. If the endpoint passes, test actual last-cell G=10, then G=9,11 and G=10 for the six other high cells. Cache these points. Any failure reports the tested row, actual capacity, all three tilt upper bounds and unvisited scope.
+
+**Finish only a survivor.** The low cell needs 16 Newton coefficients at origin zero. Each of seven high cells needs all 32 finite heights G=0,…,31 (including cached prechecks) and 16 shifted Newton coefficients at origin 32 against H_u(32). Use its own denominator (319/100+β(G+l))^15. All later basis terms are nonnegative; the root bound at 32 remains valid for all later heights. Maximum 224 direct checks and 128 coefficients plus the one predeclared optimistic endpoint ceiling; only C(0)…C(47) are needed. One passing result advances independent proof and complete signed replay. A capped case records the exact last stage without converting unvisited rows to exclusions. The first implementation is to extend the R345 watchdog checker with the two S_m counts, the third raw productive tilt, and the G10 limiting-denominator precheck.
+
+Credits remain with the #7863 literal whole slabs and rank inventory, the retained Pascal compiler, R341's complete sibling accounting, R344's admitted band and R345's checked low-rank count and root tilts. This proposed test reuses one construction, pays its whole invoice and changes only the proof.

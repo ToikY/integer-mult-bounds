@@ -1,0 +1,28 @@
+# Independent replay of two successive paid-exit proofs on the 451-factor word
+
+On the original #7863 word, both proofs lower the finite compiler's ordinary loss on the same fixed-multitape contract. These are historical conditional improvements over their exact predecessors. A newer peer, Ali Romman's #8027 at `fb9b6a7b0d27da1cf98430893a3016bf811e2aa4`, reports **0.00389011507650** on a changed binary and rational construction. It exceeds both results below. Independent reproduction of that peer was pending at handoff preparation. [Peer construction](https://github.com/CrocSwap/integer-mult-bounds/pull/8027) · [Canonical research discussion](https://github.com/CrocSwap/integer-mult-bounds/discussions/7111)
+
+|Round|Prior complete κ|New complete κ|Exact change|Change in percent|Terminal loss, H=1,202,400,000,000,000|Ordinary cap|Signed tested point|
+|---|---|---|---|---|---|---|---|
+|344, p17|0.00387992804547|0.00387992804551|0.00000000000004|(400/387992804547)%|668/H|0.00387992804559244|0.00387992804558|
+|345, p16|0.00387992804551|0.00387992804554|0.00000000000003|(300/387992804551)%|629/H|0.00387992804562487|0.00387992804561|
+
+The exact directed gaps above the prior complete relaxed ceilings are 277/20040000000000000 and 19/1800000000000000 respectively. The seven strictly restored ordinary stages are in each independent receipt. Each signed application charges seven final ticks of size 10⁻¹⁴. Source costs retain the actual carrier cover, stock, slab completion, tape and precision obligations. The known external #7863 comparison was 0.00387992804346. These old-word gains over that source are 0.00000000000205 and 0.00000000000208. [Producer](https://github.com/CrocSwap/integer-mult-bounds/pull/7863) · [Independent audit](https://github.com/CrocSwap/integer-mult-bounds/pull/7973)
+
+## Replay
+
+Use CPython 3.12 with standard-library modules and Git. In a separate scientific clone fetch the published source with `git -C SCIENTIFIC_CHECKOUT fetch https://github.com/CrocSwap/integer-mult-bounds.git 156137f70e7819cca8d86a1925d4c2873c77552e`. From this handoff directory run the following single replay command, replacing SCIENTIFIC_CHECKOUT with the clone directory.
+
+```sh
+python3.12 -IB replay.py --scientific-checkout SCIENTIFIC_CHECKOUT --full-signed
+```
+
+The replay uses the exact scientific tree `6dd295cb133c35e7ea14d744644ca77d8ffaa6ed` when available. The public fallback reads the identical authenticated #7863 archive from `156137f70e7819cca8d86a1925d4c2873c77552e` and uses the included byte-identical scientific verifier from `6dd295cb`. Pass `--public-source` to exercise the fallback explicitly. The source producer was Clear1nsight’s #7863 head `b3e4412fe01f07dc58305616fabf96345f49a781`; the independent #7973 head was `ac3df5d5c8889f464f575e32dfea43714abf08ca`. It verifies the archive, all 202 locked predecessor members, every bundled path, the inherited scientific controls and all reconstructed receipts. It recreates the older layout in a fresh temporary directory. Omitting `--full-signed` recomputes both independent source proofs and binds their archived signed applications without running the consumer afresh. Full mode also reruns both signed consumers and checks the exact application, expanded audit and binary finite outputs for each. The original complete signed runs took 26.702 and 26.578 seconds. Each passed 54 strict and four functional conditions and both independent orientations across 1,661,521 coefficients per orientation. The five premises are printed in the archived outer receipts. Hosted status belongs to the head actually tested. R339's three jobs passed on its earlier head. [R339 scientific job](https://github.com/CrocSwap/integer-mult-bounds/actions/runs/44925868806/job/136913020509)
+
+## Scope and next decision
+
+Round 344 checked 64 finite height/cell rows and 54 polynomial tail coefficients. Round 345 checked 128 finite rows and 85 coefficients. Loaded prior-good receipts, negative capacity tests, signed low-cap and extra-rank-one controls are included. The p16 trial checked G=16 first. All rows passed, so no work was saved and there was no matched timing advantage. The ordering trial is inconclusive. The staged proof documents give exact root cells, endpoint conventions and all-height reductions. No neighboring exponent or circuit edit was certified.
+
+The [prospective p15 gate](evidence/round345/NEXT.md) freezes B=9, h=1804, the old 451-factor source, three root tilts and a 45-second discovery limit plus 15 seconds for validation. Check the p16 price ceiling and the named root, nonroot and terminal inequalities before expanding. Reprice it against #8027 before treating it as a campaign lead. Its induction and constants have not transferred to that different peer word.
+
+Jacob Alan Sussman supplied the integer Pascal flow, zxv the compiler and paid-exit comparison, DreamingOfClouds the retained ambient and stock transfer, and Clear1nsight the original slab construction and independent consumer. R339 and R341–343 supplied the completed paid moments, sibling multiplicities and root accounting. R344 changes the upper-cell root-share bound. R345 counts small remainders against an admitted denominator and adds a second root tilt. OpenAI Codex materially assisted with proof development, implementation and replay. [Paid-exit theorem](https://github.com/CrocSwap/integer-mult-bounds/pull/4480) · [Predecessor handoff](https://github.com/ToikY/integer-mult-bounds/blob/f6eb39804cb9eaefd927f8ede928ae7b453674f5/round343/NEXT.md) · [Source package](https://github.com/CrocSwap/integer-mult-bounds/pull/8026)
