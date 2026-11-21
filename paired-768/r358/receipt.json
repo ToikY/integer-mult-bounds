@@ -1,0 +1,36 @@
+{
+  "all_equal_pairs": 0,
+  "archive_pins": {
+    "parent/binary/independent/literal.py": "4021766d87fa791a43a78a6665c9260b7ba3772d8b2db6e9c84b6a3d51a1305c",
+    "parent/binary/independent/price.py": "d720df6f3f7a22554e83d0c29243af3ee04fa036073404926bab7bc2f2687e1b",
+    "source/research/paired-query-only-bit/EFREE-CALLER.json.gz": "757b3523798f840bdb02028b23708c3416627a99ea09e7a3c4bcdc5cd0c7ce4b"
+  },
+  "comparison": "0.00389011527141",
+  "disjoint_pair_limit": 0,
+  "distinct_source_demand_signatures": 2803,
+  "head": "fb9b6a7b0d27da1cf98430893a3016bf811e2aa4",
+  "independent_pair_injection_limit": 0,
+  "optimistic_all_encoded_36_call_gross": [
+    "0.000000000000000000000000000000",
+    "0.000000000000000000000000000000"
+  ],
+  "optimistic_disjoint_36_call_gross": [
+    "0.000000000000000000000000000000",
+    "0.000000000000000000000000000000"
+  ],
+  "other_native_paid_change": 0,
+  "pins": {
+    "APPLICATION-SOURCES.tar.gz": "d85d011ca74e8592c21c1e4db91a1a9021af26dcebc4dfdc2af7251f9c1bf968",
+    "APPLICATION.json": "587ece477179606eed6fd9a334ac6d6e27f0067f82c3d6281993736e0570a76f",
+    "BINARY-CANDIDATE.json.gz": "74e93daf2b7acf794ffb51f92f03f51556f68126d41ee13a8969bddb4cbe6326"
+  },
+  "r354_checker": "326dcf53fa411dad88df648abe86097d52e1d3de594607e71f659ee7e1aa0be0",
+  "r357": "ee8e207c2352db335abf746293353aa36039613b589c0042513b6e6fbe0ff599",
+  "r357_checker": "5e172d879ac6438ecfce1152c543fdd025c3f99cb369d0ee21655118cc8d61b0",
+  "repeated_signatures": [],
+  "scope_moves": 2803,
+  "selected": null,
+  "source_charts": 635,
+  "unvisited_signature_positions": 0,
+  "word": "b096d6df2a0c4688296b13ab0cfd50fec1c7dec732819c624ddd7a745a144b69"
+}

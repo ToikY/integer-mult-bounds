@@ -75,3 +75,23 @@ From `paired-768/`, run `python3.12 -IB r355/audit.py --peer inputs --accept r35
 Group all 2,803 paid forward forms by ordered source and destination. Each of the 2,354 groups has full rank, even allowing a free cache of all earlier deliveries. The potential saving from replacing a sender's form by same-route earlier deliveries is zero across all 36 calls. At the separate chart-585 control, the five forms remain independent immediately after clock 30338. Input 171 XOR input 604 annihilates four named donors and selects register 3430 at 30339. This avoids a redundant four-donor build. Cross-route encodings and changed allocations remain open. [Route census and exact witnesses](r356/receipt.json) · [Proof](r356/PROOF.md)
 
 From `paired-768/`, run `python3.12 -IB r356/audit.py --peer inputs --accept r352/accept.json --r354-code r354/audit.py --r355-code r355/audit.py --r355 r355/receipt.json --out new-r356.json`. The expected SHA-256 is `245c57639941873096fd13f2962a7a239eed23cc3e60317ffe8b09d6beb0abf3`. The next independent test checks the downstream adjoint forms on those same routes.
+
+## Round 357 · independent downstream demands
+
+All 2,803 adjoint forms are nonzero. Their ranks sum to 2,803 across the 2,354 ordered routes. The optimistic saving from combining proportional or dependent downstream demands on the same route is therefore zero. The test leaves cross-route schedules and new productive helpers open. [Exact reverse census](r357/receipt.json) · [Proof](r357/PROOF.md)
+
+From `paired-768/`, run `python3.12 -IB r357/audit.py --peer inputs --accept r352/accept.json --r354-code r354/audit.py --r356-code r356/audit.py --forward r356/receipt.json --out new-r357.json`. The expected SHA-256 is `ee8e207c2352db335abf746293353aa36039613b589c0042513b6e6fbe0ff599`. The next helper test asks whether two different paid deliveries from the same source chart can carry a fresh input and cancel at every original public output.
+
+## Round 358 · the two-injection helper has no eligible pair
+
+The 2,803 pairs of source chart and full output influence are all distinct. This allows different destinations and tests every paid departure. There is no way in this family to inject one fresh scalar immediately before two transfers on the same source chart while preserving all 630 old outputs. The maximum productive credit for the family is zero. A helper using three or more injections is a separate question. [Proof](r358/PROOF.md) · [Independent receipt](r358/receipt.json)
+
+From `paired-768/`, run `python3.12 -IB r358/audit.py --peer inputs --accept r352/accept.json --r354-code r354/audit.py --r357-code r357/audit.py --r357 r357/receipt.json --out new-r358.json`. The expected SHA-256 is `bc62287d9b4c38a1722eebd98decfdef5c092ddd159795235e77fc8dd78892e1`.
+
+## Round 359 · arbitrary-support helpers on a single source
+
+Every one of the 635 source-chart matrices has a trivial kernel. On the largest chart, all 516 columns are independent. Consequently **every nonempty subset** of immediately pre-MOVE injections on one unchanged source chart alters at least one old public output. Allowing a free terminal decoder still gives zero possible productive credit. Other source charts, physical substitutions and different injection clocks remain open. [All chart ranks](r359/receipt.json) · [Independent proof](r359/PROOF.md)
+
+From `paired-768/`, run `python3.12 -IB r359/audit.py --peer inputs --accept r352/accept.json --r354-code r354/audit.py --r357-code r357/audit.py --r358-code r358/audit.py --r357 r357/receipt.json --r358 r358/receipt.json --out new-r359.json`. The expected SHA-256 is `5a093254a2244c6289fb13aff19fd18eae5ec7b59d87d1e84a0023adc9a42d1c`.
+
+The earlier matched solver comparison is also replayable from this directory with `python3.12 -IB r356/timing.py . new-timing.json`. Elapsed times depend on the machine. Both modes must produce the same rank, separator and full independent receipt. The recorded comparison was inconclusive for end-to-end speed, so the exact solver remains the default. [Recorded timings](r356/timing-result.json)

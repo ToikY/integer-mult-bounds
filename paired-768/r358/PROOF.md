@@ -1,0 +1,17 @@
+# Two departures on one source chart cannot hide a new independent port
+
+All 2,803 original paid departures in #8027 have a distinct combination of **source chart and exact downstream public-output form**. There are 635 source charts. The 630-coordinate GF(2) forms were compared as exact integers with destination unrestricted. The search exhausted all 2,803 positions and found no matching pair, including across two different destinations. Both the maximum number of disjoint eligible pairs and the more permissive overlapping-pair bound equal zero. No productive port, changed finite price or increase in κ was certified.
+
+**Why this settles the build decision.** Let z be a new independent input on chart A, and let bᵢ and bⱼ denote the original response at the public outputs to an injected unit at two paid departures leaving A. The proposed local ADDs inject z just before each transfer. The original word is globally linear; contributions to the old outputs sum to (bᵢ+bⱼ)z even when a downstream path from i reaches j. Arbitrary old-output preservation requires bᵢ=bⱼ. This necessity only concerns the old outputs. Recovering and returning z at a legally nested positive-grade endpoint would have required an additional proof had any pair survived. Clock, ownership, decode, precision and tape costs could not turn zero eligible pairs into a gain. The full optimistic gross on the frozen 36-call binary caller is [0,0].
+
+**Verification.** The independently replayed reverse tape starts with all 630 independent output coordinates and records the owned form before applying each transposed MOVE, using its original forward source/destination labels. It reproduces the original transpose endpoint matrix, private retirements and the complete immutable demand stream authenticated by R357. All demands are nonzero. The dictionary keys are the literal integer vectors, so a hash collision cannot turn inequality into equality. Were a signature repeated m times, one could allocate at most floor(m/2) disjoint injection pairs. Even allowing shared MOVE positions, the subspace of increments of even parity on a repeated equal-demand signature has dimension m−1. Here m=1 for every key. This is a restriction on the given pair-only, unchanged-graph operation. It leaves open three or more injections with a nontrivial linear dependence, changed original encodings, or an independently charged correction to old outputs.
+
+**Reproduce.** CPython 3.12, exact #8027 head fb9b6a7b0d27da1cf98430893a3016bf811e2aa4 and canonical binary word b096d6df2a0c4688296b13ab0cfd50fec1c7dec732819c624ddd7a745a144b69. The independent receipt bc62287d9b4c38a1722eebd98decfdef5c092ddd159795235e77fc8dd78892e1 finished in 0.176246 seconds under the 30-second discovery cap with ten seconds reserved for verification. R352 retains its independently accepted complete conditional saving. [Peer circuit and research replay](https://github.com/aliromman/integer-mult-bounds/tree/fb9b6a7b0d27da1cf98430893a3016bf811e2aa4/research/p104-live-relative-gain)
+
+```sh
+python3.12 -IB audit.py --peer PEER_8027 --accept R352_ACCEPT.json \
+  --r354-code R354_INDEPENDENT/audit.py --r357-code R357_INDEPENDENT/audit.py \
+  --r357 R357_INDEPENDENT/receipt.json --out fresh.json
+```
+
+Ali Romman supplied #8027’s paired native program. Clear1nsight and earlier contributors supplied the literal chart, transpose, caller and pricing contracts. R357 supplied the independent cut-demand trace and source pin. OpenAI Codex materially assisted the proof and implementation.

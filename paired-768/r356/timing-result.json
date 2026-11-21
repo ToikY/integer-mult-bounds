@@ -1,0 +1,30 @@
+{
+  "active_design_cap_s": 90,
+  "case_cap": 1,
+  "case_id": "8027:cut15264:read30338:chart585:3226->3604",
+  "results": [
+    {
+      "independent_replay_ns": 229289416,
+      "method": "current_exact",
+      "open": 0,
+      "primary_ns": 128166667,
+      "rank": 4,
+      "resolved": 1,
+      "separator": "0x1000000000000000",
+      "solver_ns": 15584,
+      "total_to_checked_decision_ns": 357456083
+    },
+    {
+      "independent_replay_ns": 222211292,
+      "method": "shared_singleton_first",
+      "open": 0,
+      "primary_ns": 132598791,
+      "rank": 4,
+      "resolved": 1,
+      "separator": "0x1000000000000000",
+      "solver_ns": 12208,
+      "total_to_checked_decision_ns": 354810083
+    }
+  ],
+  "runner_cap_s": 15
+}
