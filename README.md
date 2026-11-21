@@ -1,4 +1,10 @@
-# Frozen BIT word, Rounds 321–323
+# Frozen BIT word, Rounds 321–326
+
+**Rounds 324–326 closed with no verified κ gain.** All six primary and independent receipts reproduce. The packet-724 helper split is excluded at its funded midpoint. The two-chart price screen reached its 64-pair cap. An exact restart is available for the remaining 627 pairs. [Results, source credits, proof and restart](ROUNDS-324-326.md)
+
+```sh
+python3.12 -IB replay_324_326.py ./work
+```
 
 **No verified κ gain.** The submissions use the 680-owner binary word from #7786. The strongest locally reproduced complete peer application in this checkpoint is #7863 at b3e4412fe01f07dc58305616fabf96345f49a781, conditional κ = 0.00387992804346. Its finite schedule improves the earlier #7830 headline by exactly 0.00000000000790 on the same signed raw word. The 451-factor, seven-stage compiler, cover, stock, nested-seed and precision obligations remain conditional. The fixed 480-factor, six-stage realization does not by itself establish them. Canonical main e54523517d0f03e58352e647c403a5af3e525a57 selects #7000 at 0.00363005817. [Peer application](https://github.com/CrocSwap/integer-mult-bounds/pull/7863) · [Independent peer replay](https://github.com/CrocSwap/integer-mult-bounds/pull/7973) · [Local replay instructions](benchmark/HANDOFF.md)
 
@@ -25,7 +31,7 @@ The one-chart transposition result was first posted to #7111 and later registere
 
 Round 320's 758 same-route pairs that omit no protected bridge are contained in #7978's broader two-omission, one-replacement domain. Its one further pair comprises deliveries 3544 and 3553 on 509→1. The latter is the protected bridge. The old public handoff retains the literal defect for that pair. Round 321 instead measures whether two independent corrections can repair a three-delivery loss. [#7978](https://github.com/CrocSwap/integer-mult-bounds/pull/7978) · [Round 320 handoff](https://github.com/ToikY/integer-mult-bounds/tree/43a72a325f98a2c9bf65f0e92f7e644429b9b3ef/round320)
 
-## Next decision
+## Decision at the end of Round 323
 
 Start with the listed forward pair (238, 672) whose parity is readable at chart 8. Test whether an existing paid send from that chart can make a downstream local XOR, zero on every original public input, carry this parity. The downstream correction must preserve the original paid carrier and both returns. For each proposed clock, compare the forced pulse column and all retained outputs before pricing or building. This changes the next round by targeting communication that creates a new downstream observation because no two charts begin with the required parity.
 
