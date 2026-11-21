@@ -1,0 +1,308 @@
+{
+  "admitted": "0.003890115176583",
+  "candidate_stages": [
+    {
+      "claim": "0.003889964635886",
+      "envelope": [
+        "0.003889964635887623",
+        "0.003889964635887624"
+      ],
+      "previous": "12039/3125000",
+      "slack": [
+        "0.000000000000001623",
+        "0.000000000000001624"
+      ]
+    },
+    {
+      "claim": "0.003890114574430",
+      "envelope": [
+        "0.003890114574431167",
+        "0.003890114574431168"
+      ],
+      "previous": "1944982317943/500000000000000",
+      "slack": [
+        "0.000000000000001167",
+        "0.000000000000001168"
+      ]
+    },
+    {
+      "claim": "0.003890115174184",
+      "envelope": [
+        "0.003890115174185343",
+        "0.003890115174185344"
+      ],
+      "previous": "389011457443/100000000000000",
+      "slack": [
+        "0.000000000000001343",
+        "0.000000000000001344"
+      ]
+    },
+    {
+      "claim": "0.003890115176583",
+      "envelope": [
+        "0.003890115176584359",
+        "0.003890115176584360"
+      ],
+      "previous": "486264396773/125000000000000",
+      "slack": [
+        "0.000000000000001359",
+        "0.000000000000001360"
+      ]
+    }
+  ],
+  "covered": "1001171830106700409605190603/257363030310912000000000000000",
+  "delayed_cover_debit": "1/82356169699491840000000000",
+  "peer_finite": {
+    "cover_prime_condition": "odd q > 2^45*N^5 avoiding the frozen finite catalogue witnesses",
+    "covered": "1945057538297/500000000000000",
+    "crossing_margins": [
+      [
+        "0.000000000177121088069033410562695848530",
+        "0.000000000177121088069033410562695848531"
+      ],
+      [
+        "-0.000000000206981202485337683966925319971",
+        "-0.000000000206981202485337683966925319970"
+      ]
+    ],
+    "delayed_cover_loss": "1/10000000000",
+    "derivative_upper": "-368576.699669097966",
+    "finite_product_bound_bit_lengths": {
+      "paid_tuples": 12810,
+      "raw_occurrences": 12793,
+      "raw_ordinary_records": 12833,
+      "raw_owned_fields": 12816,
+      "split_paid_calls": 13919,
+      "target_specialization_records": 10912,
+      "target_tuples": 10911
+    },
+    "finite_separation": {
+      "alpha": {
+        "lower": "0.999999999986455175062844743527",
+        "upper": "0.999999999986455175062844743528"
+      },
+      "ambient": "127^768",
+      "construction": "chronological product; specialize low complete targets to owned zero; retain all original paid calls; split paid calls on disjoint axes",
+      "cutoff_base": 15,
+      "floor_base": 16,
+      "gamma": {
+        "lower": "0.875582868474285949139690310963",
+        "upper": "0.875582868474285949139690310964"
+      },
+      "label": "source",
+      "lambda": {
+        "lower": "0.943722116646769319926018782524",
+        "upper": "0.943722116646769319926018782525"
+      },
+      "maximum_paid": "15^768",
+      "minimum_retained_target": "16^768",
+      "normalized_paid_plus_lost_target_upper": {
+        "lower": "0.999999989598208108245171131529",
+        "upper": "0.999999989598208108245171131530"
+      },
+      "owned_allocation_records_bound": "2*18906^768",
+      "paid": {
+        "1": 48972,
+        "14": 444,
+        "2": 44892,
+        "21": 444,
+        "28": 444,
+        "3": 1980,
+        "35": 444,
+        "4": 1512,
+        "42": 444,
+        "49": 444,
+        "5": 1044,
+        "56": 444,
+        "6": 2916,
+        "7": 480
+      },
+      "paid_tail_offset": "1/5",
+      "product_or_uniform_word_materialized": false,
+      "product_raw_invocation_count": "sum(i=0..767, 18906^(767-i)*104904^i)",
+      "rank_mass_surplus": "positive by separated t-moment advantage; no discarded target mass retained as credit",
+      "rational_upper_limits": [
+        "124999999998307/125000000000000",
+        "437791434237143/500000000000000",
+        "94372211664677/100000000000000"
+      ],
+      "retained_productive_fields": "W = sum over target tuples with product >= 16^768 of their multiplicities",
+      "source_paid_calls": 104904,
+      "source_paid_rank_mass": 285600,
+      "source_public_fields": 18906,
+      "source_status": "unadmitted",
+      "specialized_initial_and_final": 0,
+      "specialized_owned_fields": "D = 18906^768 - W",
+      "split_paid_calls_upper": "285600^768",
+      "strict_normalized_gap": {
+        "lower": "0.000000010401791891754828868470",
+        "upper": "0.000000010401791891754828868471"
+      },
+      "target_tail_offset": "1/5",
+      "targets": {
+        "127": 222,
+        "15": 444,
+        "22": 444,
+        "29": 444,
+        "36": 444,
+        "4": 612,
+        "43": 444,
+        "50": 444,
+        "57": 444,
+        "64": 444,
+        "8": 14520
+      },
+      "tensor_power": 768,
+      "tested_saving": "1945057638297/500000000000000"
+    },
+    "independent_directed_compiler": {
+      "H": 299610000000000,
+      "N": "2^299610000000000",
+      "ambient_base": 134,
+      "cutoff": 15,
+      "eta": [
+        "0.000000439896802095274546807336003731737",
+        "0.000000439896802095274546807336003731738"
+      ],
+      "logarithm_power": 623,
+      "lost_low_targets": "charged owned zero specializations",
+      "maximum_productive_rank": "127^768",
+      "normalized_separation_slack": [
+        "0.000000010402425443",
+        "0.000000010402425444"
+      ],
+      "paid_offset": "1/5",
+      "preceding_grid_failed": true,
+      "previous_power_failed": true,
+      "product_exponent": 768,
+      "productive_floor": 16,
+      "ratio_intervals": [
+        [
+          "0.999999999986455175062844743527752339736",
+          "0.999999999986455175062844743527752339737"
+        ],
+        [
+          "0.875582868474285949139690310963472492974",
+          "0.875582868474285949139690310963472492975"
+        ],
+        [
+          "0.943722116646769319926018782524958032522",
+          "0.943722116646769319926018782524958032523"
+        ]
+      ],
+      "target_offset": "1/5",
+      "theta": "42/43",
+      "trial": "1945057638297/500000000000000",
+      "upper_ratios": [
+        "9999999999864551750629/10000000000000000000000",
+        "8755828684742859491397/10000000000000000000000",
+        "9437221166467693199261/10000000000000000000000"
+      ],
+      "working_ambient": "134^768"
+    },
+    "log2_of_N_to_cover_loss": 29961,
+    "ordinary_admitted": "0.003890115076583",
+    "ordinary_bootstrap": [
+      {
+        "claim": "0.003889964536286",
+        "envelope": [
+          "0.003889964536287624",
+          "0.003889964536287624"
+        ],
+        "previous": "12039/3125000",
+        "slack": [
+          "0.000000000000001624",
+          "0.000000000000001624"
+        ]
+      },
+      {
+        "claim": "0.003890114474431",
+        "envelope": [
+          "0.003890114474432768",
+          "0.003890114474432768"
+        ],
+        "previous": "1944982268143/500000000000000",
+        "slack": [
+          "0.000000000000001768",
+          "0.000000000000001768"
+        ]
+      },
+      {
+        "claim": "0.003890115074184",
+        "envelope": [
+          "0.003890115074185348",
+          "0.003890115074185348"
+        ],
+        "previous": "3890114474431/1000000000000000",
+        "slack": [
+          "0.000000000000001348",
+          "0.000000000000001348"
+        ]
+      },
+      {
+        "claim": "0.003890115076583",
+        "envelope": [
+          "0.003890115076584360",
+          "0.003890115076584360"
+        ],
+        "previous": "486264384273/125000000000000",
+        "slack": [
+          "0.000000000000001360",
+          "0.000000000000001360"
+        ]
+      }
+    ],
+    "raw_crossing": [
+      "0.003890115286594",
+      "0.003890115286595"
+    ],
+    "rho": "1/250",
+    "stock": {
+      "W": "B*|GL_N(F_q)|*q^(N^2*(w-1))",
+      "atom_width": "w=ceil(e^(1/250))",
+      "backend_levels": 4,
+      "coarse_child_size": "at most floor(n/N)",
+      "depth": "2+ceil(log_N(n))",
+      "high_digits": "O_fixed(w log e)",
+      "minimum_cost_gaps": [
+        "203/125000000000000000",
+        "221/125000000000000000",
+        "337/250000000000000000",
+        "17/12500000000000000"
+      ],
+      "n": "max(1,ceil(e/w))",
+      "reserve": "W(w)^depth*S_old, including restored outer spectators",
+      "threshold_rule": "Freeze each level at 2^j, with j>4*d/delta and C*(j+1)^d<=2^(delta*j) for fixed counted C,d. Smaller widths use its predecessor."
+    },
+    "target_signed_margin": [
+      "3.957376088053105426820803807596752316279",
+      "3.957376088053105426820803807596752316280"
+    ],
+    "tested_saving": "1945057638297/500000000000000",
+    "trial_margin": [
+      "0.000003841200026709341859742148815679846",
+      "0.000003841200026709341859742148815679847"
+    ],
+    "uniform": {
+      "H": 299610000000000,
+      "N": "2^299610000000000",
+      "eta": {
+        "lower": "0.000000439896802095274546807336",
+        "upper": "0.000000439896802095274546807337"
+      },
+      "gap": "1/10000000000",
+      "integer_test_exponent": 29961,
+      "logarithm_power": 623,
+      "ordinary_base_bound": {
+        "lower": "2264417.199622343873105138607735347820",
+        "upper": "2264417.199622343873105138607735347821"
+      },
+      "preceding_integer_grid_fails": true,
+      "previous_logarithm_power_fails": true,
+      "proof": "retained separated finite compiler and logarithmic majorant, with all new owned fields charged",
+      "theta": "42/43",
+      "uniform_saving": "1945057588297/500000000000000"
+    },
+    "uniform_loss": "1/10000000000"
+  }
+}
