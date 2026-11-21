@@ -56,3 +56,22 @@ The 2,803 paid MOVEs use 2,803 distinct private registers across all 39,600 cloc
 From `paired-768/`, run `python3.12 -IB r353/audit.py --peer inputs --accept r352/accept.json --out new-r353.json`. The expected SHA-256 is `6b16cc29bbe0901772a5fe8426e613247931bb0ec7b612d84aed741c21780721`. A different edit would have to remove or reroute a single paid transfer. The unique rank-seven MOVE at clock 15264 gives a concrete starting point for testing exact forward and adjoint support.
 
 Ali Romman supplied the paired word and application. Clear1nsight supplied the inherited compiler and independent signed reader, Jacob Alan Sussman the integer flow, DreamingOfClouds the ambient-cap compiler, and zxv the weighted-exit argument. The original 451-factor #8026 analysis supplied the charged split-uplift bound. OpenAI Codex materially assisted the proof, implementation and independent replay. [Predecessor notices](inputs/PARENT-NOTICE) · [Weighted-exit proof](inputs/WEIGHTED-EXITS.md)
+
+
+## Round 354 · an explicit missing output
+
+The unique rank-seven MOVE, clock 15264 on owner 3226, carries a parity of 113 independent input coordinates. Its adjoint depends on output coordinate 171. Clearing the carrier on chart 0 and creating a zero on chart 585 toggles output 171 on basis input 4. This rules out the zero-cut edit at exactly one of the 2,803 paid operations. The other 2,802 were outside scope. The only later ADD that reads this carrier is at clock 30338. [Counterexample](r354/receipt.json) · [Proof and declared scope](r354/PROOF.md)
+
+From `paired-768/`, run `python3.12 -IB r354/audit.py --peer inputs --accept r352/accept.json --scan r353/receipt.json --out new-r354.json`. The expected SHA-256 is `1c82c88222277886117a5c2a5e23220abd5d69f7967b54256fc64ecc025f5015`.
+
+## Round 355 · no local XOR repair at the first read
+
+At clock 30338 the four legal alternative donors are 1913, 2607, 2612 and 3430. Their rank is four. On basis input 171 each donor is zero and the required value is one. Allowing the receiver's current value adds no direction. A separate check found that basis input 60 also separates the target. The test excludes every local XOR combination at this chart and clock. An earlier change to an arrival remains open. [Independent proof](r355/PROOF.md) · [Exact separator](r355/receipt.json)
+
+From `paired-768/`, run `python3.12 -IB r355/audit.py --peer inputs --accept r352/accept.json --source r354/audit.py --previous r354/receipt.json --out new-r355.json`. The expected SHA-256 is `e500abed99a9caf5d4633ef77b119d05bace82adb5b3c9d16cf0f2e30ec031fd`.
+
+## Round 356 · independence on every ordered route
+
+Group all 2,803 paid forward forms by ordered source and destination. Each of the 2,354 groups has full rank, even allowing a free cache of all earlier deliveries. The potential saving from replacing a sender's form by same-route earlier deliveries is zero across all 36 calls. At the separate chart-585 control, the five forms remain independent immediately after clock 30338. Input 171 XOR input 604 annihilates four named donors and selects register 3430 at 30339. This avoids a redundant four-donor build. Cross-route encodings and changed allocations remain open. [Route census and exact witnesses](r356/receipt.json) · [Proof](r356/PROOF.md)
+
+From `paired-768/`, run `python3.12 -IB r356/audit.py --peer inputs --accept r352/accept.json --r354-code r354/audit.py --r355-code r355/audit.py --r355 r355/receipt.json --out new-r356.json`. The expected SHA-256 is `245c57639941873096fd13f2962a7a239eed23cc3e60317ffe8b09d6beb0abf3`. The next independent test checks the downstream adjoint forms on those same routes.
