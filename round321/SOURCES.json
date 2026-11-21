@@ -1,0 +1,14 @@
+{
+  "inputs/7786/research/p104-iterated-returns/binary/WORD.json.gz": {
+    "url": "https://raw.githubusercontent.com/CrocSwap/integer-mult-bounds/89a67c404226d51028e135de2b9169e9020d57af/research/p104-iterated-returns/binary/WORD.json.gz",
+    "sha256": "d28f0d28d9d87d5fe57b8ef19e12faf98014f0bbef781987ce22daaa82f21cb9"
+  },
+  "inputs/cache/source/research/p104-dual-supplier-lift/bit_native.py": {
+    "url": "https://raw.githubusercontent.com/aliromman/integer-mult-bounds/4f7c67ae387cc91580f469aeda4d508b372b9ec1/research/p104-dual-supplier-lift/bit_native.py",
+    "sha256": "4368c62a5d42f81189d6776b8dba8c85a311b6a199b816244b545c6bb7d3dc1e"
+  },
+  "upstream-cache/research/p104-mixed-rank-supplier/review/binary_operator.py": {
+    "url": "https://raw.githubusercontent.com/Clear1nsight/integer-mult-bounds/87fbf4f7b35b0f18ab12b5767775a9a424cf0b15/research/p104-mixed-rank-supplier/review/binary_operator.py",
+    "sha256": "36b3da4f72f8a6c946136fbd58b20838c00b0243c2effaf909c20b76967a5349"
+  }
+}

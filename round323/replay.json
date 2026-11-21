@@ -1,0 +1,24 @@
+{
+  "status": "verified",
+  "replays": [
+    {
+      "reverse": false,
+      "counts": {
+        "0": 3088,
+        "1": 24
+      },
+      "public": 680,
+      "dirty": 3554
+    },
+    {
+      "reverse": true,
+      "counts": {
+        "0": 3112
+      },
+      "public": 680,
+      "dirty": 3554
+    }
+  ],
+  "individual_chart_tests": 3958464,
+  "seconds": 0.4270541248843074
+}

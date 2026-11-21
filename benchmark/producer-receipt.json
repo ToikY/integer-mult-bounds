@@ -1,0 +1,62 @@
+[
+  {
+    "command": [
+      "python3.12",
+      "-IB",
+      "replay_451.py"
+    ],
+    "target": "BIT-451.json",
+    "exit": 0,
+    "byte_equal": true,
+    "sha256": "538b785f93517b41229186e9070281d240f5d506f80a7e1ed705dd91c68f8749",
+    "seconds": 0.8051459593698382
+  },
+  {
+    "command": [
+      "python3.12",
+      "-IB",
+      "carrier_independent.py"
+    ],
+    "target": "CARRIER-INDEPENDENT.json",
+    "exit": 0,
+    "byte_equal": true,
+    "sha256": "5d5d87df2e785acffed410238cdc10d9b818404a78ecdffd46f07bae3d4ebb04",
+    "seconds": 0.13834816683083773
+  },
+  {
+    "command": [
+      "python3.12",
+      "-IB",
+      "carrier_labels.py"
+    ],
+    "target": "CARRIER-LABELS.json",
+    "exit": 0,
+    "byte_equal": true,
+    "sha256": "016d4fb75cd315e3f62795801ba7ed84ebc05d48ed2659911e281847d634a44a",
+    "seconds": 0.06781183369457722
+  },
+  {
+    "command": [
+      "python3.12",
+      "-IB",
+      "consumer_review.py"
+    ],
+    "target": "CONSUMER-REVIEW.json",
+    "exit": 0,
+    "byte_equal": true,
+    "sha256": "739fd5067ea7d50a70acc87549de93b0e7ccc49f0712e2fa44105e00a9a85625",
+    "seconds": 0.0841103745624423
+  },
+  {
+    "command": [
+      "python3.12",
+      "-IB",
+      "prime_scope_check.py"
+    ],
+    "target": "independent-review/prime-receipt.json",
+    "exit": 0,
+    "byte_equal": true,
+    "sha256": "ce6e4027baa051f3c2a2698d7aa57c2180c79c0069296fbe43be8e322ac4274a",
+    "seconds": 0.01787287462502718
+  }
+]

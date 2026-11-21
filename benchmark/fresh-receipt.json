@@ -1,0 +1,103 @@
+{
+  "python": "3.12.14 (main, Aug 25 2026, 13:50:33) [Clang 22.1.3 ]",
+  "archive_sha256": "bffb02e833d8253c693ea3e679fdc1a737a5a45f81089255848d9ee9a7d3487d",
+  "files": 253,
+  "runs": [
+    {
+      "command": [
+        "python3.12",
+        "-IB",
+        "clean_replay.py"
+      ],
+      "cwd": "fresh-consumer",
+      "exit": 0,
+      "seconds": 27.923696542158723,
+      "expected_file": null,
+      "byte_equal": true
+    },
+    {
+      "command": [
+        "python3.12",
+        "-IB",
+        "funded_replay.py"
+      ],
+      "cwd": "extract",
+      "exit": 0,
+      "seconds": 0.39755491726100445,
+      "expected_file": "funded-replay-result.json",
+      "byte_equal": true
+    },
+    {
+      "command": [
+        "python3.12",
+        "-IB",
+        "pulse_case_replay.py"
+      ],
+      "cwd": "extract",
+      "exit": 0,
+      "seconds": 0.07132524996995926,
+      "expected_file": "pulse-case-result.json",
+      "byte_equal": true
+    },
+    {
+      "command": [
+        "python3.12",
+        "-IB",
+        "all_pulse_replay.py"
+      ],
+      "cwd": "extract",
+      "exit": 0,
+      "seconds": 0.15819945745170116,
+      "expected_file": "all-pulse-result.json",
+      "byte_equal": true
+    },
+    {
+      "command": [
+        "python3.12",
+        "-IB",
+        "structural_r4.py"
+      ],
+      "cwd": "extract",
+      "exit": 0,
+      "seconds": 0.0416012080386281,
+      "expected_file": "structural-r4-result.json",
+      "byte_equal": true
+    },
+    {
+      "command": [
+        "python3.12",
+        "-IB",
+        "independent_witness.py"
+      ],
+      "cwd": "extract",
+      "exit": 0,
+      "seconds": 0.2712845001369715,
+      "expected_file": "independent-witness-result.json",
+      "byte_equal": true
+    },
+    {
+      "command": [
+        "python3.12",
+        "-IB",
+        "qzero-review/independent_certificates.py"
+      ],
+      "cwd": "extract",
+      "exit": 0,
+      "seconds": 0.04636141657829285,
+      "expected_file": "qzero-review/independent-certificates-result.json",
+      "byte_equal": true
+    },
+    {
+      "command": [
+        "python3.12",
+        "-IB",
+        "finite-451/replay_451.py"
+      ],
+      "cwd": "extract",
+      "exit": 0,
+      "seconds": 0.03689137473702431,
+      "expected_file": "finite-451/FRESH.json",
+      "byte_equal": true
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "verify.py": {
+    "url": "https://raw.githubusercontent.com/ToikY/integer-mult-bounds/8bd02daca9f4e7a227f6c552905930eed9498655/research/bit-helper-exchange-obstruction/verify.py",
+    "sha256": "3d1f0686ec51e450c0b291c099d346b7a7620957aacaf12cf2d3b85d69a6af4d"
+  },
+  "EXPECTED.json": {
+    "url": "https://raw.githubusercontent.com/ToikY/integer-mult-bounds/8bd02daca9f4e7a227f6c552905930eed9498655/research/bit-helper-exchange-obstruction/EXPECTED.json",
+    "sha256": "93b2464b4fe4ce2edf672c9b7c7fa703c89b3799cec2819597baf6eac99021e3"
+  },
+  "sources/WORD.json.gz": {
+    "url": "https://raw.githubusercontent.com/ToikY/integer-mult-bounds/8bd02daca9f4e7a227f6c552905930eed9498655/research/bit-helper-exchange-obstruction/sources/WORD.json.gz",
+    "sha256": "d28f0d28d9d87d5fe57b8ef19e12faf98014f0bbef781987ce22daaa82f21cb9"
+  },
+  "sources/bit_native.py": {
+    "url": "https://raw.githubusercontent.com/ToikY/integer-mult-bounds/8bd02daca9f4e7a227f6c552905930eed9498655/research/bit-helper-exchange-obstruction/sources/bit_native.py",
+    "sha256": "4368c62a5d42f81189d6776b8dba8c85a311b6a199b816244b545c6bb7d3dc1e"
+  },
+  "sources/binary_operator.py": {
+    "url": "https://raw.githubusercontent.com/ToikY/integer-mult-bounds/8bd02daca9f4e7a227f6c552905930eed9498655/research/bit-helper-exchange-obstruction/sources/binary_operator.py",
+    "sha256": "36b3da4f72f8a6c946136fbd58b20838c00b0243c2effaf909c20b76967a5349"
+  },
+  "crosscheck.py": {
+    "url": "https://raw.githubusercontent.com/ToikY/integer-mult-bounds/8bd02daca9f4e7a227f6c552905930eed9498655/research/bit-helper-exchange-obstruction/crosscheck.py",
+    "sha256": "9af8f306b040dd0725e1c4dbee2403e65fa8cd4c48adc83827afe16b70f40632"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "status": "verified",
+  "counts": {
+    "no_pulse": 2189,
+    "no_calibration": 7,
+    "no_read": 361,
+    "orthogonal": 3
+  },
+  "nested_cases": 2560,
+  "total": 58512,
+  "public": 680,
+  "dirty_retires": [
+    3554,
+    3554
+  ],
+  "seconds": 1.3211471252143383
+}
