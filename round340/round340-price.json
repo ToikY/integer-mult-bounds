@@ -1,0 +1,36 @@
+{
+  "p": 20,
+  "q": "749/1000",
+  "cut": 2700,
+  "discovery_seconds": 45,
+  "reserved_seconds": 15,
+  "maximum_cost_cases": 2,
+  "maximum_endpoint_candidates": 1,
+  "maximum_coefficients": 21,
+  "inputs": {
+    "BIT-451.json": "538b785f93517b41229186e9070281d240f5d506f80a7e1ed705dd91c68f8749",
+    "round339/independent/receipt.json": "41a80ef6b08339dd146791d5a22a7472de8a8ab651b35f25a0282a4ee751295e",
+    "round337/next_minimum.py": "2df053c036c3bf8c3f4f6deccdcdfa3d4821b3c801c6410fe0e377dba6149d23"
+  },
+  "large_shift": {
+    "from": 2700,
+    "formal_height_zero_lower": "60224846603230097567150282101870753296383501078494771213461439176001/302430337804221460729081627505365759134292602539062500000000000000000000",
+    "eta_upper": "2361090244509610722852395715003919/12500000000000000000000000000000000000",
+    "ruled_out": true
+  },
+  "small_shift": {
+    "inclusive": [
+      1,
+      2699
+    ],
+    "optimistic_min_carrier_loss_units": 774,
+    "covered_upper": "307153872069564475124158681/79164837199872000000000000000",
+    "unrounded_stage_upper": "6249061524852792868826447730275771228613773/1610612736000000000000000000000000000000000000",
+    "continuous_upper_after_seven_ticks": "6249061524740049977306447730275771228613773/1610612736000000000000000000000000000000000000",
+    "strict_grid_upper_after_seven_ticks": "387992804543/100000000000000",
+    "old_relaxed_ceiling": "388768790152217/100200000000000000",
+    "old_claim": "387992804541/100000000000000"
+  },
+  "decision": "entire positive-integer shift family excluded on the fixed comparison grid; continuous relaxation open",
+  "discovery_elapsed": 0.004450583830475807
+}
