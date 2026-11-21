@@ -37,4 +37,16 @@ python3.12 -IB r351/audit.py --law-checker r349/audit.py --law-receipt r349/rece
 
 The expected SHA-256 is `0f43bebea0a8a4a258e14ea7495ed9d2bdbfe8f952dafd423d7e1651b4807332`. The next test prices degree 40 from the distribution of the 768 constituent paid factors. It must pass all-height endpoint, terminal and ordinary-stock bounds before signed replay.
 
+## Round 352 · verified fortieth moment
+
+All 41 terms of the falling-factorial expansion agreed exactly with a separate enumeration of 769 binomial outcomes. The resulting bound on the fully charged paid logarithms passes at both endpoints for every height. With terminal numerator 1524 the complete conditional bound reaches **0.00389011527141**. That adds **0.00000000001119** over Round 351. The total gain over #8027 is **0.00000000019491**, or **+0.00000501039162510749%**. The unchanged five premises and signed caller are listed in the acceptance. The full signed replay took 74.47 s, followed by a separate 0.508 s invoice check. [Moment proof](r352/PROOF.md) · [Full signed receipt](r352/signed.json) · [Independent acceptance](r352/accept.json)
+
+From `paired-768/`, this command reproduces the independently computed price, SHA-256 `5c9d36bad5d7fca162d135e9d8658ab408a6d89edd262be167747cc164c12229`.
+
+```sh
+python3.12 -IB r352/audit.py --law r349/audit.py --mean r350/receipt.json --old-primary r351/primary.json --old-independent r351/receipt.json --signed r351/signed.json --accept r351/accept.json --application inputs/APPLICATION.json --archive inputs/APPLICATION-SOURCES.tar.gz --binary inputs/covered-BINARY.json --weighted inputs/WEIGHTED-EXITS.md --out new-r352.json
+```
+
+At this point the fixed trial rate is itself below the relaxed comparison ceiling. The next test targets the physical paid word. Count all consecutive unobserved same-owner transfers and check whether a single legal replacement across the same endpoint charts saves paid work.
+
 Ali Romman supplied the paired word and application. Clear1nsight supplied the inherited compiler and independent signed reader, Jacob Alan Sussman the integer flow, DreamingOfClouds the ambient-cap compiler, and zxv the weighted-exit argument. The original 451-factor #8026 analysis supplied the charged split-uplift bound. OpenAI Codex materially assisted the proof, implementation and independent replay. [Predecessor notices](inputs/PARENT-NOTICE) · [Weighted-exit proof](inputs/WEIGHTED-EXITS.md)
