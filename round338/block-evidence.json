@@ -1,0 +1,60 @@
+{
+  "rounds": {
+    "336": {
+      "head": "18718411ece1481c79d317c9ee9e1445dcf8ef28",
+      "claim": "193996402259/50000000000000",
+      "cap": "0.00387992804526559",
+      "old": "0.00387992804505",
+      "gain": "13/100000000000000",
+      "percent_over_previous": "260/77598560901",
+      "percent_over_external_peer": "8600/193996402173",
+      "cold_signed_seconds": 25.75934674963355,
+      "control_exit": 0
+    },
+    "337": {
+      "head": "cb73879faab75dfc9c6ebc8ba69a258e388ab26e",
+      "claim": "387992804531/100000000000000",
+      "cap": "0.00387992804539617",
+      "old": "0.00387992804518",
+      "gain": "13/100000000000000",
+      "percent_over_previous": "650/193996402259",
+      "percent_over_external_peer": "9250/193996402173",
+      "cold_signed_seconds": 26.37340633291751,
+      "control_exit": 0
+    },
+    "338": {
+      "head": "a5186a40219228f5af40a65ea605aee79ce68522",
+      "claim": "193996402269/50000000000000",
+      "cap": "0.00387992804546187",
+      "old": "0.00387992804531",
+      "gain": "7/100000000000000",
+      "percent_over_previous": "700/387992804531",
+      "percent_over_external_peer": "3200/64665467391",
+      "cold_signed_seconds": 25.80865858308971,
+      "control_exit": 0
+    }
+  },
+  "scientific_head": "a5186a40219228f5af40a65ea605aee79ce68522",
+  "peer": "b3e4412fe01f07dc58305616fabf96345f49a781",
+  "peer_kappa": "0.00387992804346",
+  "path_sha256": {
+    "round336/independent/receipt.json": "69c8f917d6b2676897639eef67e8f15aae1c23a6bfb608dcd38aed236f299818",
+    "round336/consumer/run/receipt.json": "0e062079c744535e78bc93f52e1dd02e4f38f98599aad49803c498133553923b",
+    "round336/primary.json": "02504b3c68429299755a62d6a68252898a047b735582a2e999f19cf8ff711b74",
+    "round336/consumer/run/APPLICATION.json": "9300f140d1ad01f3e0177402b5f361619191229a22e353a2e36de5a597895db2",
+    "round336/consumer/run/AUDIT.json": "a0d962f26dc7a623a8636b1e8670690227e627588b2d34b952edcff164ff9326",
+    "round336/consumer/run/adapter/binary/FINITE.json": "21751e8364eb1e2cd0e67786bc25c7c01289bfc18cb272954d0821ad169bcf29",
+    "round337/independent/receipt.json": "288e194853bb736973600eb51da2983414679a185629c30f769d701f4c55e811",
+    "round337/consumer/run/receipt.json": "eb2c289dcb7f2876d74e54b25fdae7eae251f4c69e52d6645c27d97ef2c7448e",
+    "round337/primary.json": "9b4b8161dd024033ad2e54f1dd5cb4eab776e18a07ec0a1f41174c04af723d9c",
+    "round337/consumer/run/APPLICATION.json": "4b1b348ef8fcb0fb3ea4d9c0224925b1448516c9f8aceb2181ca82713c3159c9",
+    "round337/consumer/run/AUDIT.json": "6a2addc5684f3370f640bfcd84316f90d399fed1909b050e123b21204090a8c6",
+    "round337/consumer/run/adapter/binary/FINITE.json": "3608f5f0eabbddb5e3a76b9be2e54d21500838872e845ec935471a6f9624cce4",
+    "round338/independent/receipt.json": "2c7692f263da6ccaacb7054471aff9d8a693371e8dcb3b83390d70a7bcff4d10",
+    "round338/consumer/run/receipt.json": "cd677173882ef32093d5c5501db4d6c3232360542dccb7c63c417ac003026aef",
+    "round338/primary.json": "1c505749b1d707792c1edf563b566b059483e0d84647bad115630d92564970b3",
+    "round338/consumer/run/APPLICATION.json": "43a9c277ebd2578286cf9d3147db662684bbdad070ac69613622389c5e721073",
+    "round338/consumer/run/AUDIT.json": "3e206ace6bd05b3c39c0ec153888282ed70537ce7378d58fe741ceac87eb54c0",
+    "round338/consumer/run/adapter/binary/FINITE.json": "b3c2dd4a7d8fd5cb34710afd93dbde00b402ec634e71d32c4e817899d4ca0597"
+  }
+}
