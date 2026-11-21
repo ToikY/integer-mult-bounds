@@ -12,4 +12,17 @@ python3.12 -IB paired-768/replay_r349.py
 
 The command authenticates the pinned peer archive, paid inventory and predecessor receipt, then compares the fresh obstruction byte for byte with the saved independent result. The first decisive follow-up is the same fixed coefficient-8 test with mean bound 67/100, which the completed paid inventory already supports. The signed comparator at this checkpoint is 0.00389011519729. The failed degree-eight check contributes zero additional campaign gain. [Predecessor signed receipt](inputs/normalized-REPLAY.json) · [Independent signed acceptance](inputs/normalized-ACCEPT.json) · [Campaign PR](https://github.com/CrocSwap/integer-mult-bounds/pull/8029)
 
+## Follow-up at mean 67/100
+
+The follow-up passed the previously failing degree eight. It then failed at degree eleven. Heights 11 through 17 also fail the proposed finite-height envelope. Degrees 12–127 remain unresolved, and 128 has a separate leading-term guard. These two cases retire the scalar Bernoulli comparison for this campaign. The first test of a different mechanism is to charge the upper tail of the full 768-factor paid distribution at cutoff 4/5, including the positive split excess, and bound the norm of the sum of exit logs. [Second exact proof](r350/PROOF.md) · [Independent receipt](r350/receipt.json) · [Finite heights](r350/primary.json)
+
+To replay the follow-up, run this from the handoff repository root with a fresh output path.
+
+```sh
+cd paired-768
+python3.12 -IB r350/audit.py --predecessor-checker r349/audit.py --predecessor-price r349/receipt.json --accept inputs/normalized-ACCEPT.json --application inputs/APPLICATION.json --archive inputs/APPLICATION-SOURCES.tar.gz --binary inputs/covered-BINARY.json --prior-price inputs/normalized-PRICE.json --weighted inputs/WEIGHTED-EXITS.md --out new-r350.json
+```
+
+The expected SHA-256 is `ea84892ef2b2da5572e7cdabe54d228ee74f6671d11f87bd6aa263306fd8ffdc`.
+
 Ali Romman supplied the paired word and application. Clear1nsight supplied the inherited compiler and independent signed reader, Jacob Alan Sussman the integer flow, DreamingOfClouds the ambient-cap compiler, and zxv the weighted-exit argument. The original 451-factor #8026 analysis supplied the charged split-uplift bound. OpenAI Codex materially assisted the proof, implementation and independent replay. [Predecessor notices](inputs/PARENT-NOTICE) · [Weighted-exit proof](inputs/WEIGHTED-EXITS.md)
