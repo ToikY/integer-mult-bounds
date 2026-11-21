@@ -1,4 +1,7 @@
-# Frozen BIT word, Rounds 321–326
+# Frozen BIT word and supplier checks, Rounds 321–329
+
+Round 329 independently reproduced a conditional increase of 0.00000000000010 over #7863 on its original 451-factor template. Round 327 excluded the second 64-pair batch, and Round 328 isolated a promising finite cutoff with an open physical transfer. [Results, replay command and credit](ROUNDS-327-329.md)
+
 
 **Rounds 324–326 closed with no verified κ gain.** All six primary and independent receipts reproduce. The packet-724 helper split is excluded at its funded midpoint. The two-chart price screen reached its 64-pair cap. An exact restart is available for the remaining 627 pairs. [Results, source credits, proof and restart](ROUNDS-324-326.md)
 

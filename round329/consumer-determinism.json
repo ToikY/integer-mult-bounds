@@ -1,0 +1,28 @@
+{
+  "canonical_output_sha256": {
+    "APPLICATION.json": "e0a28d730e5a63070221a170c3e5e10abdf4ed552d67fbd47d1f4ec157b736ad",
+    "AUDIT.json": "51963b588680e3150b97b156a461c9002368c40752b73bc4a6b03f94aca97c0b",
+    "adapter/SOURCE-LOCK.json": "b46b919292e1a1907345056b6925f5f1400d45650e2f0f610779a07163bb64ee",
+    "adapter/binary/FINITE.json": "12aa9d9547d4444545c4139e4d318e99594a4769af1492ee633e4d95290645ea",
+    "adapter/binary/WORD.json.gz": "d28f0d28d9d87d5fe57b8ef19e12faf98014f0bbef781987ce22daaa82f21cb9"
+  },
+  "checks": [
+    "pinned compiler",
+    "expanded audit",
+    "independent exact coefficients and signed bins",
+    "low cap and corrupted paid invoice rejection"
+  ],
+  "clean_run_wall_seconds": [
+    26.43922537472099,
+    26.244659542106092
+  ],
+  "completed_runs": 2,
+  "exit_codes": [
+    0,
+    0
+  ],
+  "fixed_cap": "0.00387992804364799",
+  "runner_sha256": "c225aec99c0373582566566dc783e1a60e17e9cd76794eda18a262d54733e577",
+  "scientific_fields_and_five_files_byte_equal": true,
+  "scientific_receipt_comparison": "all fields equal after excluding elapsed_seconds"
+}

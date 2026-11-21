@@ -1,0 +1,25 @@
+{
+  "independent": "case-cap",
+  "primary": "sample-exhausted",
+  "counts": [
+    [
+      "excluded-by-price",
+      "impossible",
+      264
+    ],
+    [
+      "excluded-by-price",
+      "negative",
+      128
+    ],
+    [
+      "infeasible",
+      "impossible",
+      184
+    ]
+  ],
+  "price_intersections": 392,
+  "tested_dimensions": 576,
+  "remaining_dimensions": 5067,
+  "witness": null
+}
