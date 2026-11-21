@@ -120,3 +120,36 @@ python3.12 -IB r362/verify.py --word inputs/BINARY-CANDIDATE.json.gz --result fr
 ```
 
 Expected SHA-256 for `fresh-362/verified.json` is `f9d7dd7e5c19672a61edf9f67fe14deb863ecad872eb1d7c2e1700b0d5bce07b`. The controls reject a changed ADD and an omitted SWAP. The public checkout includes the pinned #8027 binary, application archive and caller plus the #8029 acceptance. The next test permits two coupled assignments and charges each shared edge once.
+
+## Rounds 363–364 · all 197 two-chart repairs with one movable obstruction
+
+The 3,010 original single-contraction seeds have 458 empty obstruction sets, 1,688 with multiple blocking charts, 667 with one protected blocking chart and 197 with one movable blocking chart. In the last group, replacing both incident chart labels by a common frame deletes exactly two literal MOVEs in each proposal. Every proposal clears the signed price screen. All 197 fail physical nesting at a named paid boundary. Independent replay rechecks a nonzero exact rational product and two rank inequalities for every failure. This retires this one-blocker, same-frame repair on the #8027 physical word. Other frame substitutions, new frames, and changes to intervening transport are open. [Case selection and price](r363/PROOF.md) · [Combined scope](r364/PROOF.md) · [All 197 counterexamples](r364/verified.json)
+
+Run on CPython 3.12 from `paired-768/` using new output directories.
+
+```sh
+python3.12 -IB r363/repair.py --peer inputs --helper r360/directed.py --accept r352/accept.json --r361 r361/excluded.json --out fresh-363
+python3.12 -IB r363/verify.py --word inputs/BINARY-CANDIDATE.json.gz --run fresh-363 --out fresh-363/verified.json
+python3.12 -IB r363/repair.py --peer inputs --helper r360/directed.py --accept r352/accept.json --r361 r361/excluded.json --start 128 --out fresh-364
+python3.12 -IB r364/verify.py --base fresh-363 --follow fresh-364 --word inputs/BINARY-CANDIDATE.json.gz --out fresh-364/verified.json
+```
+
+The first block reaches its 128-case cap. The second exhausts the remaining 69. Expected final SHA-256 is `34647db7214629169a5e1522fab663e9bc06aec13ebcfcd98dce263c68eca283`. Independent discovery took 0.261 s and 0.270 s respectively. The corresponding reserve checks took 0.076 s and 0.088 s. Initial proof and implementation took about 72 s and the final combined verifier took about 43 s to write. No new complete candidate or hosted run was needed for these exclusions. Credits for the literal word, pricing and signed verification appear in the two proofs.
+
+## Round 365 · all adjacent transpositions of unequal-dimension internal charts
+
+All 969 eligible pairs share a real paid MOVE. Swapping the two labels throughout the word preserves the mutual paid edge. Of these swaps, 941 create another paid leg of zero grade between distinct frames. Swapping charts 113 and 276, for example, makes the MOVE at clock 2,130 go from 276 to 277, two different frames of equal dimension. The remaining 28 have one complete signed profile and a raw signed margin strictly below −856.89 at the comparator, decreasing up to the rational supplier ceiling. The price gate excludes all 28 even before extra construction costs. Zero cases remain in this family. [Proof and timing](r365/PROOF.md) · [All original case IDs and decisions](r365/cases.json) · [Independent receipt](r365/verified.json)
+
+From `paired-768/` with CPython 3.12, use fresh output locations.
+
+```sh
+python3.12 -IB r365/primary.py --inputs . --out primary-365.json
+python3.12 -IB r365/swap.py --peer inputs --helper r360/directed.py --accept r352/accept.json --out fresh-365
+python3.12 -IB r365/verify.py --peer inputs --helper r360/directed.py --run fresh-365 --out fresh-365/verified.json
+```
+
+Expected SHA-256 for the final independent receipt is `87c2665df6209110a968a93ff4265ac18b7f127e1d08bf5a66c8790f4ef496f4`. Both signed orientations of the original word pass. The reserve reconstructs every zero-grade counterexample and each of the 28 full inventories and detects one extra rank-one charge.
+
+**Paused after Round 365.** Rounds 363–365 add no verified κ gain. The strongest complete result independently reproduced here is #8029 at `c3837013dd7e2c50f6c3065c8f99d52a33b617bb`, κ = 0.00389011527141. The signed replay passed on that exact head. The historical gain over #8027 is 0.00000000019491, exactly (12994/2593410051)%. A subsequent peer reports the same rate on its smaller physical installation. The observed numerical gap to that peer is 0%. The selected record at canonical main remains #7000. [Campaign PR](https://github.com/CrocSwap/integer-mult-bounds/pull/8029) · [Hosted scientific replay](https://github.com/CrocSwap/integer-mult-bounds/actions/runs/44932940455/job/136934402900) · [Subsequent peer report](https://github.com/CrocSwap/integer-mult-bounds/pull/8030)
+
+If the investigation resumes, rerun the R363/R364 commands to recover the top pair’s exact counterexample at clock 8,105. The first new test would trace whether a different already-paid incoming transport can supply the missing direction before that read while preserving its old outputs. Require the exact sender, receiver, available subspace and restoration clock; price the diversion once across the signed caller before building. That route is untested.

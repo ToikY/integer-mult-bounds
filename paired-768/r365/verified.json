@@ -1,0 +1,22 @@
+{
+  "candidate_count": 0,
+  "distinct_profiles": 1,
+  "explicit_paid_clock_exclusions": 941,
+  "ledger": "24bcb7c2a3bc9605cab072816adc1f0cd15f5be284936292bf90802530360464",
+  "original_ordinary_records": 896869203600,
+  "original_owned_backing": 6994188,
+  "result": "ac2339b9d6b2df3272eb7efb6eff3823c27af32c863adad1eff60894968164b4",
+  "sorted_ids": 969,
+  "uncorrupted_source_control": true,
+  "unequal_labels_cannot_be_deleted": [
+    2130,
+    113,
+    277,
+    276,
+    277,
+    0
+  ],
+  "unit_cost_corruption_changes_signed_price_by": "-1",
+  "unresolved": 0,
+  "valid_cases_full_word_reconstructed": 28
+}

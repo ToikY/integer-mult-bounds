@@ -1,0 +1,63 @@
+{
+  "absolute_margin_upper": "-42844667764653129611114489135811669/50000000000000000000000000000000",
+  "assignments": 969,
+  "both_old_margins": [
+    "72904828763055694195978449/12500000000000000000000000000000",
+    "291619315052222776783950603/50000000000000000000000000000000"
+  ],
+  "candidate": null,
+  "case_inventory_sha": "5020571d2c2ce66db2bb328fdfd7f6c23edabd3b1f8255470fe4fdede0ac9453",
+  "checked_geometry_rejections": [],
+  "comparator": "389011527141/100000000000000",
+  "control": {
+    "caller": 36,
+    "ordinary": {
+      "caller_bank_transits": 3507600,
+      "native_bank_transits_per_call": 2576851200,
+      "native_banks_and_scratch": 4067,
+      "ordinary_records": 896869203600,
+      "owned_backing": 6994188,
+      "raw_ordinary_allowance": 1000000000000,
+      "raw_owned_allowance": 10000000,
+      "route_groups": 555624,
+      "route_records": 804099052800
+    },
+    "paid_native": {
+      "1": 1348,
+      "2": 1247,
+      "3": 55,
+      "4": 42,
+      "5": 29,
+      "6": 81,
+      "7": 1
+    },
+    "ports": 111,
+    "productive_native": {
+      "4": 17,
+      "8": 391
+    },
+    "public": 630,
+    "signed_coefficients_per_orientation": 396900
+  },
+  "counts": {
+    "paid_zero_distinct_labels": 941,
+    "raw_ceiling": 28
+  },
+  "distinct_price_profiles": 1,
+  "fixed_complete_trial": "1945057638797/500000000000000",
+  "fixed_conditional_lower_claim": "389011527241/100000000000000",
+  "max_change_in_margin": "-8568933611254488932667453183945093/10000000000000000000000000000000",
+  "pins": {
+    "inputs/APPLICATION-SOURCES.tar.gz": "d85d011ca74e8592c21c1e4db91a1a9021af26dcebc4dfdc2af7251f9c1bf968",
+    "inputs/APPLICATION.json": "587ece477179606eed6fd9a334ac6d6e27f0067f82c3d6281993736e0570a76f",
+    "inputs/BINARY-CANDIDATE.json.gz": "74e93daf2b7acf794ffb51f92f03f51556f68126d41ee13a8969bddb4cbe6326",
+    "r352/accept.json": "0b179d16461707f2ec6b0ea02149b1dfef0f667a051da475fa400713a01f6377",
+    "r360/directed.py": "798589c4bcdd19413bb270367b08862482d827191b66344810d1c05c7186be41"
+  },
+  "program": "b096d6df2a0c4688296b13ab0cfd50fec1c7dec732819c624ddd7a745a144b69",
+  "ranked": [],
+  "rational_upper": "77969628931/20000000000000",
+  "status": "NO_VERIFIED_GAIN",
+  "unvisited": [],
+  "whole_relaxed_raw_cap": "389011527141/100000000000000"
+}
