@@ -49,4 +49,10 @@ python3.12 -IB r352/audit.py --law r349/audit.py --mean r350/receipt.json --old-
 
 At this point the fixed trial rate is itself below the relaxed comparison ceiling. The next test targets the physical paid word. Count all consecutive unobserved same-owner transfers and check whether a single legal replacement across the same endpoint charts saves paid work.
 
+## Round 353 · no same-register fusion on the exact word
+
+The 2,803 paid MOVEs use 2,803 distinct private registers across all 39,600 clocks. No private register receives two MOVEs, even before checking intervening observations. The corresponding family has exactly zero possible saving on the 36-call signed bill. Both native orientations were checked on all 630 public columns. The independent scan took 0.253 s. [Proof and source pins](r353/PROOF.md) · [Exact census](r353/receipt.json)
+
+From `paired-768/`, run `python3.12 -IB r353/audit.py --peer inputs --accept r352/accept.json --out new-r353.json`. The expected SHA-256 is `6b16cc29bbe0901772a5fe8426e613247931bb0ec7b612d84aed741c21780721`. A different edit would have to remove or reroute a single paid transfer. The unique rank-seven MOVE at clock 15264 gives a concrete starting point for testing exact forward and adjoint support.
+
 Ali Romman supplied the paired word and application. Clear1nsight supplied the inherited compiler and independent signed reader, Jacob Alan Sussman the integer flow, DreamingOfClouds the ambient-cap compiler, and zxv the weighted-exit argument. The original 451-factor #8026 analysis supplied the charged split-uplift bound. OpenAI Codex materially assisted the proof, implementation and independent replay. [Predecessor notices](inputs/PARENT-NOTICE) · [Weighted-exit proof](inputs/WEIGHTED-EXITS.md)

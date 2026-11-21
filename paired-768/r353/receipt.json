@@ -1,0 +1,71 @@
+{
+  "accept": "0b179d16461707f2ec6b0ea02149b1dfef0f667a051da475fa400713a01f6377",
+  "adjoint_public_columns": 630,
+  "archive_members": {
+    "parent/binary/independent/literal.py": "4021766d87fa791a43a78a6665c9260b7ba3772d8b2db6e9c84b6a3d51a1305c",
+    "recipient/binary/finite.py": "c780cea060f4a9efef064b239636162a7e8e84e40369abc1a1c4679dfbeb3041",
+    "source/research/paired-query-only-bit/EFREE-CALLER.json.gz": "757b3523798f840bdb02028b23708c3416627a99ea09e7a3c4bcdc5cd0c7ce4b"
+  },
+  "controls": [
+    "nested_forward_adjoint",
+    "equal_endpoint_roundtrip_forward_adjoint",
+    "distinct_equal_dimension",
+    "ADD_both_operands",
+    "SWAP_both_operands",
+    "retire_and_reinitialize"
+  ],
+  "decision": "FAMILY_EXHAUSTED",
+  "forward_public_columns": 630,
+  "fully_charged_net_saving": "0",
+  "optimistic_disjoint_total": "0",
+  "ordinary": {
+    "caller_bank_transits": 3507600,
+    "native_bank_transits_per_call": 2576851200,
+    "native_banks_and_scratch": 4067,
+    "ordinary_records": 896869203600,
+    "owned_backing": 6994188,
+    "raw_ordinary_allowance": 1000000000000,
+    "raw_owned_allowance": 10000000,
+    "route_groups": 555624,
+    "route_records": 804099052800
+  },
+  "peer_head": "fb9b6a7b0d27da1cf98430893a3016bf811e2aa4",
+  "pins": {
+    "APPLICATION-SOURCES.tar.gz": "d85d011ca74e8592c21c1e4db91a1a9021af26dcebc4dfdc2af7251f9c1bf968",
+    "APPLICATION.json": "587ece477179606eed6fd9a334ac6d6e27f0067f82c3d6281993736e0570a76f",
+    "BINARY-CANDIDATE.json.gz": "74e93daf2b7acf794ffb51f92f03f51556f68126d41ee13a8969bddb4cbe6326"
+  },
+  "scan": {
+    "clocks": 39600,
+    "last_clock": 39599,
+    "move_counts_per_register": {
+      "1": 2803
+    },
+    "moves": 2803,
+    "moves_by_immediate_preceding_access": {
+      "ADD_destination": 2803
+    },
+    "ops": {
+      "ADD": 29301,
+      "CLEAR": 3433,
+      "INIT": 3433,
+      "MOVE": 2803,
+      "SWAP": 630
+    },
+    "owned_move_registers": 2803,
+    "paid": {
+      "1": 1348,
+      "2": 1247,
+      "3": 55,
+      "4": 42,
+      "5": 29,
+      "6": 81,
+      "7": 1
+    },
+    "repeated_owner_last_access_blockers": {},
+    "unobstructed_pairs": []
+  },
+  "signed_calls": 36,
+  "unvisited_pairs": 0,
+  "word": "b096d6df2a0c4688296b13ab0cfd50fec1c7dec732819c624ddd7a745a144b69"
+}
