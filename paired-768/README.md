@@ -177,3 +177,7 @@ Conditional κ = 0.00389821005 passes the complete independently replayed signed
 ## Round 377 · two-return bound on the weighted schedule
 
 At fixed debit and height, every subset of the two nominated whole returns stays below #8058 even with ideal ordinary funding. The next test targets the finite edge charge. [Exact scope and replay](r377/README.md)
+
+## Round 378 · sharper finite edge budget on the weighted signed word
+
+The exact authenticated 51-edge weighted profile completed all seven scientific modes. It pays the tighter finite debit and higher third ordinary stage, with separately charged conservative native setup. [Replay, directed price and comparison](r378/README.md)

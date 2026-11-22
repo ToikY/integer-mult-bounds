@@ -1,0 +1,17 @@
+# Detached acceptance of the weighted finite-loss capsule
+
+The scientific reference is #8057 at cbe847a953b971f9c6c5a0a6661e2008acd29086. The comparator is the independently replayed #8058 at 4ff66ca09aa7727768aeaf24ac444e69675804de, κ=0.00389821005. The weighted candidate prices κ=0.00389821030. The exact proposed increment is 1/4000000000, or (500/77964201)% over the comparator. The price remains strictly above #8058's exact installed ceiling when that ceiling is used instead of the printed κ. Ali Romman supplied #8057's typed calendar, all-size finite loss formula and installed source. SYLforge supplied K7. #8058 supplied the calibrated comparison. OpenAI Codex assisted this independent check. [Weighted source](https://github.com/CrocSwap/integer-mult-bounds/pull/8057) · [Comparator](https://github.com/CrocSwap/integer-mult-bounds/pull/8058)
+
+The independent checker authenticates 88 archive files with their full relative paths, exact SHA-256 hashes and pinned manifest. It rejects duplicate or unlisted file paths. It checks all unique literal edit points under the exact materializer. The changed weighted runtime patch only updates the terminal height and κ. The original grades, typed transport, calendar, raw-phase, nested-return, ownership and placement checks retain their published bytes. The census retains both widths (1,2), frequencies (1,90), all 51 grade and 88 typed transport cells, exact minimum per-owner share and original capacity cut. The literal relative moment and weighted inventories agree with the archived peer.
+
+The installed Gaussian rate uses the same raw trial 17145637167/2^42 and terminal height 483871. Its new debit is 65000/524288. The literal result's exact Ψ and fringe match the new edge formula with all period, group, endpoint and reserve terms charged. At the old three-term fringe, a directed lower bound for the factor is 1.0898516144016654, exceeding the new debit threshold's directed upper bound 1.0897352384884302 by more than 0.0001163759132351. This rejects changing the debit alone. Restoring the old debit also fails the larger signed booking at κ=0.00389821030. Both controls execute on exact directed intervals.
+
+Both tiers' signed conditions, integer ordinary floors, positive prices, resource stock and all-input clock agree with the separate analytic audit. Terminal ordinary heights are (8192,129414,524349). The terminal entrance has A=1,146,300 and first permitted header 2^A+2. The entry conversion charges 514 bits. Recurring log₂ C is bounded by 318,278,951 including the selector. The native fixed setup charges exactly the archived serial clock formula, below 2^228 transitions. The literal 269,057,152 grade actions fit the independent larger reservation. The previous portable trace ceilings are excluded from the new fixed setup claim. These checks attest invoice, capacity, exact materializer and setup. Complete scientific replay separately checks the actual signed physical runtime and output.
+
+Use CPython 3.12. Place the exact R378 price and audit receipts under their relative evidence paths, and the four authenticated capsule files in an explicit capsule directory. No prior temporary work is used.
+
+```sh
+python3.12 -IB accept.py --evidence "$ROUND378_ROOT" --capsule "$CAPSULE" --out fresh-accept.json
+```
+
+The detached check passed in 0.04 seconds. A clean evidence directory populated with those six inputs reproduced SHA-256 df0144afcb33f11ce93fd53f9f71672ff09b5e9cf824b53b7b1993a9ecd6bfbf. The full signed runtime suite remains the acceptance gate for a κ claim.

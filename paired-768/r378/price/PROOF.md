@@ -1,0 +1,31 @@
+# Round 378 weighted exact-edge price · viable pending literal replay
+
+The input construction is Ali Romman's exact #8057 scientific head `cbe847a953b971f9c6c5a0a6661e2008acd29086`. The current release comparator is #8058 `4ff66ca09aa7727768aeaf24ac444e69675804de` with complete conditional κ = .00389821005. #8057 supplied both Gaussian widths, their 1:90 birth frequencies, the typed allocator, the raw physical program, the two-tier resource proof and the already published stronger numerical integral. SYLforge supplied the K7 ordinary source. #8054 and its Round 368 receipt supplied the independently reconstructed rank census. OpenAI Codex assisted this reconstruction and comparison. [#8057 proof](https://github.com/aliromman/integer-mult-bounds/blob/cbe847a953b971f9c6c5a0a6661e2008acd29086/research/frequency-weighted-native-multiplier/PROOF.md) · [#8058 exact release](https://github.com/CrocSwap/integer-mult-bounds/pull/8058)
+
+## Actual allocator and complete price
+
+Invert the authenticated prior 1-to-8 grade census, remove its historical split accounting, and rebuild from widths 1 and 2 and birth frequencies 1 and 90. Keep the 1,008 half splits in type zero. The exact outward 112-bit masses reproduce #8057's whole archived signed raw margin. Ordered mass-interval intersections reproduce its 51 nonempty grade cells, its exact coarse `psi_lower` receipt and every typed support condition. The typed ledger has 88 cells and the same exact minimum individual share as #8057. Each typed paid row sums to one and each actual productive owner satisfies its bound. The first root route 112→258 in type one still carries exactly (1/624) for the selected owner. Gaussian c, lower band 2,048, physical widths, weights, product and paid roles, phase residues and original owned return obligations are fixed.
+
+The improvement replaces only the conservative analytic levy and increases the last installed ordinary height. Use (t=1-c) and the exact-edge integral
+[
+Psi_c=sum_{r,k}m_r p_{r,k}rrac{(k/r)^c-1}{c},qquad
+f_c=rac{10sum_kN_k k}{tPsi_c}.
+]
+Independent Decimal outward bounds on integer numerators and denominators, divided with directed endpoints, give (Psi_c>184971191.2157) and (f_c<7.335168). The full finite factor retains the upper-period overpay, complete-group padding, both endpoint roundings, and the original finite-calendar (delta=2^{-128}) adjustments. Its upper endpoint lies more than **0.000012868675** below the directed lower endpoint of (2^{65000/524288}). Thus the same all-depth contract supports (b=65000/524288) at exact Gaussian (c=17145637167/2^{42}). This is independent arithmetic over the original full ledger. It reuses the peer's published expression and does not claim a new calendar or physical operation. [Published exact-edge proof](https://github.com/aliromman/integer-mult-bounds/blob/cbe847a953b971f9c6c5a0a6661e2008acd29086/research/frequency-weighted-native-multiplier/independent_price.py)
+
+The terminal ordinary heights are ((8192,129414,524349)), Gaussian H=483,871, and the earliest complete tier remains ((3000,3080,1024)) at .00345. Both tiers pass all 54 strict and four functional signed conditions. The candidate **κ = .00389821030** has terminal Gaussian slack (32462740747114919989/1623601656627200000000000000000) and final ordinary slack (99652345935847518759101231/23458977153024000000000000000000000000). Every earlier ordinary stage also passes. The first admitted public parameter for the terminal tier is (2^{1146300}+2), binary cuts ([8290,137768,662181]). Entry A remains 7,437. The adjusted finite interval still costs exactly 514 bits. The complete recurring bound is (log_2 Cle318278951), with terminal ordinary (log_2 Ble211825728). The tail stripe retains 553,268 bits of slack, and the retained count stays below 297.6n bits. These are directed consequences of the installed-price and stock formulas. The complete setup bound and literal signed caller replay remain acceptance gates.
+
+The prospective exact gain over #8058 is (1/4000000000=.00000000025) or ((500/77964201)%). Against #8058's exact installed upper endpoint the prospective margin remains (525627642813491886908973947/3013590646784000000000000000000000000>0). This is a viability check. #8058's compact 1:79 source tightens a different debit and uses rounded packets. This candidate keeps the original weighted 1:90 source and half-packet events.
+
+## Literal gate and clean command
+
+Use the audited exact-edge lower bound in `positive_debit.py`, retaining the full factor formula and outward 112-bit contract. Set the target and H3 in `runtime.patch` and reconcile the resulting path hashes in `SOURCES.json`. Update the shared debit, derived all-input clock, funding floor, exact benchmark comparison and archived result in `receipt.py`. Confirm the new full proof using its independent numerical check. Code paths that assert hardcoded profile sizes and fixed-installation receipts must agree on the new H3. The new typed producer must retain the original widths and roles and generate the exact same signed paid and return streams. Independently check the boundary of both tiers and repeat the six registered cases. The old Wasmtime trace's setup ceiling reflects different installed bytes. Carry it forward only after a fresh source-to-machine trace or certify a coarser authenticated fixed setup independently. The previous quadratic installer offers a (2^{68})-operation and (2^{38})-bit-width construction to evaluate. No setup bound has been counted at this checkpoint.
+
+From the campaign root with CPython 3.12, use the exact local #8057 checkout and pinned preceding receipts.
+
+```sh
+python3.12 -IB round378/price/price.py --root . --peer round375/peer8057 \
+  --out fresh-r378-price.json
+```
+
+The single-candidate run completed in 0.10 seconds under a 60-second cap, exit 0. Expected receipt SHA-256 is `1a3600d7f62b82986ea752a0f285be28a551b44b8e05e91a40e09642238ccbc7`. An earlier probe found that the inherited Decimal helper requires exactly representable rank values. The final runner proves the nonterminating rational ratios by evaluating their integer numerators and denominators separately. The scientific candidate and original peer checkout were untouched.

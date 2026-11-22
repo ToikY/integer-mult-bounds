@@ -1,0 +1,171 @@
+{
+  "comparison_8058": "77964201/20000000000",
+  "comparison_8058_head": "4ff66ca09aa7727768aeaf24ac444e69675804de",
+  "complete_log2_C": 318278951,
+  "delta_over_8058": "1/4000000000",
+  "delta_over_8058_ceiling": "525627642813491886908973947/3013590646784000000000000000000000000",
+  "entry_surcharge_bits": 514,
+  "exact_percent_over_8058": "500/77964201",
+  "gaussian": {
+    "debit": "8125/65536",
+    "directed_factor_headroom": "514747/40000000000",
+    "directed_psi_floor": "184971191.2157",
+    "fringe_upper": "7.335168",
+    "trial": "17145637167/4398046511104"
+  },
+  "input_sha256": {
+    "campaign": {
+      "round367/independent/audit.py": "bc2a8de7028287d6c816b8caed9b2b686e2b50449b7e8f67d55cd5dd958f381c",
+      "round368/independent/support.py": "e510f6fd1e561213cf68243856d8aec12b862088114d55f0ae30da43dfb8e599",
+      "round368/primary/receipt.json": "e60a50062125f75613ac0423c98a3aa81be576d43ea09193c1a24e78ba919b49",
+      "round375/unsplit-frontier/screen.py": "a6b35438f271200b43efc2868e2bceb290331f24f06fae8779fd250a7d6baff4",
+      "round376/audit/receipt.json": "5d892761adc42cb9bfea1187f06127b7260b8d2968105dc74ade5a61074c3bb5"
+    },
+    "peer": {
+      "research/frequency-weighted-native-multiplier/RESULT.json": "2f4faa6648592f589df22a8a0a07ba6856d20786294a44a7776c7d6e0efa14a5",
+      "research/frequency-weighted-native-multiplier/SOURCES.json": "01d9e6b6b28cd174800cadfb59f4f064b3844575da297d82e16eb19a0d11c868",
+      "research/frequency-weighted-native-multiplier/independent_price.py": "448811cdb4a2bdefd4f736c2bad81c2a833bde634bcf65498e05267b5ee7ead0",
+      "research/frequency-weighted-native-multiplier/positive_debit.py": "7320b6a4ef1320d765e9b41a9b1e286db83a1d36d96f46bee0bef37974e8b8d9",
+      "research/frequency-weighted-native-multiplier/receipt.py": "82d921fdc33006e2d356d8bf78f3c85777722322d716be44b42bc763a04c8095",
+      "research/tiered-native-multiplier/source/activation.py": "6e7f89d40a4d10ecd40a50e5b96334dfc64db90841ece7e3ef12eeca5ee5093b",
+      "research/tiered-native-multiplier/source/installer.tar.gz": "6696459e2e3552f802e7caaaf93dc86c9bb6b62ee38631702bff2e3a8a9a481a",
+      "research/tiered-native-multiplier/source/ordinary_clock.py": "91dcf0ef72dddbde998b80f3d8b30c8036de9ce97e06e2bbd9c4159bf292020d",
+      "research/tiered-native-multiplier/source/outer_budget.py": "ca4438db28a447ed5c43d87d43f0ac10a0cb2b4e183342ac93139d517b9d4d02"
+    }
+  },
+  "installed_ceiling_8058": "11747609573649407861708113091026053/3013590646784000000000000000000000000",
+  "paid_shape": {
+    "first_rotated_root_share": "1/624",
+    "grade_cells": 51,
+    "lower": 2048,
+    "same_literal_grade_coupling": true,
+    "splits": 1008,
+    "typed_cells": 88,
+    "weights": [
+      1,
+      90
+    ],
+    "widths": [
+      1,
+      2
+    ]
+  },
+  "predecessor_head": "cbe847a953b971f9c6c5a0a6661e2008acd29086",
+  "profiles": {
+    "entry": {
+      "gaussian_H": 1024,
+      "geometry": {
+        "dense_root_entry_log2": 11184812,
+        "first_extent_bits_minus_b": -7433,
+        "first_public_offset": 4,
+        "largest_axis_width": 5592406,
+        "last_extent_bits_minus_b": -7432,
+        "log2_axis_count": 7412,
+        "minimum_width": 3809536,
+        "private_clock_log2_upper": 5734316302
+      },
+      "kappa": "69/20000",
+      "log2_B": 125433359,
+      "log2_C": 125660241,
+      "ordinary_H": [
+        3000,
+        3080
+      ],
+      "ordinary_local_additions": [
+        0,
+        25818582
+      ],
+      "ordinary_rates_and_slack": [
+        [
+          "3428763898577864693/1000000000000000000000",
+          "1139933093/1073741824000000000000000000000"
+        ],
+        [
+          "690000000000001/200000000000000000",
+          "4073867641634530723308554487/939524096000000000000000000000000"
+        ]
+      ],
+      "signed": {
+        "functional": 4,
+        "ordinary_margin": "1/1000000000000000000",
+        "positive_margin": "1098554003670637519659/3355443200000000000000000",
+        "smallest_margin": "1/10000000000000000000",
+        "strict": 54
+      },
+      "stock": {
+        "absolute_log2_private_control_envelope": 3153922,
+        "binary_cuts": [
+          3077,
+          6221
+        ],
+        "first_public_offset": 4,
+        "initial_s": 7438,
+        "public_exponent_A": 7437,
+        "retimed_all_size_margin_floor": 1635,
+        "retimed_first_stripe_margin": 1701,
+        "stage_and_outer_fixed_log_overhead": 1964,
+        "storage_upper": "6.2 p T < 297.6 n bits"
+      }
+    },
+    "terminal": {
+      "gaussian_H": 483871,
+      "geometry": {
+        "dense_root_entry_log2": 1431655766,
+        "first_extent_bits_minus_b": -1146296,
+        "first_public_offset": 2,
+        "largest_axis_width": 715827883,
+        "last_extent_bits_minus_b": -1146295,
+        "log2_axis_count": 1146268,
+        "minimum_width": 586907392,
+        "private_clock_log2_upper": 734182779325
+      },
+      "kappa": "38982103/10000000000",
+      "log2_B": 211825728,
+      "log2_C": 318278950,
+      "ordinary_H": [
+        8192,
+        129414,
+        524349
+      ],
+      "ordinary_local_additions": [],
+      "ordinary_rates_and_slack": [
+        [
+          "3718088605609114693/1000000000000000000000",
+          "1139933093/1073741824000000000000000000000"
+        ],
+        [
+          "3889553935785780311/1000000000000000000000",
+          "5034493304523729/2894942175232000000000000000000000000"
+        ],
+        [
+          "779642060000001/200000000000000000",
+          "99652345935847518759101231/23458977153024000000000000000000000000"
+        ]
+      ],
+      "signed": {
+        "functional": 4,
+        "ordinary_margin": "1/1000000000000000000",
+        "positive_margin": "32462740747114919989/1623601656627200000000000000000",
+        "smallest_margin": "1/10000000000000000000",
+        "strict": 54
+      },
+      "stock": {
+        "absolute_log2_private_control_envelope": 536933379,
+        "binary_cuts": [
+          8290,
+          137768,
+          662181
+        ],
+        "first_public_offset": 2,
+        "initial_s": 1146301,
+        "public_exponent_A": 1146300,
+        "retimed_all_size_margin_floor": 553268,
+        "retimed_first_stripe_margin": 571096,
+        "stage_and_outer_fixed_log_overhead": 1968,
+        "storage_upper": "6.2 p T < 297.6 n bits"
+      }
+    }
+  },
+  "setup_bound": "pending new literal installed tape receipt",
+  "status": "VIABLE_PRICE_ONLY"
+}
