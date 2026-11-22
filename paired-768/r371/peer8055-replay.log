@@ -1,0 +1,128 @@
+CHECK Rebuild and price both complete source profiles, all signed margins, true placement, activation and the all-input transition bound.
+{
+  "starts": {
+    "1024": {
+      "period": 1620,
+      "tickets": [
+        0,
+        324,
+        648
+      ],
+      "first_swap": [
+        1,
+        324,
+        1
+      ]
+    },
+    "680000": {
+      "period": 1620,
+      "tickets": [
+        0,
+        324,
+        648
+      ],
+      "first_swap": [
+        1,
+        324,
+        1
+      ]
+    }
+  },
+  "root": [
+    "root",
+    "rotated",
+    0,
+    4080,
+    1
+  ],
+  "nonempty": 62,
+  "minimum_probability_lower": "2^-64"
+}
+PASS_COMPLETE_RATE_STOCK_AND_CLOCK 339787971
+CHECK Bound the old global Gaussian crossing and the changed signed moment with independent log and exp enclosures.
+PASS_INDEPENDENT_RAW_CROSSING 9745450861987585323403897/2500000000000000000000000000 38981803447950341293615589/10000000000000000000000000000 and funded 79-column dilation
+CHECK Replay K7 on all independent roles, rational charts and weighted physical controls.
+PASS_K7_ALL_630_ROLES_AND_WEIGHTED_ROUTES
+CHECK Execute both complete numerical words on independent nonzero witnesses and check all loans, owners and releases.
+physical columns (2, 158) nonzero cut counts {2: 16, 158: 15} all paid 564144
+owners 105216 owner writes 143616 sum output axes 119470080 peak handles 115056
+exact nonzero output Hilbert log2 dimensions (18, 1422)
+PASS_SCALED_POSITIVE_RAW
+{
+  "native_graphs_per_copy": 48,
+  "main_slot_counts": {
+    "2": 8,
+    "4": 96
+  },
+  "graph_issued_roles": [
+    5674,
+    891,
+    400
+  ],
+  "signed_I_exponents_per_graph": {
+    "helper, inverse left": [
+      891,
+      0,
+      0,
+      0
+    ],
+    "helper, inverse right": [
+      125,
+      3,
+      69,
+      694
+    ],
+    "main, consumer": [
+      0,
+      0,
+      0,
+      200
+    ],
+    "main, producer": [
+      200,
+      0,
+      0,
+      0
+    ],
+    "paid, left": [
+      5674,
+      0,
+      0,
+      0
+    ],
+    "paid, right": [
+      2243,
+      2063,
+      389,
+      979
+    ]
+  },
+  "odd_I_by_role_per_graph": {
+    "helper": 697,
+    "main": 200,
+    "paid": 3042
+  },
+  "all_copy_delta_at_residue_2": 189072,
+  "all_copy_delta_at_residue_0": 0,
+  "one_real_graph_callbacks": {
+    "columns=16,bundle=1": {
+      "all_phase_calls": 80165,
+      "returned_paid": 5674
+    },
+    "columns=158,bundle=1": {
+      "all_phase_calls": 84104,
+      "nonzero_constant_at_zero": 3939,
+      "returned_paid": 5674
+    },
+    "columns=158,bundle=2": {
+      "all_phase_calls": 80165,
+      "returned_paid": 5674
+    }
+  }
+}
+CHECK Run the signed general entry and compare exact physical Fourier coefficients, product and restored input heads on a finite geometry.
+{"H_calls": 157248, "bits": [20, 19], "coefficients_prefix": [11811, 10996, 4152, 868, 77], "padded_bytes": 633744, "product": "-345550037539", "rank": 2, "seconds": 73.549, "shuttles": 138, "stage_body_records": 6561}
+PASS_SIGNED_PRODUCT_AND_RESTORATION
+CHECK Check the serial quotient, signed Bézout and rational primitives and the absolute fixed-installation tape bill.
+PASS_SERIAL_FIXED_INSTALL 228
+PASS_REGISTERED_RESEARCH_PACKAGE research/tiered-native-multiplier outcome=completed

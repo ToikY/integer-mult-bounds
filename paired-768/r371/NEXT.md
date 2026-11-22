@@ -1,0 +1,7 @@
+# Next Gaussian incremental test after exact acceptance
+
+Refresh the peer frontier and pin the strongest fully reproduced same-premise package. The #8055 1-to-79 Gaussian supplier differs physically from the fixed 1-to-8 source. Its early numerical height 1,024, terminal height 680,000, signed phases and full clocks need their own accounting. Record exponent change and installation resources separately.
+
+Price one combined paid inventory before building. Replace the selected equal-half splits of the base copy in #8055 by one quarter plus its complement, with the rounded width formulas checked for both admitted column residues. Use the exact #8055 price and interval modes to recover the signed grade axes and anchor the peer crossing. Implement a price-only driver using that extraction and replace exactly the base-copy half-rank labels. Scope one compact profile, 45 seconds for directed discovery, 15 seconds for independent verification and at most one literal build. Stop if the capacity cut, changed largest-rank bound, or parity-dependent phase bill consumes the optimistic gain.
+
+Sum the full actual inventory under dilations 1 and 79, charge every scale-dependent phase call, and check both early and terminal all-size tapes and owner return. The old 1-to-8 ambient bound and debit require a new applicability proof. Advance only after a complete signed margin and interface proof. No combined construction has been attempted.
