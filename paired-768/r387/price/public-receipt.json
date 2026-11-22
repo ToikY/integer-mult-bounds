@@ -1,0 +1,134 @@
+{
+  "comparator": "56bd64bed76cadb98e459ed001ccbdf47963ccf6",
+  "conditional_whole_log2_C": 318285351,
+  "delta_kappa": "1/20000000000",
+  "factor_headroom_rounded_down": "30944699/10000000000000",
+  "finite_entry_surcharge_bits": 514,
+  "fringe_upper_rounded_up": "36675838581/5000000000",
+  "gain_over_prior_cap": "78214426258378517511/1623601656627200000000000000000",
+  "gain_percent": "100/77964207",
+  "gaussian_debit": "32491/262144",
+  "grade_fraction_bits": 267,
+  "kappa": "4872763/1250000000",
+  "lower_band": 1874,
+  "min_actual_share": "13201304847172927608845459442008190307185393429462992684270298788700245/446899527904170582754959784023300718037811994769910427909046367785638460030016",
+  "new_debit_factor_interval": [
+    "27242732650473/25000000000000",
+    "108970930601893/100000000000000"
+  ],
+  "new_factor_upper": "21794124230979/20000000000000",
+  "nonempty_grade_cells": 51,
+  "nonempty_typed_cells": 88,
+  "normalized_unit_cut_slack": "831682205371894439357263944846515989352679786056168539109028823688115435/60984671263998519417285677345119598628051878844788252253308446849368064",
+  "old_debit": "8125/65536",
+  "old_factor_excess_above_new_debit_lower": "65322651/5000000000000",
+  "old_factor_lower": "54486118527457/50000000000000",
+  "old_kappa": "77964207/20000000000",
+  "old_lower_band": 2048,
+  "ordinary_ceiling_if_H3_524368": "17147126689078396672068315181064661/4398717599744000000000000000000000000",
+  "pending": "Literal calendar, independent full recurring stock/cost and setup proof, and scheduled signed replay",
+  "physical_widths": [
+    1,
+    2
+  ],
+  "predecessor": "cbe847a953b971f9c6c5a0a6661e2008acd29086",
+  "prior_gaussian_ceiling_at_same_height": "6329140785106953704501482489/1623601656627200000000000000000",
+  "prior_installed_cap": "6329140785106953704501482489/1623601656627200000000000000000",
+  "prior_ordinary_ceiling_at_same_height": "24940846817265518169249825050076933/6398024876032000000000000000000000000",
+  "profiles": {
+    "entry": {
+      "heights": [
+        3000,
+        3080
+      ],
+      "kappa": "69/20000",
+      "numerical_H": 1024,
+      "ordinary_stage_slacks": [
+        "1139933093/1073741824000000000000000000000",
+        "4073867641634530723308554487/939524096000000000000000000000000"
+      ],
+      "recurring_log2_if_old_all_size_envelope_proved": 125660241,
+      "signed": {
+        "functional": 4,
+        "ordinary_margin": "1/1000000000000000000",
+        "positive_margin": "1098666610482160957159/3355443200000000000000000",
+        "smallest_margin": "1/10000000000000000000",
+        "strict": 54
+      },
+      "stock": {
+        "absolute_log2_private_control_envelope": 3153922,
+        "binary_cuts": [
+          3077,
+          6221
+        ],
+        "first_public_offset": 4,
+        "initial_s": 7438,
+        "public_exponent_A": 7437,
+        "retimed_all_size_margin_floor": 1635,
+        "retimed_first_stripe_margin": 1701,
+        "stage_and_outer_fixed_log_overhead": 1964,
+        "storage_upper": "6.2 p T < 297.6 n bits"
+      }
+    },
+    "terminal": {
+      "heights": [
+        8192,
+        129414,
+        524369
+      ],
+      "kappa": "4872763/1250000000",
+      "numerical_H": 483871,
+      "ordinary_stage_slacks": [
+        "1139933093/1073741824000000000000000000000",
+        "5034493304523729/2894942175232000000000000000000000000",
+        "272031138901553594824388833/70379615813632000000000000000000000000"
+      ],
+      "recurring_log2_if_old_all_size_envelope_proved": 318285350,
+      "signed": {
+        "functional": 4,
+        "ordinary_margin": "1/1000000000000000000",
+        "positive_margin": "36985573741621482489/1623601656627200000000000000000",
+        "smallest_margin": "1/10000000000000000000",
+        "strict": 54
+      },
+      "stock": {
+        "absolute_log2_private_control_envelope": 536953859,
+        "binary_cuts": [
+          8290,
+          137768,
+          662201
+        ],
+        "first_public_offset": 2,
+        "initial_s": 1146321,
+        "public_exponent_A": 1146320,
+        "retimed_all_size_margin_floor": 553278,
+        "retimed_first_stripe_margin": 571106,
+        "stage_and_outer_fixed_log_overhead": 1968,
+        "storage_upper": "6.2 p T < 297.6 n bits"
+      }
+    }
+  },
+  "psi_lower_rounded_down": "926899828829169/1000000",
+  "raw_high_cut_slack": "150211139120504027468885319479223039/324518553658426726783156020576256",
+  "raw_margin_lower": "457232516744337894576467356407/324518553658426726783156020576256",
+  "receipt_sha256": {
+    "round378/price/price.py": "6ddddfd71283bfe375cc8c094a2153c7be20537be5b54823347f79d8d07b6be0",
+    "round378/price/receipt.json": "1a3600d7f62b82986ea752a0f285be28a551b44b8e05e91a40e09642238ccbc7",
+    "round384/price/receipt.json": "de15bc86515fe2faa4fc0d901fdc2260112a0fa733a93d4a016a05e23eb461cb",
+    "round385/independent/verified.json": "e4a195f6f8c9a85bfef165de0aa502657ceac8fca8407d9a5a3e52a9e705ddfb",
+    "round385/onboarding.exit": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa",
+    "round385/onboarding.log": "c30499282df76c447c1f601ccf71b531e88e983cff45d42b79aa5e0c128c6463",
+    "round385/publish/research/p104-weighted-integer-frequencies-5-451/RESULT.json": "9cc1d762ff68e97166322c92c16bfa4dc5480893e77b3dafab216f7626d96c24",
+    "round385/scientific.log": "5e80b03236dafb4cd1ab511574e032f2191c3858b1ab4292ec448fb45d9cc0b0"
+  },
+  "same_archived_signed_raw_margin": true,
+  "scaled_paid_labels": 128400048,
+  "scaled_productive_labels": 23989248,
+  "slot_112_to_258_probability": "1/624",
+  "status": "VIABLE_PRICE_ONLY",
+  "trial_c": "17145637307/4398046511104",
+  "weights": [
+    5,
+    451
+  ]
+}

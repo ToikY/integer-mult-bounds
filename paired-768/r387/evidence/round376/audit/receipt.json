@@ -1,0 +1,78 @@
+{
+  "actual_calendar_checks": [
+    {
+      "argument_bits": 16,
+      "integral_error_less_than_quarter": true,
+      "inverse_interval_units": 19
+    },
+    {
+      "argument_bits": 17,
+      "integral_error_less_than_quarter": true,
+      "inverse_interval_units": 19
+    },
+    {
+      "argument_bits": 1001,
+      "integral_error_less_than_quarter": true,
+      "inverse_interval_units": 31
+    },
+    {
+      "argument_bits": 1040,
+      "integral_error_less_than_quarter": true,
+      "inverse_interval_units": 33
+    }
+  ],
+  "analytic_mass_error_bits_upper_at_H1024": -33870,
+  "calendar_transport_sha256": "1cd35098d09d2c39bf38017161703b304e59351eb625667bab9d8042c950d092",
+  "candidate_kappa": "77964201/20000000000",
+  "control_workspace_bits_per_number_at_H1024": 524800,
+  "funding": {
+    "entry": {
+      "gaussian_gap": "61591067159450830555051/214748364800000000000000000",
+      "inequalities": {
+        "functional": 4,
+        "ordinary_margin": "1/1000000000000000000",
+        "positive_margin": "61591067159450830555051/214748364800000000000000000",
+        "smallest_margin": "1/10000000000000000000",
+        "strict": 54
+      },
+      "ordinary_gap": "4073867641634530723308554487/939524096000000000000000000000000"
+    },
+    "terminal": {
+      "gaussian_gap": "293035418039435867/3650722201600000000000000000",
+      "inequalities": {
+        "functional": 4,
+        "ordinary_margin": "1/1000000000000000000",
+        "positive_margin": "293035418039435867/3650722201600000000000000000",
+        "smallest_margin": "1/10000000000000000000",
+        "strict": 54
+      },
+      "ordinary_gap": "227770018882508113091026053/3013590646784000000000000000000000000"
+    }
+  },
+  "gaussian_C": "1097317122991/281474976710656",
+  "gaussian_debit": "339/2048",
+  "largest_share_bits": 263,
+  "odd_width_rejected": true,
+  "product_count_upper": 49,
+  "retimed_factor_millionth_upper": 1121328,
+  "root_iterations": 48,
+  "rounded_paid_leaf_total_reconciles": true,
+  "scope": "one retuning audit on the already-installed R374 calendar, no candidate full replay",
+  "smallest_integral_prefix_reserve": "1/2",
+  "stage_pins": {
+    "CLOCK.md": "cf71e4a3216df23eb7e4fa8a8d9de3735e6257c65ca8a60a5085d9f3c90c4ecb",
+    "NUMERICAL.md": "14b86724db522393981ed54b540a35f27bd952f3d95d6e6d14c5b23896811dc9",
+    "RESULT.json": "0d20d4607fd2d68dfe0aaf84e063d986cb2c8e614a89dcd3a825135d62e075c6",
+    "SETUP.md": "6951a98f2f8a0bf73c8d60b16ebbbd66bf87584251df8afbefe4e3a0330bfbf3",
+    "SOURCES.json": "d40e10c78e2a1cc74797b5e8735c2f37d955f9e84ba4e6abbc549ee42434bf1f",
+    "bootstrap.py": "ac5c3a6e1645257c65f2a5653cd55d222dd076d39cf5cdb55ea63aca4e8db6da",
+    "quarter_overlay.py": "da8efaf6c5210c499af7560ab7f2ade13c8d538ab454e5200c13d19d0051245e",
+    "source/outer_budget.py": "ca4438db28a447ed5c43d87d43f0ac10a0cb2b4e183342ac93139d517b9d4d02"
+  },
+  "support_cells": 63,
+  "support_pins": {
+    "coupling.json": "2828f5a208b24b3c556313601d6f05a62fef57509e58dc00d161c9f2d8023553",
+    "coupling.py": "fb54f24864288855e15e979549c64449ef350c1cebe008342dda946ba1d941e4"
+  },
+  "whole_fringe_coefficient_upper": "26500000/468369"
+}
