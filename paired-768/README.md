@@ -205,3 +205,7 @@ The 6-to-541 integer weighted profile completes all seven scientific scopes at c
 ## Rounds 384–385 · the exact five-to-451 signed construction
 
 The directed physical pair passed early exact feasibility and the complete scientific replay at conditional κ = 0.00389821035. [R384 scope](r384/README.md) · [R385 complete reproducible evidence](r385/README.md)
+
+## Round 386 · exclusion for every larger ratio in the 729-birth budget
+
+A directed compulsory-cut ceiling rules out all 2,552 larger actual integer pairs at fixed debit and Gaussian height. [Exact family and runnable evidence](r386/README.md)
