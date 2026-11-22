@@ -173,3 +173,7 @@ A complete local signed replay at the earlier compact rate passed. Two binding u
 ## Round 376 · verified compact Gaussian debit retune
 
 Conditional κ = 0.00389821005 passes the complete independently replayed signed package. The exact gain over reproduced #8057 is 0.00000000005. [Source pins, receipts and clean replay](r376/README.md)
+
+## Round 377 · two-return bound on the weighted schedule
+
+At fixed debit and height, every subset of the two nominated whole returns stays below #8058 even with ideal ordinary funding. The next test targets the finite edge charge. [Exact scope and replay](r377/README.md)

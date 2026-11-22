@@ -1,0 +1,17 @@
+# Fixed-debit exclusion for two weighted unit returns
+
+**No verified κ gain.** On the exact two-type #8057 construction, fix widths 1 and 2, birth weights 1 and 90, Gaussian height 483,871, admissible tariff `c<.004`, finite debit 65081/524288, and the five stopping units. Consider unsplitting either or both of the two base unit returns at paid ordinals 1592 and 1593, with tags `("return",9977,0,91990)` and `("return",9977,0,91966)`. All other issued requests and productive grades stay fixed. This exact scope covers four subsets, including the empty control. It leaves any other return, height, schedule or debit unresolved. [Weighted #8057](https://github.com/CrocSwap/integer-mult-bounds/pull/8057) · [Two original unsplit returns](https://github.com/CrocSwap/integer-mult-bounds/pull/8054)
+
+Grant arbitrary transport, no new setup or restoration costs, and unlimited ordinary funding. Each unsplit lowers the total paid mass by `2^c−1>0` once per type-zero job. Hence the two-unsplit case is the most generous possible. Differential interval bounds prove that its signed moment decreases throughout the admitted range from #8057's installed tariff to `.004`. The known-good original paid control is positive at the installed tariff. Both lower and upper bisection ends are proved with directed arithmetic. Even after these concessions, the largest complete rate is strictly below `13917926627868799636150347223180133232053/3570337800675965779994214400000000000000000`, approximately **0.003898210030780208823**. The deficit to #8058 is greater than 0.000000000019219. This cost exclusion requires no inference about reachability or exact transport of the modified physical operators. No build is warranted for these sites at the pinned debit. [Exact result and source ledger](bound.json) · [Current reproduced comparator #8058](https://github.com/CrocSwap/integer-mult-bounds/pull/8058)
+
+Use CPython 3.12 from this directory. Set `PEER` to a clean checkout of exact #8057 scientific head `cbe847a953b971f9c6c5a0a6661e2008acd29086`. The script authenticates that Git head, its `RESULT.json` blob, both original site IDs, the raw census and the independent pricing dependencies. The only solver run is capped at 30 seconds. The same pinned input bytes reproduced the receipt in 0.29 seconds and SHA-256 `a7f9b84423c1fafb00531ef95fd8cd98e81091d08c994987dd22c04b86548886`.
+
+```sh
+out=$(mktemp -d)
+python3.12 -IB bound.py --root evidence --peer "$PEER" --out "$out/bound.json"
+cmp "$out/bound.json" bound.json
+```
+
+This changes the next round by switching to the exact-edge finite price because even the largest compatible removal of paid mass in this family cannot beat the comparator. The next test uses the original weighted word and its 51 exact grade cells, with debit 65000/524288 and third ordinary height 524,349. Price the full new ordinary and Gaussian margins, setup, active tape and finite entry conversion before building. Full signed replay is required for a new κ claim.
+
+Ali Romman supplied the weighted chronology, full invoice and exact-edge check in #8057. The #8054 construction independently validated the two unit returns on its own physical schedule, supplying these candidate identities and their literal census. OpenAI Codex assisted the interval proof and clean replay. [Weighted literal source](https://github.com/CrocSwap/integer-mult-bounds/tree/cbe847a953b971f9c6c5a0a6661e2008acd29086/research/frequency-weighted-native-multiplier)
