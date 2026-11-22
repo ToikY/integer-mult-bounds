@@ -1,0 +1,3 @@
+PASS_PACKAGE_METADATA_AND_PINS (not a mathematical acceptance check)
+PASS_RESEARCH_COMMIT_BYTES {"commit": "e4fccb224ce5d9bc530a8027d4f617a6a37d4562", "files": 13, "package": "research/p104-weighted-upper-band", "executable_modes_checked": true, "source_history_commits": ["0618e75a22cec54d1651394ef83d088551b7f026"]}
+{"include": [{"packages": ["research/historical-selected-replay-gap", "research/p104-weighted-upper-band"]}]}

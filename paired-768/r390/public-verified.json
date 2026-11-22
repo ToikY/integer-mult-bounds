@@ -1,0 +1,106 @@
+{
+  "candidate_and_gate_pins": {
+    "build.log": "e3b0ec905e589da58592e443c065155ec2be20b4a8f452ae8267aea92dd682e2",
+    "capsule/PEER-SOURCE.json": "798c2e6394c258986484a116198cc542a6d2b4c1f289e5816de2cfecf5141c51",
+    "capsule/RESULT.json": "755ff19972c4a1709d837174f8f13a572b20ef8069112dae53566d9bea87c584",
+    "capsule/SOURCES.json": "b3197501bae90ec16c4d99c186e74dfe28e0f5f730e6b8bb94e2d0ce78bcf69c",
+    "capsule/TASK.json": "37bf715c21536799eefeb1137e0a1b9022e036853e1351de1fd76b67b8e1fb83",
+    "capsule/VERIFY.json": "7117e597401db68b4ce91cc5a58836b4604d985cc31626dbd70c5daa2ef73f99",
+    "capsule/check_cutoff.py": "7cef2b0aec8a5856235479ef1be859d7fe3b51cdb6e7f934966abab4c7f5f5d4",
+    "capsule/peer8057.tar.gz": "0e0d559bdb15e7b647f88a2b5e27fcdc9e28e81d8f4145459876ba6da2e9314c",
+    "capsule/prepare.py": "3008490ace39180d90c27cec497976072ed46103641593278cc64194ac6b3fac",
+    "capsule/verify.py": "d623b66ac478fcb2ef1429f7b6ac4fcc80e73d2330abe4bdde99852e09c3e659"
+  },
+  "comparator_head": "682fd9512ccbf3035089d7e5f9cb4dedf9f746b4",
+  "complete_log2_C": 318293671,
+  "delta_kappa": "13/100000000000",
+  "exact_previous_installed_cap": "274354550584735863074353594824388833/70379615813632000000000000000000000000",
+  "finite_factor_headroom_floor_1e13": 78874159,
+  "fixed_setup_log2": 228,
+  "gain_percent": "65/19491052",
+  "kappa": "389821053/100000000000",
+  "min_per_target_top_share": "1/624",
+  "new_factor_ceiling_1e14": 108964667430503,
+  "old_divisor_fail_floor_1e13": 516498279,
+  "one_smaller_H3_cap": "550939035284686287361179504032621/141331267584000000000000000000000000",
+  "physical_placements": [
+    [
+      1024,
+      1364,
+      [
+        0,
+        272,
+        545
+      ],
+      [
+        1,
+        272,
+        1
+      ]
+    ],
+    [
+      483871,
+      1364,
+      [
+        0,
+        272,
+        545
+      ],
+      [
+        1,
+        272,
+        1
+      ]
+    ]
+  ],
+  "pinned_inputs": {
+    "round366/gaussian/receipt.json": "9e1206f26d124f9f788a96ff43453195c4ae8c9b679acbf8a0ca132c80a5b7a1",
+    "round375/independent/coupling.py": "fb54f24864288855e15e979549c64449ef350c1cebe008342dda946ba1d941e4",
+    "round378/independent/accept.py": "001284bf901f84def95ff270e4012bab16a3875e1ee6de3d3ae490c5980e341e",
+    "round388/independent/accept.py": "a8ad7768fb373545632d087c7edb81645585fed98b757daa335713f1e21e3c2e",
+    "round388/independent/verified.json": "a795a3fd9e4812d5bba4f46ab1a6c403bf83180fc1247b2196beae756c58693c",
+    "round388/onboarding.log": "6e4934bbf16f18b03450f4bc00d5fbe5c2751631da190c49cac609a766e2cce3",
+    "round388/publish/research/p104-weighted-lower-band/RESULT.json": "42f26ff677d6b302592e916b0cb57780a82cab1e620cc41bb8602a831abebe4c",
+    "round388/publish/research/p104-weighted-lower-band/prepare.py": "9b09ac31b2a1adf78b76c685bdee2bd4b8b8dff53ab68b66d2a15e021644e05e",
+    "round388/scientific.exit": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa",
+    "round388/scientific.log": "d4416c0c60fbdf735c6b1583e11f907870041cb8d5b5254bd9519f651fb5febc",
+    "round389/audit/receipt.json": "8b1c01f0ee18d0b6110f95e8c81c4e40ddf182989c2426e81e0d5c27f84efa08",
+    "round389/price/receipt.json": "106db88b62b4f1c1a88c2a516292e2be8f72f44df101e03828cfbf46afd16abc"
+  },
+  "raw_margin": "50803612971593099397385261823/24054211488961849122338563785759685737032",
+  "separation_from_installed_cap": "8877318916870606405175611167/70379615813632000000000000000000000000",
+  "signed_tiers": {
+    "entry": {
+      "checks": [
+        54,
+        4
+      ],
+      "ordinary_gap": "4073867641634530723308554487/939524096000000000000000000000000",
+      "positive_gap": "1098904110482160957159/3355443200000000000000000"
+    },
+    "terminal": {
+      "checks": [
+        54,
+        4
+      ],
+      "ordinary_gap": "47244969662065588987119903/14076621094912000000000000000000000000",
+      "positive_gap": "69117358380085482489/1623601656627200000000000000000"
+    }
+  },
+  "status": "INDEPENDENT_LITERAL_PRICE_AND_BOUNDARY_REPLAY_PASS; FULL_REGISTERED_SUITE_SEPARATE",
+  "typed_count": 88,
+  "unchanged_signed_native_sha256": {
+    "check_calendar.py": "1c51b8bd75ef2d9d8847b2ebf88d7dbcc44d89954146c2bdede8854915392b8c",
+    "check_exterior.py": "7dcd0eb6c347d7b221324035bc1f63dec03ff777fbfa54c9076f7f2bbb30f190",
+    "check_nested.py": "440098e5bda9b82af48c5b4cbbcecda5f68627699f25afd0f4817b8fe0779d91",
+    "check_ownership.py": "30c711187e5e66cd631764564fefa8e53e083837d5b8b85de9b0af1848602f5f",
+    "check_raw.py": "d62d50279969bfecf23d2e14412949fa643394c1539ccb87db7dac5f79e2d97e",
+    "typed_raw.py": "0c268432c9d48798c17d927f2d900b5e69dfc6585166cd71f253913e389c3b47",
+    "typed_transport.py": "b76b9ad3dc0dd91473026c079585f830387eaa3c34c25a7820ee5057d5cbf941",
+    "verify.py": "b41510240bdcf14476ed86cb3da6c0699661ef8c34447426718e137234449967"
+  },
+  "weighted_targets_and_paid": [
+    23989248,
+    128400048
+  ]
+}

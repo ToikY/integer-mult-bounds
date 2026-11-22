@@ -1,0 +1,10 @@
+{
+  "build.log": {
+    "public": "e3b0ec905e589da58592e443c065155ec2be20b4a8f452ae8267aea92dd682e2",
+    "sealed": "3939fb5905bca876b09cdf25b960b5822f4753492b2c0f1f88fddb3b93cb456e"
+  },
+  "round388/onboarding.log": {
+    "public": "6e4934bbf16f18b03450f4bc00d5fbe5c2751631da190c49cac609a766e2cce3",
+    "sealed": "128f901401ccbdeb1428d7cae5ffe055f044479e745d57767cce11daa9d6e654"
+  }
+}

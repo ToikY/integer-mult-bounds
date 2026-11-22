@@ -1,0 +1,199 @@
+{
+  "baseline_head": "e4fccb224ce5d9bc530a8027d4f617a6a37d4562",
+  "capsule_pins": {
+    "PEER-SOURCE.json": "798c2e6394c258986484a116198cc542a6d2b4c1f289e5816de2cfecf5141c51",
+    "RESULT.json": "755ff19972c4a1709d837174f8f13a572b20ef8069112dae53566d9bea87c584",
+    "prepare.py": "3008490ace39180d90c27cec497976072ed46103641593278cc64194ac6b3fac",
+    "verify.py": "d623b66ac478fcb2ef1429f7b6ac4fcc80e73d2330abe4bdde99852e09c3e659"
+  },
+  "delta": "1/25000000000",
+  "heights": [
+    8192,
+    129406,
+    524403
+  ],
+  "literal_inherited_runtime_hashes": {
+    "band_product.py": "0a2a243378ced624fa94100d7743bab5209edacda1e3b5a5c2fda6fd0a66791b",
+    "binary_receiver.py": "a7cc759e9a88e60dbcd59ca314ae5b9d39a33b5c642b56e680bbab775b0f06c5",
+    "five_exchange.py": "cf56446080a3b31b654e58d91d3d62dc8790f0f06e3d458775d2723d607ae8fe",
+    "ordinary_carrier.py": "aa1a64d48daf22f3918922481899a460dfe8e70268388e41f133279bc78f141d",
+    "raw_binary_stage.py": "0c805a525322acf4eb03f083c2c763f3046c3d488e1f993beb484a3e2c2ff4a9",
+    "strong-bit.json.gz": "9e7392c52bcf29c0cc58c54c619f95c28f476394c33e8e0a5aa30c9557d31362",
+    "transport.py": "9eb8f0d77a4c53fc4fddffdfe198cab930b6d1f49e2b6d43c970397051bb7818"
+  },
+  "pending": "literal candidate binding and full registered signed replay",
+  "proof_scope": "literal pinned emitter and reduced tape; exact stage parameters on detached profile",
+  "signed_tape_transposition": [
+    {
+      "component_width": 1,
+      "modulus": 3,
+      "paid_exchanges": 3,
+      "records": 81,
+      "wrong_signed_return_rejected": true
+    },
+    {
+      "component_width": 2,
+      "modulus": 9,
+      "paid_exchanges": 1,
+      "records": 6561,
+      "wrong_signed_return_rejected": true
+    }
+  ],
+  "target": "389821057/100000000000",
+  "verified_profiles": {
+    "R390": {
+      "compiled": [
+        {
+          "component_log": 4290,
+          "direct": false,
+          "predecessor_cut": 8290,
+          "rank_log": 129414,
+          "scanned_log": 1100000,
+          "stage": 2
+        },
+        {
+          "component_log": 17160,
+          "direct": false,
+          "predecessor_cut": 137768,
+          "rank_log": 524395,
+          "scanned_log": 4400000,
+          "stage": 3
+        }
+      ],
+      "direct": [
+        {
+          "component_log": 546,
+          "direct": true,
+          "predecessor_cut": 8290,
+          "rank_log": 129414,
+          "scanned_log": 140000,
+          "stage": 2
+        },
+        {
+          "component_log": 2613,
+          "direct": true,
+          "predecessor_cut": 137768,
+          "rank_log": 524395,
+          "scanned_log": 670000,
+          "stage": 3
+        }
+      ],
+      "gaussian_gap": "69117358380085482489/1623601656627200000000000000000",
+      "geometry": {
+        "actual_dense_root_entry_log2": 1431655766,
+        "first_extent_bits_minus_b": -1146342,
+        "largest_axis_width": 715827883,
+        "last_extent_bits_minus_b": -1146341,
+        "log2_axis_count": 1146314,
+        "minimum_width": 586930944,
+        "private_clock_log2_upper": 734182826475,
+        "public_offset_above_2_to_A": 2
+      },
+      "ordinary_gap": "47244969662065588987119903/14076621094912000000000000000000000000",
+      "rates": [
+        "3718088605609114693/1000000000000000000000",
+        "3889553935785780311/1000000000000000000000",
+        "779642106000001/200000000000000000"
+      ],
+      "signed": {
+        "functional": 4,
+        "ordinary_margin": "1/1000000000000000000",
+        "positive_margin": "69117358380085482489/1623601656627200000000000000000",
+        "smallest_margin": "1/10000000000000000000",
+        "strict": 54
+      },
+      "stock": {
+        "absolute_log2_private_control_envelope": 536980483,
+        "binary_cuts": [
+          8290,
+          137768,
+          662227
+        ],
+        "first_public_offset": 2,
+        "initial_s": 1146347,
+        "public_exponent_A": 1146346,
+        "retimed_all_size_margin_floor": 553290,
+        "retimed_first_stripe_margin": 571119,
+        "stage_and_outer_fixed_log_overhead": 1968,
+        "storage_upper": "6.2 p T < 297.6 n bits"
+      }
+    },
+    "R391": {
+      "compiled": [
+        {
+          "component_log": 4290,
+          "direct": false,
+          "predecessor_cut": 8290,
+          "rank_log": 129406,
+          "scanned_log": 1100000,
+          "stage": 2
+        },
+        {
+          "component_log": 17160,
+          "direct": false,
+          "predecessor_cut": 137760,
+          "rank_log": 524403,
+          "scanned_log": 4400000,
+          "stage": 3
+        }
+      ],
+      "direct": [
+        {
+          "component_log": 546,
+          "direct": true,
+          "predecessor_cut": 8290,
+          "rank_log": 129406,
+          "scanned_log": 140000,
+          "stage": 2
+        },
+        {
+          "component_log": 2613,
+          "direct": true,
+          "predecessor_cut": 137760,
+          "rank_log": 524403,
+          "scanned_log": 670000,
+          "stage": 3
+        }
+      ],
+      "gaussian_gap": "4173292114997482489/1623601656627200000000000000000",
+      "geometry": {
+        "actual_dense_root_entry_log2": 1431655766,
+        "first_extent_bits_minus_b": -1146342,
+        "largest_axis_width": 715827883,
+        "last_extent_bits_minus_b": -1146341,
+        "log2_axis_count": 1146314,
+        "minimum_width": 586930944,
+        "private_clock_log2_upper": 734182826475,
+        "public_offset_above_2_to_A": 2
+      },
+      "ordinary_gap": "247522472326115249511719/426570783129600000000000000000000000",
+      "rates": [
+        "3718088605609114693/1000000000000000000000",
+        "194477664078851433/50000000000000000000",
+        "779642114000001/200000000000000000"
+      ],
+      "signed": {
+        "functional": 4,
+        "ordinary_margin": "1/1000000000000000000",
+        "positive_margin": "4173292114997482489/1623601656627200000000000000000",
+        "smallest_margin": "1/10000000000000000000",
+        "strict": 54
+      },
+      "stock": {
+        "absolute_log2_private_control_envelope": 536988675,
+        "binary_cuts": [
+          8290,
+          137760,
+          662227
+        ],
+        "first_public_offset": 2,
+        "initial_s": 1146347,
+        "public_exponent_A": 1146346,
+        "retimed_all_size_margin_floor": 553290,
+        "retimed_first_stripe_margin": 571119,
+        "stage_and_outer_fixed_log_overhead": 1968,
+        "storage_upper": "6.2 p T < 297.6 n bits"
+      }
+    }
+  }
+}
