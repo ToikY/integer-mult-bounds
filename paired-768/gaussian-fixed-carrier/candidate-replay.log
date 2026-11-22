@@ -1,0 +1,120 @@
+CHECK Replay the constructive k7 binary graph on all 630 registers and 36 LOCAL calls, verify all 636 frames and 2353 delta charts, run mod-3 and mod-9 sparse weighted checks, certify BINARY_C, verify K7-STACK-LEDGER.json, and confirm PR #8027 fails BINARY_C.
+PASS_K7_BINARY_CIRCUIT moves=2796 dirty=3426 targets=18906 paid=104652 linear_paid=284592 frames=636 pairs=2353 frame_gates=44734 cells=24 control_8027=rejected
+binary constant-address physical emitter 18906 104652 2353 111 {'routes': 53796, 'elementary_steps': 1310356}
+PASS_K7_RETIMED_BINARY binary
+PASS_GAUSSIAN_FIXED_CARRIER binary
+CHECK Verify RESULT.json across binary/numerical tariffs, all seven installed profiles, entrance bounds, signed outer budgets, and fast placement receipts.
+selected-price A 6913 log2 C <= 92141171
+small A 20345 log2 C <= 301819251
+compact A 161992 log2 C <= 2510262059
+conservative-36k A 1056618 log2 C <= 16719601659
+compact-1m A 2020618 log2 C <= 16931681659
+extended-10m A 11020639 log2 C <= 18911681659
+extended A 21020646 log2 C <= 21111681659
+binary / numerical transport pairs 24 54
+PASS_K7_RETIMED_BINARY cost
+PASS_GAUSSIAN_FIXED_CARRIER cost
+CHECK Check chronology, precision floors, streamed cross-parent loans, and reentrant returns across all profiles.
+ticks, native calls, crossing returns, primitive leaves, retired zeros, noncommuting frames 45 135 50 3648 48 221
+graph 323573 edges 57 direct scalar bits 25146238 basis products 17231591 nontrivial separate divisions
+A source signed grid 4 height/entrance 43 41 Mell 71 ceil-log-mass 238
+rotated source signed grid 8 height/entrance 121 118 Mell 148 ceil-log-mass 436
+bound per causal raw context 148 436
+all listed profiles satisfy the finite reserve and clock inequalities
+fixed width / slots / groups / actual leaves / raw / zero returns / chart checks 4096 1440 3 2958336 75168 88768 51288
+nested same-program stream restored both complete 2,048-row schedules; leaves each 30816
+PASS_K7_RETIMED_BINARY schedule
+PASS_GAUSSIAN_FIXED_CARRIER schedule
+CHECK Generate and check all seven installations, receiver selections, binary chart/frame metadata, and fiscal scans.
+selected-price [5610] 1024
+small [18400] 1600
+compact [9100, 144000] 8500
+conservative-36k [60000, 960000] 36000
+compact-1m [60000, 960000] 1000000
+extended-10m [60000, 960000] 10000000
+extended [60000, 960000] 20000000
+installed binary labels 18906 104652
+binary difference forms and joint charts 2353 111
+rational results and maximum reduced width 14931656 261
+operand-dependent calendars created during fixed setup 0
+expanded packaged input bytes 6788928
+instrumented installation seconds 110.548
+peak resident bytes 665010176
+signed magnitude tapes 21861 plus EOF restoration and two signed product calls
+ordinary dispatcher cold 12 direct rank-two slabs 3 arbitrary direct bytes 78732
+bounded-copy chunk crossings 4; round-trip rectangle slabs 3
+PASS_K7_RETIMED_BINARY install
+PASS_GAUSSIAN_FIXED_CARRIER install
+CHECK Run the literal unpowered binary constant-address emitter, two-scale Gaussian positive word replay, and extended stop exponent bounds.
+binary constant-address physical emitter 18906 104652 2353 111 {'routes': 53796, 'elementary_steps': 1310356}
+original output owners, selected axes, physical writes 105216 13440384 143616
+complete two-column raw path 105216 564144 115056
+{
+  "installed_rank_exponents": [
+    60000,
+    960000,
+    20000000
+  ],
+  "atlas_ports": 105216,
+  "paid_ports": 564144,
+  "coupling_cells": 54,
+  "positive_trial": "1071523491/274877906944",
+  "production_receiver_negative_probe": "short physical field rejected; input preserved",
+  "D_bits": 60,
+  "D_ones": 24,
+  "actual_gate_exponent_pair_traces": [
+    [
+      -1,
+      {
+        "multiply": 83,
+        "successor": 59
+      }
+    ],
+    [
+      0,
+      {
+        "multiply": 83,
+        "successor": 59
+      }
+    ],
+    [
+      1,
+      {
+        "multiply": 83,
+        "successor": 59
+      }
+    ]
+  ]
+}
+PASS_K7_RETIMED_BINARY physical
+PASS_GAUSSIAN_FIXED_CARRIER physical
+CHECK Check public direct and quotient weighted five-exchange shuttles, nonzero eight-rank classes, and exact direct checks.
+physical 2 1 (1, 1, 0, 0) highs 1 children 5 records 648
+physical 2 1 (1, 1, 0, 0) highs 1 children 5 records 648
+physical 3 1 (1, 1, 0, 0) highs 1 children 5 records 2916
+physical 3 1 (1, 1, 0, 0) highs 1 children 3 records 2916
+physical 3 1 (1, 1, 0, 0) highs 1 children 1 records 2916
+physical 2 1 (1, 2, 0, 0) highs 2 children 5 records 26244
+physical 2 1 (2, 1, 0, 0) highs 1 children 3 records 13122
+physical 3 2 (1, 1, 0, 0) highs 1 children 3 records 531441
+physical 2 1 (1, 2, 1, 1) highs 1 children 5 records 531441
+physical cells 1112292 call counts {5: 5, 3: 3, 1: 1} independent modular vectors 2000
+independent columns 2 16 nonzero paid cuts by copy {2: 16, 16: 15} all cuts 564144
+returned owners 105216 active output axes 13440384 nonzero Hilbert dimensions 262144 22300745198530623141535718272648361505980416 peak handles 115056
+all other outputs retained zero; both nonzero states match the independent closed H-kernel formula
+noncommuting 2 3 1 calls 1 records 648
+noncommuting 2 9 0 calls 1 records 52488
+noncommuting 3 3 2 calls 1 records 5832
+noncommuting 3 3 0 calls 1 records 5832
+complete noncommuting direct comparisons 64800
+PASS_K7_RETIMED_BINARY receiver
+PASS_GAUSSIAN_FIXED_CARRIER receiver
+CHECK Verify Gaussian historical stage fences, arena heads, scratch slots, and restoring ordinary shuttles.
+seven binary stages, 20 arena heads and 91 scratch slots per stage; historical bytes 10752 charged movements 125062 Gaussian sibling base 128
+PASS_K7_RETIMED_BINARY slabs
+PASS_GAUSSIAN_FIXED_CARRIER slabs
+CHECK Run physical_product(EXTENDED) at numerical_H=20000000 and verify product -345550037539, coefficients prefix, and restored owners.
+{'product': '-345550037539', 'bits': [20, 19], 'H_calls': 157248, 'coefficients_prefix': [11811, 10996, 4152, 868, 77], 'seconds': 71.2073, 'shuttles': 138, 'padded_bytes': 633744, 'rank': 2, 'stage_body_records': 6561}
+PASS_K7_RETIMED_BINARY product
+PASS_GAUSSIAN_FIXED_CARRIER product
+PASS_REGISTERED_RESEARCH_PACKAGE research/p104-gaussian-fixed-carrier outcome=completed
