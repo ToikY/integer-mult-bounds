@@ -1,0 +1,173 @@
+CHECK Check the complete signed price, both directed ordinary factor grids and true forced Gaussian placement.
+PASS_WEIGHTED_COMPLETE_PRICE 318293031
+PASS_DIRECTED_ORDINARY_DEBIT 703/512 375/376
+PASS_INDEPENDENT_WEIGHTED_AND_QUARTER_PRICES
+[
+  {
+    "H": 1024,
+    "cell": [
+      1,
+      112,
+      1,
+      258
+    ],
+    "share": "1/624",
+    "rotated_roots": 384,
+    "first_root": [
+      "root",
+      "rotated",
+      0,
+      4080,
+      1
+    ],
+    "period": 1364,
+    "tickets": [
+      0,
+      272,
+      545
+    ],
+    "first_swap": [
+      1,
+      272,
+      1
+    ]
+  },
+  {
+    "H": 484799,
+    "cell": [
+      1,
+      112,
+      1,
+      258
+    ],
+    "share": "1/624",
+    "rotated_roots": 384,
+    "first_root": [
+      "root",
+      "rotated",
+      0,
+      4080,
+      1
+    ],
+    "period": 1364,
+    "tickets": [
+      0,
+      272,
+      545
+    ],
+    "first_swap": [
+      1,
+      272,
+      1
+    ]
+  }
+]
+PASS_ORDINARY_DEBIT price
+CHECK Check both literal stage seam geometries, bounded signed tapes, old-debit control and the new Gaussian constructor.
+PASS_TWO_NATIVE_TYPES 2048 1040 2 (13600, 26400) 951040 (4684, 22252) 37152 {(0, 1), (1, 0), (1, 1)}
+[
+  {
+    "frequency": [
+      1,
+      3
+    ],
+    "raw_frames": 7620,
+    "directed_bindings": {
+      "(1, 1)": 2688,
+      "(1, 0)": 420,
+      "(0, 1)": 704
+    },
+    "depth": 3,
+    "peak_simultaneous_frames": 4484,
+    "external_opens": 192,
+    "zeros": 9232,
+    "external_rows": 1152,
+    "positive_periods": [
+      16
+    ],
+    "leaf_axes": 377008,
+    "same_tick_return_before_next_loan": 3392
+  },
+  {
+    "frequency": [
+      1,
+      90
+    ],
+    "raw_frames": 25120,
+    "directed_bindings": {
+      "(1, 1)": 12320,
+      "(1, 0)": 12,
+      "(0, 1)": 24
+    },
+    "depth": 3,
+    "peak_simultaneous_frames": 16848,
+    "external_opens": 14912,
+    "zeros": 22628,
+    "external_rows": 39040,
+    "positive_periods": [
+      8,
+      12,
+      16
+    ],
+    "leaf_axes": 862608,
+    "same_tick_return_before_next_loan": 12344
+  },
+  {
+    "frequency": [
+      5,
+      451
+    ],
+    "raw_frames": 25152,
+    "directed_bindings": {
+      "(1, 1)": 12384,
+      "(1, 0)": 12,
+      "(0, 1)": 24
+    },
+    "depth": 3,
+    "peak_simultaneous_frames": 16868,
+    "external_opens": 15104,
+    "zeros": 22436,
+    "external_rows": 39552,
+    "positive_periods": [
+      8,
+      12,
+      16
+    ],
+    "leaf_axes": 862544,
+    "same_tick_return_before_next_loan": 12408
+  }
+]
+PASS_LITERAL_UPPER_FENCE 1724 1874 (1024, 484799)
+PASS_LITERAL_LOWER_CUTOFF 1874 (1866, 3732) [(0, 0, 3748, 4), (0, 1, 3748, 390), (0, 0, 3750, 4), (0, 1, 3750, 389), (1, 0, 3748, 390), (1, 1, 3748, 35187), (1, 0, 3750, 389), (1, 1, 3750, 35150)] 523324250322
+PASS_LITERAL_ORDINARY_DEBIT {"old_debit_negative_gap": "850149274386459982010112856777/232883691645881968230400000000000000000", "seven_level_negative_gap": "949618999849667259182401851/233169615645211570995200000000000000000", "signed_tape": [{"component_width": 1, "modulus": 3, "paid_exchanges": 3, "records": 81, "wrong_signed_return_rejected": true}, {"component_width": 2, "modulus": 9, "paid_exchanges": 1, "records": 6561, "wrong_signed_return_rejected": true}], "stage_seams": [{"compiled": [{"component_log": 4290, "direct": false, "predecessor_cut": 8290, "rank_log": 129406, "scanned_log": 1100000, "stage": 2}, {"component_log": 17160, "direct": false, "predecessor_cut": 137760, "rank_log": 524403, "scanned_log": 4400000, "stage": 3}], "cuts": [8290, 137760, 662227], "direct": [{"component_log": 546, "direct": true, "predecessor_cut": 8290, "rank_log": 129406, "scanned_log": 140000, "stage": 2}, {"component_log": 2613, "direct": true, "predecessor_cut": 137760, "rank_log": 524403, "scanned_log": 670000, "stage": 3}], "ranks": [8192, 129406, 524403]}, {"compiled": [{"component_log": 4290, "direct": false, "predecessor_cut": 8290, "rank_log": 129406, "scanned_log": 1100000, "stage": 2}, {"component_log": 17160, "direct": false, "predecessor_cut": 137760, "rank_log": 523763, "scanned_log": 4400000, "stage": 3}], "cuts": [8290, 137760, 661587], "direct": [{"component_log": 546, "direct": true, "predecessor_cut": 8290, "rank_log": 129406, "scanned_log": 140000, "stage": 2}, {"component_log": 2613, "direct": true, "predecessor_cut": 137760, "rank_log": 523763, "scanned_log": 670000, "stage": 3}], "ranks": [8192, 129406, 523763]}]}
+PASS_ORDINARY_DEBIT calendar
+CHECK Execute both nonzero signed native jobs and restore all physical owners.
+PASS_TYPED_RAW48 0 columns 2 paid 282576 nonzero 16 writes 71808 peak 62448
+PASS_TYPED_RAW48 1 columns 4 paid 281568 nonzero 15 writes 71808 peak 62448
+PASS_ORDINARY_DEBIT raw
+CHECK Generate the first exterior births and return all owners through the actual signed words.
+PASS_EXTERIOR_TYPED_RAW (23675909805548, 2135567064460396) 73 105216 564144 [4456224, 234] [0, 121432]
+PASS_ORDINARY_DEBIT exterior
+CHECK Carry the actual nonzero cross-type nested loan and verify both owner returns.
+real nested transfer completed 3418 ('helper', 9977, 0, 14) [281568, 2]
+PASS_NONZERO_INTERIOR 282576 281568 9841 4507783464 2 [0, 118692]
+PASS_ORDINARY_DEBIT nested
+CHECK Execute the exact signed product and independently verify coefficients and restoration.
+{"H_calls": 157248, "bits": [20, 19], "coefficients_prefix": [11811, 10996, 4152, 868, 77], "padded_bytes": 633744, "product": "-345550037539", "rank": 2, "seconds": 72.7376, "shuttles": 138, "stage_body_records": 6561}
+PASS_WEIGHTED_SIGNED_PRODUCT
+PASS_ORDINARY_DEBIT product
+CHECK Check canonical serial division, Bézout, rational arithmetic and the conservative fixed native setup tape bound.
+{
+  "integer_pairs": 4071,
+  "rational_cases": 7396,
+  "max_datum_bits": 274877906944,
+  "lookup": 170141183460469231731687303715884105728,
+  "local_arithmetic": 297105609434291902295870930944,
+  "all_setup": 217364570380528137475793294892811967875864032914108887556978854854656,
+  "setup_exponent": 228
+}
+PASS_ORDINARY_DEBIT setup
+PASS_REGISTERED_RESEARCH_PACKAGE research/p104-weighted-ordinary-debit outcome=completed
+real 184.20
+user 128.53
+sys 52.87

@@ -1,0 +1,290 @@
+{
+  "all_depth_multiplier": 376,
+  "all_size_child_factor": "47/20",
+  "all_size_live_bits_per_input_upper": "297.6",
+  "archive_files": 88,
+  "comparator": "ffa64503646a62a7ac3cd2c47787d670da911f89",
+  "delta_kappa": "23/50000000000",
+  "directed_debit_headroom_floor_1e15": 757371760683,
+  "factor_upper_1e15": 2589412782509401,
+  "frozen_candidate": {
+    "build.log": "95f8c4c57972e1b0eb2fd4a7b6d41a405b4147b1f8d7238e8ec75042da72cb43",
+    "capsule/PEER-SOURCE.json": "798c2e6394c258986484a116198cc542a6d2b4c1f289e5816de2cfecf5141c51",
+    "capsule/RESULT.json": "44b2d59a1b7e6d7f3336567dbdd4fe27b6ee3b64edd97172698aafdc91db9383",
+    "capsule/SOURCES.json": "b3197501bae90ec16c4d99c186e74dfe28e0f5f730e6b8bb94e2d0ce78bcf69c",
+    "capsule/TASK.json": "cf935271a848ffcff8c93afcbd363807cb03fab2c268d4a0cffe42c587fc169b",
+    "capsule/VERIFY.json": "f3413a19f8215ce676bb59e5689b96c2a06188ab315d6bfb1d8735b38d32f6f2",
+    "capsule/check_cutoff.py": "b1b6fbe1315951d6bcc4a50315f0e0ef2b7e23ac0a0e347ca37f670eb32fb513",
+    "capsule/check_stage_seam.py": "ef535bf51e58d98395513e364e4ff3578700b0b382bd2d339b7332993e0bc813",
+    "capsule/peer8057.tar.gz": "0e0d559bdb15e7b647f88a2b5e27fcdc9e28e81d8f4145459876ba6da2e9314c",
+    "capsule/prepare.py": "48fca2618df3f3483c1640c8c77ded20cc3aeb37232c69e10466c9a5b323d098",
+    "capsule/verify.py": "239630f70df579ecc4f54d55595f1eb1a821223bbd4b3c8b58606049983e0fb2"
+  },
+  "full_recurring_log2": 318293031,
+  "gain_percent": "4600/389821057",
+  "kappa": "389821103/100000000000",
+  "literal_exterior": [
+    {
+      "H": 1024,
+      "cell": [
+        1,
+        112,
+        1,
+        258
+      ],
+      "first_root": [
+        "root",
+        "rotated",
+        0,
+        4080,
+        1
+      ],
+      "first_swap": [
+        1,
+        272,
+        1
+      ],
+      "period": 1364,
+      "rotated_roots": 384,
+      "share": "1/624",
+      "tickets": [
+        0,
+        272,
+        545
+      ]
+    },
+    {
+      "H": 484799,
+      "cell": [
+        1,
+        112,
+        1,
+        258
+      ],
+      "first_root": [
+        "root",
+        "rotated",
+        0,
+        4080,
+        1
+      ],
+      "first_swap": [
+        1,
+        272,
+        1
+      ],
+      "period": 1364,
+      "rotated_roots": 384,
+      "share": "1/624",
+      "tickets": [
+        0,
+        272,
+        545
+      ]
+    }
+  ],
+  "literal_ordinary": {
+    "old_debit_negative_gap": "850149274386459982010112856777/232883691645881968230400000000000000000",
+    "seven_level_negative_gap": "949618999849667259182401851/233169615645211570995200000000000000000",
+    "signed_tape": [
+      {
+        "component_width": 1,
+        "modulus": 3,
+        "paid_exchanges": 3,
+        "records": 81,
+        "wrong_signed_return_rejected": true
+      },
+      {
+        "component_width": 2,
+        "modulus": 9,
+        "paid_exchanges": 1,
+        "records": 6561,
+        "wrong_signed_return_rejected": true
+      }
+    ],
+    "stage_seams": [
+      {
+        "compiled": [
+          {
+            "component_log": 4290,
+            "direct": false,
+            "predecessor_cut": 8290,
+            "rank_log": 129406,
+            "scanned_log": 1100000,
+            "stage": 2
+          },
+          {
+            "component_log": 17160,
+            "direct": false,
+            "predecessor_cut": 137760,
+            "rank_log": 524403,
+            "scanned_log": 4400000,
+            "stage": 3
+          }
+        ],
+        "cuts": [
+          8290,
+          137760,
+          662227
+        ],
+        "direct": [
+          {
+            "component_log": 546,
+            "direct": true,
+            "predecessor_cut": 8290,
+            "rank_log": 129406,
+            "scanned_log": 140000,
+            "stage": 2
+          },
+          {
+            "component_log": 2613,
+            "direct": true,
+            "predecessor_cut": 137760,
+            "rank_log": 524403,
+            "scanned_log": 670000,
+            "stage": 3
+          }
+        ],
+        "ranks": [
+          8192,
+          129406,
+          524403
+        ]
+      },
+      {
+        "compiled": [
+          {
+            "component_log": 4290,
+            "direct": false,
+            "predecessor_cut": 8290,
+            "rank_log": 129406,
+            "scanned_log": 1100000,
+            "stage": 2
+          },
+          {
+            "component_log": 17160,
+            "direct": false,
+            "predecessor_cut": 137760,
+            "rank_log": 523763,
+            "scanned_log": 4400000,
+            "stage": 3
+          }
+        ],
+        "cuts": [
+          8290,
+          137760,
+          661587
+        ],
+        "direct": [
+          {
+            "component_log": 546,
+            "direct": true,
+            "predecessor_cut": 8290,
+            "rank_log": 129406,
+            "scanned_log": 140000,
+            "stage": 2
+          },
+          {
+            "component_log": 2613,
+            "direct": true,
+            "predecessor_cut": 137760,
+            "rank_log": 523763,
+            "scanned_log": 670000,
+            "stage": 3
+          }
+        ],
+        "ranks": [
+          8192,
+          129406,
+          523763
+        ]
+      }
+    ]
+  },
+  "literal_stages": [
+    [
+      8290,
+      0,
+      1,
+      1,
+      0
+    ],
+    [
+      137760,
+      1,
+      2,
+      2,
+      1
+    ],
+    [
+      661587,
+      2,
+      3,
+      3,
+      2
+    ]
+  ],
+  "native_setup_ceiling_log2": 228,
+  "old_debit_ideal_shortfall": "850149274386459982010112856777/232883691645881968230400000000000000000",
+  "old_installed_cap": "1662862735896506872198115249511719/426570783129600000000000000000000000",
+  "ordinary_headroom_both_tiers": [
+    "51366735454843837956394099357/10334765056000000000000000000000000",
+    "8963498311161010996394401699/70298279870464000000000000000000000000"
+  ],
+  "proof_commit": "dfd25d553a843a946ca0b94130a5ff8943e98fdd",
+  "proof_sources": {
+    "ORDINARY-CLOCK.md": {
+      "git_blob": "7155d52a9006c044e8df87f9cf320f3cef61d58c",
+      "sha256": "4694db0b2218796e348c1128271cebb3fc779151a639b0e0fb5bbecf9f3ccb94"
+    },
+    "RECEIVER.md": {
+      "git_blob": "90ed818f7273a9cd275ade1774f87ffa94f42a5c",
+      "sha256": "f31089b6304fc5352feb9aa8a963cc5a950a828165d3426e16e8a973529d814e"
+    },
+    "TRANSFER.md": {
+      "git_blob": "c8a5afa257aeddb47825e843b1c9063f9b9a05e3",
+      "sha256": "7164831a5dd9f5c6231bf4c3f4b2061d91cbfab559071a0a5d68966e3f7ac55c"
+    }
+  },
+  "same_envelope_fails_at_702_over_512": true,
+  "same_stage_two_moment_ratio": "375/376",
+  "sealed_prior_evidence": {
+    "round375/independent/coupling.py": "fb54f24864288855e15e979549c64449ef350c1cebe008342dda946ba1d941e4",
+    "round378/independent/accept.py": "001284bf901f84def95ff270e4012bab16a3875e1ee6de3d3ae490c5980e341e",
+    "round391/price/check.py": "5a5e8b7c8f96703986b02760386b0790e4019a781e3ee47e1200a0cc356db687",
+    "round392/exact-head": "6e3af7c5273d0d0bbd0767b4b67e19696b5b16ea6b5c07fb87a91bfebe0d8cab",
+    "round392/historical.exit": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa",
+    "round392/historical.log": "082fffa25c8dd69397b6d5f4c9c852105930e00e5e952cd4f78b45047773c34b",
+    "round392/independent/verified.json": "dcf57d8bab8cfc76769b0f9d8b570d233e670032b8ab2aed481172ff21c3c2a9",
+    "round392/onboarding.exit": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa",
+    "round392/onboarding.log": "0296ae70bb5bc5a88f2f2a54480840e2d6c33c2d44fb128439a7eee241368c0d",
+    "round392/preflight.log": "910725b496aced72618a0d222532fa129e3251ee37dad247306065fdea168291",
+    "round392/publish/research/p104-weighted-ordinary-transfer/RESULT.json": "65b29858741c054434863612a357b9c6b833d8865530812659943293ff1155f5",
+    "round392/publish/research/p104-weighted-ordinary-transfer/VERIFY.json": "fa5bb791bbc6c8a7fb9069c41c2ef3a1a2903fc6c1af0ebd53a3d01559bc5252",
+    "round392/publish/research/p104-weighted-ordinary-transfer/prepare.py": "3862a6fb149d5d35be194ace5dd9c135013e46abdaa3d6396641a85af794e788",
+    "round392/scientific.exit": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa",
+    "round392/scientific.log": "1e2ac85c87da9e425180b85ccff811f508ebb4b28035cc7ab898a918fe3aaff5",
+    "round393/audit/check.py": "d1b52c5b3bec3395fc193d099186c14441a464faea337bcee2ff35663f054bcf",
+    "round393/audit/receipt.json": "a37b7cd070bc2d78d163dd7bba8bb97d37a3a829df4f5420a58ed8ab7abf1a21",
+    "round393/price/COMPLETE.json": "6989eb5749cde5e3343f81aaa4a98792af2fe852b37b9981e60ce36aa866ed48",
+    "round393/price/receipt.json": "07645666c11fa427e8b039fec0eebf2e6b9858d1d43919ff117cad48292a891d"
+  },
+  "setup_width_bits": 19,
+  "status": "INDEPENDENT_LITERAL_DEBIT_ACCEPTANCE_PASS; FULL_REGISTERED_SUITE_SEPARATE",
+  "strict_old_cap_separation": "195975037767289884750488281/426570783129600000000000000000000000",
+  "terminal_gaussian_headroom": "53037279067565726041/1626715507916800000000000000000",
+  "unchanged_native_sources": {
+    "research/frequency-weighted-native-multiplier/check_calendar.py": "1c51b8bd75ef2d9d8847b2ebf88d7dbcc44d89954146c2bdede8854915392b8c",
+    "research/frequency-weighted-native-multiplier/check_exterior.py": "7dcd0eb6c347d7b221324035bc1f63dec03ff777fbfa54c9076f7f2bbb30f190",
+    "research/frequency-weighted-native-multiplier/check_nested.py": "440098e5bda9b82af48c5b4cbbcecda5f68627699f25afd0f4817b8fe0779d91",
+    "research/frequency-weighted-native-multiplier/check_ownership.py": "30c711187e5e66cd631764564fefa8e53e083837d5b8b85de9b0af1848602f5f",
+    "research/frequency-weighted-native-multiplier/check_placement.py": "a4528ff4e0dd973bcb1f990fc4f5c0395b1c881951f7af0fa6d2a2292cfb6b73",
+    "research/frequency-weighted-native-multiplier/check_raw.py": "d62d50279969bfecf23d2e14412949fa643394c1539ccb87db7dac5f79e2d97e",
+    "research/frequency-weighted-native-multiplier/grades.py": "6124744b40f806c80b6f10010a72e755bc11d64a8cc9a04f5e8316799eb6f05d",
+    "research/frequency-weighted-native-multiplier/positive_debit.py": "fb222a5735057269602f9315b17c515e76fb9e05f962dd52a72d7f0558045c32",
+    "research/frequency-weighted-native-multiplier/typed_raw.py": "0c268432c9d48798c17d927f2d900b5e69dfc6585166cd71f253913e389c3b47",
+    "research/frequency-weighted-native-multiplier/typed_transport.py": "b76b9ad3dc0dd91473026c079585f830387eaa3c34c25a7820ee5057d5cbf941",
+    "research/frequency-weighted-native-multiplier/verify.py": "f5c6cf4789a600130feb301795d26ce5054797d42044c599c5136599cf17e899",
+    "research/tiered-native-multiplier/source/strong-bit-k7.json.gz": "9e7392c52bcf29c0cc58c54c619f95c28f476394c33e8e0a5aa30c9557d31362"
+  }
+}

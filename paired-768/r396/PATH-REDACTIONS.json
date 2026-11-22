@@ -1,0 +1,14 @@
+{
+  "build.log": {
+    "public": "3c222ec84a7fa81c34381b8cc028d110e3782f32669229115c6bc40ee9843c75",
+    "sealed": "5cc7efc8ee18c65e08bfd9e9eb20a9425ab5ce9a993a1427c1a7ef70affb08ce"
+  },
+  "round394/onboarding.log": {
+    "public": "6b71d55e3b4ee0eefd780c05b95e2f0421497f1c92678a44d0293ae0f6553c2a",
+    "sealed": "6a68311f13115aef020249a190cd240788fcfede993afc05e1ad38bfc008c0ac"
+  },
+  "round395/price/COMPLETE.json": {
+    "public": "d7a0ccf32b231baaf3685ff3253e1b815d307a366dc19a740b49784b02b03aea",
+    "sealed": "58aa0edbeab98b8ddf7ff61ef0c90185b518145f580e92d93ce5d7790b7779ea"
+  }
+}
