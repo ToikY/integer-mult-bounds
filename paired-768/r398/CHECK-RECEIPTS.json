@@ -1,0 +1,23 @@
+{
+  "exact_head": "8c800e1b6458526e1ce7a59150bba8a0d29d0027",
+  "local": {
+    "historical": {
+      "exit_code": 0,
+      "public_log_sha256": "082fffa25c8dd69397b6d5f4c9c852105930e00e5e952cd4f78b45047773c34b",
+      "sealed_log_sha256": "082fffa25c8dd69397b6d5f4c9c852105930e00e5e952cd4f78b45047773c34b",
+      "traceback_paths_redacted": 0
+    },
+    "onboarding": {
+      "exit_code": 0,
+      "public_log_sha256": "d058f8c683d9c1ca7dda58ff8c59a26904dcfbb5e14c2640c3739bd4c897f365",
+      "sealed_log_sha256": "a99b849d5f45043ff14e9095b0b33a3dc9d9cd3e5c976f602fc9b4b1f0979f0f",
+      "traceback_paths_redacted": 1
+    },
+    "scientific": {
+      "exit_code": 0,
+      "public_log_sha256": "f19b872e95e07dbfe1e02ca7d979d625f4e550b0d612cfe66dd3425017a4ddc6",
+      "sealed_log_sha256": "f19b872e95e07dbfe1e02ca7d979d625f4e550b0d612cfe66dd3425017a4ddc6",
+      "traceback_paths_redacted": 0
+    }
+  }
+}
