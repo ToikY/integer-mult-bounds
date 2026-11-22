@@ -185,3 +185,7 @@ The exact authenticated 51-edge weighted profile completed all seven scientific 
 ## Round 379 · a complete price exclusion for frequency 91
 
 At least nine real doubled-width splits would be necessary to repair the high cut. Their repeated paid cost rules out the whole fixed-height family even under optimistic remaining charges. [Exact scope, source and clean replay](r379/README.md)
+
+## Round 380 · actual integer frequency screen
+
+One complete predicted price and physical scheduling check support building the 8-to-721 birth profile. Fixed ordinary heights are independently ruled out for the new target. [Source, scope and runnable receipts](r380/README.md)
