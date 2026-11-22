@@ -1,0 +1,7 @@
+CHECK Selected-checker frozen pin and live digest, all 19 historical admission rejections on seven paths, pin-membership control, and the exact 01885346..2485805 helper plan including its empty-diff control.
+Planning includes 3864 unchanged sparse manifests from HEAD; materialize packages and inputs before replay.
+Planning includes 3864 unchanged sparse manifests from HEAD; materialize packages and inputs before replay.
+PASS_HISTORICAL_SELECTED_REPLAY_GAP
+selected_checker_live=d6b305eac5b9bdb8172c469ad30a1655a60fa0aceac8b1bf610e1b73f51babd8
+rejections=19 distinct_paths=7 plan_packages=9
+PASS_REGISTERED_RESEARCH_PACKAGE research/historical-selected-replay-gap outcome=partial
