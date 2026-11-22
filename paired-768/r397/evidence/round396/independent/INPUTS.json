@@ -1,0 +1,14 @@
+{
+  "build.log": "5cc7efc8ee18c65e08bfd9e9eb20a9425ab5ce9a993a1427c1a7ef70affb08ce",
+  "capsule/PEER-SOURCE.json": "798c2e6394c258986484a116198cc542a6d2b4c1f289e5816de2cfecf5141c51",
+  "capsule/RESULT.json": "8754f0ffe158404b2f3df2a9e94ce20b77b2e7e62882794d614b7eea2c6bdb60",
+  "capsule/SOURCES.json": "b3197501bae90ec16c4d99c186e74dfe28e0f5f730e6b8bb94e2d0ce78bcf69c",
+  "capsule/TASK.json": "09f9f02cafab9ad514f490bf2fb84ea051aaabcb98c54969b7977d2986e44135",
+  "capsule/VERIFY.json": "66be970197a0cb5216dfaf5b9336b8f394bbd2b5fe9189ebbd6cb5b5eb16a436",
+  "capsule/check_cutoff.py": "f5375158af7c07cc0df21b035a012b262d7529f1af57ec311749832df5c23e3a",
+  "capsule/check_ordinary_floor.py": "6961893d858da143c2d658bec56bb38cb99522b5fc48e3218b50682cc49a3b10",
+  "capsule/check_stage_seam.py": "baf4fd54470b4c3ff4089ef0cf549a93be926392bd0a0592c372185a9f3e94ca",
+  "capsule/peer8057.tar.gz": "0e0d559bdb15e7b647f88a2b5e27fcdc9e28e81d8f4145459876ba6da2e9314c",
+  "capsule/prepare.py": "e4dea11a94e13b7ae5a70544e6dff8fdcc0de98533767cd04c1aadff95766682",
+  "capsule/verify.py": "0d5f7941aee774405de60b61443e517eb3cb680f094801af84ad802c5c4fd206"
+}
