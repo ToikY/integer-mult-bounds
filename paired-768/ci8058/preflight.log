@@ -1,0 +1,6 @@
+PASS_PACKAGE_METADATA_AND_PINS (not a mathematical acceptance check)
+PASS_RESEARCH_COMMIT_BYTES {"commit": "622700947484d1a742019ce752f926acffc9b780", "files": 12, "package": "research/p104-compact-rounded-partitions-numerical-replay", "executable_modes_checked": true, "source_history_commits": ["0618e75a22cec54d1651394ef83d088551b7f026", "81f578a512bac27b373cc7868981e45b62f2ce3d"]}
+PASS_PACKAGE_METADATA_AND_PINS (not a mathematical acceptance check)
+PASS_RESEARCH_COMMIT_BYTES {"commit": "622700947484d1a742019ce752f926acffc9b780", "files": 12, "package": "research/p104-compact-rounded-partitions-numerical-copy-474", "executable_modes_checked": true, "source_history_commits": ["0618e75a22cec54d1651394ef83d088551b7f026", "81f578a512bac27b373cc7868981e45b62f2ce3d"]}
+PASS_PACKAGE_METADATA_AND_PINS (not a mathematical acceptance check)
+PASS_RESEARCH_COMMIT_BYTES {"commit": "622700947484d1a742019ce752f926acffc9b780", "files": 12, "package": "research/p104-compact-rounded-partitions-numerical-phase-census", "executable_modes_checked": true, "source_history_commits": ["0618e75a22cec54d1651394ef83d088551b7f026", "81f578a512bac27b373cc7868981e45b62f2ce3d"]}
