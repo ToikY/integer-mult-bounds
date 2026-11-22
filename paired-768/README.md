@@ -193,3 +193,7 @@ One complete predicted price and physical scheduling check support building the 
 ## Round 381 · complete real integer frequency replay
 
 The 8-to-721 literal profile completes all seven registered scopes at conditional κ = 0.00389821033. The exact comparison, complete signed product, nested return and independent proof reproduce cleanly. [Exact verification and inputs](r381/README.md)
+
+## Round 382 · a smaller integer birth cohort
+
+The exact `(6,541)` arithmetic and actual typed calendar pass their bounded screening. The preceding frequency cannot fund the new raw trial. [Pinned inputs and runnable scope](r382/README.md)

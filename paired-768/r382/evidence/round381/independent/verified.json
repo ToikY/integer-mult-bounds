@@ -1,0 +1,32 @@
+{
+  "complete_log2_C": 318280871,
+  "delta_vs_8059": "3/100000000000",
+  "directed_and_nested": {
+    "new_raw_margin_lower": "1548160318952564665318070300841/162259276829213363391578010288128",
+    "old_frequency_upper_at_new_trial": "-417171107053946817318538848891/162259276829213363391578010288128",
+    "real_nested_grant": 7206456401,
+    "same_individual_top_share": "1/624",
+    "typed_cells": 88
+  },
+  "identical_phase_and_calendar_implementation_hashes": {
+    "check_calendar.py": "1c51b8bd75ef2d9d8847b2ebf88d7dbcc44d89954146c2bdede8854915392b8c",
+    "check_raw.py": "d62d50279969bfecf23d2e14412949fa643394c1539ccb87db7dac5f79e2d97e",
+    "typed_raw.py": "0c268432c9d48798c17d927f2d900b5e69dfc6585166cd71f253913e389c3b47",
+    "typed_transport.py": "b76b9ad3dc0dd91473026c079585f830387eaa3c34c25a7820ee5057d5cbf941"
+  },
+  "literal_pins": {
+    "RESULT.json": "1e5bbb53b1d373bd0499cfd3c2a4a9c4ff232058988cc0d23af6e053f48eb5fd",
+    "prepare.py": "610541709f30ee19578da1825bfa47268a21760b7a121efd389f23e92bdb0f32"
+  },
+  "opening_total": 729,
+  "pinned_evidence": {
+    "round366/gaussian/receipt.json": "9e1206f26d124f9f788a96ff43453195c4ae8c9b679acbf8a0ca132c80a5b7a1",
+    "round375/independent/coupling.py": "fb54f24864288855e15e979549c64449ef350c1cebe008342dda946ba1d941e4",
+    "round378/independent/accept.py": "001284bf901f84def95ff270e4012bab16a3875e1ee6de3d3ae490c5980e341e",
+    "round380/calendar/receipt.json": "09b1203a05ab1e679fd16f652ec93b7bfed8183fb450397f94234d4a0d65f3c4",
+    "round380/price/receipt.json": "19299504743a95e14786310f96de73d850f698e2fd3f084b26758c3f9c9e3f9f",
+    "round381/build.log": "3cd53012b8db76a74f415c5e5e0afd7d6bd8989064251ab56bd4621b2c8d9970"
+  },
+  "status": "LITERAL PRICE AND EXISTING NESTED RECEIPT PASS; REGISTERED SUITE SEPARATE",
+  "verified_original_archive_files": 88
+}

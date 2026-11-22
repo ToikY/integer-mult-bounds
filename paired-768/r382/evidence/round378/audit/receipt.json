@@ -1,0 +1,155 @@
+{
+  "cell_counts": [
+    51,
+    88
+  ],
+  "complete_recurring_log2_C": 318278951,
+  "delta_vs_8058": "1/4000000000",
+  "entry": {
+    "gaussian_gap": "1098554003670637519659/3355443200000000000000000",
+    "geometry": {
+      "actual_dense_root_entry_log2": 11184812,
+      "first_extent_bits_minus_b": -7433,
+      "largest_axis_width": 5592406,
+      "last_extent_bits_minus_b": -7432,
+      "log2_axis_count": 7412,
+      "minimum_width": 3809536,
+      "private_clock_log2_upper": 5734316302,
+      "public_offset_above_2_to_A": 4
+    },
+    "kappa": "69/20000",
+    "log2_B": 125433359,
+    "log2_C": 125660241,
+    "ordinary_final_gap": "4073867641634530723308554487/939524096000000000000000000000000",
+    "ordinary_rates": [
+      "3428763898577864693/1000000000000000000000",
+      "690000000000001/200000000000000000"
+    ],
+    "signed": {
+      "functional": 4,
+      "ordinary_margin": "1/1000000000000000000",
+      "positive_margin": "1098554003670637519659/3355443200000000000000000",
+      "smallest_margin": "1/10000000000000000000",
+      "strict": 54
+    },
+    "stock": {
+      "absolute_log2_private_control_envelope": 3153922,
+      "binary_cuts": [
+        3077,
+        6221
+      ],
+      "first_public_offset": 4,
+      "initial_s": 7438,
+      "public_exponent_A": 7437,
+      "retimed_all_size_margin_floor": 1635,
+      "retimed_first_stripe_margin": 1701,
+      "stage_and_outer_fixed_log_overhead": 1964,
+      "storage_upper": "6.2 p T < 297.6 n bits"
+    }
+  },
+  "entry_fee_bits": 514,
+  "exact_fringe_upper_1e9": 7335167655,
+  "exact_psi_lower_floor_1e4": 1849711912157,
+  "finite_factor_reserve_lower_1e12": 12868675,
+  "finite_factor_upper_1e12": 1089722369813,
+  "first_public_offset": 2,
+  "fixed_datum_bits_upper": 274877906944,
+  "fixed_grade_recipe_actions_upper": 269064192,
+  "fixed_native_record_store_upper": 324518553658426726783156020576256,
+  "fixed_native_setup_clock_log2_upper": 228,
+  "fixed_native_setup_clock_upper": 217364570380528137475793294892811967875864032914108887556978854854656,
+  "fixed_recipe_shape": [
+    [
+      3000,
+      3080,
+      1024
+    ],
+    [
+      8192,
+      129414,
+      524349,
+      483871
+    ]
+  ],
+  "gaussian_debit": "8125/65536",
+  "gaussian_raw": "17145637167/4398046511104",
+  "kappa_candidate": "38982103/10000000000",
+  "literal_widths": [
+    1,
+    2
+  ],
+  "max_share_bits_observed": 262,
+  "peer_exact_head": "cbe847a953b971f9c6c5a0a6661e2008acd29086",
+  "physical_counts": [
+    [
+      52608,
+      282576
+    ],
+    [
+      52608,
+      281568
+    ]
+  ],
+  "pins": {
+    "frequency-weighted-native-multiplier/FINITE-LOSS.md": "12c6069437a0cbb61c80804f89f027ef9709c186e67d26fb0584ad6e71048052",
+    "frequency-weighted-native-multiplier/PROOF.md": "4dbb38cdbe5b691edf4845fe8cf2a99be5d43455cc73199ab7e305abaa91acca",
+    "frequency-weighted-native-multiplier/RESULT.json": "2f4faa6648592f589df22a8a0a07ba6856d20786294a44a7776c7d6e0efa14a5",
+    "frequency-weighted-native-multiplier/SOURCES.json": "01d9e6b6b28cd174800cadfb59f4f064b3844575da297d82e16eb19a0d11c868",
+    "frequency-weighted-native-multiplier/bootstrap.py": "a824c0ba9bb5efe5ad5b6c9b891b363b6d2ac31b0a57b9e27b68a6c2bca6f7ee",
+    "tiered-native-multiplier/SETUP.md": "6951a98f2f8a0bf73c8d60b16ebbbd66bf87584251df8afbefe4e3a0330bfbf3",
+    "tiered-native-multiplier/check_serial_setup.py": "11d1c3209cb523a360ab9abaefb3122507fdf5cb469169890fe2dac636812c47",
+    "tiered-native-multiplier/source/activation.py": "6e7f89d40a4d10ecd40a50e5b96334dfc64db90841ece7e3ef12eeca5ee5093b",
+    "tiered-native-multiplier/source/ordinary_clock.py": "91dcf0ef72dddbde998b80f3d8b30c8036de9ce97e06e2bbd9c4159bf292020d",
+    "tiered-native-multiplier/source/outer_budget.py": "ca4438db28a447ed5c43d87d43f0ac10a0cb2b4e183342ac93139d517b9d4d02"
+  },
+  "scope": "native fixed compiler and exact price audit; full new scientific replay pending",
+  "terminal": {
+    "gaussian_gap": "32462740747114919989/1623601656627200000000000000000",
+    "geometry": {
+      "actual_dense_root_entry_log2": 1431655766,
+      "first_extent_bits_minus_b": -1146296,
+      "largest_axis_width": 715827883,
+      "last_extent_bits_minus_b": -1146295,
+      "log2_axis_count": 1146268,
+      "minimum_width": 586907392,
+      "private_clock_log2_upper": 734182779325,
+      "public_offset_above_2_to_A": 2
+    },
+    "kappa": "38982103/10000000000",
+    "log2_B": 211825728,
+    "log2_C": 318278950,
+    "ordinary_final_gap": "99652345935847518759101231/23458977153024000000000000000000000000",
+    "ordinary_rates": [
+      "3718088605609114693/1000000000000000000000",
+      "3889553935785780311/1000000000000000000000",
+      "779642060000001/200000000000000000"
+    ],
+    "signed": {
+      "functional": 4,
+      "ordinary_margin": "1/1000000000000000000",
+      "positive_margin": "32462740747114919989/1623601656627200000000000000000",
+      "smallest_margin": "1/10000000000000000000",
+      "strict": 54
+    },
+    "stock": {
+      "absolute_log2_private_control_envelope": 536933379,
+      "binary_cuts": [
+        8290,
+        137768,
+        662181
+      ],
+      "first_public_offset": 2,
+      "initial_s": 1146301,
+      "public_exponent_A": 1146300,
+      "retimed_all_size_margin_floor": 553268,
+      "retimed_first_stripe_margin": 571096,
+      "stage_and_outer_fixed_log_overhead": 1968,
+      "storage_upper": "6.2 p T < 297.6 n bits"
+    }
+  },
+  "weighted_calendar_prefix": 2048,
+  "weights": [
+    1,
+    90
+  ]
+}

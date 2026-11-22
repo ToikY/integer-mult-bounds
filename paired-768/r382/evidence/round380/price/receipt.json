@@ -1,0 +1,112 @@
+{
+  "comparator": "c34c958114297cdbd1f493666342b8859531d40d",
+  "delta_kappa": "3/100000000000",
+  "factor_headroom_rounded_down": "64341667/5000000000000",
+  "finite_entry_surcharge_bits": 514,
+  "fringe_upper_rounded_up": "73351676929/10000000000",
+  "gain_over_prior_cap": "604116968654872481240898769/23458977153024000000000000000000000000",
+  "gain_percent": "30/38982103",
+  "gaussian_debit": "8125/65536",
+  "grade_fraction_bits": 270,
+  "kappa": "389821033/100000000000",
+  "min_actual_share": "202604371997671113498650438111293352901227033945593725036574141237131457/6853024725265257020478566689974370293746425129626157187688740708777438235680526",
+  "nonempty_grade_cells": 51,
+  "nonempty_typed_cells": 88,
+  "normalized_unit_cut_slack": "4254691811951093383471659200337160410925767712857468225768056965979760597/194989579780176998980877328026550820592008787817624685334071955456786432",
+  "old_kappa": "38982103/10000000000",
+  "pending": "Literal calendar, independent full recurring stock/cost and setup proof, and scheduled signed replay",
+  "physical_widths": [
+    1,
+    2
+  ],
+  "predecessor": "cbe847a953b971f9c6c5a0a6661e2008acd29086",
+  "previous_raw_bound_at_trial": "-417171107053946817318538848891/162259276829213363391578010288128",
+  "prior_installed_cap": "91448026465035178883047518759101231/23458977153024000000000000000000000000",
+  "profiles": {
+    "entry": {
+      "heights": [
+        3000,
+        3080
+      ],
+      "kappa": "69/20000",
+      "numerical_H": 1024,
+      "ordinary_stage_slacks": [
+        "1139933093/1073741824000000000000000000000",
+        "4073867641634530723308554487/939524096000000000000000000000000"
+      ],
+      "signed": {
+        "functional": 4,
+        "ordinary_margin": "1/1000000000000000000",
+        "positive_margin": "1098554052498762519659/3355443200000000000000000",
+        "smallest_margin": "1/10000000000000000000",
+        "strict": 54
+      },
+      "stock": {
+        "absolute_log2_private_control_envelope": 3153922,
+        "binary_cuts": [
+          3077,
+          6221
+        ],
+        "first_public_offset": 4,
+        "initial_s": 7438,
+        "public_exponent_A": 7437,
+        "retimed_all_size_margin_floor": 1635,
+        "retimed_first_stripe_margin": 1701,
+        "stage_and_outer_fixed_log_overhead": 1964,
+        "storage_upper": "6.2 p T < 297.6 n bits"
+      }
+    },
+    "terminal": {
+      "heights": [
+        8192,
+        129414,
+        524355
+      ],
+      "kappa": "389821033/100000000000",
+      "numerical_H": 483871,
+      "ordinary_stage_slacks": [
+        "1139933093/1073741824000000000000000000000",
+        "5034493304523729/2894942175232000000000000000000000000",
+        "19395709305433724522761949/4691849117696000000000000000000000000"
+      ],
+      "signed": {
+        "functional": 4,
+        "ordinary_margin": "1/1000000000000000000",
+        "positive_margin": "7381204720173919989/1623601656627200000000000000000",
+        "smallest_margin": "1/10000000000000000000",
+        "strict": 54
+      },
+      "stock": {
+        "absolute_log2_private_control_envelope": 536939523,
+        "binary_cuts": [
+          8290,
+          137768,
+          662187
+        ],
+        "first_public_offset": 2,
+        "initial_s": 1146307,
+        "public_exponent_A": 1146306,
+        "retimed_all_size_margin_floor": 553271,
+        "retimed_first_stripe_margin": 571099,
+        "stage_and_outer_fixed_log_overhead": 1968,
+        "storage_upper": "6.2 p T < 297.6 n bits"
+      }
+    }
+  },
+  "psi_lower_rounded_down": "7409067012338419/5000000",
+  "raw_high_cut_slack": "315909268213969092806496828389205669/162259276829213363391578010288128",
+  "raw_margin_lower": "1548160318952564665318070300841/162259276829213363391578010288128",
+  "receipt_sha256": {
+    "round378/price/price.py": "6ddddfd71283bfe375cc8c094a2153c7be20537be5b54823347f79d8d07b6be0",
+    "round378/price/receipt.json": "1a3600d7f62b82986ea752a0f285be28a551b44b8e05e91a40e09642238ccbc7"
+  },
+  "scaled_paid_labels": 205271136,
+  "scaled_productive_labels": 38351232,
+  "slot_112_to_258_probability": "1/624",
+  "status": "VIABLE_PRICE_ONLY",
+  "trial_c": "17145637231/4398046511104",
+  "weights": [
+    8,
+    721
+  ]
+}

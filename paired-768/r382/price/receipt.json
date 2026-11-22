@@ -1,0 +1,119 @@
+{
+  "comparator": "efde300bd2902be5bf967533871487b2624240c3",
+  "conditional_whole_log2_C": 318281511,
+  "delta_kappa": "1/100000000000",
+  "factor_headroom_rounded_down": "64340829/5000000000000",
+  "finite_entry_surcharge_bits": 514,
+  "fringe_upper_rounded_up": "73351677059/10000000000",
+  "gain_over_prior_cap": "27522781871526275477238051/4691849117696000000000000000000000000",
+  "gain_percent": "100/389821033",
+  "gaussian_debit": "8125/65536",
+  "grade_fraction_bits": 269,
+  "kappa": "194910517/50000000000",
+  "min_actual_share": "304046283556066471707770495578851250049145430195428916604544609265020031/10288995367699889523410436598722090583238969677920147449731267424289811043620680",
+  "nonempty_grade_cells": 51,
+  "nonempty_typed_cells": 88,
+  "normalized_unit_cut_slack": "57464747592096563152768623664402886259288486306936065238258931151088785859/3511426118720983960030988271887457537966404963619815310225520115037765632",
+  "old_kappa": "389821033/100000000000",
+  "pending": "Literal calendar, independent full recurring stock/cost and setup proof, and scheduled signed replay",
+  "physical_widths": [
+    1,
+    2
+  ],
+  "predecessor": "cbe847a953b971f9c6c5a0a6661e2008acd29086",
+  "previous_raw_bound_at_trial": "-11405513096165092243123677135/10141204801825835211973625643008",
+  "prior_installed_cap": "18289814716799642305113724522761949/4691849117696000000000000000000000000",
+  "profiles": {
+    "entry": {
+      "heights": [
+        3000,
+        3080
+      ],
+      "kappa": "69/20000",
+      "numerical_H": 1024,
+      "ordinary_stage_slacks": [
+        "1139933093/1073741824000000000000000000000",
+        "4073867641634530723308554487/939524096000000000000000000000000"
+      ],
+      "recurring_log2_if_old_all_size_envelope_proved": 125660241,
+      "signed": {
+        "functional": 4,
+        "ordinary_margin": "1/1000000000000000000",
+        "positive_margin": "1098554076912825019659/3355443200000000000000000",
+        "smallest_margin": "1/10000000000000000000",
+        "strict": 54
+      },
+      "stock": {
+        "absolute_log2_private_control_envelope": 3153922,
+        "binary_cuts": [
+          3077,
+          6221
+        ],
+        "first_public_offset": 4,
+        "initial_s": 7438,
+        "public_exponent_A": 7437,
+        "retimed_all_size_margin_floor": 1635,
+        "retimed_first_stripe_margin": 1701,
+        "stage_and_outer_fixed_log_overhead": 1964,
+        "storage_upper": "6.2 p T < 297.6 n bits"
+      }
+    },
+    "terminal": {
+      "heights": [
+        8192,
+        129414,
+        524357
+      ],
+      "kappa": "194910517/50000000000",
+      "numerical_H": 483871,
+      "ordinary_stage_slacks": [
+        "1139933093/1073741824000000000000000000000",
+        "5034493304523729/2894942175232000000000000000000000000",
+        "288251102754586971696137749/70378005200896000000000000000000000000"
+      ],
+      "recurring_log2_if_old_all_size_envelope_proved": 318281510,
+      "signed": {
+        "functional": 4,
+        "ordinary_margin": "1/1000000000000000000",
+        "positive_margin": "2958444989839419989/1623601656627200000000000000000",
+        "smallest_margin": "1/10000000000000000000",
+        "strict": 54
+      },
+      "stock": {
+        "absolute_log2_private_control_envelope": 536941571,
+        "binary_cuts": [
+          8290,
+          137768,
+          662189
+        ],
+        "first_public_offset": 2,
+        "initial_s": 1146309,
+        "public_exponent_A": 1146308,
+        "retimed_all_size_margin_floor": 553272,
+        "retimed_first_stripe_margin": 571100,
+        "stage_and_outer_fixed_log_overhead": 1968,
+        "storage_upper": "6.2 p T < 297.6 n bits"
+      }
+    }
+  },
+  "psi_lower_rounded_down": "2223742040078291/2000000",
+  "raw_high_cut_slack": "310747768557752347101819992986251051/324518553658426726783156020576256",
+  "raw_margin_lower": "1083919372528068998129578010541/162259276829213363391578010288128",
+  "receipt_sha256": {
+    "round378/price/price.py": "6ddddfd71283bfe375cc8c094a2153c7be20537be5b54823347f79d8d07b6be0",
+    "round378/price/receipt.json": "1a3600d7f62b82986ea752a0f285be28a551b44b8e05e91a40e09642238ccbc7",
+    "round380/price/receipt.json": "19299504743a95e14786310f96de73d850f698e2fd3f084b26758c3f9c9e3f9f",
+    "round381/independent/verified.json": "b5692df06d5a56b7b4c8032826fe16248425ed02bf022ceb787c7843f3a060d3",
+    "round381/publish/research/p104-weighted-integer-frequencies/RESULT.json": "1e5bbb53b1d373bd0499cfd3c2a4a9c4ff232058988cc0d23af6e053f48eb5fd",
+    "round381/scientific.log": "959cf0ce7e8e9ad5002a592a4f97b82682e50ecc81098127b6a4b0db007fad60"
+  },
+  "scaled_paid_labels": 154023744,
+  "scaled_productive_labels": 28776576,
+  "slot_112_to_258_probability": "1/624",
+  "status": "VIABLE_PRICE_ONLY",
+  "trial_c": "17145637263/4398046511104",
+  "weights": [
+    6,
+    541
+  ]
+}
