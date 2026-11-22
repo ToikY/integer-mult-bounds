@@ -1,0 +1,167 @@
+{
+  "above_prior_installed_cap": "195975037767289884750488281/426570783129600000000000000000000000",
+  "candidate_cap": "6341280388670601149869726041/1626715507916800000000000000000",
+  "comparator": "ffa64503646a62a7ac3cd2c47787d670da911f89",
+  "complete_log2_C": 318293031,
+  "delta_kappa": "23/50000000000",
+  "early_signed": {
+    "functional": 4,
+    "ordinary_margin": "1/1000000000000000000",
+    "positive_margin": "1098904110482160957159/3355443200000000000000000",
+    "smallest_margin": "1/10000000000000000000",
+    "strict": 54
+  },
+  "entry_premium": 514,
+  "full_factor": {
+    "all_depth_multiplier": 376,
+    "ambient": 134,
+    "child_factor": "47/20",
+    "finite_factor_ceiling_1e15": 2589412782509401,
+    "fully_charged_margin_floor_1e15": 757371760683,
+    "old_debit_positive_control": true,
+    "ordinary_lower_fence": 32768,
+    "physical_factor_ceiling_1e15": 1101877779791235,
+    "required_debit_cap_floor_1e15": 2590170154270084,
+    "volume_ratio": "375/376"
+  },
+  "gain_percent": "4600/389821057",
+  "gaussian_cap_margin": "53037279067565726041/1626715507916800000000000000000",
+  "height_floors": [
+    516895,
+    484738
+  ],
+  "kappa": "389821103/100000000000",
+  "log2_B": 211635648,
+  "native_height_bits": 19,
+  "native_setup": 217364570380528137475793294892811967875864032914108887556978854854656,
+  "new_ordinary_debit": "703/512",
+  "old_debit_source_audit": {
+    "archived_old_debit_loci": {
+      "research/frequency-weighted-native-multiplier/PROOF.md": [
+        "35",
+        "49"
+      ],
+      "research/frequency-weighted-native-multiplier/WeightedNumerical.lean": [
+        "75"
+      ],
+      "research/frequency-weighted-native-multiplier/independent_price.py": [
+        "96",
+        "98"
+      ],
+      "research/frequency-weighted-native-multiplier/receipt.py": [
+        "163",
+        "240"
+      ],
+      "research/tiered-native-multiplier/CLOCK.md": [
+        "11",
+        "14"
+      ],
+      "research/tiered-native-multiplier/receipt.py": [
+        "50",
+        "65"
+      ]
+    },
+    "historical_only": [
+      "archived tiered-native-multiplier/receipt.py and CLOCK.md: predecessor fixed price and charged geometry",
+      "archived frequency-weighted-native-multiplier/WeightedNumerical.lean concrete example: old fixed 517429 floor; generic boundedStages lemma still applies",
+      "archived frequency-weighted-native-multiplier/independent_price.py comparison to #8056 uses its original 11/8"
+    ],
+    "no_physical_k7_or_clock_change_required": true,
+    "required_active_changes": [
+      "frequency-weighted-native-multiplier/receipt.py: stronger exact tape_factor control, terminal ordinary bank, terminal height floor and setup height-bit bound <=20 (new actual width 19)",
+      "registered stage seam verifier: stronger debit in tested terminal bookings and same-height old-debit negative control",
+      "installed terminal Profile: ordinary H3, Gaussian height and booked rate",
+      "proof: replace the terminal finite factor inequality and recurrence coefficient; prove same contraction and recompute all public and private seams"
+    ]
+  },
+  "ordinary_cap_margin": "8963498311161010996394401699/70298279870464000000000000000000000000",
+  "pinned_inputs_by_path": {
+    "round375/independent/coupling.py": "fb54f24864288855e15e979549c64449ef350c1cebe008342dda946ba1d941e4",
+    "round378/independent/accept.py": "001284bf901f84def95ff270e4012bab16a3875e1ee6de3d3ae490c5980e341e",
+    "round391/price/check.py": "5a5e8b7c8f96703986b02760386b0790e4019a781e3ee47e1200a0cc356db687",
+    "round392/exact-head": "6e3af7c5273d0d0bbd0767b4b67e19696b5b16ea6b5c07fb87a91bfebe0d8cab",
+    "round392/historical.exit": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa",
+    "round392/historical.log": "082fffa25c8dd69397b6d5f4c9c852105930e00e5e952cd4f78b45047773c34b",
+    "round392/independent/verified.json": "dcf57d8bab8cfc76769b0f9d8b570d233e670032b8ab2aed481172ff21c3c2a9",
+    "round392/onboarding.exit": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa",
+    "round392/onboarding.log": "0296ae70bb5bc5a88f2f2a54480840e2d6c33c2d44fb128439a7eee241368c0d",
+    "round392/preflight.log": "910725b496aced72618a0d222532fa129e3251ee37dad247306065fdea168291",
+    "round392/publish/research/p104-weighted-ordinary-transfer/PEER-SOURCE.json": "798c2e6394c258986484a116198cc542a6d2b4c1f289e5816de2cfecf5141c51",
+    "round392/publish/research/p104-weighted-ordinary-transfer/RESULT.json": "65b29858741c054434863612a357b9c6b833d8865530812659943293ff1155f5",
+    "round392/publish/research/p104-weighted-ordinary-transfer/peer8057.tar.gz": "0e0d559bdb15e7b647f88a2b5e27fcdc9e28e81d8f4145459876ba6da2e9314c",
+    "round392/publish/research/p104-weighted-ordinary-transfer/prepare.py": "3862a6fb149d5d35be194ace5dd9c135013e46abdaa3d6396641a85af794e788",
+    "round392/scientific.exit": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa",
+    "round392/scientific.log": "1e2ac85c87da9e425180b85ccff811f508ebb4b28035cc7ab898a918fe3aaff5"
+  },
+  "previous_kappa": "389821057/100000000000",
+  "prior_actual_installed_cap": "1662862735896506872198115249511719/426570783129600000000000000000000000",
+  "same_heights_ideal_cap_old_debit": "907828925331821556173872851199143223/232883691645881968230400000000000000000",
+  "stage_seams": [
+    [
+      8290,
+      0,
+      1,
+      1,
+      0
+    ],
+    [
+      137760,
+      1,
+      2,
+      2,
+      1
+    ],
+    [
+      661587,
+      2,
+      3,
+      3,
+      2
+    ]
+  ],
+  "status": "VIABLE_PRICE_ONLY",
+  "terminal_geometry": {
+    "actual_dense_root_entry_log2": 1431655766,
+    "first_extent_bits_minus_b": -1146630,
+    "largest_axis_width": 715827883,
+    "last_extent_bits_minus_b": -1146629,
+    "log2_axis_count": 1146602,
+    "minimum_width": 587078400,
+    "private_clock_log2_upper": 734183121675,
+    "public_offset_above_2_to_A": 2
+  },
+  "terminal_rates": [
+    "3718326070513899849/1000000000000000000000",
+    "972392316016627601/250000000000000000000",
+    "779642206000001/200000000000000000"
+  ],
+  "terminal_signed": {
+    "functional": 4,
+    "ordinary_margin": "1/1000000000000000000",
+    "positive_margin": "53037279067565726041/1626715507916800000000000000000",
+    "smallest_margin": "1/10000000000000000000",
+    "strict": 54
+  },
+  "terminal_stock": {
+    "absolute_log2_private_control_envelope": 536333315,
+    "binary_cuts": [
+      8290,
+      137760,
+      661587
+    ],
+    "first_public_offset": 2,
+    "initial_s": 1146635,
+    "public_exponent_A": 1146634,
+    "retimed_all_size_margin_floor": 553430,
+    "retimed_first_stripe_margin": 571263,
+    "stage_and_outer_fixed_log_overhead": 1968,
+    "storage_upper": "6.2 p T < 297.6 n bits"
+  },
+  "tested_gaussian_height": 484799,
+  "tested_ordinary_heights": [
+    8192,
+    129406,
+    523763
+  ],
+  "unchanged_gaussian_debit": "4059/32768"
+}

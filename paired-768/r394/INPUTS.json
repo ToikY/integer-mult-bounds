@@ -1,0 +1,13 @@
+{
+  "build.log": "95f8c4c57972e1b0eb2fd4a7b6d41a405b4147b1f8d7238e8ec75042da72cb43",
+  "capsule/PEER-SOURCE.json": "798c2e6394c258986484a116198cc542a6d2b4c1f289e5816de2cfecf5141c51",
+  "capsule/RESULT.json": "44b2d59a1b7e6d7f3336567dbdd4fe27b6ee3b64edd97172698aafdc91db9383",
+  "capsule/SOURCES.json": "b3197501bae90ec16c4d99c186e74dfe28e0f5f730e6b8bb94e2d0ce78bcf69c",
+  "capsule/TASK.json": "cf935271a848ffcff8c93afcbd363807cb03fab2c268d4a0cffe42c587fc169b",
+  "capsule/VERIFY.json": "f3413a19f8215ce676bb59e5689b96c2a06188ab315d6bfb1d8735b38d32f6f2",
+  "capsule/check_cutoff.py": "b1b6fbe1315951d6bcc4a50315f0e0ef2b7e23ac0a0e347ca37f670eb32fb513",
+  "capsule/check_stage_seam.py": "ef535bf51e58d98395513e364e4ff3578700b0b382bd2d339b7332993e0bc813",
+  "capsule/peer8057.tar.gz": "0e0d559bdb15e7b647f88a2b5e27fcdc9e28e81d8f4145459876ba6da2e9314c",
+  "capsule/prepare.py": "48fca2618df3f3483c1640c8c77ded20cc3aeb37232c69e10466c9a5b323d098",
+  "capsule/verify.py": "239630f70df579ecc4f54d55595f1eb1a821223bbd4b3c8b58606049983e0fb2"
+}
