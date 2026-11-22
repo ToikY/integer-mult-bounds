@@ -201,3 +201,7 @@ The exact `(6,541)` arithmetic and actual typed calendar pass their bounded scre
 ## Round 383 · six and 541 actual births
 
 The 6-to-541 integer weighted profile completes all seven scientific scopes at conditional κ = 0.00389821034. The prior paid profile fails the new raw tariff. [Signed replay and detached verification](r383/README.md)
+
+## Rounds 384–385 · the exact five-to-451 signed construction
+
+The directed physical pair passed early exact feasibility and the complete scientific replay at conditional κ = 0.00389821035. [R384 scope](r384/README.md) · [R385 complete reproducible evidence](r385/README.md)

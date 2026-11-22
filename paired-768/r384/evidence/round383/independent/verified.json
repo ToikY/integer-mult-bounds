@@ -1,0 +1,35 @@
+{
+  "complete_log2_C": 318281511,
+  "delta_vs_8060": "1/100000000000",
+  "directed_and_nested": {
+    "new_raw_margin_lower": "1083919372528068998129578010541/162259276829213363391578010288128",
+    "old_frequency_upper_at_new_trial": "-11405513096165092243123677135/10141204801825835211973625643008",
+    "real_nested_grant": 5407341110,
+    "same_individual_top_share": "1/624",
+    "typed_cells": 88
+  },
+  "exact_8060_installed_ceiling": "18289814716799642305113724522761949/4691849117696000000000000000000000000",
+  "identical_phase_and_calendar_implementation_hashes": {
+    "check_calendar.py": "1c51b8bd75ef2d9d8847b2ebf88d7dbcc44d89954146c2bdede8854915392b8c",
+    "check_raw.py": "d62d50279969bfecf23d2e14412949fa643394c1539ccb87db7dac5f79e2d97e",
+    "typed_raw.py": "0c268432c9d48798c17d927f2d900b5e69dfc6585166cd71f253913e389c3b47",
+    "typed_transport.py": "b76b9ad3dc0dd91473026c079585f830387eaa3c34c25a7820ee5057d5cbf941"
+  },
+  "literal_pins": {
+    "RESULT.json": "4a72a76d21cc52df17186f446809dc8e67a8d2d69074343c625569ab06a7eabf",
+    "prepare.py": "559be900d1f7a4cd660df0c1580bd8055b7919fc8ef4a3a62bceeff8b65cc5bf"
+  },
+  "opening_total": 547,
+  "pinned_evidence": {
+    "round366/gaussian/receipt.json": "9e1206f26d124f9f788a96ff43453195c4ae8c9b679acbf8a0ca132c80a5b7a1",
+    "round375/independent/coupling.py": "fb54f24864288855e15e979549c64449ef350c1cebe008342dda946ba1d941e4",
+    "round378/independent/accept.py": "001284bf901f84def95ff270e4012bab16a3875e1ee6de3d3ae490c5980e341e",
+    "round381/capsule/RESULT.json": "1e5bbb53b1d373bd0499cfd3c2a4a9c4ff232058988cc0d23af6e053f48eb5fd",
+    "round382/audit/receipt.json": "9acfba28d2b62aeb80de3ca8c10f519104ada02a2945556326af286f7d676250",
+    "round382/price/receipt.json": "602275fa08b5dcfa671f6d45d2cf298e835e8daf6b6a8f1d1002a734bea754c0",
+    "round383/build.log": "e1609808928d5eed2ce4abc7b0a638ca274392da35a002eb262b55028cee4009"
+  },
+  "separation_above_8060_installed_ceiling": "27522781871526275477238051/4691849117696000000000000000000000000",
+  "status": "LITERAL PRICE AND EXISTING NESTED RECEIPT PASS; REGISTERED SUITE SEPARATE",
+  "verified_original_archive_files": 88
+}

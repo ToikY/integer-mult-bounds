@@ -1,0 +1,176 @@
+{
+  "candidate_terminal_heights": [
+    8192,
+    129414,
+    524359
+  ],
+  "complete_native_fixed_setup_upper": 217364570380528137475793294892811967875864032914108887556978854854656,
+  "complete_recurring_log2_ceiling": 318282151,
+  "complete_signed_tiers": {
+    "entry": {
+      "gaussian_gap": "1098554110482160957159/3355443200000000000000000",
+      "geometry": {
+        "actual_dense_root_entry_log2": 11184812,
+        "first_extent_bits_minus_b": -7433,
+        "largest_axis_width": 5592406,
+        "last_extent_bits_minus_b": -7432,
+        "log2_axis_count": 7412,
+        "minimum_width": 3809536,
+        "private_clock_log2_upper": 5734316302,
+        "public_offset_above_2_to_A": 4
+      },
+      "ordinary_gap": "4073867641634530723308554487/939524096000000000000000000000000",
+      "signed": {
+        "functional": 4,
+        "ordinary_margin": "1/1000000000000000000",
+        "positive_margin": "1098554110482160957159/3355443200000000000000000",
+        "smallest_margin": "1/10000000000000000000",
+        "strict": 54
+      },
+      "stock": {
+        "absolute_log2_private_control_envelope": 3153922,
+        "binary_cuts": [
+          3077,
+          6221
+        ],
+        "first_public_offset": 4,
+        "initial_s": 7438,
+        "public_exponent_A": 7437,
+        "retimed_all_size_margin_floor": 1635,
+        "retimed_first_stripe_margin": 1701,
+        "stage_and_outer_fixed_log_overhead": 1964,
+        "storage_upper": "6.2 p T < 297.6 n bits"
+      }
+    },
+    "terminal": {
+      "gaussian_gap": "2965656572981482489/1623601656627200000000000000000",
+      "geometry": {
+        "actual_dense_root_entry_log2": 1431655766,
+        "first_extent_bits_minus_b": -1146306,
+        "largest_axis_width": 715827883,
+        "last_extent_bits_minus_b": -1146305,
+        "log2_axis_count": 1146278,
+        "minimum_width": 586912512,
+        "private_clock_log2_upper": 734182789575,
+        "public_offset_above_2_to_A": 2
+      },
+      "ordinary_gap": "25960108838049825050076933/6398024876032000000000000000000000000",
+      "signed": {
+        "functional": 4,
+        "ordinary_margin": "1/1000000000000000000",
+        "positive_margin": "2965656572981482489/1623601656627200000000000000000",
+        "smallest_margin": "1/10000000000000000000",
+        "strict": 54
+      },
+      "stock": {
+        "absolute_log2_private_control_envelope": 536943619,
+        "binary_cuts": [
+          8290,
+          137768,
+          662191
+        ],
+        "first_public_offset": 2,
+        "initial_s": 1146311,
+        "public_exponent_A": 1146310,
+        "retimed_all_size_margin_floor": 553273,
+        "retimed_first_stripe_margin": 571101,
+        "stage_and_outer_fixed_log_overhead": 1968,
+        "storage_upper": "6.2 p T < 297.6 n bits"
+      }
+    }
+  },
+  "cross_type_calendar_fixture": true,
+  "decision": "VIABLE_SIGNED_PHYSICAL_PRICE_AND_NATIVE_RESOURCE_PREFLIGHT",
+  "delta_vs_prior": "1/100000000000",
+  "entry_fee_bits": 514,
+  "exact_boundary_axis_sum": 677246016,
+  "exact_trial": "17145637307/4398046511104",
+  "finite_factor_reserve_floor_1e12": 12867939,
+  "finite_factor_upper_1e12": 1089722370550,
+  "first_public_offset": 2,
+  "fixed_grade_recipe_actions_upper": 269064192,
+  "fringe_upper_1e9": 7335167717,
+  "high_cut_funded_slack": "451649940642309292906679296942405887926459857196626103312739692995814300451/975754740223976310676570837521913578048830061516612036052935149589889024",
+  "installed_grade_and_type_cells": [
+    51,
+    88
+  ],
+  "integer_births_fixture_at_e20": [
+    6029,
+    543808
+  ],
+  "integer_weights": [
+    5,
+    451
+  ],
+  "interval_mass_error_bits_H1024": -37293,
+  "literal_registered_replay": "pending literal new candidate",
+  "native_fixed_setup_log2_upper": 228,
+  "new_raw_margin_lower": "457232516744337894576467356407/324518553658426726783156020576256",
+  "old_6_541_raw_margin_upper_at_new_trial": "-350816236559342789004797378367/81129638414606681695789005144064",
+  "opening_bound_factor_lt": 2,
+  "physical_word_counts": [
+    [
+      52608,
+      282576
+    ],
+    [
+      52608,
+      281568
+    ]
+  ],
+  "pins": {
+    "frequency-weighted-native-multiplier/FINITE-LOSS.md": "12c6069437a0cbb61c80804f89f027ef9709c186e67d26fb0584ad6e71048052",
+    "frequency-weighted-native-multiplier/SOURCES.json": "01d9e6b6b28cd174800cadfb59f4f064b3844575da297d82e16eb19a0d11c868",
+    "frequency-weighted-native-multiplier/bootstrap.py": "a824c0ba9bb5efe5ad5b6c9b891b363b6d2ac31b0a57b9e27b68a6c2bca6f7ee",
+    "frequency-weighted-native-multiplier/grades.py": "8d2e3d14ac2149f985d7f6a75bf36182d7f68aadf8df6595fc0774224d4951ac",
+    "frequency-weighted-native-multiplier/typed_raw.py": "0c268432c9d48798c17d927f2d900b5e69dfc6585166cd71f253913e389c3b47",
+    "frequency-weighted-native-multiplier/typed_transport.py": "b76b9ad3dc0dd91473026c079585f830387eaa3c34c25a7820ee5057d5cbf941",
+    "tiered-native-multiplier/source/outer_budget.py": "ca4438db28a447ed5c43d87d43f0ac10a0cb2b4e183342ac93139d517b9d4d02"
+  },
+  "placement": [
+    [
+      1024,
+      1620,
+      [
+        0,
+        324,
+        648
+      ],
+      [
+        1,
+        324,
+        1
+      ]
+    ],
+    [
+      483871,
+      1620,
+      [
+        0,
+        324,
+        648
+      ],
+      [
+        1,
+        324,
+        1
+      ]
+    ]
+  ],
+  "prior_exact_head": "a29697b04f8f07ac44aeb2dd34803ee6de9423c4",
+  "prior_receipt": "645868bb266d915be1a1d81a8f984341828162988fe0942e04aac6f756fd7340",
+  "psi_lower_floor_1e4": 9268998288291,
+  "rounded_fixture_leaf_count": 142184622,
+  "target_kappa": "77964207/20000000000",
+  "terminal_binary_log2_ceiling": 211828928,
+  "weighted_targets_and_paid": [
+    23989248,
+    128400048
+  ],
+  "widest_typed_share_bits": 268,
+  "widths": [
+    1,
+    2
+  ]
+}
