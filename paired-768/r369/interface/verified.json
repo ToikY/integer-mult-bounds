@@ -1,0 +1,22 @@
+{
+  "actual_columns": 32762,
+  "actual_compiler_kernel_rejects": true,
+  "even_positive_control_paid_size": 16381,
+  "first_bad_production_band": 32770,
+  "fixed_literal_quarter_edit_valid": false,
+  "literal_quarter_sizes": [
+    "16381/2",
+    "49143/2"
+  ],
+  "pins": {
+    "check_complete.py": "a73bb6819014f7e61b73ab95bf28ec74d1f1607c0a58ad60315d391ab82557c1",
+    "check_positive_word.py": "a88de880627489764668f6a3ec34f4861f61bd49cc74d3547d3ef18ee017dbe4",
+    "installations.py": "983fdc1fd09ec8727d8c573ba171d52a0fc0200437f9233f249a2aa5e7be9503",
+    "retimed_supplier.py": "bdc5bf5e5228fe1179951a074508f59a90f6d2634f5af8e2d5a097329e484755",
+    "transport.py": "98bdb540233794338b426d1b0d0e72cff7fcbbd08be702af0d81e237dbecaae9"
+  },
+  "predecessor": "f6f4ecd5dd717ce2b155dd564469e9693ac90f6d",
+  "proved_rounded_local_slack_at_least": "1/2",
+  "rounded_fringe_coefficient_upper": "9275000/156123",
+  "unresolved_rounded_variant": true
+}

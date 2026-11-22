@@ -1,0 +1,15 @@
+# Quarter/three-quarter pricing on the frozen #8054 word
+
+Comparator #8054 exact head f6f4ecd5dd717ce2b155dd564469e9693ac90f6d independently supports κ = .0038981730255. The two-stage binary heights (60000, 960000), Gaussian H=20,000,000, stopping denominator 10^18, and fixed signed interfaces are pinned. The scope consists of one exact inventory edit, replacing all 1,006 existing pairs of half-rank requests by one quarter-rank and one three-quarter-rank request each. All 105,216 productive and 564,142 paid labels remain charged.
+
+The full directed raw moment gives a unique crossing in the admissible interval [4389025261713/1125899906842624, 2194512630857/562949953421312], near .003898237520973. Its derivative upper bound is −452057293/50. The exact old raw crossing lies near .003898180942172. All normalized prefix Hall cuts passed. The canonical descending coupling has 55 cells, pays the forced rank-448 to rank-1032 edge with probability one, and has maximum r/k = 3/4. Gross paid mass savings exceed .51251434619656 at the chosen trial. With the inherited finite-H debit and no new charge the optimistic complete cap is .003898229903785564, a maximum improvement of about 5.68782856e−8 over #8054. This cap is a price projection.
+
+The existing scheduler's second band is e=32770. It demands 32762 raw columns, so the new paid sizes would be 16381/2 and 49143/2. The unchanged executable Plan accepts two half-rank requests there and rejects an otherwise funded quarter-rank request with its exact fractional-axis error. Its raw tariff also assumes every rank is at least one half. The unchanged scheduler is excluded. A repair that changes the integer packet rule and proves new fringe costs remains open. No gain is claimed. The inherited transport proof's min-rank, rounding, and precision dependencies are explicit. [Inherited transport proof](https://github.com/CrocSwap/integer-mult-bounds/blob/dfd25d553a843a946ca0b94130a5ff8943e98fdd/research/retimed-native-multiplier/TRANSFER.md)
+
+The same case ran support-first and coupling-first with both orderings checking all Hall cuts, rebuilding all coupling cells and exercising the native guard. Results matched exactly. Check times, excluding shared source setup and analytic bracket work, were 0.04808 s and 0.04835 s. This difference does not warrant a workflow change. The clean complete discovery took 6.164 s within 45 s. The separate independent run is tracked separately.
+
+From a clean work directory, use Python 3.12 and the exact public research/p104-gaussian-unsplit-returns checkout package. The archived predecessor and variant receipt authenticate by canonical path. The command is:
+
+    python3.12 -IB quarter.py --unsplit-package /path/to/research/p104-gaussian-unsplit-returns --out new-quarter.json
+
+Expected SHA-256 dbde66c13af0f44c4ba55690ee7a4324111c29961211f740eea2c3b1f513a037. Ali Romman supplied the original retimed receiver and proof, SYLforge the stronger signed binary supplier from #8052, and #8054 the unsplit comparison and installed coupling. OpenAI Codex assisted the work.
