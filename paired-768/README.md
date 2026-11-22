@@ -197,3 +197,7 @@ The 8-to-721 literal profile completes all seven registered scopes at conditiona
 ## Round 382 · a smaller integer birth cohort
 
 The exact `(6,541)` arithmetic and actual typed calendar pass their bounded screening. The preceding frequency cannot fund the new raw trial. [Pinned inputs and runnable scope](r382/README.md)
+
+## Round 383 · six and 541 actual births
+
+The 6-to-541 integer weighted profile completes all seven scientific scopes at conditional κ = 0.00389821034. The prior paid profile fails the new raw tariff. [Signed replay and detached verification](r383/README.md)
