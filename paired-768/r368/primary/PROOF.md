@@ -1,0 +1,26 @@
+# Minimum feasible split count for the fixed two-scale numerical transport
+
+Comparator [#8053](https://github.com/CrocSwap/integer-mult-bounds/pull/8053) at `e25494616bf149217644ce08d949181ea3600e13` has certified κ = `0.0038981721342`. The exact unpowered two-scale receiver is inherited from Ali Romman's #8042 and SYLforge's #8052. We hold binary heights 60,000 and 960,000, Gaussian H=20,000,000, stopping D=10^18, and the five machine premises fixed.
+
+The test evaluates exactly two split counts (1,005 and 1,006), plus old 1,008 as a positive control at its installed price. The scope is exhausted. Under the fixed word, changing one base rank-one request from two rank-half paid labels to one grade-one label saves (2^c-1) of paid mass at local trial (c) and changes no productive label. Every `5/4` descending allocation must assign each paid label of rank ≥1 to a productive label of rank ≥2. This gives an absolute capacitated cut, valid even if the allocation is nonproportional.
+
+The smallest possible improving trial at this carrier exceeds (kappa_mathrm{old}+39/(256H)+5/D). The cut already fails for 1,005 splits at the greatest 50-bit dyadic at or below that threshold. Its exact directed capacity-minus-demand upper bound there is `−3341415760433/12500000000000`. The quantity is strictly decreasing across the entire admissible trial interval up to .004 by exact derivative arithmetic. The derivative upper bound is `−904057793/100`, using rank-normalized 24-term atanh enclosures and exact geometric remainder. Thus under the fixed carrier, inherited debit, and descent rule no 1,005-split trial improves the comparator. Fewer splits only add further unit-grade demand to this same restricted cut.
+
+The independently bracketed raw crossing with 1,008 splits lies between `1097240221765/281474976710656` and `4388960887061/1125899906842624`. With 1,006 it lies between `4388961559647/1125899906842624` and `137155048739/35184372088832`. Both moments are strictly decreasing across all trial values in the improving interval. The first and last rows of the 1,006 tape are priced by the same source rules as before. The resulting full book has 105,216 productive and 564,142 paid labels. The entire old 1,008 raw crossing is below the new literal trial `133940467/2^35`. Its signed mass at the new trial fails by at least `270005106549/100000000000000`.
+
+The 1,006-split canonical transport has the same 54 nonzero cell positions and 45 changed shares. The forced (448,1032) edge retains probability 1. At the chosen trial the minimum per-target share exceeds (6.80cdot10^{-9}), the widest reduced numerator or denominator is 257 bits, and total normalized paid mass drops by over 0.0054113332977883. The price checker reruns exact row normalization, column capacities, all descent edges, the original positive mass bounds and the historical reserve factor and setup limits. The Gaussian debit remains 39/256 at fixed H. The full ordinary and outer prices yield **candidate κ = 0.0038981730255**, with all 54 strict and four functional conditions satisfied. The exact difference versus #8053 is `8913/10000000000000`. The difference versus the stronger relaxed upper bound for the 1,008-split construction under the same debits is `255887284876051671/858993459200000000000000000`.
+
+The two changed base-scale cuts have zero-based paid ordinals 1592 and 1593 and native tags `("return",9977,0,91990)` and `("return",9977,0,91966)`. The structural adapter proof and separate same-owner/dropped-axis controls are in `../adapter/PROOF.md`. The price receipt identifies a buildable candidate. Full changed tape execution, formal provenance, and hosted replay remain separate gates.
+
+## Replay
+
+From a clean checkout use CPython 3.12 and Git. Supply the public `research/p104-gaussian-fixed-carrier` directory from exact #8053, with its archived predecessor intact. The wrapper and underlying installed inputs are checked by relative path. A fresh extraction of those sources is performed for every run.
+
+```sh
+python3.12 -IB price.py --fixed-carrier /path/to/research/p104-gaussian-fixed-carrier --out fresh-price.json
+python3.12 -IB check_emitter.py --fixed-carrier /path/to/research/p104-gaussian-fixed-carrier --price fresh-price.json --out fresh-emitter.json
+```
+
+Expected price SHA-256 is `d26a1f9ea8fd78900f45bf83c29ee2b700d015c231a82eab1cad54283b4aec66`. Discovery completed in 7.208 s against 45 seconds. Reserve emission reconstruction completed in 3.571 s and rejected a duplicated half while verifying both complete scaled streams on symbolic jobs. The exact physical source and pre/post chart controls separately took 3.05 s. The original #8053 positive coupling, 1,005 impossibility and 1,008 negative at new trial, and one candidate price are all recorded.
+
+Ali Romman provided the fixed Gaussian physical word and resource model in [#8042](https://github.com/CrocSwap/integer-mult-bounds/pull/8042). SYLforge supplied the stronger binary word and installation in [#8052](https://github.com/CrocSwap/integer-mult-bounds/pull/8052). Clear1nsight supplied directed finance precedent in [#8050](https://github.com/CrocSwap/integer-mult-bounds/pull/8050). #8053 supplied the fixed-carrier benchmark and exact baseline comparison. OpenAI Codex assisted the analysis, implementation and independent checks.

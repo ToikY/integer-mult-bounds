@@ -1,0 +1,54 @@
+{
+  "adapter_pins": {
+    "new": "bdc5bf5e5228fe1179951a074508f59a90f6d2634f5af8e2d5a097329e484755",
+    "old": "4bd969e3f1cfdcdf26c36e5fa7ab64c8e72904f516a51af6b2a29524e1cf8eb2"
+  },
+  "checked_samples": 20,
+  "graph_method_sha256": "89191f9619e8e96d0b1788ced1ef6d1a0a02ee22757ae2f377bc8fc96e4f2b2e",
+  "local_checks": {
+    "ordered_partition": true,
+    "right_before_yield_left_after_return": true,
+    "same_owner": true
+  },
+  "negative_controls": [
+    "dropped axis",
+    "different owner",
+    "reordered halves"
+  ],
+  "scope": "adapter boundary proof and finite Job checks; production transport replays separate",
+  "sites": [
+    {
+      "clock": 1592,
+      "source_dest_frames": [
+        64,
+        445
+      ],
+      "tag": [
+        "return",
+        9977,
+        0,
+        91990
+      ]
+    },
+    {
+      "clock": 1593,
+      "source_dest_frames": [
+        59,
+        447
+      ],
+      "tag": [
+        "return",
+        9977,
+        0,
+        91966
+      ]
+    }
+  ],
+  "widths": [
+    2,
+    4,
+    6,
+    14,
+    128
+  ]
+}

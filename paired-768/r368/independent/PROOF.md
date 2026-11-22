@@ -1,0 +1,24 @@
+# Two Gaussian split counts on the fixed signed profile
+
+Pin #8053 `e25494616bf149217644ce08d949181ea3600e13` at conditional κ = 0.0038981721342. The comparator uses H = 20,000,000, D = 10^18, the #8052 binary word and the two-copy (1,8) Gaussian profile from #8042. Each scoped case changes only how many leading unit-rank paid requests in copy 1 split into two half-rank requests. Counts tested are 1,005, 1,006 and the original 1,008. The original Gaussian paid list has 564,144 requests and the productive list has 105,216. Removing two splits reduces the first count to 564,142 and preserves the second. Ali Romman supplied the retimed Gaussian service, SYLforge the binary word and package, and the #8053 comparator contributed the higher fixed trial and exact signed profile. OpenAI Codex assisted the independent calculation. [Comparator #8053](https://github.com/CrocSwap/integer-mult-bounds/pull/8053) · [Peer #8052](https://github.com/CrocSwap/integer-mult-bounds/pull/8052)
+
+## Why the first cut excludes 1,005
+
+The loan condition is 4k ≥ 5r for a paid rank r and productive rank k. For k=1, the only available rank is r=1/2. Exactly 1,008 productive requests have k=1. Write P and T for whole paid and productive moments at exponent t=1−c. The supply on that cut is 2s(1/2)^t, and normalized demand is 1,008P/T. The independent script proves for s=1,005 that supply minus demand is below **−0.280797056** across the entire interval between the installed c and the upper raw crossing, even though the unnormalized total moment is positive over most of that interval. Further c cannot fund the raw moment because its derivative is strictly negative throughout c∈[1071523491/2^38,0.004], and the signed debit proof requires c<0.004. A lower c cannot improve the complete bound on this fixed height and stop denominator. Dropping this cut while still charging both debits gives an optimistic κ ceiling of approximately 0.00389817362367356. The exclusion leaves other split counts and other loan domains outside this round.
+
+## What passes at 1,006
+
+At exact c = 133940467/2^35 the source yields a positive raw margin above **0.00271128223229435**. The original 1,008-split word fails there with raw margin below **−0.00270005106549398**. Using independently rounded 112-bit masses and intersections of cumulative demand and supply intervals gives 54 admissible cells. The largest rational numerator or denominator has 260 bits. The smallest positive cell fraction divided by the whole paid count exceeds 1.2685798176097×10^−9, and the 448→1,032 cell carries the whole 448 loan. The independent checker also proves the analytic bound needed for the 39/(256H) positive-service debit. After the 5/D stopping margin, proposed κ = **0.0038981730255** still has exactly **4619778303/26214400000000000000000** of positive-service slack. The unchanged ordinary hierarchy has a conservative strict ceiling of 0.003899287091672176151. The old 1,008-split raw crossing, minus these debits, has upper endpoint below 0.003898172727607537. The proposed κ clears even that ceiling. Against the installed #8053 claim the provisional absolute gain is 8913/10^13 and the provisional relative gain is (148550/6496953557)%.
+
+The two literal return tags newly sent as a single whole unit are `("return", 9977, 0, 91990)` and `("return", 9977, 0, 91966)`. Both the emission guard and roster in `retimed_supplier.py` use SMALL_SPLITS. The independently derived price roster in `unpowered_price.py` must use the same value. The install/extended stop guards pin the count of actual paid requests. The nonzero receiver guard also checks the split count while dynamically replaying actual widths and owner returns. A new scientific result requires the literal edit, exact signed owner and bank checks at those returns, physical first placement and the full package. This receipt is a viability decision.
+
+## Reproducible commands
+
+Use CPython 3.12 and Git on PATH from a clean handoff containing this script and R367’s `audit.py`. Supply the exact #8053 package on a separate checkout. No machine-specific path, prior temporary state or network dependency is required once the checkouts exist.
+
+```sh
+python3.12 -IB support.py --package EXACT_8053_CHECKOUT/research/p104-gaussian-fixed-carrier \
+  --arithmetic R367_AUDIT_PY --out fresh-support.json
+```
+
+Expected receipt SHA-256 `0fa914e3c012be62719079bff1e2fadd853e278425687d7565bd8d913005fd17`. The runner has a 45-second hard deadline and executed all three cases in 3.512 seconds. A fresh restore repeated the three decisions in 3.545 seconds of the 15-second reserve and reproduced the receipt byte for byte. This changes the next round by advancing the exact two-return splice because directed pricing and independent transport hold at a strict increase while the three-return alternative fails its first support cut.

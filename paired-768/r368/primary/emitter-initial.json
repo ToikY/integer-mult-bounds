@@ -1,0 +1,30 @@
+{
+  "changed_clock_and_tag": [
+    [
+      1592,
+      [
+        "return",
+        9977,
+        0,
+        91990
+      ]
+    ],
+    [
+      1593,
+      [
+        "return",
+        9977,
+        0,
+        91966
+      ]
+    ]
+  ],
+  "column_width": 4,
+  "duplicate_half_control_rejected": true,
+  "new_paid": 564142,
+  "new_trial": "133940467/34359738368",
+  "old_paid": 564144,
+  "owners_axis_order_match": true,
+  "productive": 105216,
+  "scope": "authenticated retimed emitter using jobs with exact symbolic ownership and ordered axes"
+}
