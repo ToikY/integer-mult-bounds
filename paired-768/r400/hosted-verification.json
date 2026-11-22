@@ -1,0 +1,113 @@
+{
+  "old_pr_8058_retry_snapshot": {
+    "conclusion": "",
+    "databaseId": 45084322645,
+    "headSha": "cbf3e02677f2b0bac8f434cafa74648093a2ee70",
+    "jobs": [
+      {
+        "completedAt": "2026-11-22T23:42:55Z",
+        "conclusion": "success",
+        "databaseId": 137399324398,
+        "name": "plan",
+        "startedAt": "2026-11-22T23:38:20Z",
+        "status": "completed",
+        "url": "https://github.com/CrocSwap/integer-mult-bounds/actions/runs/45084322645/job/137399324398"
+      },
+      {
+        "completedAt": "0001-01-01T00:00:00Z",
+        "conclusion": "",
+        "databaseId": 137400633613,
+        "name": "replay (research/historical-selected-replay-gap, research/p104-compact-rounded-partitions, resear... / replay (research/p104-compact-rounded-partitions-numerical-copy-474)",
+        "startedAt": "2026-11-22T23:42:58Z",
+        "status": "in_progress",
+        "url": "https://github.com/CrocSwap/integer-mult-bounds/actions/runs/45084322645/job/137400633613"
+      },
+      {
+        "completedAt": "2026-11-22T23:44:50Z",
+        "conclusion": "success",
+        "databaseId": 137400633623,
+        "name": "replay (research/historical-selected-replay-gap, research/p104-compact-rounded-partitions, resear... / replay (research/p104-compact-rounded-partitions-numerical-phase-census)",
+        "startedAt": "2026-11-22T23:42:58Z",
+        "status": "completed",
+        "url": "https://github.com/CrocSwap/integer-mult-bounds/actions/runs/45084322645/job/137400633623"
+      },
+      {
+        "completedAt": "2026-11-22T23:44:49Z",
+        "conclusion": "success",
+        "databaseId": 137400633628,
+        "name": "replay (research/historical-selected-replay-gap, research/p104-compact-rounded-partitions, resear... / replay (research/historical-selected-replay-gap)",
+        "startedAt": "2026-11-22T23:42:58Z",
+        "status": "completed",
+        "url": "https://github.com/CrocSwap/integer-mult-bounds/actions/runs/45084322645/job/137400633628"
+      },
+      {
+        "completedAt": "2026-11-22T23:46:44Z",
+        "conclusion": "success",
+        "databaseId": 137400633633,
+        "name": "replay (research/historical-selected-replay-gap, research/p104-compact-rounded-partitions, resear... / replay (research/p104-compact-rounded-partitions-numerical-replay)",
+        "startedAt": "2026-11-22T23:44:51Z",
+        "status": "completed",
+        "url": "https://github.com/CrocSwap/integer-mult-bounds/actions/runs/45084322645/job/137400633633"
+      },
+      {
+        "completedAt": "2026-11-22T23:46:01Z",
+        "conclusion": "success",
+        "databaseId": 137400633646,
+        "name": "replay (research/historical-selected-replay-gap, research/p104-compact-rounded-partitions, resear... / replay (research/p104-compact-rounded-partitions)",
+        "startedAt": "2026-11-22T23:42:57Z",
+        "status": "completed",
+        "url": "https://github.com/CrocSwap/integer-mult-bounds/actions/runs/45084322645/job/137400633646"
+      }
+    ],
+    "status": "in_progress",
+    "url": "https://github.com/CrocSwap/integer-mult-bounds/actions/runs/45084322645"
+  },
+  "recorded_at_utc": "2026-11-22T23:59:59+00:00",
+  "round400": {
+    "conclusion": "success",
+    "databaseId": 45084984873,
+    "headSha": "2d0d7d378929269b00dcabfac1099b2bb23b3b3b",
+    "jobs": [
+      {
+        "completedAt": "2026-11-22T23:50:22Z",
+        "conclusion": "success",
+        "databaseId": 137401443485,
+        "name": "plan",
+        "startedAt": "2026-11-22T23:45:56Z",
+        "status": "completed",
+        "url": "https://github.com/CrocSwap/integer-mult-bounds/actions/runs/45084984873/job/137401443485"
+      },
+      {
+        "completedAt": "2026-11-22T23:51:58Z",
+        "conclusion": "success",
+        "databaseId": 137402705150,
+        "name": "replay (research/historical-selected-replay-gap, research/p104-weighted-optimal-allocation) / replay (research/historical-selected-replay-gap)",
+        "startedAt": "2026-11-22T23:50:24Z",
+        "status": "completed",
+        "url": "https://github.com/CrocSwap/integer-mult-bounds/actions/runs/45084984873/job/137402705150"
+      },
+      {
+        "completedAt": "2026-11-22T23:57:14Z",
+        "conclusion": "success",
+        "databaseId": 137402705174,
+        "name": "replay (research/historical-selected-replay-gap, research/p104-weighted-optimal-allocation) / replay (research/p104-weighted-optimal-allocation)",
+        "startedAt": "2026-11-22T23:50:25Z",
+        "status": "completed",
+        "url": "https://github.com/CrocSwap/integer-mult-bounds/actions/runs/45084984873/job/137402705174"
+      }
+    ],
+    "status": "completed",
+    "url": "https://github.com/CrocSwap/integer-mult-bounds/actions/runs/45084984873"
+  },
+  "scientific_job": 137402705174,
+  "scientific_log_sha256": "cbbe2688e12204bfb74c5524554d705af03bce228aae9710a188292051a07a84",
+  "scientific_pass_modes": [
+    "price",
+    "calendar",
+    "raw",
+    "exterior",
+    "nested",
+    "product",
+    "setup"
+  ]
+}

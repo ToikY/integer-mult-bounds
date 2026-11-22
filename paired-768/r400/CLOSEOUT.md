@@ -1,0 +1,9 @@
+# Round 400 closeout
+
+Round 400 certifies conditional **κ = 0.0038982141167032** under the same five signed all-size premises. The exact gain over #8068 is **0.0000000003167032**, or **(395879/48727672500)%**. The latest external #8057 stays at 0.00389821. Its difference is **0.0000000041167032**, or **(5145879/48727625000)%**. The attained fixed-invoice allocation uses Gaussian height 490664 and recurring log₂ C≤318292451. This closes the stated three-stage height family. [PR #8069](https://github.com/CrocSwap/integer-mult-bounds/pull/8069) · [Whole-family proof](../r399/README.md)
+
+All three hosted checks passed at exact head `2d0d7d378929269b00dcabfac1099b2bb23b3b3b`. Actual scientific output includes all seven PASS markers, the nested grant with 4,507,783,464 axes, signed product, and registered completion. The local seven-mode suite passed in 216.00 seconds. Onboarding collected 760 tests with 31 skips and zero failures. The historical replay passed its declared scope. [Hosted scientific replay](https://github.com/CrocSwap/integer-mult-bounds/actions/runs/45084984873/job/137402705174) · [Exact hosted receipt](hosted-verification.json) · [Clean-checkout command and local evidence](README.md)
+
+Separate #8058 evidence covers both full signed widths and the unchanged phase census locally. In the prior split hosted run, GitHub shut down the 474-column runner without an assertion verdict. The same-tree retry snapshot records its hosted status separately. [Local coverage](../ci8058/README.md) · [Runner shutdown](https://github.com/CrocSwap/integer-mult-bounds/actions/runs/45083016705/job/137396269315) · [Same-tree hosted retry](https://github.com/CrocSwap/integer-mult-bounds/actions/runs/45084322645/job/137400633613)
+
+The campaign boundary is the end of this round. For reproduction after resumption, use Git and CPython 3.12 at the exact #8069 head with the registered command in the handoff.
