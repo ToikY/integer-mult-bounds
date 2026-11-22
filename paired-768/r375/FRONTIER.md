@@ -1,0 +1,45 @@
+# Round 375 frontier refresh · 2026-11-22 21:05 UTC
+
+The latest seven pull requests across all states include a new highest claimed complete rate. Ali Romman's #8057 at `cbe847a953b971f9c6c5a0a6661e2008acd29086` reports conditional κ = **0.00389821**. The campaign's independently replayed #8056 remains at `c5cbef6e558542d6e809aabb6ead89b9e51f7b1c`, κ = 0.0038982016137. The proposal's gain over #8056 is exactly 83863/10^13, a change in the peer frontier. #8057's planner passed at the refresh. Its weighted science, historic replay and parent-tier science jobs were running. No review decision was observed. Canonical main `e54523517d0f03e58352e647c403a5af3e525a57` remains the maintainer-selected source. [Latest peer #8057](https://github.com/CrocSwap/integer-mult-bounds/pull/8057) · [Current campaign #8056](https://github.com/CrocSwap/integer-mult-bounds/pull/8056) · [Exact-head weighted job](https://github.com/CrocSwap/integer-mult-bounds/actions/runs/45069670022/job/137354798802)
+
+## What changes
+
+The peer retains the same five conditional research premises named for #8055 and #8056: arbitrary all-column native action, owner erasure/restoration, uniform chronological compiler closure, fixed-alphabet tape and precision service, and analytic recovery. It supplies new typed chronology and charges each real birth. The numerical machine uses only the true widths f and 2f, with actual birth ratios 1 and 90, two independent job types and half splits in type 0. It keeps 51 grade fractions and emits 88 active type-specific cells. Every physical job retains its own 52,608 independent productive owners and either 282,576 or 281,568 real paid labels. At ratio 91, the total moment remains positive, but mandatory grades above 8/5 exceed the capacities strictly above target grade 2 by more than 1,515. This is an exact capacity obstruction on that catalogue. The type-specific calendar checks an eight-axis nonzero interior transfer across the job boundary at paid ordinal 3,418 with two complete physical words and zero cleanup. The suffix coefficient at ratio 90 is at most 7.579. This supports its lower band 2,048 and the all-depth debit 65081/524288. [Complete proof](https://github.com/aliromman/integer-mult-bounds/blob/cbe847a953b971f9c6c5a0a6661e2008acd29086/research/frequency-weighted-native-multiplier/PROOF.md) · [Finite loss](https://github.com/aliromman/integer-mult-bounds/blob/cbe847a953b971f9c6c5a0a6661e2008acd29086/research/frequency-weighted-native-multiplier/FINITE-LOSS.md)
+
+The new full terminal profile uses binary rank logarithms 8,192, 129,414 and 524,288 with Gaussian H = 483,871. The smaller tier runs at .00345, starts its complete native path at A = 7,437, and incurs an exact 514-bit finite-interval surcharge to pay the global κ. The terminal sufficient A is 1,146,239. The all-input recurring normalized log₂ coefficient ceiling is 318,259,431. The additional below-2^113 fixed setup claim buys a new two-flight portable installer and is separate from elapsed speed or the recurring exponent. [Machine invoice](https://github.com/aliromman/integer-mult-bounds/blob/cbe847a953b971f9c6c5a0a6661e2008acd29086/research/frequency-weighted-native-multiplier/RESULT.json) · [Portable installation scope](https://github.com/aliromman/integer-mult-bounds/blob/cbe847a953b971f9c6c5a0a6661e2008acd29086/research/frequency-weighted-native-multiplier/portable/README.md)
+
+## Effect on the compact candidate
+
+R374 retains the different 1-to-79 physical dilation, uses the rounded unequal base packets and has two ordinary stages (35,327, 559,462) and Gaussian H = 680,000. #8057's active schedule and changed source are distinct. The planned R374 complete rate .003898202 would improve #8056, yet it falls below the new peer claim by exactly 1/125000000. Its own installed Gaussian trial `2143195807/2^39` minus 43/(256·680000) and 5/10^18 gives strict κ cap `27795425547850306145291/7130316800000000000000000`, approximately **.00389820344978925847**. That cost gate alone cannot reach .00389821 even if ordinary work is free. At the same raw trial, matching the new reported peer requires Gaussian H at least 698,524 before charging a feasible ordinary retune. The new peer's own installed Gaussian ceiling is `6329140215023955047274919989/1623601656627200000000000000000`, approximately **.00389821000070413683714**. Recovery of R374's independent replay can prove its narrower compact construction. It cannot support a stronger frontier claim at those caps. [Peer's exact raw and signed rates](https://github.com/aliromman/integer-mult-bounds/blob/cbe847a953b971f9c6c5a0a6661e2008acd29086/research/frequency-weighted-native-multiplier/RESULT.json)
+
+## Reproduce exact #8057
+
+The branch stacks on #8055 at `7b48187d99525ad59f560de3921ec7e48382484c`. It authenticates that offline restorer, K7 word and precise dependency paths, then overlays the typed controller. Require Git and CPython 3.12. To get the cheapest decisive check on the two paid profiles, independent directed intervals and true first placement, run `python3.12 -IB research/frequency-weighted-native-multiplier/verify.py price`. For independent complete finite replay, run from the exact checkout:
+
+```sh
+python3.12 -IB scripts/research_package.py --package research/frequency-weighted-native-multiplier
+```
+
+Six modes with capped seconds: price 140, calendar 160, raw 170, exterior 190, nested 200, product 220. The terminal marker is `PASS_REGISTERED_RESEARCH_PACKAGE research/frequency-weighted-native-multiplier outcome=completed`. The binary K7 source and older native tape machinery are inherited. Compare their path pins and reuse the exact #8055 independent binary replay if identical. The registered numerical modes execute finite signed controls including the actual nested route, all-axis ownership, typed schedules and the independent −345550037539 product. The registered price validates the archived portable invoices. Regenerating the optional Wasm installation trace requires the exact published guest, library archive and Wasmtime 38.0.0. This measures a separate fixed-setup claim and is unnecessary for the changed paid recurrence. Neither registered nor portable replay reaches actual production dimensions. The complete arbitrary-input source-to-machine implication is conditional and written, with separate Lean checks of some inequalities. No distinct premise or missing supplier endpoint is apparent on a scope audit. [Verification evidence and limits](https://github.com/aliromman/integer-mult-bounds/blob/cbe847a953b971f9c6c5a0a6661e2008acd29086/research/frequency-weighted-native-multiplier/VERIFICATION.md)
+
+Exact Git blob pins under `research/frequency-weighted-native-multiplier/`:
+
+| Path | Git blob |
+| --- | --- |
+| `VERIFY.json` | `95b558182be96d007a68475f623a9df2080c9ba5` |
+| `SOURCES.json` | `2edf3073fc3daddcce4ac8e9aff6fd38dcc5aaf0` |
+| `RESULT.json` | `c7ed01eff900b13d3cf70fc9b7c52daad598a41c` |
+| `verify.py` | `9d83c2fcff4bb0b9952fb77df53af822c8f78fa2` |
+| `bootstrap.py` | `46de56ff409d025ba1f0cb6fd05ee4fe0cf56f58` |
+| `receipt.py` | `6c2b0e918d660a4f1052106458728e4a28ff591d` |
+| `independent_price.py` | `5bf74e6a6882425ff082abdd31e6704455b59ef8` |
+| `typed_transport.py` | `c58740b3b08b022f44de6b4a4b7d75032818fb7e` |
+| `typed_raw.py` | `1797e260bbd769e895d7ceea3e0bbd03850189f7` |
+| `check_nested.py` | `c4797dc5dc46869be1c8c475f24c694bed9b1d3f` |
+| `FINITE-LOSS.md` | `433a65a2826c313dadf8f39ac432756523665c99` |
+
+## Exact first-cut result for an unsplit alternative
+
+The least-cost distinct test unsplits the single already validated rank-one return `("return",9977,0,91966)` in type 0. Its bounded extension unsplits both that return and `("return",9977,0,91990)`, the two cuts previously verified under #8054. Leave the 90 type-one births and all type-one paid roles unchanged. Whole rank one uses the existing legal physical even-width path. This changes neither the true positive source dimensions nor the type-one recipe.
+
+Only the half-rank payments supply the 1,008 unit-rank targets. At the peer's exact c and with s retained type-zero splits, their supply is s·2^c. The normalized demand is 1,008·P/T ≤ 1,008 whenever the full moment funds the profile. At the fixed peer c the original full moment is positive, and either removal decreases P by 2^c−1 per removed split while preserving T. The exact bound log 2 > 2(1/3+1/81) > 69/100 follows by integrating the first two positive terms in 2/(1−u²) for u from 0 to 1/3. Thus 2^c > 1+69c/100. The full first-cut surplus is strictly greater than **751525656164261/439804651110400** for one unsplit and **155268978044669/219902325555200** for two. These bounds also apply at higher c conditional on the global funding inequality. This calculation proves only the first cut. Other grade cuts, 51/88 cell counts, type-specific shares, retimed role fences, the lower-band debit, and improvement over the peer's installed ceiling still require exact checks. The first full test is one grade census and independent typed transport at the first dyadic trial which could beat the certified installed ceiling.
