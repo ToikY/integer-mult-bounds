@@ -181,3 +181,7 @@ At fixed debit and height, every subset of the two nominated whole returns stays
 ## Round 378 · sharper finite edge budget on the weighted signed word
 
 The exact authenticated 51-edge weighted profile completed all seven scientific modes. It pays the tighter finite debit and higher third ordinary stage, with separately charged conservative native setup. [Replay, directed price and comparison](r378/README.md)
+
+## Round 379 · a complete price exclusion for frequency 91
+
+At least nine real doubled-width splits would be necessary to repair the high cut. Their repeated paid cost rules out the whole fixed-height family even under optimistic remaining charges. [Exact scope, source and clean replay](r379/README.md)
