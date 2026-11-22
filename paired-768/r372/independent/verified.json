@@ -1,0 +1,42 @@
+{
+  "campaign_comparator": "38982016137/10000000000000",
+  "coarse_ratio_bound_if_rounded": 48348,
+  "dependency_hashes_by_path": {
+    "NUMERICAL.md": "14b86724db522393981ed54b540a35f27bd952f3d95d6e6d14c5b23896811dc9",
+    "grades.py": "340684fdd5ca0e611836b0e7301f1c339282ba532bf9e3ec8055944d8981f3c8",
+    "installations.py": "1c6978b8c7d136ef87191512d9ab9eb3dda8a818844244b96cb165d46d97b1df",
+    "receipt.py": "3d0219eb2262ea64ccf2dc8da4d2877e32c519c4670d99577703f8bfc236ba61",
+    "runtime.patch": "6c93961841be2abc3629928074e2c7917d264e94187276fc88a33f922a3c62e4"
+  },
+  "entry_rate_conversion_bits": 572,
+  "hypothetical_fringe_coefficient": "9275000/156123",
+  "large_copy_phase_pass_extents": [
+    [
+      32760,
+      1,
+      0,
+      0
+    ],
+    [
+      32762,
+      1,
+      189072,
+      1134432
+    ],
+    [
+      32762,
+      2,
+      0,
+      0
+    ]
+  ],
+  "ordinary_upper_actual_first_stage_floor": "234920188733038341865538804519249/60263759872000000000000000000000000",
+  "ordinary_upper_no_stop_or_first_stage_floor": "4351079485209080573611553/1116176564878386921472000000",
+  "ordinary_upper_with_stop_but_no_first_stage_floor": "212455052988724364879332451565693/54500808831952486400000000000000000",
+  "peer": "7b48187d99525ad59f560de3921ec7e48382484c",
+  "peer_report": "19491/5000000",
+  "remaining_cases_in_fixed_compact_profile": 0,
+  "shortfall_after_stop_but_no_first_stage_floor": "87947948029726874852114307/54500808831952486400000000000000000",
+  "shortfall_even_before_stop": "140716716411556529107763/87201294131123978240000000000000",
+  "status": "EXCLUDED_BY_UNCHANGED_ORDINARY_PRICE"
+}
