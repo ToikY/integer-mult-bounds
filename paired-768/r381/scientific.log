@@ -1,0 +1,169 @@
+CHECK Check the complete changed invoice, directed finite factor, independent weighted price and true first placement.
+PASS_WEIGHTED_COMPLETE_PRICE 318280871
+PASS_INDEPENDENT_WEIGHTED_AND_QUARTER_PRICES
+[
+  {
+    "H": 1024,
+    "cell": [
+      1,
+      112,
+      1,
+      258
+    ],
+    "share": "1/624",
+    "rotated_roots": 384,
+    "first_root": [
+      "root",
+      "rotated",
+      0,
+      4080,
+      1
+    ],
+    "period": 1620,
+    "tickets": [
+      0,
+      324,
+      648
+    ],
+    "first_swap": [
+      1,
+      324,
+      1
+    ]
+  },
+  {
+    "H": 483871,
+    "cell": [
+      1,
+      112,
+      1,
+      258
+    ],
+    "share": "1/624",
+    "rotated_roots": 384,
+    "first_root": [
+      "root",
+      "rotated",
+      0,
+      4080,
+      1
+    ],
+    "period": 1620,
+    "tickets": [
+      0,
+      324,
+      648
+    ],
+    "first_swap": [
+      1,
+      324,
+      1
+    ]
+  }
+]
+PASS_WEIGHTED_INTEGER_FREQUENCIES price
+CHECK Check both typed calendar owners, live loans and deadlines, including the genuine (8,721) birth frequencies.
+PASS_TWO_NATIVE_TYPES 2048 1040 2 (13600, 26400) 951040 (4684, 22252) 37152 {(0, 1), (1, 0), (1, 1)}
+[
+  {
+    "frequency": [
+      1,
+      3
+    ],
+    "raw_frames": 7620,
+    "directed_bindings": {
+      "(1, 1)": 2688,
+      "(1, 0)": 420,
+      "(0, 1)": 704
+    },
+    "depth": 3,
+    "peak_simultaneous_frames": 4484,
+    "external_opens": 192,
+    "zeros": 9232,
+    "external_rows": 1152,
+    "positive_periods": [
+      16
+    ],
+    "leaf_axes": 377008,
+    "same_tick_return_before_next_loan": 3392
+  },
+  {
+    "frequency": [
+      1,
+      90
+    ],
+    "raw_frames": 25120,
+    "directed_bindings": {
+      "(1, 1)": 12320,
+      "(1, 0)": 12,
+      "(0, 1)": 24
+    },
+    "depth": 3,
+    "peak_simultaneous_frames": 16848,
+    "external_opens": 14912,
+    "zeros": 22628,
+    "external_rows": 39040,
+    "positive_periods": [
+      8,
+      12,
+      16
+    ],
+    "leaf_axes": 862608,
+    "same_tick_return_before_next_loan": 12344
+  },
+  {
+    "frequency": [
+      8,
+      721
+    ],
+    "raw_frames": 25024,
+    "directed_bindings": {
+      "(1, 1)": 12296,
+      "(1, 0)": 12,
+      "(0, 1)": 24
+    },
+    "depth": 3,
+    "peak_simultaneous_frames": 16784,
+    "external_opens": 14912,
+    "zeros": 22460,
+    "external_rows": 39040,
+    "positive_periods": [
+      8,
+      12,
+      16
+    ],
+    "leaf_axes": 859536,
+    "same_tick_return_before_next_loan": 12320
+  }
+]
+PASS_WEIGHTED_INTEGER_FREQUENCIES calendar
+CHECK Execute both nonzero signed native jobs and restore all physical owners.
+PASS_TYPED_RAW48 0 columns 2 paid 282576 nonzero 16 writes 71808 peak 62448
+PASS_TYPED_RAW48 1 columns 4 paid 281568 nonzero 15 writes 71808 peak 62448
+PASS_WEIGHTED_INTEGER_FREQUENCIES raw
+CHECK Generate the first exterior births and return all owners through the actual signed words.
+PASS_EXTERIOR_TYPED_RAW (37881455687312, 3414066193818908) 74 105216 564144 [4456224, 234] [0, 121432]
+PASS_WEIGHTED_INTEGER_FREQUENCIES exterior
+CHECK Carry the actual nonzero cross-type nested loan and verify both owner returns.
+real nested transfer completed 3418 ('helper', 9977, 0, 14) [281568, 2]
+PASS_NONZERO_INTERIOR 282576 281568 9841 7206456401 2 [0, 118692]
+PASS_WEIGHTED_INTEGER_FREQUENCIES nested
+CHECK Execute the exact signed product and independently verify coefficients and restoration.
+{"H_calls": 157248, "bits": [20, 19], "coefficients_prefix": [11811, 10996, 4152, 868, 77], "padded_bytes": 633744, "product": "-345550037539", "rank": 2, "seconds": 69.8479, "shuttles": 138, "stage_body_records": 6561}
+PASS_WEIGHTED_SIGNED_PRODUCT
+PASS_WEIGHTED_INTEGER_FREQUENCIES product
+CHECK Check canonical serial division, Bézout, rational arithmetic and the conservative fixed native setup tape bound.
+{
+  "integer_pairs": 4071,
+  "rational_cases": 7396,
+  "max_datum_bits": 274877906944,
+  "lookup": 170141183460469231731687303715884105728,
+  "local_arithmetic": 297105609434291902295870930944,
+  "all_setup": 217364570380528137475793294892811967875864032914108887556978854854656,
+  "setup_exponent": 228
+}
+PASS_WEIGHTED_INTEGER_FREQUENCIES setup
+PASS_REGISTERED_RESEARCH_PACKAGE research/p104-weighted-integer-frequencies outcome=completed
+real 160.66
+user 108.35
+sys 49.89

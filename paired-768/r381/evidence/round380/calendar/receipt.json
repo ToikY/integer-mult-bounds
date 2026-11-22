@@ -1,0 +1,87 @@
+{
+  "cross_type_calendar_fixture": true,
+  "decision": "VIABLE_PHYSICAL_GAUSSIAN_PRICE, EXCLUDED_COMPLETE_AT_FIXED_BINARY",
+  "exact_boundary_axis_sum": 1082697600,
+  "exact_trial": "17145637231/4398046511104",
+  "finite_factor_reserve_floor_1e12": 12868333,
+  "finite_factor_upper_1e12": 1089722370155,
+  "first_binary_height_that_might_reopen": 524355,
+  "fixed_binary_shortfall_at_target": "-604116968654872481240898769/23458977153024000000000000000000000000",
+  "fringe_upper_1e9": 7335167693,
+  "gaussian_margin_at_target": "7381204720173919989/1623601656627200000000000000000",
+  "installed_grade_and_type_cells": [
+    51,
+    88
+  ],
+  "integer_births_fixture_at_e20": [
+    9647,
+    869369
+  ],
+  "integer_weights": [
+    8,
+    721
+  ],
+  "interval_mass_error_bits_H1024": -37293,
+  "opening_bound_factor_lt": 2,
+  "physical_word_counts": [
+    [
+      52608,
+      282576
+    ],
+    [
+      52608,
+      281568
+    ]
+  ],
+  "pins": {
+    "frequency-weighted-native-multiplier/FINITE-LOSS.md": "12c6069437a0cbb61c80804f89f027ef9709c186e67d26fb0584ad6e71048052",
+    "frequency-weighted-native-multiplier/SOURCES.json": "01d9e6b6b28cd174800cadfb59f4f064b3844575da297d82e16eb19a0d11c868",
+    "frequency-weighted-native-multiplier/bootstrap.py": "a824c0ba9bb5efe5ad5b6c9b891b363b6d2ac31b0a57b9e27b68a6c2bca6f7ee",
+    "frequency-weighted-native-multiplier/grades.py": "8d2e3d14ac2149f985d7f6a75bf36182d7f68aadf8df6595fc0774224d4951ac",
+    "frequency-weighted-native-multiplier/typed_raw.py": "0c268432c9d48798c17d927f2d900b5e69dfc6585166cd71f253913e389c3b47",
+    "frequency-weighted-native-multiplier/typed_transport.py": "b76b9ad3dc0dd91473026c079585f830387eaa3c34c25a7820ee5057d5cbf941",
+    "tiered-native-multiplier/source/outer_budget.py": "ca4438db28a447ed5c43d87d43f0ac10a0cb2b4e183342ac93139d517b9d4d02"
+  },
+  "placement": [
+    [
+      1024,
+      1620,
+      [
+        0,
+        324,
+        648
+      ],
+      [
+        1,
+        324,
+        1
+      ]
+    ],
+    [
+      483871,
+      1620,
+      [
+        0,
+        324,
+        648
+      ],
+      [
+        1,
+        324,
+        1
+      ]
+    ]
+  ],
+  "prior_receipt": "8a2099dd18818ab5f1df4d7d29d8cdbbf3df971ed567475309e35218ffe3eb71",
+  "psi_lower_floor_1e4": 14818134024676,
+  "rounded_fixture_leaf_count": 227308038,
+  "target_kappa": "389821033/100000000000",
+  "weighted_targets_and_paid": [
+    38351232,
+    205271136
+  ],
+  "widths": [
+    1,
+    2
+  ]
+}

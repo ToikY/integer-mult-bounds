@@ -189,3 +189,7 @@ At least nine real doubled-width splits would be necessary to repair the high cu
 ## Round 380 · actual integer frequency screen
 
 One complete predicted price and physical scheduling check support building the 8-to-721 birth profile. Fixed ordinary heights are independently ruled out for the new target. [Source, scope and runnable receipts](r380/README.md)
+
+## Round 381 · complete real integer frequency replay
+
+The 8-to-721 literal profile completes all seven registered scopes at conditional κ = 0.00389821033. The exact comparison, complete signed product, nested return and independent proof reproduce cleanly. [Exact verification and inputs](r381/README.md)

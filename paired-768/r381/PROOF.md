@@ -1,0 +1,19 @@
+# Detached acceptance of the 729-opening weighted capsule
+
+The candidate uses exact integer births (8,721) at physical widths (1,2), raw Gaussian C=17145637231/2^42, Gaussian height 483871 and unchanged debit 65000/524288. The terminal ordinary heights are (8192,129414,524355). The proposed κ=0.00389821033 stands 3/10^11 above the independently reproduced #8059 at c34c958114297cdbd1f493666342b8859531d40d, or exactly (30/38982103)%. It also clears the old complete installed ceiling. This detached acceptance preserves the original source and the fixed 729 cap. It does not claim complete acceptance on its own. [Original paid word and phase contract](https://github.com/CrocSwap/integer-mult-bounds/pull/8057) · [Comparator](https://github.com/CrocSwap/integer-mult-bounds/pull/8059)
+
+The checker authenticates the literal RESULT (SHA-256 1e5bbb53b1d373bd0499cfd3c2a4a9c4ff232058988cc0d23af6e053f48eb5fd), prepare.py (610541709f30ee19578da1825bfa47268a21760b7a121efd389f23e92bdb0f32), 88 original archived files, and the exact predeclared overlay. It confirms that the numerical operation code, stream and phase/privacy logic of the typed calendar remain byte-identical. The raw grade emitter changes just the integer frequency tuple. The nested and ownership fixtures now exercise those frequencies while honoring the same paid tags and return obligations. The old per-type roles are 52,608 targets each and 282,576 and 281,568 loans. The new invocations charge a weighted 38,351,232 targets and 205,271,136 loans.
+
+The detached calculation reconstructs all 51 grade and 88 typed allocations from a separate authenticated 48-call histogram. It checks both tight capacity cuts, every paid row, every receiving owner and the forced root's 1/624 share. At the new trial, the old frequency pair (1,90) has rigorous raw margin below −0.00257101544642678, while (8,721) has margin above +0.00954127461434508. It independently rederives the literal finite-edge integral, fringe, opposite-end charges, and all four rounded values in the R380 calendar receipt. The quotient of the exact directed nested interval gives grant 7,206,456,401. The authenticated fresh nonzero nested run reports that integer, ordinal 3418, and complete restoration. A separate physical verification suite remains required.
+
+The opening total is 729, within the actual finite calendar envelope. All 54 strict and four functional checks at each tier match the independently priced receipts. The last ordinary funded gap is 19395709305433724522761949/4691849117696000000000000000000000000. The actual first terminal header is 2^1146306+2, the finite entry surcharge is 514 bits, and the recurring signed clock ceiling is log₂ C=318,280,871. Fixed setup charges the full native serial bound below 2^228 and 269,057,152 grade actions. Portable setup traces do not price the new capsule.
+
+Ali Romman supplied the original weighted calendar, invariant phase/owner paths and discrete finite-loss proof. SYLforge supplied K7. #8059 supplied the baseline funded comparison. OpenAI Codex assisted the independent derivation and verification.
+
+From a clean evidence root with the paths and hashes in accept.py, use CPython 3.12 and a separate exact capsule root. The archive is authenticated directly and requires no prior local installation.
+
+```sh
+python3.12 -IB accept.py --inputs "$EVIDENCE_ROOT" --capsule "$CAPSULE" --out fresh-accept.json
+```
+
+The final detached run passed in 0.04 seconds. A separately populated clean evidence directory reproduced SHA-256 b5692df06d5a56b7b4c8032826fe16248425ed02bf022ceb787c7843f3a060d3. Initial proof and implementation took approximately three minutes elapsed. The fresh genuine nested and price build ran separately in 28.73 seconds. Full registered replay and hosted checks are outside this receipt.
