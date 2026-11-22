@@ -1,0 +1,77 @@
+{
+  "booking_test_given_raw_trial": {
+    "functional": 4,
+    "ordinary_margin": "1/1000000000000000000",
+    "positive_margin": "10337456706145291/7130316800000000000000000",
+    "smallest_margin": "1/10000000000000000000",
+    "strict": 54
+  },
+  "candidate_raw_trial": "2143195807/549755813888",
+  "comparator_gain_if_verified": "3863/10000000000000",
+  "comparator_kappa": "38982016137/10000000000000",
+  "currency": "analytic retuning only, literal Gaussian replacement still required",
+  "delta_log2_C_vs_peer": 146240,
+  "entry_log2_C_after_conversion": 125660813,
+  "entry_rate_conversion_bits": 572,
+  "eta": "39/10000",
+  "exact_comparator": "c5cbef6e558542d6e809aabb6ead89b9e51f7b1c",
+  "old_gaussian_price_shortfall": "12930670735260959/7130316800000000000000000",
+  "ordinary_stage_margins": [
+    "66969006830171/37932077416448000000000000000000000",
+    "45310754737472239035576931/37544859271168000000000000000000000000"
+  ],
+  "ordinary_stage_rates": [
+    "1923248757962185099/500000000000000000000",
+    "779640400000001/200000000000000000"
+  ],
+  "peer_source": "7b48187d99525ad59f560de3921ec7e48382484c",
+  "pins": {
+    "CLOCK.md": "cf71e4a3216df23eb7e4fa8a8d9de3735e6257c65ca8a60a5085d9f3c90c4ecb",
+    "RESULT.json": "661e16fcb533b69b97ad2dc91ab81bed79c44e7fdce01306ce573cb6f0ed7fa7",
+    "installations.py": "1c6978b8c7d136ef87191512d9ab9eb3dda8a818844244b96cb165d46d97b1df",
+    "receipt.py": "3d0219eb2262ea64ccf2dc8da4d2877e32c519c4670d99577703f8bfc236ba61",
+    "source/activation.py": "6e7f89d40a4d10ecd40a50e5b96334dfc64db90841ece7e3ef12eeca5ee5093b",
+    "source/outer_budget.py": "ca4438db28a447ed5c43d87d43f0ac10a0cb2b4e183342ac93139d517b9d4d02",
+    "source/outer_clock.py": "63363c3da673365f3ac5e1b7e318c6938005f1e9c9896799504cc598efbf96fa"
+  },
+  "strict_raw_requirement": "13254726643750017/3400000000000000000",
+  "target_kappa": "1949101/500000000",
+  "terminal_geometry": {
+    "binary_cuts": [
+      35534,
+      595060
+    ],
+    "controller_s": 1275309,
+    "dense_root_rows_log2": 1431655766,
+    "first_header_offset": 2,
+    "largest_axis_width": 715827883,
+    "log2_axes": 1275276,
+    "minimum_window": 652959488,
+    "next_jump_slack": 821837,
+    "private_geometry_log2": 734315012525,
+    "terminal_A": 1275308
+  },
+  "terminal_log2_B": 190332608,
+  "terminal_log2_C": 339934210,
+  "terminal_stock": {
+    "absolute_log2_private_control_envelope": 696320002,
+    "binary_cuts": [
+      35534,
+      595060
+    ],
+    "first_public_offset": 2,
+    "initial_s": 1275309,
+    "public_exponent_A": 1275308,
+    "retimed_all_size_margin_floor": 615760,
+    "retimed_first_stripe_margin": 635604,
+    "stage_and_outer_fixed_log_overhead": 1964,
+    "storage_upper": "6.2 p T < 297.6 n bits"
+  },
+  "terminal_width_logs": [
+    3250084,
+    51470504,
+    62560000
+  ],
+  "total_log2_C": 339934211,
+  "warning_on_trial": "the provided Gaussian trial needs independent literal proof"
+}
