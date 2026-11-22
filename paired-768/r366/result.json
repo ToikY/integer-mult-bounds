@@ -1,0 +1,140 @@
+{
+  "case_cap": 32,
+  "case_scope": 1,
+  "cut": 8105,
+  "cut_source_row_products": [
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "1"
+  ],
+  "dependencies": {
+    "inputs/BINARY-CANDIDATE.json.gz": "74e93daf2b7acf794ffb51f92f03f51556f68126d41ee13a8969bddb4cbe6326",
+    "r352/accept.json": "0b179d16461707f2ec6b0ea02149b1dfef0f667a051da475fa400713a01f6377",
+    "r363/result.json": "40634f32710849f1693d5e691c7c9c192ee2f2dedda8f642f17f592e4aa4f5b9"
+  },
+  "direct_arrival_clocks": [],
+  "direct_arrival_count": 0,
+  "failed_target_chart": 530,
+  "feeder_contacts": [
+    {
+      "arrival": [
+        4759,
+        "MOVE",
+        1902,
+        274,
+        330
+      ],
+      "donor_next_reads": [
+        [
+          8107,
+          "ADD_SEND",
+          1902,
+          2336,
+          330
+        ],
+        [
+          19958,
+          "ADD_SEND",
+          1902,
+          3300,
+          330
+        ]
+      ],
+      "proposed_target_row_products": [
+        "0",
+        "0",
+        "0",
+        "1"
+      ],
+      "read": 8103
+    },
+    {
+      "arrival": [
+        4800,
+        "MOVE",
+        1908,
+        275,
+        330
+      ],
+      "donor_next_reads": [
+        [
+          19959,
+          "ADD_SEND",
+          1908,
+          3300,
+          330
+        ]
+      ],
+      "proposed_target_row_products": [
+        "0",
+        "0",
+        "0",
+        "1"
+      ],
+      "read": 8104
+    }
+  ],
+  "first_post_cut_use": [
+    10038,
+    "ADD_SEND",
+    2335,
+    2829,
+    510
+  ],
+  "lifetime": [
+    [
+      8102,
+      "INIT",
+      2335,
+      330
+    ],
+    [
+      8103,
+      "ADD_RECEIVE",
+      2335,
+      1902,
+      330
+    ],
+    [
+      8104,
+      "ADD_RECEIVE",
+      2335,
+      1908,
+      330
+    ],
+    [
+      8105,
+      "MOVE",
+      2335,
+      330,
+      510
+    ],
+    [
+      10038,
+      "ADD_SEND",
+      2335,
+      2829,
+      510
+    ],
+    [
+      11015,
+      "ADD_SEND",
+      2335,
+      3151,
+      510
+    ],
+    [
+      38502,
+      "CLEAR",
+      2335,
+      510
+    ]
+  ],
+  "original_move_valid": true,
+  "required_receiver": 2335,
+  "result": "NO_DIRECT_ALREADY_PAID_ARRIVAL",
+  "unvisited": 0
+}
