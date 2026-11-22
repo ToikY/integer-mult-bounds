@@ -1,0 +1,57 @@
+CHECK Rebuild and price both complete source profiles, all signed margins, true placement, activation and the all-input transition bound.
+{
+  "starts": {
+    "1024": {
+      "period": 1620,
+      "tickets": [
+        0,
+        324,
+        648
+      ],
+      "first_swap": [
+        1,
+        324,
+        1
+      ]
+    },
+    "680000": {
+      "period": 1620,
+      "tickets": [
+        0,
+        324,
+        648
+      ],
+      "first_swap": [
+        1,
+        324,
+        1
+      ]
+    }
+  },
+  "root": [
+    "root",
+    "rotated",
+    0,
+    4080,
+    1
+  ],
+  "nonempty": 63,
+  "minimum_probability_lower": "2^-64"
+}
+PASS_COMPLETE_RATE_STOCK_AND_CLOCK 340530371
+PASS_COMPACT_ROUNDED_PARTITIONS price
+CHECK Bound the old global Gaussian crossing and the changed signed moment with independent log and exp enclosures.
+PASS_INDEPENDENT_QUARTER_BRACKET 2194634319317/562949953421312 4389268638635/1125899906842624
+PASS_INDEPENDENT_RAW_CROSSING 9745450861987585323403897/2500000000000000000000000000 38981803447950341293615589/10000000000000000000000000000 and funded 79-column dilation
+PASS_COMPACT_ROUNDED_PARTITIONS interval
+CHECK Replay K7 on all independent roles, rational charts and weighted physical controls.
+PASS_K7_ALL_630_ROLES_AND_WEIGHTED_ROUTES
+PASS_COMPACT_ROUNDED_PARTITIONS binary
+CHECK Run the signed general entry and compare exact physical Fourier coefficients, product and restored input heads on a finite geometry.
+{"H_calls": 157248, "bits": [20, 19], "coefficients_prefix": [11811, 10996, 4152, 868, 77], "padded_bytes": 633744, "product": "-345550037539", "rank": 2, "seconds": 86.1422, "shuttles": 138, "stage_body_records": 6561}
+PASS_SIGNED_PRODUCT_AND_RESTORATION
+PASS_COMPACT_ROUNDED_PARTITIONS product
+CHECK Check the serial quotient, signed Bézout and rational primitives and the absolute fixed-installation tape bill.
+PASS_SERIAL_FIXED_INSTALL 228
+PASS_COMPACT_ROUNDED_PARTITIONS setup
+PASS_REGISTERED_RESEARCH_PACKAGE research/p104-compact-rounded-partitions outcome=completed

@@ -1,0 +1,14 @@
+{
+  "fixed_setup_upper": 217364570380528137475793294892811967875864032914108887556978854854656,
+  "fixed_store_upper": 324518553658426726783156020576256,
+  "paid_grade_rows": 30,
+  "pins": {
+    "coupling": "2828f5a208b24b3c556313601d6f05a62fef57509e58dc00d161c9f2d8023553",
+    "setup": "6951a98f2f8a0bf73c8d60b16ebbbd66bf87584251df8afbefe4e3a0330bfbf3"
+  },
+  "prior_grade_action_budget": 4294967296,
+  "productive_grade_rows": 34,
+  "recurring_integral_arithmetic_upper_at_H1024": 1182907605639059472384,
+  "scope": "inherited exact fixed serial setup and arithmetic envelope, not full replay",
+  "whole_changed_fixed_grade_action_upper": 269091840
+}

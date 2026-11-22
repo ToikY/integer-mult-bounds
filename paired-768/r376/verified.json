@@ -1,0 +1,27 @@
+{
+  "dependencies_by_path": {
+    "round374/publish/research/p104-compact-rounded-partitions/prepare.py": "6b6ab5c79ab959ddd147b992cae67a82cf549cd282b6e17433aa95b66ae9b2b9",
+    "round375/independent/coupling.json": "2828f5a208b24b3c556313601d6f05a62fef57509e58dc00d161c9f2d8023553",
+    "round375/independent/coupling.py": "fb54f24864288855e15e979549c64449ef350c1cebe008342dda946ba1d941e4",
+    "round376/independent/peer8057/RESULT.json": "2f4faa6648592f589df22a8a0a07ba6856d20786294a44a7776c7d6e0efa14a5",
+    "round376/independent/peer8057/receipt.py": "82d921fdc33006e2d356d8bf78f3c85777722322d716be44b42bc763a04c8095"
+  },
+  "exact_transport_cells": 63,
+  "kappa": "77964201/20000000000",
+  "known_good_exact_8055_and_R374": true,
+  "literal_dependencies_by_path": {
+    "PEER-SOURCE.json": "22a27f2da0cd412ba0e16ac17e0ebd4db3a5c4a919c0954c0ead9dbefe9a0cb6",
+    "RESULT.json": "fd3f0c95d397038a32ffbdca7c7c827a6fd5e97f1b5cf0f80c75c48b78ec5ae1",
+    "peer8055.tar.gz": "c28527d1ef80523191b3454fce6df3b43844db22277ffd16e1170369d2b8f14c",
+    "prepare.py": "9faf4e806b7e0fbb21450c5ee51661830f692b971e9b0aebcfa4ce8790243410"
+  },
+  "old_debit_rejects_new_claim": true,
+  "omitted_one_quarter_rejected_even_with_forged_count": true,
+  "peer_exact_head": "cbe847a953b971f9c6c5a0a6661e2008acd29086",
+  "peer_installed_caps": {
+    "gain_over_installed_ceiling": "6661445139448072645743/134217728000000000000000000000000",
+    "numerical": "6329140215023955047274919989/1623601656627200000000000000000",
+    "ordinary": "523208889516321260551927354257/134217728000000000000000000000000"
+  },
+  "scope": "installed price/invoice/shape only, registered signed runtime evidence is separate"
+}

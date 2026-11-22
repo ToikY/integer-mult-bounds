@@ -1,0 +1,119 @@
+CHECK Build all seven recipes. Check every weighted row, both complete prices, activation, the frequency-91 cut, and the two portable tape invoices from the recorded runs.
+PASS_WEIGHTED_COMPLETE_PRICE 318259431
+PASS_INDEPENDENT_WEIGHTED_AND_QUARTER_PRICES
+[
+  {
+    "H": 1024,
+    "cell": [
+      1,
+      112,
+      1,
+      258
+    ],
+    "share": "1/624",
+    "rotated_roots": 384,
+    "first_root": [
+      "root",
+      "rotated",
+      0,
+      4080,
+      1
+    ],
+    "period": 1620,
+    "tickets": [
+      0,
+      324,
+      648
+    ],
+    "first_swap": [
+      1,
+      324,
+      1
+    ]
+  },
+  {
+    "H": 483871,
+    "cell": [
+      1,
+      112,
+      1,
+      258
+    ],
+    "share": "1/624",
+    "rotated_roots": 384,
+    "first_root": [
+      "root",
+      "rotated",
+      0,
+      4080,
+      1
+    ],
+    "period": 1620,
+    "tickets": [
+      0,
+      324,
+      648
+    ],
+    "first_swap": [
+      1,
+      324,
+      1
+    ]
+  }
+]
+CHECK Run the two-type clock on opaque charts and independently trace loans, distinct owners and every deadline.
+PASS_TWO_NATIVE_TYPES 2048 1040 2 (13600, 26400) 951040 (4684, 22252) 37152 {(0, 1), (1, 0), (1, 1)}
+[
+  {
+    "frequency": 3,
+    "raw_frames": 7620,
+    "directed_bindings": {
+      "(1, 1)": 2688,
+      "(1, 0)": 420,
+      "(0, 1)": 704
+    },
+    "depth": 3,
+    "peak_simultaneous_frames": 4484,
+    "external_opens": 192,
+    "zeros": 9232,
+    "external_rows": 1152,
+    "positive_periods": [
+      16
+    ],
+    "leaf_axes": 377008,
+    "same_tick_return_before_next_loan": 3392
+  },
+  {
+    "frequency": 90,
+    "raw_frames": 25120,
+    "directed_bindings": {
+      "(1, 1)": 12320,
+      "(1, 0)": 12,
+      "(0, 1)": 24
+    },
+    "depth": 3,
+    "peak_simultaneous_frames": 16848,
+    "external_opens": 14912,
+    "zeros": 22628,
+    "external_rows": 39040,
+    "positive_periods": [
+      8,
+      12,
+      16
+    ],
+    "leaf_axes": 862608,
+    "same_tick_return_before_next_loan": 12344
+  }
+]
+CHECK Run both native Gaussian job types with nonzero exact rays and restore all physical owners.
+PASS_TYPED_RAW48 0 columns 2 paid 282576 nonzero 16 writes 71808 peak 62448
+PASS_TYPED_RAW48 1 columns 4 paid 281568 nonzero 15 writes 71808 peak 62448
+CHECK Generate the first two actual exterior births in a finite bin, execute their complete signed operations and return all owners.
+PASS_EXTERIOR_TYPED_RAW (4735181960750, 426166376467422) 71 105216 564144 [4456224, 234] [0, 121432]
+CHECK Borrow the actual nonzero eight-axis prefix at paid ordinal 3418 across two complete signed physical kernels and verify both returns.
+real nested transfer completed 3418 ('helper', 9977, 0, 14) [281568, 2]
+PASS_NONZERO_INTERIOR 282576 281568 9841 899557645 2 [0, 118692]
+CHECK Run the signed public entry and a complete finite Fourier product with independent coefficient and restoration checks.
+{"H_calls": 157248, "bits": [20, 19], "coefficients_prefix": [11811, 10996, 4152, 868, 77], "padded_bytes": 633744, "product": "-345550037539", "rank": 2, "seconds": 66.2251, "shuttles": 138, "stage_body_records": 6561}
+PASS_WEIGHTED_SIGNED_PRODUCT
+PASS_REGISTERED_RESEARCH_PACKAGE research/frequency-weighted-native-multiplier outcome=completed

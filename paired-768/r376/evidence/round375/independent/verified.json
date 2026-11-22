@@ -1,0 +1,30 @@
+{
+  "R374_exact_gaussian_ceiling": "27795425547850306145291/7130316800000000000000000",
+  "R374_exact_ordinary_ceiling": "146357445545896394673472239035576931/37544859271168000000000000000000000000",
+  "R374_shortfall": "300313563414606527760964423069/37544859271168000000000000000000000000",
+  "R375_outcome": "NO_VERIFIED_GAIN",
+  "necessary_heights_same_price": {
+    "binary_terminal_if_other_binary_stage_fixed": 561297,
+    "gaussian_ideal_raw_limit": 689292,
+    "gaussian_installed_dyadic": 698524
+  },
+  "one_price_followup": {
+    "first_gate": "reprice literal compatible coupling and amended typed calendar",
+    "gain_if_verified": "1/20000000000",
+    "gaussian_debit": "339/2048",
+    "gaussian_margin": "293035418039435867/3650722201600000000000000000",
+    "gaussian_trial": "1097317122991/281474976710656",
+    "ordinary_margin": "227770018882508113091026053/3013590646784000000000000000000000000",
+    "terminal_binary_H2": 561325,
+    "trial_kappa": "77964201/20000000000"
+  },
+  "peer_claim": "cbe847a953b971f9c6c5a0a6661e2008acd29086",
+  "peer_kappa": "389821/100000000",
+  "pins": {
+    "round372/primary/receipt.json": "33854dce220483454d08bf242b4fec99424758ffd2ea21070ea21fda297a26f0",
+    "round373/independent/verified.json": "64ee2fb61e6f3c55a6b06ac64b2d664c804a17b15eee903f5ab1af721aa71e77",
+    "round374/publish/research/p104-compact-rounded-partitions/RESULT.json": "0d20d4607fd2d68dfe0aaf84e063d986cb2c8e614a89dcd3a825135d62e075c6"
+  },
+  "retuned_raw_shortfall_same_Gaussian_debit": "48624195314524209657/14602888806400000000000000000",
+  "retuned_raw_upper_same_Gaussian_debit": "56925078549801229475790343/14602888806400000000000000000"
+}

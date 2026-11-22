@@ -169,3 +169,7 @@ At unchanged carrier heights, the proposed Gaussian dyadic `1071523491/2^38` cha
 ## Rounds 374–375 · two limits on the exact compact quarter schedule
 
 A complete local signed replay at the earlier compact rate passed. Two binding upper bounds exclude that fixed profile from the newer peer frontier. One smaller Gaussian debit and ordinary-height retune passes the exact price and capacity gate for the next literal test. [Exact scope, replay and credit](r375/README.md)
+
+## Round 376 · verified compact Gaussian debit retune
+
+Conditional κ = 0.00389821005 passes the complete independently replayed signed package. The exact gain over reproduced #8057 is 0.00000000005. [Source pins, receipts and clean replay](r376/README.md)
