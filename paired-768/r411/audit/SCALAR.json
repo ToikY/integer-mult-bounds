@@ -1,0 +1,106 @@
+{
+  "scope": "Exact scalar invoices only; no native setup, signed source or theorem admission",
+  "cases": 3,
+  "results": [
+    {
+      "pr": 8089,
+      "tier_rows": [
+        {
+          "kappa": "69/20000",
+          "gaussian_height": 1024,
+          "log2_B": 125433364,
+          "log2_C": 125660246,
+          "ordinary_guarded_ceiling": "35709992911315579837956394099357/10334765056000000000000000000000000",
+          "positive_margin": "138582096165769387223/419430400000000000000000",
+          "public_A": 7437,
+          "public_offset": 4
+        },
+        {
+          "kappa": "39/10000",
+          "gaussian_height": 85406,
+          "log2_B": 574461897,
+          "log2_C": 593252819,
+          "ordinary_guarded_ceiling": "7039348211573089433487309615126701/1804961079885824000000000000000000000",
+          "positive_margin": "140214350142583769/17910936371200000000000000000",
+          "public_A": 1881073,
+          "public_offset": 4
+        }
+      ],
+      "entry_conversion": 847,
+      "complete_log2_C": 593252820,
+      "negative_G_minus_one": "-65659993096843937/7164290662400000000000000000"
+    },
+    {
+      "pr": 8090,
+      "tier_rows": [
+        {
+          "kappa": "69/20000",
+          "gaussian_height": 1024,
+          "log2_B": 125433364,
+          "log2_C": 125660246,
+          "ordinary_guarded_ceiling": "35767194872754811837925389804189/10334765056000000000000000000000000",
+          "positive_margin": "138582096165769387223/419430400000000000000000",
+          "public_A": 7437,
+          "public_offset": 4
+        },
+        {
+          "kappa": "780165393219/200000000000000",
+          "gaussian_height": 198527,
+          "log2_B": 21474612300,
+          "log2_C": 21518289842,
+          "ordinary_guarded_ceiling": "17567762347382757063302268429482208367/4503599493152768000000000000000000000000",
+          "positive_margin": "248829319637444521/83268259020800000000000000000",
+          "public_A": 67307740,
+          "public_offset": 2
+        }
+      ],
+      "entry_conversion": 30345,
+      "complete_log2_C": 21518289843,
+      "negative_G_minus_one": "-6522313059827351/41633919795200000000000000000",
+      "native_setup_receipt": 217364570380528137475793294892811967875864032914108887556978854854656,
+      "written_expanded_setup": 217364571993743287866367176320080817069553173293686105666269057384448,
+      "extra_charge_omitted_from_receipt": 1613215150390573881427268849193689140379577218109290202529792,
+      "recipe_count": 8,
+      "projected_kappa_at_one_smaller_ordinary_tick": "3900826966123/1000000000000000",
+      "projected_delta_at_one_smaller_ordinary_tick": "7/250000000000000",
+      "projected_same_G_positive_margin": "246497808384862121/83268259020800000000000000000",
+      "projected_same_G_complete_log2_C": 21518289843
+    },
+    {
+      "pr": 8094,
+      "tier_rows": [
+        {
+          "kappa": "69/20000",
+          "gaussian_height": 1024,
+          "log2_B": 125433364,
+          "log2_C": 125660246,
+          "ordinary_guarded_ceiling": "35767194872754811837925389804189/10334765056000000000000000000000000",
+          "positive_margin": "138582096165769387223/419430400000000000000000",
+          "public_A": 7437,
+          "public_offset": 4
+        },
+        {
+          "kappa": "1950428633893/500000000000000",
+          "gaussian_height": 208653,
+          "log2_B": 85899221583,
+          "log2_C": 85945126845,
+          "ordinary_guarded_ceiling": "70271596826947689616436948507028761711/18014398375264256000000000000000000000000",
+          "positive_margin": "39818194746132473/29171803750400000000000000000",
+          "public_A": 268644472,
+          "public_offset": 2
+        }
+      ],
+      "entry_conversion": 121121,
+      "complete_log2_C": 85945126846,
+      "negative_G_minus_one": "-32427477785473851/21878747955200000000000000000",
+      "native_setup_receipt": 217364570380528137475793294892811967875864032914108887556978854854656,
+      "written_expanded_setup": 217364571993743287866367176320080817069553173293686105666269057384448,
+      "extra_charge_omitted_from_receipt": 1613215150390573881427268849193689140379577218109290202529792,
+      "recipe_count": 9,
+      "projected_kappa_at_one_smaller_ordinary_tick": "3900857267793/1000000000000000",
+      "projected_delta_at_one_smaller_ordinary_tick": "7/1000000000000000",
+      "projected_same_G_positive_margin": "39613992119879673/29171803750400000000000000000",
+      "projected_same_G_complete_log2_C": 85945126846
+    }
+  ]
+}
