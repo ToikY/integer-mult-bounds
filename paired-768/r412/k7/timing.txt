@@ -1,0 +1,1 @@
+"$py" -I -B "$r/check.py" "$archive" > "$r/RECEIPT.json"  0.17s user 0.01s system 90% cpu 0.201 total

@@ -1,0 +1,23 @@
+{
+  "proof_head": "dfd25d553a843a946ca0b94130a5ff8943e98fdd",
+  "reserve_claim_head": "3cb92cf5c07e98a96d298ee33a4d744c5e32f1ca",
+  "composed_head": "c20a08dc0a79a989e3515068560d5da371c0a2a8",
+  "sources_sha256": {
+    "TRANSFER.md": "7164831a5dd9f5c6231bf4c3f4b2061d91cbfab559071a0a5d68966e3f7ac55c",
+    "ORDINARY-CLOCK.md": "4694db0b2218796e348c1128271cebb3fc779151a639b0e0fb5bbecf9f3ccb94",
+    "RECEIVER.md": "f31089b6304fc5352feb9aa8a963cc5a950a828165d3426e16e8a973529d814e",
+    "research/p104-shortcut-word-eta-27bit-5stage/prepare.py": "bc401e5c47d275617f3c7d162d56ea4c604ef3d4c6637ab2a8aa8627a570a9f6"
+  },
+  "paid_moments": [
+    "t=1-(c_B-debit/H)",
+    "1"
+  ],
+  "old_child_ratio": "375/376",
+  "composed_child_ratio": "2400/2401",
+  "old_geometric_sum": "376",
+  "composed_geometric_sum": "2401",
+  "terminal_extra_bits": 15,
+  "entry_extra_bits": 5,
+  "equal_volume_tariff_ratio": 1,
+  "scope": "Source anchors and exact ordinary clock margins; conditional on the inherited physical child bound and paid-leaf loss inequality."
+}

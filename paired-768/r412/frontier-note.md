@@ -1,0 +1,20 @@
+# Round 412 frontier refresh
+
+Checked 2026-11-23 21:24:30–21:25:10 UTC against GitHub. Canonical main remains [e54523517d0f03e58352e647c403a5af3e525a57](https://github.com/CrocSwap/integer-mult-bounds/commit/e54523517d0f03e58352e647c403a5af3e525a57). Its selected record remains #7000 with κ = 0.00363005817. The Round 411 source and evidence pins remain applicable.
+
+| Role | Exact head | κ | Scope |
+|---|---|---:|---|
+| Strongest comparable completed hosted replay | 39a03a1317b6d066c76f7fea6a5fcbbcd10cf738 | 0.0039 | #8089 reports five retained signed premises and finite additive installation. Workflow 45130994532 ran all three jobs successfully. Scientific job 137548042982 exercised the registered exact package. Round 411 independently matched the recurring invoice and finite forward map. A new cold campaign replay remains pending. |
+| Strongest campaign cold native replay | aea1699415250d865f7a635f4df0b76f406c47b4 | 0.003898460000505 | #8087, exact Round 410 continuity receipt. |
+| Wider pending four-stage proposal | 9eb499cd6abccf9985eaf093e97ec75c71514a55 | 0.003900826966095 | #8090’s workflow 45131849285 stopped with action required and zero jobs. |
+| Highest submitted stronger comparable proposal | c20a08dc0a79a989e3515068560d5da371c0a2a8 | 0.003900857267786 | #8094’s workflow 45143810893 stopped with action required and zero jobs. The five-stage signed application, inherited reserve and η arguments, and actual exact expanded setup remain open. |
+
+The three current peer heads, their corresponding workflow attempts, and their PR reviews agree with Round 411. The workflow list showed only the same first attempt for each pinned head in the 40 most recent pull-request workflows. All three PRs have zero submitted reviews. The scientific job on #8089 ran under the tested PR merge. Its optional numerical installation cap has an additional changed-action census premise. The Round 411 independent finite forward check covers the same literal shortcut word across #8089/#8090/#8094.
+
+The #8094 description also reports an unsubmitted 28-bit exploration at κ = 0.003900862317916. It calls out an approximately 520-second calendar check near the 600-second limit. Its quoted head packages the 27-bit profile. Record the remark as an unpinned exploration with no separate complete witness.
+
+Search coverage included 55 newest all-state PRs (#8094 through #8040), 20 most recent merged PRs (#7002 through #6983), 15 most recently updated discussions, details and recent replies for #1163/#1166/#1167/#7111/#8039, full claim bodies and status for #8082/#8084/#8089/#8090/#8094, and a title search for ordinary reserve overlap. The latest canonical update is Round 411’s reply. The most recent external handoff requests exact #8089 setup metering. The ordinary-reserve title search returned the inherited #8082 proposal at 3cb92cf5c07e98a96d298ee33a4d744c5e32f1ca, whose author explicitly lists the reserve argument as outside its executable checks. The #8084 η predecessor remains af73b476d5fdeaa763e0bff2dd87b2ecaf097c49. The refresh found no newly submitted stronger profile or changed published job.
+
+- Complete hosted replay and its scientific job. [#8089](https://github.com/CrocSwap/integer-mult-bounds/pull/8089) · [Run](https://github.com/CrocSwap/integer-mult-bounds/actions/runs/45130994532) · [Scientific job](https://github.com/CrocSwap/integer-mult-bounds/actions/runs/45130994532/job/137548042982)
+- Pending comparisons. [#8090](https://github.com/CrocSwap/integer-mult-bounds/pull/8090) · [#8090 run](https://github.com/CrocSwap/integer-mult-bounds/actions/runs/45131849285) · [#8094](https://github.com/CrocSwap/integer-mult-bounds/pull/8094) · [#8094 run](https://github.com/CrocSwap/integer-mult-bounds/actions/runs/45143810893)
+- Reserve and η source claims. [#8082](https://github.com/CrocSwap/integer-mult-bounds/pull/8082) · [#8084](https://github.com/CrocSwap/integer-mult-bounds/pull/8084) · [#8089 handoff request](https://github.com/CrocSwap/integer-mult-bounds/discussions/1166#discussioncomment-19825722)

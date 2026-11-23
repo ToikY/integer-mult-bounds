@@ -1,0 +1,2 @@
+    assert has_origin(word["program"], clock, dest, owner)
+AssertionError

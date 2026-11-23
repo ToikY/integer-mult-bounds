@@ -1,0 +1,7 @@
+# Round 412 plan
+
+Round two of the five-round pause window. Refresh current canonical guides and exact peer evidence before pricing. Start from #8089 exact 39a03a1317b6d066c76f7fea6a5fcbbcd10cf738, complete hosted κ 0.0039, and test the stronger pending #8094 exact c20a08dc0a79a989e3515068560d5da371c0a2a8, reported κ 0.003900857267786. The prior campaign cold signed comparator #8087 stays separately tracked.
+
+Test one ordinary proof change at one exact profile and one tick. The first decision is whether the #8082 separate clock estimate pays for the 256/255 factor removed from #8094's K7 finite tariff. This outranks native work under current capacity and prospective K7 paid deletion because the literal matched 24-cell price from Round 411 is already strictly positive at the smaller debit conditional on this single obligation. Up to four minutes of proof tracing, then an independent exact inequality or small counterexample check. Any fallback K7 support screen is capped at 64 cases or 90 seconds under its own saved scope; a support miss resolves only that exact literal deletion. Allow eight minutes total, with the final two for replay and handoff. Admit no substantial jobs below the 8 GiB reserve.
+
+A source-supported pass would settle only the ordinary reserve interface at that profile. Complete proof, signed interfaces, installed setup and native/hosted obligations still govern a headline. If proof fails, retain the condition and move to an actual K7 paid debit. If the cap is hit, preserve the missing term and exact restart.
