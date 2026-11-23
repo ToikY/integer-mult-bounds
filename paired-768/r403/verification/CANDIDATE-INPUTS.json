@@ -1,0 +1,20 @@
+{
+  "files": {
+    "research/p104-weighted-capped-allocation-490950/LICENSE": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+    "research/p104-weighted-capped-allocation-490950/NOTICE.md": "4bb4aa63290a19282826ff57529293f8bfd12e3a2afe28bc6d48205c0cc976fc",
+    "research/p104-weighted-capped-allocation-490950/PEER-SOURCE.json": "798c2e6394c258986484a116198cc542a6d2b4c1f289e5816de2cfecf5141c51",
+    "research/p104-weighted-capped-allocation-490950/PROOF.md": "b667b8470f94015181ef577d6576859bebd76e7618ffb32c1197233f1e8212da",
+    "research/p104-weighted-capped-allocation-490950/README.md": "1347061750a0edb42a850206419afb39633c4b8c6a63f635362b9f7e4b93adb6",
+    "research/p104-weighted-capped-allocation-490950/RESULT.json": "2191321d98438d7618305766c7c702f74c597983f667e40a66a832570ce6e2e3",
+    "research/p104-weighted-capped-allocation-490950/SOURCES.json": "b3197501bae90ec16c4d99c186e74dfe28e0f5f730e6b8bb94e2d0ce78bcf69c",
+    "research/p104-weighted-capped-allocation-490950/TASK.json": "9d8af4c99d967de0a4b2f47f5a341cd3d2d502b8058d48a92d07e24cb3c30cb2",
+    "research/p104-weighted-capped-allocation-490950/VERIFY.json": "2d2ea5aa7db19a8ad1ad239b3a16d0c1eaa729a080403bb103819ffb9f7de236",
+    "research/p104-weighted-capped-allocation-490950/check_cutoff.py": "7f60cba19d4f7c492aa3ab824ea48a5d88071582b47a5cd42dd2ba88aa8d553c",
+    "research/p104-weighted-capped-allocation-490950/check_ordinary_floor.py": "65e3c3ca4cec73a9462973e651a66127ab894d0bc141c072e26416aedb48b543",
+    "research/p104-weighted-capped-allocation-490950/check_stage_seam.py": "128a93719bbfc2d69c442283b8cbaecd9a3ca4c2a2399a7964e4c882bf0bace1",
+    "research/p104-weighted-capped-allocation-490950/peer8057.tar.gz": "0e0d559bdb15e7b647f88a2b5e27fcdc9e28e81d8f4145459876ba6da2e9314c",
+    "research/p104-weighted-capped-allocation-490950/prepare.py": "76f9d4c6bfd880ee49f6ba5bde9138cf0856d669edb4d525e48ca71a9094eec3",
+    "research/p104-weighted-capped-allocation-490950/verify.py": "10362de3ceaa651cde5b71c6599fd4683d9f1f4d76cc252178e915b43a098fee"
+  },
+  "head": "75f7e1c44f48c43983016bcf8878c4d9e5e87c62"
+}

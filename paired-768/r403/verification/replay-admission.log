@@ -1,0 +1,7 @@
+2026-11-23T03:12:19Z
+75f7e1c44f48c43983016bcf8878c4d9e5e87c62
+free KiB 13191140
+Process census showed no active substantial runner; root owns second slot for onboarding.
+Python 3.12.14
+CPython single-thread environment
+python3.12 -IB scripts/research_package.py --package research/p104-weighted-capped-allocation-490950
