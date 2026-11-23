@@ -1,0 +1,61 @@
+{
+  "scope": "Exact signed scalar price at fixed #8094 heights; native receiver, source assembly, installed setup and signed replay open.",
+  "profile_head": "c20a08dc0a79a989e3515068560d5da371c0a2a8",
+  "profile_cases": 1,
+  "binary_debit": "353601/262144",
+  "gaussian_height": 208653,
+  "old_booked_kappa": "1950428633893/500000000000000",
+  "old_guarded_ordinary_crossing": "70271596826947689616436948507028761711/18014398375264256000000000000000000000000",
+  "new_guarded_ordinary_crossing": "70271597635576107423265784940945878127/18014398375264256000000000000000000000000",
+  "new_guarded_gaussian_crossing": "113795042713992926650746873/29171803750400000000000000000",
+  "maximum_display_tick": "78017145383/20000000000000",
+  "delta_over_reported_8094": "341/250000000000000",
+  "delta_over_old_guarded_crossing": "24565832953329553892971238289/18014398375264256000000000000000000000000",
+  "ordinary_headroom_at_new_kappa": "784062584853499282540945878127/18014398375264256000000000000000000000000",
+  "positive_margin_at_new_kappa": "27854430586873/29171803750400000000000000000",
+  "next_display_tick": "3900857269151/1000000000000000",
+  "next_tick_gaussian_margin": "-1317373163527/29171803750400000000000000000",
+  "gaussian_height_minus_one_margin": "-62270089996366651/21878747955200000000000000000",
+  "entry_surcharge_bits": 121121,
+  "complete_recurring_log2_C": 85945126846,
+  "tiers": {
+    "entry": {
+      "rates": [
+        "687487096732174501/200000000000000000000",
+        "690000000000001/200000000000000000"
+      ],
+      "signed": {
+        "strict": 54,
+        "functional": 4,
+        "smallest_margin": "1/10000000000000000000",
+        "ordinary_margin": "1/1000000000000000000",
+        "positive_margin": "138582096165769387223/419430400000000000000000"
+      },
+      "log2_B": 125433364,
+      "log2_C": 125660246
+    },
+    "terminal": {
+      "rates": [
+        "384302656065184053/100000000000000000000",
+        "1948982322876679157/500000000000000000000",
+        "1950343402916629679/500000000000000000000",
+        "3900855960382181573/1000000000000000000000",
+        "780171453830001/200000000000000000"
+      ],
+      "signed": {
+        "strict": 54,
+        "functional": 4,
+        "smallest_margin": "1/10000000000000000000",
+        "ordinary_margin": "1/1000000000000000000",
+        "positive_margin": "27854430586873/29171803750400000000000000000"
+      },
+      "log2_B": 85899221583,
+      "log2_C": 85945126845
+    }
+  },
+  "inputs_sha256": {
+    "r411/audit/inputs/8094-RESULT.json": "915e124475494b08e786eb433e6591d85f2bdedebd624a45b49504c63bbb30e6",
+    "r411/audit/inputs/outer_budget.py": "ca4438db28a447ed5c43d87d43f0ac10a0cb2b4e183342ac93139d517b9d4d02",
+    "r413/tariff-plan/RECEIPT.json": "885a7c76aed1a966b761823a12103b4315577680501efe9ebc8773cfb599bab5"
+  }
+}

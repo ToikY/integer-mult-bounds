@@ -1,0 +1,29 @@
+{
+  "cases": {
+    "DIRECT": "Exactly one weighted(atoms=f); include both inverse basis routes in earlier/local charge.",
+    "QUOTIENT": "One equal high-cardinality packet per canonical low; 1+2*len(pairs) weighted calls with atoms=f."
+  },
+  "elapsed_cap_seconds": 180,
+  "head": "c20a08dc0a79a989e3515068560d5da371c0a2a8",
+  "same_stage_claim": "floor(c/N), both covered moments",
+  "scope": "Static literal path and inherited mean, no installer or physical replay.",
+  "source_pins": {
+    "archive": "0e0d559bdb15e7b647f88a2b5e27fcdc9e28e81d8f4145459876ba6da2e9314c",
+    "prepare.py": "bc401e5c47d275617f3c7d162d56ea4c604ef3d4c6637ab2a8aa8627a570a9f6",
+    "research/frequency-weighted-native-multiplier/runtime.patch": "f35d37cc1746b5a7ac137a3f6de6de887a24f3af578283c24a64c8a25ccc584b",
+    "research/tiered-native-multiplier/runtime.patch": "6c93961841be2abc3629928074e2c7917d264e94187276fc88a33f922a3c62e4",
+    "research/tiered-native-multiplier/source/installer.tar.gz": "6696459e2e3552f802e7caaaf93dc86c9bb6b62ee38631702bff2e3a8a9a481a",
+    "research/tiered-native-multiplier/source/installer.tar.gz/production.patch": "54a5be1f9a9961fbbf23df7fb874194bc208ea6b87ca01742f87ec8027f0ca7e",
+    "research/tiered-native-multiplier/source/installer.tar.gz/retimed-source.tar.gz": "3d30e35c5a77f43372e94ccca7aaa38ce706631fc5b4601293bbd8619dfb2775",
+    "research/tiered-native-multiplier/source/installer.tar.gz/retimed-source.tar.gz/five_exchange.py": "cf56446080a3b31b654e58d91d3d62dc8790f0f06e3d458775d2723d607ae8fe",
+    "research/tiered-native-multiplier/source/installer.tar.gz/retimed-source.tar.gz/machine.patch": "c1f53687f856898641d2c81f0deeaecfbf8daa7a7b66d2a9fda2bb7e85447431",
+    "research/tiered-native-multiplier/source/installer.tar.gz/retimed-source.tar.gz/predecessor/predecessor-8030.tar.gz": "769d5a05cc1373fa22ed5956af636992fcd19d7e5c1753a32033a73c358cd31c",
+    "research/tiered-native-multiplier/source/installer.tar.gz/retimed-source.tar.gz/predecessor/predecessor-8030.tar.gz/binary_receiver.py": "2be42f476aa71cc2d2ad44392113151e101e56f7a09b7264fc98a74393756372",
+    "research/tiered-native-multiplier/source/installer.tar.gz/retimed-source.tar.gz/predecessor/predecessor-8030.tar.gz/inputs/triangular/direct_body.py": "f4ca3082b95f958b50f84a3c138667add0051d6a796e7f63afe95d41cf24e7af",
+    "research/tiered-native-multiplier/source/installer.tar.gz/retimed-source.tar.gz/predecessor/predecessor-8030.tar.gz/inputs/triangular/quotient_route.py": "3243f45d6097a80bc8b077d8682426e4555f6c4a3097bd0a12ffd4f1f5c45ba8",
+    "research/tiered-native-multiplier/source/installer.tar.gz/retimed-source.tar.gz/predecessor/predecessor-8030.tar.gz/inputs/triangular/receiver.py": "09d2e9508e3e34934a6f2132c6e864f6b4ba68fa96aaadbec0a1902aa7762642",
+    "research/tiered-native-multiplier/source/installer.tar.gz/retimed-source.tar.gz/predecessor/predecessor-8030.tar.gz/inputs/triangular/same_order_body.py": "56a15ce431daf25794741cb5157e136ce509ed646b32aaea34348088396e459d",
+    "research/tiered-native-multiplier/source/installer.tar.gz/retimed-source.tar.gz/predecessor/predecessor-8030.tar.gz/ordinary_carrier.py": "c8e87147661a394bc7e1b879744546b7697fcde7f3636556b39ca1623a9d7b31",
+    "research/tiered-native-multiplier/source/installer.tar.gz/retimed-source.tar.gz/receiver.patch": "7d0a2fe72a6be825414a4e9129d8cc5e601e296f6a097329d388cfb4cf07b884"
+  }
+}

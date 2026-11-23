@@ -1,0 +1,21 @@
+{
+  "head": "c20a08dc0a79a989e3515068560d5da371c0a2a8",
+  "source_digests": {
+    "receiver.patch": "7d0a2fe72a6be825414a4e9129d8cc5e601e296f6a097329d388cfb4cf07b884",
+    "machine.patch": "c1f53687f856898641d2c81f0deeaecfbf8daa7a7b66d2a9fda2bb7e85447431",
+    "five_exchange.py": "cf56446080a3b31b654e58d91d3d62dc8790f0f06e3d458775d2723d607ae8fe",
+    "predecessor/ordinary_carrier.py": "c8e87147661a394bc7e1b879744546b7697fcde7f3636556b39ca1623a9d7b31",
+    "predecessor/binary_receiver.py": "2be42f476aa71cc2d2ad44392113151e101e56f7a09b7264fc98a74393756372",
+    "inputs/triangular/receiver.py": "09d2e9508e3e34934a6f2132c6e864f6b4ba68fa96aaadbec0a1902aa7762642",
+    "inputs/triangular/same_order_body.py": "56a15ce431daf25794741cb5157e136ce509ed646b32aaea34348088396e459d",
+    "inputs/triangular/quotient_route.py": "3243f45d6097a80bc8b077d8682426e4555f6c4a3097bd0a12ffd4f1f5c45ba8",
+    "production.patch": "54a5be1f9a9961fbbf23df7fb874194bc208ea6b87ca01742f87ec8027f0ca7e",
+    "research/tiered-native-multiplier/runtime.patch": "6c93961841be2abc3629928074e2c7917d264e94187276fc88a33f922a3c62e4",
+    "research/frequency-weighted-native-multiplier/runtime.patch": "f35d37cc1746b5a7ac137a3f6de6de887a24f3af578283c24a64c8a25ccc584b"
+  },
+  "cases": {
+    "DIRECT": "one weighted child at floor(c/N), matching prior-only basis paths",
+    "QUOTIENT": "every canonical low, equal-volume full packets, 1+2|pairs| children at floor(c/N)"
+  },
+  "scope": "Static route anchors; full paid physical and owner replay unrun."
+}
