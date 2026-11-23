@@ -1,0 +1,9 @@
+# Round 402 · VERIFIED IMPROVEMENT
+
+[PR #8071](https://github.com/CrocSwap/integer-mult-bounds/pull/8071) certifies conditional κ 0.00389821412325 at exact head 9555f2df027f4a182722f736c97e5efafa5382c6. The exact increase over independently reproduced #8070 is 5857/10^16, or (585700/38982141226643)%. The comparable external #8057 remains at 0.00389821. The difference is 16493/4000000000000, or (16493/155928400)%. The maintainer-selected #7000 remains separate.
+
+A finer ordinary debit funds a one-level transfer from ordinary stage two to Gaussian, with complete recurring log₂ C reduced by 100. The source, full five premises, maximum native height, activation, entry conversion and fixed setup bounds are specified in the [independent evidence](verification/README.md). The old ordinary debit at the new heights, the old Gaussian height at the new target and both wrong-sign controls failed as expected. The result proves the fixed new profile and strictly clears #8070's exact installed ceiling.
+
+All seven local scientific modes passed in 229.50 s. The exact-head hosted scientific replay passed all seven modes in 295 s, with the true nonzero nested owner return and the signed product. Hosted onboarding and historical prerequisite both passed, and all committed inputs stayed unchanged. Raw hosted log SHA-256 e34029d5efbb7172fee4cd23ac0e613398d3b1ddb25bb89b4bb6e3deb90c61f4. [Hosted workflow](https://github.com/CrocSwap/integer-mult-bounds/actions/runs/45102278869) · [Actual scientific job](https://github.com/CrocSwap/integer-mult-bounds/actions/runs/45102278869/job/137457120746) · [Logged markers](hosted/scientific-markers.log)
+
+The [next bounded allocation test](NEXT.md) is ready for a refreshed frontier. The separate #8058 wide-hosted check still awaits a supported runner. [Runner request](https://github.com/CrocSwap/integer-mult-bounds/discussions/1166#discussioncomment-19821920)

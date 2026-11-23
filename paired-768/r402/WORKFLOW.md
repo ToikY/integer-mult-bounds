@@ -1,0 +1,7 @@
+# Rounds 400–402 verification review
+
+All three rounds moved the exact verified frontier. The registered scientific replays took 216.00 s, 257.99 s and 229.50 s respectively. Full signed replay was the largest recurring measured local verification stage. Hosted waiting and separate local onboarding were tracked outside active research. The ledger does not isolate active proof or source tracing well enough to rank those costs.
+
+Round 402 exposed an avoidable onboarding admission issue. The first checkout used the science-only sparse pattern and lacked a required process-liveness capability. It spent 111.16 s before failing. Reusing the proven onboarding fixture selection and enabling that test passed the same exact head with 760 tests and 31 skips. The test manifest, registered scientific replay and candidate stayed fixed.
+
+On the next comparable checkout, test one reversible admission change. Before starting the full onboarding suite, validate the same passing fixture pattern, pinned history, and read-only process probe. Keep the verified scientific runner and all test scopes identical. Log active preparation, the quick probe, the suite, and time to the final independent decision. Compare to a matched cold exact-head receipt where possible. Retain the change only if it reduces total effort with the same coverage. The Round 402 recovery is evidence of a missing setup condition, and the differing preparation and coverage make it inconclusive as a speed trial.
