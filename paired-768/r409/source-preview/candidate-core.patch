@@ -1,0 +1,64 @@
+--- a/installations.py
++++ b/installations.py
+@@ -24 +24 @@
+-TERMINAL = Profile((8192, 38102, 604363), 18845934, Q(".003898460000505"))
++TERMINAL = Profile((8192, 38102, 604363), 18531230, Q(".003898460003746"))
+--- a/positive_debit.py
++++ b/positive_debit.py
+@@ -10 +10 @@
+-POSITIVE_DEBIT = Q(64934, 524288)
++POSITIVE_DEBIT = Q(130699669, 2**30)
+@@ -26,3 +26,6 @@
+-    # Integrate each exact directed edge, retaining both rounding ends.
+-    # A downward ratio of outward powers bounds ((k/r)^c-1)/c.
+-    psi = Q(0)
++    # Bound the matched interior suffix on its actual weighted half-line.
++    # With z=k/r, the even-band primitive in #8083 gives mean
++    # at most 9(k-r)+t*r/(2*z*lower). The unpublished profile
++    # keeps the original conservative exterior period charge.
++    psi = [Q(0), Q(0)]
++    suffix = [Q(0), Q(0)]
+@@ -30,3 +33,9 @@
+-        floor = intervals(k, c)[0] * UNIT // intervals(r, c)[1]
+-        assert floor > UNIT
+-        psi += paid[r] * share * r * (Q(floor, UNIT) - 1) / c
++        l_k, h_k = intervals(k, c)
++        l_r, h_r = intervals(r, c)
++        power = (Q(l_k, h_r), Q(h_k, l_r))
++        z = Q(k, r)
++        mean = 9 * (k - r) + t * r / (2 * z * lower)
++        assert min(power) > 1 and mean > 0
++        for index, endpoint in enumerate(power):
++            psi[index] += paid[r] * share * r * (endpoint - 1) / c
++            suffix[index] += paid[r] * share * (endpoint / z) * mean
+@@ -34 +43,2 @@
+-    fringe = 10 * target_axes / (t * psi)
++    fringe_lower = suffix[0] / (t * psi[1])
++    fringe = suffix[1] / (t * psi[0])
+@@ -36,2 +46,2 @@
+-    assert psi > Q("926899828.8291")
+-    assert fringe < Q("7.335168")
++    assert psi[0] > Q("926899828.8291")
++    assert Q("4.550681666") < fringe_lower <= fringe < Q("4.550681667")
+@@ -57,11 +67,5 @@
+-    x_min = Q(scale, 4 * max(targets))
+-    exterior_period = Q(257, 256)
+-    assert 255 < x_min < 256
+-    assert Q(256) / x_min < exterior_period < 1 + 1 / x_min
+-    finite_factor = (
+-        (1 + DELTA)
+-        * exterior_period
+-        * Q(power_interval(scale * lower, c)[1], UNIT)
+-        * (1 + fringe / lower + DELTA)
+-        / (1 - DELTA) ** 4
+-    )
++    exterior_period = 1 + Q(4 * max(targets), scale)
++    factor_scale = (1 + DELTA) * exterior_period / (1 - DELTA) ** 4
++    scale_lower, scale_upper = power_interval(scale * lower, c)
++    finite_factor_lower = factor_scale * Q(scale_lower, UNIT) * (1 + fringe_lower / lower + DELTA)
++    finite_factor = factor_scale * Q(scale_upper, UNIT) * (1 + fringe / lower + DELTA)
+@@ -68,0 +73 @@
++    assert UNIT * finite_factor_lower > power_interval(2, POSITIVE_DEBIT - Q(1, 2**30))[1]
+@@ -76 +81 @@
+-        "psi_lower": str(psi),
++        "psi_lower": str(psi[0]),

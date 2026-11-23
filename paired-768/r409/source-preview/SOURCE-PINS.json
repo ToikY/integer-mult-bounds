@@ -1,0 +1,10 @@
+{
+  "installations.py": {
+    "before": "387e60913e375316d904d4489e5ea5e69c0ac5729250f27fe52ef23910a07e13",
+    "prospective": "961808a1447a9e4f7ec7101d9dc7dbfb44b7d6b62af8a2c900a849cbd83ec17f"
+  },
+  "positive_debit.py": {
+    "before": "e30f434037935a8919d332c0fc2e9a27f58f4bd6cd2764ee3e6b08b2034356e5",
+    "prospective": "f9d7a422cdec4a6b5bed0033755c8f41d97a435ede74b0395d37f3127f590d99"
+  }
+}
