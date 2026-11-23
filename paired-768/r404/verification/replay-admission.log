@@ -1,0 +1,9 @@
+2026-11-23T03:49:21Z
+cf4c4b7ea4b746be174ee4ba4e49f03b5bc79f8e
+Filesystem   1024-blocks      Used Available Capacity iused     ifree %iused  Mounted on
+/dev/disk3s5   239362496 171328548  12647536    94% 2768333 126475360    2%   /System/Volumes/Data
+/dev/disk3s5   239362496 171328548  12647536    94% 2768333 126475360    2%   /System/Volumes/Data
+Active job census immediately before admission found root onboarding test PID 81705 and its child test process PID 81724. No other substantial research processor was running among the CPU sorted processes.
+Assigned one replay slot. Numerical thread counts set to one.
+Python 3.12.14
+python3.12 -IB scripts/research_package.py --package research/p104-weighted-k7-suffix

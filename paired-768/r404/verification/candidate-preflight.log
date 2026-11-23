@@ -1,0 +1,4 @@
+PASS_RESEARCH_COMMIT_BYTES {"commit": "cf4c4b7ea4b746be174ee4ba4e49f03b5bc79f8e", "files": 15, "package": "research/p104-weighted-k7-suffix", "executable_modes_checked": true, "source_history_commits": ["0618e75a22cec54d1651394ef83d088551b7f026"]}
+PASS_PACKAGE_METADATA_AND_PINS (not a mathematical acceptance check)
+Planning includes 4547 unchanged sparse manifests from HEAD; materialize packages and inputs before replay.
+{"include": [{"packages": ["research/historical-selected-replay-gap", "research/p104-weighted-k7-suffix"]}]}

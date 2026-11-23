@@ -1,0 +1,29 @@
+[
+  {
+    "mode": "regenerate",
+    "wall_seconds": 6.83281399961561,
+    "exit_code": 0,
+    "timeout_seconds": 120,
+    "free_at_admission_bytes": 12146282496,
+    "stderr_bytes": 0,
+    "finished_utc": "2026-11-23T03:45:19.692008+00:00"
+  },
+  {
+    "mode": "price",
+    "wall_seconds": 18.500603375025094,
+    "exit_code": 0,
+    "timeout_seconds": 140,
+    "free_at_admission_bytes": 12141535232,
+    "stderr_bytes": 0,
+    "finished_utc": "2026-11-23T03:45:38.193105+00:00"
+  },
+  {
+    "mode": "calendar",
+    "wall_seconds": 54.27113537490368,
+    "exit_code": 0,
+    "timeout_seconds": 160,
+    "free_at_admission_bytes": 12138463232,
+    "stderr_bytes": 0,
+    "finished_utc": "2026-11-23T03:46:32.464464+00:00"
+  }
+]
