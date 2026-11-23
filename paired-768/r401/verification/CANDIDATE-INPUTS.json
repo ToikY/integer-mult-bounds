@@ -1,0 +1,20 @@
+{
+  "files": {
+    "research/p104-weighted-gaussian-debit/LICENSE": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+    "research/p104-weighted-gaussian-debit/NOTICE.md": "02e69a1d57e2208ce49b3362a5672136887c1968d66de83a8f358e6d4a9353df",
+    "research/p104-weighted-gaussian-debit/PEER-SOURCE.json": "798c2e6394c258986484a116198cc542a6d2b4c1f289e5816de2cfecf5141c51",
+    "research/p104-weighted-gaussian-debit/PROOF.md": "7d0144c18254c85a7dfcad0e1af92dcc8565b3f81cfd76424b368efbcc6aadba",
+    "research/p104-weighted-gaussian-debit/README.md": "75f57515a3ba68fa5f7ff29490913da39c8cc6e0f08345c9c7d8e35dd43a6ef0",
+    "research/p104-weighted-gaussian-debit/RESULT.json": "e0091aac576b145bec90eb87be15a6391d2cdf8339a2b6288f1154684d481fbe",
+    "research/p104-weighted-gaussian-debit/SOURCES.json": "b3197501bae90ec16c4d99c186e74dfe28e0f5f730e6b8bb94e2d0ce78bcf69c",
+    "research/p104-weighted-gaussian-debit/TASK.json": "14254a30a474679942b8cf9c47c72a5a84111d44c47bf7c940ab61195e2b9033",
+    "research/p104-weighted-gaussian-debit/VERIFY.json": "75ac704e23826b0b21c0df078cfd27943aa7d5469ac87888cf6b248188fa4506",
+    "research/p104-weighted-gaussian-debit/check_cutoff.py": "4f715ab43fa24585501510fd40e3b9b6cf8014e1d9ce8aaa83c365438249968f",
+    "research/p104-weighted-gaussian-debit/check_ordinary_floor.py": "fb319b2b5761b15c80da0f299f87ae73458c3017209499f9fd4abcbc7ad78583",
+    "research/p104-weighted-gaussian-debit/check_stage_seam.py": "7d47b15474352d0f492ee4cec5bf63f28be8d8257cf64d377f07201a80f7c0df",
+    "research/p104-weighted-gaussian-debit/peer8057.tar.gz": "0e0d559bdb15e7b647f88a2b5e27fcdc9e28e81d8f4145459876ba6da2e9314c",
+    "research/p104-weighted-gaussian-debit/prepare.py": "0a2f334a9f9cb4d8fa678e6746376bd6fb818698f06dda876f0035350db5c3d2",
+    "research/p104-weighted-gaussian-debit/verify.py": "8a21cb2d4e7510bc9b2d202ff3c80ad9c019169fb2ec907f81cf4dcb634da042"
+  },
+  "head": "7d65b2c6a19941b9922d5e4c86c495aa37073141"
+}

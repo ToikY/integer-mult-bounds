@@ -1,0 +1,4 @@
+PASS_PACKAGE_METADATA_AND_PINS (not a mathematical acceptance check)
+PASS_RESEARCH_COMMIT_BYTES {"commit": "7d65b2c6a19941b9922d5e4c86c495aa37073141", "files": 15, "package": "research/p104-weighted-gaussian-debit", "executable_modes_checked": true, "source_history_commits": ["0618e75a22cec54d1651394ef83d088551b7f026"]}
+PASS_PACKAGE_METADATA_AND_PINS (not a mathematical acceptance check)
+{"include": [{"packages": ["research/historical-selected-replay-gap", "research/p104-weighted-gaussian-debit"]}]}

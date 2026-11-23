@@ -1,0 +1,105 @@
+{
+  "candidate": {
+    "activation_exponent": 1148456,
+    "activation_offset": 2,
+    "binary_cuts": [
+      8290,
+      133218,
+      657570
+    ],
+    "entry_conversion_bits": 515,
+    "entry_ordinary_surcharges": [],
+    "gaussian_ceiling": "4205878224608477/1078924372057522176",
+    "gaussian_height": 490638,
+    "gaussian_margin": "127507783667723281/823153970380800000000000000000",
+    "heights": [
+      8192,
+      124864,
+      524288
+    ],
+    "intermediate_rates": [
+      "3718444802966292427/1000000000000000000000",
+      "3889193113854167971/1000000000000000000000"
+    ],
+    "kappa": "38982141226643/10000000000000000",
+    "ordinary_bill": 210350208,
+    "ordinary_ceiling": "523209442801522437321961100177/134217728000000000000000000000000",
+    "ordinary_margin": "6113522921100177/134217728000000000000000000000000",
+    "private_address_bound": 536870915,
+    "recurring_bill": 318292171,
+    "recurring_bill_before_selector": 318292170
+  },
+  "controls": {
+    "booked_rate_gain": "59611/10000000000000000",
+    "gaussian_funding_height_floor": 490638,
+    "new_book_excess_over_old_ceiling": "160016889650450663651/26843545600000000000000000000000",
+    "new_family_ceiling": "523209442801521766233321100177/134217728000000000000000000000000",
+    "new_setup_transition_bound": 217364570380528137475793294892811967875864032914108887556978854854656,
+    "new_tangent_gap": "20262952431/817418390523084800000000",
+    "old_ceiling": "104641888400286240891629336349/26843545600000000000000000000000",
+    "old_debit_at_new_height_shortfall": "5290830738777425573/274384656793600000000000000000",
+    "old_tangent_gap": "83294077649679/3347234102090871603200000000",
+    "ordinary_funding_height_floor": 517130,
+    "prior_ordinary_shortfall": "160016889650450663651/26843545600000000000000000000000"
+  },
+  "entry": {
+    "activation_exponent": 7437,
+    "activation_offset": 4,
+    "binary_cuts": [
+      3077,
+      6221
+    ],
+    "entry_conversion_bits": 0,
+    "entry_ordinary_surcharges": [
+      0,
+      25818582
+    ],
+    "gaussian_ceiling": "16613657019/4398046511104",
+    "gaussian_height": 1024,
+    "gaussian_margin": "1098935360482160957159/3355443200000000000000000",
+    "heights": [
+      3000,
+      3080
+    ],
+    "intermediate_rates": [
+      "3429736554827864693/1000000000000000000000"
+    ],
+    "kappa": "69/20000",
+    "ordinary_bill": 125433359,
+    "ordinary_ceiling": "35709583274353327511781674099357/10334765056000000000000000000000000",
+    "ordinary_margin": "54643831153275837956394099357/10334765056000000000000000000000000",
+    "private_address_bound": 3153922,
+    "recurring_bill": 125660242,
+    "recurring_bill_before_selector": 125660241
+  },
+  "prior": {
+    "activation_exponent": 1148465,
+    "activation_offset": 4,
+    "binary_cuts": [
+      8290,
+      133201,
+      657553
+    ],
+    "entry_conversion_bits": 515,
+    "entry_ordinary_surcharges": [],
+    "gaussian_ceiling": "1051525274230487/269745386665541632",
+    "gaussian_height": 490664,
+    "gaussian_margin": "11679179932999027/205799397785600000000000000000",
+    "heights": [
+      8192,
+      124847,
+      524288
+    ],
+    "intermediate_rates": [
+      "3718444802966292427/1000000000000000000000",
+      "777838324713872827/200000000000000000000"
+    ],
+    "kappa": "4872767645879/1250000000000000",
+    "ordinary_bill": 210344768,
+    "ordinary_ceiling": "104641888400286375109357336349/26843545600000000000000000000000",
+    "ordinary_margin": "170025709336349/26843545600000000000000000000000",
+    "private_address_bound": 536870915,
+    "recurring_bill": 318292451,
+    "recurring_bill_before_selector": 318292450
+  }
+}

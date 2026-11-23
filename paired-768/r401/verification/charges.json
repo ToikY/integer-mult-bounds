@@ -1,0 +1,143 @@
+{
+  "gaussian_adjacent_shortfall_lower_outward_18_places": [
+    "756169145831/1000000000000000000",
+    "94521143229/125000000000000000"
+  ],
+  "gaussian_allowance_outward_18_places": [
+    "1089647358728632153/1000000000000000000",
+    "544823679364316077/500000000000000000"
+  ],
+  "gaussian_factor_outward_18_places": [
+    "1089646674305021263/1000000000000000000",
+    "68102917144063829/62500000000000000"
+  ],
+  "gaussian_first_exterior_share": "1/624",
+  "gaussian_grade_cells": 51,
+  "gaussian_older_divisor_shortfall_lower_outward_18_places": [
+    "58852820316231/1000000000000000000",
+    "7356602539529/125000000000000000"
+  ],
+  "gaussian_raw": {
+    "ambient": 153,
+    "paid": {
+      "1": 183312,
+      "16": 1248,
+      "2": 38016,
+      "24": 1248,
+      "3": 23040,
+      "32": 1248,
+      "4": 10848,
+      "40": 1248,
+      "48": 1248,
+      "5": 15072,
+      "56": 1248,
+      "6": 1968,
+      "7": 480,
+      "8": 1344
+    },
+    "paid_hash": "6faa21b03d7566bff3a971c4b440c78ebbdec0ae7f0c25603245d97f529e4c26",
+    "target": {
+      "1": 1008,
+      "129": 624,
+      "17": 1248,
+      "2": 432,
+      "25": 1248,
+      "3": 480,
+      "33": 1248,
+      "4": 11568,
+      "41": 1248,
+      "49": 1248,
+      "5": 1584,
+      "57": 1248,
+      "6": 48,
+      "65": 1248,
+      "7": 672,
+      "8": 1584,
+      "9": 25872
+    },
+    "target_hash": "83dc2838080b5a29fce23369d32ce95e8b060a29a73ea87e9d74bcb5db74035c"
+  },
+  "gaussian_raw_census": [
+    [
+      52608,
+      282576
+    ],
+    [
+      52608,
+      281568
+    ]
+  ],
+  "gaussian_reserve_outward_18_places": [
+    "684423610889/1000000000000000000",
+    "68442361089/100000000000000000"
+  ],
+  "gaussian_transport_margin": "50803612971593099397385261823/24054211488961849122338563785759685737032",
+  "gaussian_typed_cells": 88,
+  "gaussian_weighted_census": [
+    23989248,
+    128400048
+  ],
+  "gaussian_weighted_target_axes": 677246016,
+  "ordinary_factor_outward_12_places": [
+    "32351697391/12500000000",
+    "2588135791281/1000000000000"
+  ],
+  "ordinary_grade_cells": 24,
+  "ordinary_raw": {
+    "ambient": 134,
+    "paid": {
+      "1": 48720,
+      "14": 444,
+      "2": 45144,
+      "21": 444,
+      "28": 444,
+      "3": 1980,
+      "35": 444,
+      "4": 1260,
+      "42": 444,
+      "49": 444,
+      "5": 1296,
+      "56": 444,
+      "6": 2664,
+      "7": 480
+    },
+    "paid_hash": "eb3f24b1997556d65db86c581d361da2bafd5c0add3e92765cdc6b6d3afbf7cf",
+    "target": {
+      "127": 222,
+      "15": 444,
+      "22": 444,
+      "29": 444,
+      "36": 444,
+      "4": 864,
+      "43": 444,
+      "50": 444,
+      "57": 444,
+      "64": 444,
+      "8": 14268
+    },
+    "target_hash": "a8a34f80c4391569a968b80a7bd2174c120f973469bd0ed3805adf92afc4d5ec"
+  },
+  "peer_8057": {
+    "candidate_bill_excess": 32740,
+    "height_cap": 524288,
+    "portable_measured_setup_exponent": 113,
+    "recurring_bill": 318259431
+  },
+  "setup_grade_actions": 269057152,
+  "two_signed_tiers": {
+    "entry": {
+      "functional_count": 4,
+      "gaussian_margin": "1098935360482160957159/3355443200000000000000000",
+      "minimum_functional_margin": "3/1000000000000000000",
+      "minimum_strict_margin": "1/10000000000000000000",
+      "strict_count": 54
+    },
+    "terminal": {
+      "functional_count": 4,
+      "gaussian_margin": "127507783667723281/823153970380800000000000000000",
+      "minimum_functional_margin": "3/1000000000000000000",
+      "minimum_strict_margin": "1/10000000000000000000",
+      "strict_count": 54
+    }
+  }
+}

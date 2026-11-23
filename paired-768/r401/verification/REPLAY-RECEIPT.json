@@ -1,0 +1,75 @@
+{
+  "end_utc": "2026-11-23T01:44:22Z",
+  "exit_code": 0,
+  "file_sha256": {
+    "PLAN.md": "d7b395c8652e3e10484a19e1a921e1131cd72fe072a872f0eb132fbdba365182",
+    "charges.json": "dd2e5d9b5ff005d7fe1a509e6ef640a3227d82d05a35363dea5c09acbe28d4b0",
+    "charges.py": "810e6bc7891e9e32b891d8a72b8ab40ed963593d9f6e7e3e08ad7cdaff2e307b",
+    "preflight.log": "4ebcf61b242763eb6d5f4bff4ba538ecfb3c273ee65bf2ed8098ffda875244c1",
+    "preflight.py": "dae1a8d542d35e7c17712d8d516ffcdf1a95b9d189347bbc73748f93cf2ccaf5",
+    "reconstruct.py": "db347cf9c807abd84bd10203d351e34253edff1717aaeed14d3c2272232e5649",
+    "reconstruction.json": "28de69248cd261ad3d5a7c887fecf1753a432468c99bd696ef43c96f575ee5dd",
+    "replay-admission.log": "eb58372835f41b2359ae3570f28e2c6d888eb66c708c8a62124296311c4ba7fe",
+    "replay-observed.jsonl": "498131b1ade7f388eeaf85f5a6c9d38fe2df6dc9db96eba6efec7ceb97a8cd5e",
+    "replay.log": "d589e8e75674aea9af9577423588ab7582d7d2c81b7a034d3b7506a6a099238f"
+  },
+  "head": "7d65b2c6a19941b9922d5e4c86c495aa37073141",
+  "mode_results": [
+    {
+      "cap_seconds": 140,
+      "launch_sample_free_bytes": 15578390528,
+      "mode": "price",
+      "result": "pass",
+      "wall_observed_seconds": 18.366
+    },
+    {
+      "cap_seconds": 160,
+      "launch_sample_free_bytes": 15580102656,
+      "mode": "calendar",
+      "result": "pass",
+      "wall_observed_seconds": 56.866
+    },
+    {
+      "cap_seconds": 170,
+      "launch_sample_free_bytes": 15553331200,
+      "mode": "raw",
+      "result": "pass",
+      "wall_observed_seconds": 20.557
+    },
+    {
+      "cap_seconds": 190,
+      "launch_sample_free_bytes": 15552147456,
+      "mode": "exterior",
+      "result": "pass",
+      "wall_observed_seconds": 25.585
+    },
+    {
+      "cap_seconds": 200,
+      "launch_sample_free_bytes": 15555829760,
+      "mode": "nested",
+      "result": "pass",
+      "wall_observed_seconds": 29.373
+    },
+    {
+      "cap_seconds": 220,
+      "launch_sample_free_bytes": 15555694592,
+      "mode": "product",
+      "result": "pass",
+      "wall_observed_seconds": 106.207
+    },
+    {
+      "cap_seconds": 90,
+      "launch_sample_free_bytes": 15554183168,
+      "mode": "setup",
+      "result": "pass",
+      "wall_observed_seconds": 0.834
+    }
+  ],
+  "start_utc": "2026-11-23T01:40:04Z",
+  "wall_user_system_seconds": {
+    "real": 257.99,
+    "sys": 70.9,
+    "user": 180.76
+  },
+  "worktree_clean": true
+}
