@@ -5,6 +5,7 @@ from fractions import Fraction as Q
 from functools import cache
 from hashlib import sha256
 from math import ceil, floor, gcd
+from os import environ
 from pathlib import Path
 from tempfile import TemporaryDirectory
 from types import SimpleNamespace
@@ -243,12 +244,13 @@ def invoice(result, source):
     paid = K_TRIAL + GUARD
     assert K_PRIOR < K_TRIAL < ordinary_stop <= K_TRIAL + Q(1, 10**15)
 
-    # Relax stages 2/3 by exact Cauchy. The price for an improving ordinary
-    # profile decreases over H1 >= 8192, so the relaxed optimum is at that floor.
+    # Relax stages 2/3 by exact Cauchy. The relaxed upper rate decreases
+    # over H1 >= 8192, so its maximum is at that floor.
     root = Q(6324555320336758663997787088865437067439, 10**41)
     assert root**2 < Q(1, 250) < (root + Q(1, 10**41))**2
-    min_sum = sum(HEIGHTS)
-    assert min_sum == 650656
+    min_sum = 650656
+    trial_sum = sum(HEIGHTS)
+    assert trial_sum == 650657
     smaller = min_sum - 1
     w1 = Q(1, 62500)
     assert w1 / 8192**2 < (1 + root)**2 / (smaller - 8192)**2
@@ -278,7 +280,7 @@ def invoice(result, source):
     finite = 1 + finance()["early_log2_C_bound"]
     entry = max(finite, 1602 + 220 * ENTRY_G + 40 + 17 + 16384 * sum(ENTRY_H) + 25818582)
     premium = ceil((K_TRIAL - ENTRY_K) * resource["public_exponent_A"])
-    recurring = 1 + max(entry + premium, finite, 1730 + 320 * min_sum + 220 * new_g)
+    recurring = 1 + max(entry + premium, finite, 1730 + 320 * trial_sum + 220 * new_g)
     assert (entry, finite, premium, recurring) == (125660241, 84500001, 8603, 4285082571)
     assert resource["public_exponent_A"] == 19182389 and resource["first_public_offset"] == 4
     assert recurring < CAP
@@ -322,17 +324,21 @@ def check(args):
         copyfile(base / "PREDECESSOR-RESULT.json", peer / "PREDECESSOR-RESULT.json")
         runtime = tree / "runtime"
         run([sys.executable, "-IB", str(peer / "bootstrap.py"), str(runtime)],
-            check=True, timeout=30, capture_output=True)
+            check=True, timeout=30, capture_output=True, cwd=tree,
+            env={**environ, "GIT_CEILING_DIRECTORIES": str(tree.parent)})
         assert pin(runtime / "typed_transport.py", CALENDAR_SHA) == calendar
         sys.path.insert(0, str(runtime))
         from upstream import install
         install()
-        from band_product import prepare_native
-        from grades import LOWER, UPPER_DIVISOR
-        from installations import TERMINAL
+        from grades import LOWER, UPPER_DIVISOR, numerical_recipe
+        from installations import ENTRY, TERMINAL
         assert (LOWER, UPPER_DIVISOR) == (L, 1724)
+        for profile, expected in ((ENTRY, (ENTRY_H, ENTRY_G, ENTRY_K)),
+                                  (TERMINAL, (HEIGHTS, PRIOR_G, K_PRIOR))):
+            assert (profile.rank_logs, profile.complex_log, profile.kappa) == expected
+            assert (profile.eta, profile.positive_stop_denominator) == (ETA, 10**18)
         print("Restored the signed offset-8 allocator", file=sys.stderr, flush=True)
-        priced = factor(prepare_native(TERMINAL)[-1])
+        priced = factor(numerical_recipe(TERMINAL.complex_log))
         print("Independently bounded the matched-suffix factor", file=sys.stderr, flush=True)
         priced.update(invoice(result, peer.parent / "tiered-native-multiplier" / "source"))
     priced.update(scope="One offset-8 price case; build and full independent replay remain separate gates",

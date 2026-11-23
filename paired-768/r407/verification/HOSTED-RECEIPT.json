@@ -1,0 +1,49 @@
+{
+  "pr": 8087,
+  "head": "aea1699415250d865f7a635f4df0b76f406c47b4",
+  "base": "e54523517d0f03e58352e647c403a5af3e525a57",
+  "actual_merge_checkout": "aee681873a880e9777c7a060e18de610c20ccbf2",
+  "run": 45121099547,
+  "url": "https://github.com/CrocSwap/integer-mult-bounds/actions/runs/45121099547",
+  "scheduled_utc": "2026-11-23T05:58:44Z",
+  "completed_utc": "2026-11-23T06:12:17Z",
+  "total_seconds_from_schedule": 813,
+  "onboarding": {
+    "job": 137514819439,
+    "url": "https://github.com/CrocSwap/integer-mult-bounds/actions/runs/45121099547/job/137514819439",
+    "seconds": 223,
+    "outcome": "success"
+  },
+  "historical": {
+    "job": 137516069025,
+    "url": "https://github.com/CrocSwap/integer-mult-bounds/actions/runs/45121099547/job/137516069025",
+    "seconds": 103,
+    "outcome": "success",
+    "explicit_replay_seconds": 8
+  },
+  "science": {
+    "job": 137516069048,
+    "url": "https://github.com/CrocSwap/integer-mult-bounds/actions/runs/45121099547/job/137516069048",
+    "seconds": 585,
+    "outcome": "success",
+    "explicit_replay_seconds": 505,
+    "modes": [
+      "price",
+      "calendar",
+      "raw",
+      "exterior",
+      "nested",
+      "product",
+      "setup",
+      "source-pins"
+    ],
+    "log_sha256": "71b7d6e7e0ee784fc5f0806c0fefc53c2d22f873d74289ba8a0255864cdf3749",
+    "native_columns": [
+      2,
+      4
+    ],
+    "nonzero_interior_grant": 4507783464,
+    "physical_product": "-345550037539",
+    "complete_log2_C": 4354317451
+  }
+}
