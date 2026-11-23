@@ -1,0 +1,23 @@
+{
+  "CLOSEOUT.md": "30b0213169208feb25c152d720b0fd6db2d043b9272ad889d85e8e5d9f8fa867",
+  "RESTART.md": "52dea05d96cb24b8a494183b1672938f0cc9fce7bcafbb6e3a34ab248c782c22",
+  "ROUND-PLAN.md": "e80cc075451d245839b2e5b36ed40f8053e8ec622b6bbe7a31a9b98fc405e447",
+  "hosted-note.md": "2345e299c7797353f20cf3010da182208908535571463da0c6bc0677afbff365",
+  "owner/README.md": "10c49fb297ce677ea9e0656c813b39c3d6dc3c4c9af61861c92d36a89b2b4e09",
+  "owner/RECEIPT.json": "cbc717983366cc4300af71ca84b63f61258bbac0bd9ef413027f7929f33b5127",
+  "owner/check.py": "da19dee3ad1790f4e98250e8dc41bdc09594a2cdd62a722cfa69efc8ed2846fc",
+  "owner/exit.txt": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa",
+  "owner/time.txt": "f7bab18e8f5ac25aff396541b28bd48af215e93841ba82427fc7b2dc3728b42b",
+  "physical/CLI.txt": "604f5e31cf235a6607d7a5d8ac133ba3a6b422c6694b2f134925e0253d9fe2c7",
+  "physical/README.md": "0ec2f0726703ebbf794169e8607d48d88a9196bbba10b8672fd877e9a8563ded",
+  "physical/SOURCE-CHECK.json": "b3e3246623916268a57b2dd2f0146765b5d2086dad2d1287eb4cf682dd87cd64",
+  "physical/check.py": "cfd29f44b3df46aed035de7827bc2611449bf3b782d4e07a0373f20582edc597",
+  "seed/DIRECT-CONTROL.json": "f4186d3505f0773a3ea5c947a85cd1ba27b96212866a4b30482b55322c848524",
+  "seed/RECEIPT.json": "e7f7b7f5e6a64aa6b80957b62181a38ddae3a42c5039228821cb6191f07b2221",
+  "seed/check.py": "dff6c3f85b6a61a2eb74a7b7e39158c1c9afe818866f919556d9b1726b6495d1",
+  "seed/initial-control.txt": "ef4ca4de882c12c453ab7bc0d0cfa3466441bc8d30378b7d6b37c22bbbc031f9",
+  "seed/time.txt": "ac3bfc34df07753a643c83739fcb3d39071ab9f9c38017fe246da7b6df93b91f",
+  "setup-receipt/RECEIPT.json": "a690d662d0c9e137a6673d1c9c8dac24d2183e8ccd612b09ab13eb01a1c9d99e",
+  "setup-receipt/check_patch.py": "c9f034036518f4fb9329d7e151f43d238efeab3c20e5f2c8b3e4c1b07a157b7e",
+  "setup-receipt/time.txt": "de4c7e185a8a0226e8cc57ee683662951871b4807a7a46d0dd1f0cb854fbcecb"
+}

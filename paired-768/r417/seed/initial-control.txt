@@ -1,0 +1,1 @@
+Initial assertion counted all 275 vertices as computed rows. The corrected check counts 273 initial inputs separately.

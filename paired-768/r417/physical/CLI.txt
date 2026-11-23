@@ -1,0 +1,8 @@
+usage: check.py [-h] --runtime RUNTIME --relay-receipt RELAY_RECEIPT
+
+Replay one literal rank-five relay with its native dense physical primitives.
+
+options:
+  -h, --help            show this help message and exit
+  --runtime RUNTIME
+  --relay-receipt RELAY_RECEIPT

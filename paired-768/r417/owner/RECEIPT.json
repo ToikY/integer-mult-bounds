@@ -1,0 +1,27 @@
+{
+  "scope": "Literal graph node and terminal loop; one synthetic typed kind-1 transaction",
+  "relay": 104493,
+  "charts": [
+    365,
+    529
+  ],
+  "raw_sha256": "86c30fd4a906830bb6f4b54cdc0be083bd2649bebf68da7383efd7beee223700",
+  "typed_sha256": "0c268432c9d48798c17d927f2d900b5e69dfc6585166cd71f253913e389c3b47",
+  "positive": {
+    "typed_header": 3,
+    "column_bundle_width": 4,
+    "paid_axes": 20,
+    "fresh_token_retired": true,
+    "terminal_owner_identity_preserved": true,
+    "dirty_spectator_addresses_preserved": true
+  },
+  "negative": {
+    "wrong_return_tag_rejected": true
+  },
+  "unrun": [
+    "real paid child",
+    "actual complete raw graph",
+    "kind-0 splitting",
+    "adjoint physical path"
+  ]
+}

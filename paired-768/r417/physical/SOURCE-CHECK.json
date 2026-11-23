@@ -1,0 +1,9 @@
+{
+  "scope": "authenticated static oracle and arrangement; native/source materialization unrun",
+  "archive_source_files_checked": 8,
+  "dirty_spectator_fibres": 4,
+  "forward_values": 2048,
+  "adjoint_values": 2048,
+  "wrong_fourier_control_differs": true,
+  "fixture_sha256": "cfd29f44b3df46aed035de7827bc2611449bf3b782d4e07a0373f20582edc597"
+}

@@ -1,0 +1,19 @@
+{
+  "scope": "One normalized graph row; physical typed execution unrun",
+  "graph_vertices": 275,
+  "computed_rows": 2,
+  "structural_inputs": 273,
+  "nonzero_inputs": 273,
+  "first_live": {
+    "index": 164,
+    "label": 164,
+    "chart": 3,
+    "coefficient": "1/2"
+  },
+  "hosted_zero_controls": {
+    "14": 14,
+    "1544": 1290
+  },
+  "relay": 104493,
+  "source_word_sha256": "6ef741c346ea075c4f2ed11f9d42d7076103e72d4a9e5059d495f1cb990fd149"
+}
