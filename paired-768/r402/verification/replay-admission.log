@@ -1,0 +1,7 @@
+2026-11-23T02:40:34Z
+head 9555f2df027f4a182722f736c97e5efafa5382c6
+free KiB 14605356
+One active onboarding job at process census, no other substantial campaign jobs
+At 02:41 UTC, ~37 minutes until reserved review window starts at 03:18 UTC. Prior seven-mode run 257.99 seconds. Sum of all manifest time caps 1170 seconds.
+CPython 3.12.14, single-thread environment
+python3.12 -IB scripts/research_package.py --package research/p104-weighted-ordinary-debit-11239

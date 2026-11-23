@@ -1,0 +1,23 @@
+[
+  {
+    "mode": "regenerate",
+    "wall_seconds": 6.328219833783805,
+    "exit_code": 0,
+    "timeout_seconds": 120,
+    "finished_utc": "2026-11-23T02:36:15+00:00"
+  },
+  {
+    "mode": "price",
+    "wall_seconds": 17.29714620858431,
+    "exit_code": 0,
+    "timeout_seconds": 140,
+    "finished_utc": "2026-11-23T02:36:32+00:00"
+  },
+  {
+    "mode": "calendar",
+    "wall_seconds": 53.64873295836151,
+    "exit_code": 0,
+    "timeout_seconds": 160,
+    "finished_utc": "2026-11-23T02:37:26+00:00"
+  }
+]

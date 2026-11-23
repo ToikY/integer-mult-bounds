@@ -1,0 +1,187 @@
+{
+  "candidate_fixed_profile_ceiling": "6417673946269416969859534601/1646311296204800000000000000000",
+  "clean_detached_checkout": true,
+  "compiler_width_cuts": [
+    8290,
+    133217,
+    657569
+  ],
+  "end_utc": "2026-11-23T02:44:23Z",
+  "evidence_file_sha256": {
+    "../../round401/independent/REPLAY-RECEIPT.json": "23297a453b76bfefaa33c5223824f254a013cf24ab5919b6d63f63f5f66dff07",
+    "../CANDIDATE-INPUTS.json": "96f1863babdebd4426c69d9cf4495cfd408012afa2c7123a66629364c0fd3d38",
+    "../acceptance-contract.md": "5428c085a05ac4c13f94c6a20f95f622a1574d70d1634abf4aa544b8c259c2ee",
+    "../peer-pin/peer-binding.log": "9c898e9c983a29e100199eaf9627c9996b3f0ecfcc17b8cfe34a450642e795e0",
+    "../peer-pin/source-blobs.json": "9b698d0aea6a8510d4f6dc09735ae884c3894aea2051043381d3313422731927",
+    "PLAN.md": "cfa9950afb5ba1264c9578e93d44042c355f12357bdff325d03d41b57ada7909",
+    "PLAN.sha256": "3f83f2414c2d1c3696d8ea992f6b342b2da95228f0de3b4702a7a1a15bf7f5d1",
+    "SOURCE-SCOPE.md": "0f94090675242ce41cb2764b240530d6ae50f99eb1cc0a4bb1a129c6052a325c",
+    "authenticate.log": "2aa86bf94af97a42b879bce0896ab45ec83182ff2166dcbb524f93d1d8111eec",
+    "authenticate.py": "5bfa03779eab947bff263803713815dbec56f8a035c198a8539e8357cf678667",
+    "candidate-objects": "78081984d0fd48c48d5ac1d84f5a1fe764cca3920cb7cc8b5f081375776db8ae",
+    "finalize.py": "cdff5192c4c3550d3711db42ec05657abc5e08ac5607750824d955f73648c645",
+    "independent-invoice.json": "d8b6844b4b10abdfe43cae6b37494b541006d0f194aa991647d337fe762409aa",
+    "independent-invoice.time": "9adb25f9772bcf950b5b1eb85c48e0430efeb13f283c27b00802c66a2a3e285b",
+    "independent_invoice.py": "f172e323c32dfcfc358ec60af97a31adcc9b9638ce20f635e708e8bd218e4179",
+    "observe.py": "b07262111412cc66391a523f045c301ca44d3f915fe629a0075af9786329bbb5",
+    "operator-images.json": "e91a2fc654491df0a50854be450b1696e0d0830f5b3f4de5507ab3cd415e7a01",
+    "operator_images.py": "e2cca8dffb9a8c9b3a679f5768a5d8397b93d8eed4191b711c259598aaebc425",
+    "original-runtime.log": "97af618ca0fe2a2977bd99b4aefb32d6ba0306483b3337a7a73cb57c9ee48470",
+    "replay-admission.log": "5c585d3870adeab8cbf65ea3359cda71b55e233452accb3bb41ec9377b847951",
+    "replay-end.utc": "63845bf8ce2bd8d6b98cf3bb215e50ac9ac13875e93d2c4de3baa7b7563edd52",
+    "replay-observed.jsonl": "2ee89454d2791a23cd536fe62768bf8ea9340c618299cafabef83c799dd6c77f",
+    "replay-start.utc": "bdcbdbeacbfa30bf179e3c3e3ee950a4327a19444208e1a7888e1021e99ddc98",
+    "replay-worktree.status": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "replay.exit": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa",
+    "replay.log": "3c778160aa5cc242fc2f2de9f751ab8f72b21b97784e42d10f524c7391a36f27"
+  },
+  "exact_increase_over_prior_family_crossing": "78605209766678899823/134217728000000000000000000000000",
+  "exit_code": 0,
+  "failed_modes": [],
+  "fixed_setup_bound_exponent": 228,
+  "head": "9555f2df027f4a182722f736c97e5efafa5382c6",
+  "minimum_sampled_disk_bytes": 13961580544,
+  "modes": [
+    {
+      "launch_free_bytes": 14955847680,
+      "mode": "price",
+      "observed_wall_seconds": 18.339,
+      "result": "pass",
+      "timeout_seconds": 140
+    },
+    {
+      "launch_free_bytes": 14971564032,
+      "mode": "calendar",
+      "observed_wall_seconds": 54.428,
+      "result": "pass",
+      "timeout_seconds": 160
+    },
+    {
+      "launch_free_bytes": 14966341632,
+      "mode": "raw",
+      "observed_wall_seconds": 18.731,
+      "result": "pass",
+      "timeout_seconds": 170
+    },
+    {
+      "launch_free_bytes": 14964707328,
+      "mode": "exterior",
+      "observed_wall_seconds": 22.319,
+      "result": "pass",
+      "timeout_seconds": 190
+    },
+    {
+      "launch_free_bytes": 14963335168,
+      "mode": "nested",
+      "observed_wall_seconds": 23.082,
+      "result": "pass",
+      "timeout_seconds": 200
+    },
+    {
+      "launch_free_bytes": 14962954240,
+      "mode": "product",
+      "observed_wall_seconds": 91.325,
+      "result": "pass",
+      "timeout_seconds": 220
+    },
+    {
+      "launch_free_bytes": 13961580544,
+      "mode": "setup",
+      "observed_wall_seconds": 1.144,
+      "result": "pass",
+      "timeout_seconds": 90
+    }
+  ],
+  "package": "research/p104-weighted-ordinary-debit-11239",
+  "physical_product": {
+    "H_calls": 157248,
+    "bits": [
+      20,
+      19
+    ],
+    "coefficients_prefix": [
+      11811,
+      10996,
+      4152,
+      868,
+      77
+    ],
+    "padded_bytes": 633744,
+    "product": "-345550037539",
+    "rank": 2,
+    "seconds": 85.0548,
+    "shuttles": 138,
+    "stage_body_records": 6561
+  },
+  "prior_family_crossing": "523209442801521766233321100177/134217728000000000000000000000000",
+  "raw_native_columns": [
+    2,
+    4
+  ],
+  "scope": "Conditional fixed installation under the five signed source premises",
+  "signed_checks_per_tier": {
+    "functional": 4,
+    "strict": 54
+  },
+  "signed_width_controls": [
+    {
+      "component_width": 1,
+      "modulus": 3,
+      "paid_exchanges": 3,
+      "records": 81,
+      "wrong_signed_return_rejected": true
+    },
+    {
+      "component_width": 2,
+      "modulus": 9,
+      "paid_exchanges": 1,
+      "records": 6561,
+      "wrong_signed_return_rejected": true
+    }
+  ],
+  "skipped_modes": [],
+  "start_utc": "2026-11-23T02:40:34Z",
+  "terminal": {
+    "absolute_private_envelope": 536870915,
+    "activation_exponent": 1148456,
+    "activation_offset": 2,
+    "complete_log2_C": 318292071,
+    "cuts": [
+      8290,
+      133217,
+      657569
+    ],
+    "entry_conversion_bits": 515,
+    "entry_ordinary_surcharges": [],
+    "gaussian_ceiling": "8411773594854261/2157853142161555456",
+    "gaussian_height": 490639,
+    "gaussian_height_log_charge": 107940580,
+    "gaussian_margin": "137851485417934601/1646311296204800000000000000000",
+    "heights": [
+      8192,
+      124863,
+      524288
+    ],
+    "intermediate_rates": [
+      "3718459644522841499/1000000000000000000000",
+      "3889194059291266359/1000000000000000000000"
+    ],
+    "kappa": "15592856493/4000000000000",
+    "log2_C_before_entry_and_selector": 318292070,
+    "max_native_height": 524288,
+    "min_signed_functional": "3/1000000000000000000",
+    "min_signed_paid": "137851485417934601/1646311296204800000000000000000",
+    "min_signed_strict": "1/10000000000000000000",
+    "ordinary_ceiling": "523209474434100114572160390033/134217728000000000000000000000000",
+    "ordinary_log2_B": 210349888,
+    "ordinary_margin": "31553972467483520390033/134217728000000000000000000000000",
+    "select_entry_after_conversion": 125660756,
+    "signed_functional_count": 4,
+    "signed_strict_count": 54
+  },
+  "timing_seconds": {
+    "real": 229.5,
+    "sys": 58.88,
+    "user": 164.28
+  }
+}

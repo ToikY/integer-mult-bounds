@@ -1,0 +1,242 @@
+{
+  "arithmetic": {
+    "booked_gain_vs_comparator": "5857/10000000000000000",
+    "booked_gap_vs_peer_family_crossing": "78605209766678899823/134217728000000000000000000000000",
+    "comparison_cap": 318292451,
+    "conservative_fixed_native_setup": 217364570380528137475793294892811967875864032914108887556978854854656,
+    "entry_new": {
+      "absolute_private_envelope": 3153922,
+      "activation_exponent": 7437,
+      "activation_offset": 4,
+      "cuts": [
+        3077,
+        6221
+      ],
+      "entry_ordinary_surcharges": [
+        0,
+        25818582
+      ],
+      "gaussian_ceiling": "16613657019/4398046511104",
+      "gaussian_height": 1024,
+      "gaussian_height_log_charge": 225280,
+      "gaussian_margin": "1098935360482160957159/3355443200000000000000000",
+      "heights": [
+        3000,
+        3080
+      ],
+      "intermediate_rates": [
+        "3429777082171614693/1000000000000000000000"
+      ],
+      "kappa": "69/20000",
+      "log2_C_before_entry_and_selector": 125660241,
+      "max_native_height": 3080,
+      "min_signed_functional": "3/1000000000000000000",
+      "min_signed_paid": "1098935360482160957159/3355443200000000000000000",
+      "min_signed_strict": "1/10000000000000000000",
+      "ordinary_ceiling": "35709992911315631511781674099357/10334765056000000000000000000000000",
+      "ordinary_log2_B": 125433359,
+      "ordinary_margin": "55053468115579837956394099357/10334765056000000000000000000000000",
+      "signed_functional_count": 4,
+      "signed_strict_count": 54
+    },
+    "entry_old": {
+      "absolute_private_envelope": 3153922,
+      "activation_exponent": 7437,
+      "activation_offset": 4,
+      "cuts": [
+        3077,
+        6221
+      ],
+      "entry_ordinary_surcharges": [
+        0,
+        25818582
+      ],
+      "gaussian_ceiling": "16613657019/4398046511104",
+      "gaussian_height": 1024,
+      "gaussian_height_log_charge": 225280,
+      "gaussian_margin": "1098935360482160957159/3355443200000000000000000",
+      "heights": [
+        3000,
+        3080
+      ],
+      "intermediate_rates": [
+        "3429736554827864693/1000000000000000000000"
+      ],
+      "kappa": "69/20000",
+      "log2_C_before_entry_and_selector": 125660241,
+      "max_native_height": 3080,
+      "min_signed_functional": "3/1000000000000000000",
+      "min_signed_paid": "1098935360482160957159/3355443200000000000000000",
+      "min_signed_strict": "1/10000000000000000000",
+      "ordinary_ceiling": "35709583274353327511781674099357/10334765056000000000000000000000000",
+      "ordinary_log2_B": 125433359,
+      "ordinary_margin": "54643831153275837956394099357/10334765056000000000000000000000000",
+      "signed_functional_count": 4,
+      "signed_strict_count": 54
+    },
+    "fixed_new_ceiling": "6417673946269416969859534601/1646311296204800000000000000000",
+    "new_terminal": {
+      "absolute_private_envelope": 536870915,
+      "activation_exponent": 1148456,
+      "activation_offset": 2,
+      "complete_log2_C": 318292071,
+      "cuts": [
+        8290,
+        133217,
+        657569
+      ],
+      "entry_conversion_bits": 515,
+      "entry_ordinary_surcharges": [],
+      "gaussian_ceiling": "8411773594854261/2157853142161555456",
+      "gaussian_height": 490639,
+      "gaussian_height_log_charge": 107940580,
+      "gaussian_margin": "137851485417934601/1646311296204800000000000000000",
+      "heights": [
+        8192,
+        124863,
+        524288
+      ],
+      "intermediate_rates": [
+        "3718459644522841499/1000000000000000000000",
+        "3889194059291266359/1000000000000000000000"
+      ],
+      "kappa": "15592856493/4000000000000",
+      "log2_C_before_entry_and_selector": 318292070,
+      "max_native_height": 524288,
+      "min_signed_functional": "3/1000000000000000000",
+      "min_signed_paid": "137851485417934601/1646311296204800000000000000000",
+      "min_signed_strict": "1/10000000000000000000",
+      "ordinary_ceiling": "523209474434100114572160390033/134217728000000000000000000000000",
+      "ordinary_log2_B": 210349888,
+      "ordinary_margin": "31553972467483520390033/134217728000000000000000000000000",
+      "select_entry_after_conversion": 125660756,
+      "signed_functional_count": 4,
+      "signed_strict_count": 54
+    },
+    "old_gaussian_height_exact_shortfall": "354613496784311279/823153970380800000000000000000",
+    "old_ordinary_debit_exact_shortfall": "25132665927681050851/26843545600000000000000000000000",
+    "old_terminal": {
+      "absolute_private_envelope": 536870915,
+      "activation_exponent": 1148456,
+      "activation_offset": 2,
+      "complete_log2_C": 318292171,
+      "cuts": [
+        8290,
+        133218,
+        657570
+      ],
+      "entry_conversion_bits": 515,
+      "entry_ordinary_surcharges": [],
+      "gaussian_ceiling": "4205878224608477/1078924372057522176",
+      "gaussian_height": 490638,
+      "gaussian_height_log_charge": 107940360,
+      "gaussian_margin": "127507783667723281/823153970380800000000000000000",
+      "heights": [
+        8192,
+        124864,
+        524288
+      ],
+      "intermediate_rates": [
+        "3718444802966292427/1000000000000000000000",
+        "3889193113854167971/1000000000000000000000"
+      ],
+      "kappa": "38982141226643/10000000000000000",
+      "log2_C_before_entry_and_selector": 318292170,
+      "max_native_height": 524288,
+      "min_signed_functional": "3/1000000000000000000",
+      "min_signed_paid": "127507783667723281/823153970380800000000000000000",
+      "min_signed_strict": "1/10000000000000000000",
+      "ordinary_ceiling": "523209442801522437321961100177/134217728000000000000000000000000",
+      "ordinary_log2_B": 210350208,
+      "ordinary_margin": "6113522921100177/134217728000000000000000000000000",
+      "select_entry_after_conversion": 125660756,
+      "signed_functional_count": 4,
+      "signed_strict_count": 54
+    },
+    "prior_family_crossing": "523209442801521766233321100177/134217728000000000000000000000000",
+    "prior_floor_loss": "6023240234317/1047435149312000000000000000000000000",
+    "prior_tangent_loss": "20262952431/817418390523084800000000",
+    "setup_bit_bound": 228
+  },
+  "factors": {
+    "finer_upper_envelope_shortfall": [
+      "46832528062277/1000000000000000000",
+      "23416264031139/500000000000000000"
+    ],
+    "gaussian_allowance": [
+      "1089647358728632153/1000000000000000000",
+      "544823679364316077/500000000000000000"
+    ],
+    "gaussian_cells": 51,
+    "gaussian_cells_sha256": "f3a5ef6339bd13de6984af4c958966b49a5652d8a0580b58fb43a7c606534782",
+    "gaussian_factor": [
+      "1089646674305021263/1000000000000000000",
+      "68102917144063829/62500000000000000"
+    ],
+    "gaussian_geometry": [
+      1874,
+      1724,
+      306
+    ],
+    "gaussian_margin": "50803612971593099397385261823/24054211488961849122338563785759685737032",
+    "gaussian_typed_cells": 88,
+    "k7_boundary": [
+      "386067983837333790100459/1000000000000000000",
+      "19303399191866689505023/50000000000000000"
+    ],
+    "k7_cell_sha256": "b4b855b293473f5c72b7042acf5963a0c66faa8637d3629376a3feb1cd62c0b8",
+    "k7_cells": 24,
+    "k7_floor": 18960,
+    "k7_fringe": [
+      "3719790463232798319/500000000000000000",
+      "7439580926465596639/1000000000000000000"
+    ],
+    "k7_mass_margin": "55321779883482082595639/244544123725211460862213013703178693829",
+    "k7_paid_by_label": {
+      "1": 48720,
+      "2": 45144,
+      "3": 1980,
+      "4": 1260,
+      "5": 1296,
+      "6": 2664,
+      "7": 480,
+      "14": 444,
+      "21": 444,
+      "28": 444,
+      "35": 444,
+      "42": 444,
+      "49": 444,
+      "56": 444
+    },
+    "k7_target_by_label": {
+      "4": 864,
+      "8": 14268,
+      "15": 444,
+      "22": 444,
+      "29": 444,
+      "36": 444,
+      "43": 444,
+      "50": 444,
+      "57": 444,
+      "64": 444,
+      "127": 222
+    },
+    "obsolete_32768_floor_factor": [
+      "647353195627350173/250000000000000000",
+      "2589412782509400693/1000000000000000000"
+    ],
+    "ordinary_allowance": [
+      "517639690731418719/200000000000000000",
+      "647049613414273399/250000000000000000"
+    ],
+    "ordinary_factor": [
+      "517627158256164813/200000000000000000",
+      "1294067895640412033/500000000000000000"
+    ],
+    "ordinary_reserve": [
+      "62662376269529/1000000000000000000",
+      "6266237626953/100000000000000000"
+    ],
+    "setup_grade_actions": 269057152
+  }
+}

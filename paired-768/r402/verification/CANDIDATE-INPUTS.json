@@ -1,0 +1,20 @@
+{
+  "files": {
+    "research/p104-weighted-ordinary-debit-11239/LICENSE": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+    "research/p104-weighted-ordinary-debit-11239/NOTICE.md": "a3dc6b52e94a8aa179e607b3291e245380d5b05d89f3e0dd824b3636e9fbff4c",
+    "research/p104-weighted-ordinary-debit-11239/PEER-SOURCE.json": "798c2e6394c258986484a116198cc542a6d2b4c1f289e5816de2cfecf5141c51",
+    "research/p104-weighted-ordinary-debit-11239/PROOF.md": "d15823b51b5a00f4e1db030f81335ab86ccda3a49d7ead7f30e71f678ede7f4a",
+    "research/p104-weighted-ordinary-debit-11239/README.md": "db725f2ec6902b69d9ee8eeb361f233abb9b9d96a512be59a2e6eead5330dc23",
+    "research/p104-weighted-ordinary-debit-11239/RESULT.json": "ccb139693ea7628de2a4ae03f49c2218887e839266b6160667e16160b71ec2e7",
+    "research/p104-weighted-ordinary-debit-11239/SOURCES.json": "b3197501bae90ec16c4d99c186e74dfe28e0f5f730e6b8bb94e2d0ce78bcf69c",
+    "research/p104-weighted-ordinary-debit-11239/TASK.json": "f48236ce21815682d995995d524c9c4a63bd07721d10f32343656fbcb5775dde",
+    "research/p104-weighted-ordinary-debit-11239/VERIFY.json": "c223869af7cd07efca1b056dfba02c628fe7b0e02ce79802301d195f40ddee3f",
+    "research/p104-weighted-ordinary-debit-11239/check_cutoff.py": "72b795ea06822e848c93eebbc25bf2704f6634dd24543e05c51aa0b7d0ca612f",
+    "research/p104-weighted-ordinary-debit-11239/check_ordinary_floor.py": "9d1964c49c959f0e51a9f86c6f67e62334bd42ac164c6c015400f5723e77fb88",
+    "research/p104-weighted-ordinary-debit-11239/check_stage_seam.py": "49e41d1b5f486e274503ae3f62c1c389c80c64cba43f8d2d9b5c57edbd6f9695",
+    "research/p104-weighted-ordinary-debit-11239/peer8057.tar.gz": "0e0d559bdb15e7b647f88a2b5e27fcdc9e28e81d8f4145459876ba6da2e9314c",
+    "research/p104-weighted-ordinary-debit-11239/prepare.py": "03ab8d592070f6969fdf96884c77ac19e00b4a7449b5fd67e55badf746e7bf4b",
+    "research/p104-weighted-ordinary-debit-11239/verify.py": "6fbdbb5f5ff32ac9cfb51dc14567c15c11d18c9f1aef1cb8682bf6379d579ffe"
+  },
+  "head": "9555f2df027f4a182722f736c97e5efafa5382c6"
+}
