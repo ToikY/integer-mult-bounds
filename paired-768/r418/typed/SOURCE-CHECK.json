@@ -1,0 +1,53 @@
+{
+  "scope": "Oracle source-only comparison, no native run",
+  "cases": [
+    {
+      "kind": 0,
+      "origins": [
+        11,
+        48
+      ],
+      "before_support": [
+        4,
+        4
+      ],
+      "after_support": [
+        128,
+        128
+      ],
+      "terminal_support": [
+        512,
+        512
+      ],
+      "quarter_turn_mutation_rejected": true
+    },
+    {
+      "kind": 1,
+      "origins": [
+        28,
+        65,
+        102,
+        139
+      ],
+      "before_support": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "after_support": [
+        128,
+        128,
+        128,
+        128
+      ],
+      "terminal_support": [
+        512,
+        512,
+        512,
+        512
+      ],
+      "quarter_turn_mutation_rejected": true
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+{"free_bytes": {"checkout": 7098183680, "temporary": 7098183680}, "required_free_bytes": 8589934592}
+PASS exact input pins, seven modes, 1170-second sum, low-space refusal before launch
