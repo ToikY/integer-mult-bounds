@@ -1,0 +1,76 @@
+{
+  "cases": 1,
+  "complete_log2_C": 4354317451,
+  "decimal_kappa": "0.003898460000505",
+  "entry_conversion": 8744,
+  "entry_log2_C": 125660241,
+  "exact_gain": "101/200000000000000",
+  "exact_kappa": "779692000101/200000000000000",
+  "exact_percent_gain": "101/7796920000",
+  "exact_prior_upper": "15407802515941573408769828489/3952279237427200000000000000000",
+  "expanded_added_indexed_actions": 1099511627776,
+  "gaussian_debit": "32467/262144",
+  "gaussian_height": 18845934,
+  "gaussian_period": "257/256",
+  "gaussian_stopped_upper": "123262407062449436787997670753/31618230543974400000000000000000",
+  "max_native_height": 18845934,
+  "max_seconds": 30,
+  "native_height_bits": 25,
+  "ordinary_debit": "11239/8192",
+  "ordinary_heights": [
+    8192,
+    38102,
+    604363
+  ],
+  "peer_head": "510113821774bb27f7ddaad4e8b94837a1c2cf52",
+  "prior_bound_gap": "1994769718130907511/3952279237427200000000000000000",
+  "scope": "exact one-case feasibility; full scientific 25-bit replay still required",
+  "setup_transition_upper": 217364571993743287866367176320080817069553173293686105666269057384448,
+  "signed": {
+    "entry": {
+      "functional": 4,
+      "minimum_functional": "3/1000000000000000000",
+      "minimum_strict": "1/10000000000000000000",
+      "paid_margin": "1098966610482160957159/3355443200000000000000000",
+      "stock": {
+        "absolute_log2_private_control_envelope": 3153922,
+        "binary_cuts": [
+          3077,
+          6221
+        ],
+        "first_public_offset": 4,
+        "initial_s": 7438,
+        "public_exponent_A": 7437,
+        "retimed_all_size_margin_floor": 1635,
+        "retimed_first_stripe_margin": 1701,
+        "stage_and_outer_fixed_log_overhead": 1964,
+        "storage_upper": "6.2 p T < 297.6 n bits"
+      },
+      "strict": 54
+    },
+    "terminal": {
+      "functional": 4,
+      "minimum_functional": "3/1000000000000000000",
+      "minimum_strict": "1/10000000000000000000",
+      "paid_margin": "19790939290598753/31618230543974400000000000000000",
+      "stock": {
+        "absolute_log2_private_control_envelope": 19298236419,
+        "binary_cuts": [
+          8290,
+          46456,
+          650883
+        ],
+        "first_public_offset": 4,
+        "initial_s": 19497094,
+        "public_exponent_A": 19497093,
+        "retimed_all_size_margin_floor": 9441933,
+        "retimed_first_stripe_margin": 9746477,
+        "stage_and_outer_fixed_log_overhead": 1968,
+        "storage_upper": "6.2 p T < 297.6 n bits"
+      },
+      "strict": 54
+    }
+  },
+  "terminal_log2_B": 208210368,
+  "whole_cap": 4354317571
+}
