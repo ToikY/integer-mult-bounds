@@ -1,0 +1,6 @@
+{
+  "modified_input": "prepare.py",
+  "change": "appended newline",
+  "rejected_exit": 1,
+  "output_committed": false
+}

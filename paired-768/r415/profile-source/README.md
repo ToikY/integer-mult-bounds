@@ -1,0 +1,7 @@
+# Source-only signed installation profile
+
+Exact #8094 c20a08dc0a79a989e3515068560d5da371c0a2a8 supplies the prepared weighted runtime patch. Its #8057 source archive pins the sibling tiered installations preimage. The tiered bootstrap copies that preimage to the runtime, and the weighted bootstrap applies its runtime.patch. Restore the exact archives and run the original #8094 preparation before invoking the profile transformer.
+
+With CPython 3.12 and Git, read the transformer with runpy, then call patch_profile with the prepared peer directory. It verifies the old runtime patch and both installations.py digests before it performs a filtered Git apply for installations.py alone. It changes the terminal profile's κ booking to 0.003900857269150 and reruns the same source patch. The generated candidate image is byte-identical to the old image with that single literal replacement. The transformer updates its runtime.patch and resulting installation digest pins in SOURCES.json. It rejects repeated application without changing the candidate.
+
+The fixture replay used the public #8073 archive copied from #8057, SHA-256 0e0d559bdb15e7b647f88a2b5e27fcdc9e28e81d8f4145459876ba6da2e9314c, the exact #8094 prepare.py SHA-256 bc401e5c47d275617f3c7d162d56ea4c604ef3d4c6637ab2a8aa8627a570a9f6 and its exact shortcut word. The receipt records both output hashes and the repeated-application control. The filtered patch and compile only check the installed-profile bytes. Native signed execution, producer and receiver setup, and full independent replay remain open.

@@ -1,0 +1,28 @@
+{
+  "incoming_sha256": "b790eb6855afa255a609eaaf88a46ed9e8b04232671cca4d0f8bd0bad27f11ac",
+  "candidate_sha256": "57a4f8807833a512760466dcb18a477a9d04112af4e1cf945ac0efd88a330662",
+  "old_guarded_crossing": "70271596826947689616436948507028761711/18014398375264256000000000000000000000000",
+  "controls": [
+    "old-ordinary-height-0-minus-917",
+    "old-ordinary-height-1-minus-943",
+    "old-ordinary-height-2-minus-944",
+    "old-ordinary-height-3-minus-944",
+    "old-ordinary-height-4-minus-5",
+    "ordinary-height-1-plus-one-breaks-prefix",
+    "ordinary-height-2-plus-one-breaks-prefix",
+    "ordinary-height-3-plus-one-breaks-prefix",
+    "pr8090-profile-at-old-booking",
+    "capped-combined-profile-at-old-booking",
+    "gaussian-height-minus-one",
+    "next-displayed-kappa-at-fixed-gaussian-height",
+    "inherited-cap-318292011",
+    "outer-ordinary-margin-removed",
+    "prefix-height-at-previous-cut",
+    "recurring-bound-minus-one",
+    "old-eta-39/10000"
+  ],
+  "entry_conversion": 121121,
+  "terminal_bound": 85945126845,
+  "physical_functions_unchanged": true,
+  "native_and_signed_execution": "unrun"
+}
