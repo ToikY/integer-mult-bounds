@@ -1,0 +1,23 @@
+# Round 407 source and installer audit
+
+I checked the fixed profile (8192, 38102, 604363) / 18845934 and κ 0.003898460000505 against exact #8081 at 510113821774bb27f7ddaad4e8b94837a1c2cf52 and the previously verified #8085 exterior-period proof. The archived transport defines the width `size = (e - 8) * k` and its physical period `4 * ceil(Q(n, 4 * size))`. At the inherited upper fence, `n / (4 * size)` is at least `263772 / 1032`. The two cases below and above 256 justify 257/256 for the normalized period charge. The source materializer changes the charged bound and signed parameters while preserving the literal transport. The cheaper directed period charge funds 64934/524288, and the inherited outward-price check rejects the next tick 64933/524288. The original factor and its independent price control remain available.
+
+The literal installer image SHA-256 is `387e60913e375316d904d4489e5ea5e69c0ac5729250f27fe52ef23910a07e13`. Replacing the two source lines for the weighted Gaussian trial and terminal profile reproduces the archived #8081 and #8085 image digests as controls. Ten generated files compiled from the authentic package in a temporary source tree. The smoke confirmed the exact symbolic fence at 18845934, the product lock, the added setup charge, and the independent period marker. The durable smoke record is [source-only.log](installer-audit/source-only.log).
+
+The exact ordinary/Gaussian funding floors recorded by the materializer are **569896 / 18845933**. The fixed physical candidate remains at G=18845934. Its Gaussian slack is about 6.25934·10⁻¹⁶ above κ plus the paid guard. G−1 funds with slack about 2.77222·10⁻¹⁶. G−2 is the rejected smaller Gaussian height, and G+1 exceeds the old cap with these ordinary heights. Reducing either H₂ or H₃ by one while keeping the other coordinates fixed fails. The old `economical` minimum-height-sum assertion does not apply to this fixed shape. The ordinary tuple (8192, 38216, 604248), with one fewer total height, already clears its ordinary paid target. No proposed change to the frozen candidate follows from that counterexample. Keep the incumbent's old-debit adjacent-slice bound against the old cap.
+
+## What the registered replay must do
+
+Keep all eight #8081 modes. The seventh must still dispatch through `verify_setup.py` with key `460`. Its serial arithmetic and real `check_setup_expanded.py` execution must both pass. The other wrapper's `setup` mode alone would omit the expanded physical census. The new setup fixture binds the seven actual heights, the new installation image and the same four pinned runtime files, with 25-bit heights and 128-bit scalar controls. It constructs the actual power-of-two carrier with 18,845,935 bits and verifies the directory census with the separately charged 2^40 indexed actions and full upper bound below 2^228. The old directory digest is a predecessor observation because the selected directory now contains the new profile. The eighth command still checks all ten captured #8072 retained blobs. The external Git object binding is a separate check from that portable blob test.
+
+Keep the symbolic upper-fence interception at terminal width. It executes the actual weighted recipe's opening expression and compares the method with literal control heights 1024 and 2048. The exterior and nested modes still issue their real finite transfers and the product mode keeps the shared POSIX lock. The #8081 signed product is a finite fixture. The full native terminal bound remains conditional on the inherited premises.
+
+The exact recurring bound is 4354317451, saving 120 under the predecessor cap. The projected terminal header is 2^19497093+4, with 8744 entry conversion units. Previous actual #8081 local replay sampled 1,254,309,888 bytes peak RSS and 9,227,022,336 bytes minimum disk free. Admit the expensive replay on actual process and reserve evidence, keep the single numerical thread and shared product lock, and serialize with another substantial job when the 8 GiB reserve is uncertain. This audit did not launch a scientific replay.
+
+Run the cheap independent archive, image and fixed-coordinate checks with CPython 3.12 from a clean handoff checkout and a clean exact #8081 checkout.
+
+```sh
+python3.12 -IB installer-audit/check_literal.py /path/to/peer-8081
+```
+
+The strongest public control at refresh is the complete independently reproduced #8081. #8086 prices a 20-bit enlarged K7 stack with a lower κ. It does not supply a competing 25-bit exterior-period result. The full 25-bit replay, local registration checks and actual hosted workflow remain acceptance gates for this prospective fixed profile.

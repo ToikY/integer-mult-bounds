@@ -1,0 +1,14 @@
+{
+  "max_replay_seconds": 1200,
+  "disk_guard_bytes": 8623489024,
+  "initial_disk_free_bytes": 9046028288,
+  "command": [
+    "python3.12",
+    "-IB",
+    "scripts/research_package.py",
+    "--package",
+    "research/p104-period-debit-25bit"
+  ],
+  "numerical_threads": 1,
+  "common_product_lock": true
+}

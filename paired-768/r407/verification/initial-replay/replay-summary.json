@@ -1,0 +1,8 @@
+{
+  "head": "aea1699415250d865f7a635f4df0b76f406c47b4",
+  "exit_code": 1,
+  "scope": "registered run reached terminal exit",
+  "wall_seconds_over_observer": 253.63,
+  "minimum_sampled_disk_free_bytes": 8964104192,
+  "clean_detached_after": true
+}

@@ -1,0 +1,77 @@
+{
+  "cases": 1,
+  "comparator": "510113821774bb27f7ddaad4e8b94837a1c2cf52",
+  "decimal_kappa": "0.003898460003746",
+  "entry_conversion": 8603,
+  "exact_comparator_stop": "15407802515941573408769828489/3952279237427200000000000000000",
+  "exact_gain": "1873/500000000000000",
+  "exact_kappa": "1949230001873/500000000000000",
+  "exact_stop_gap": "14804106726632462711/3952279237427200000000000000000",
+  "exterior_factor": "22067/21981",
+  "factor_reserve": "330638303457502393130827325309811908092003238308492209809/1532495540865888858358347027150309183618739122183602176000000000000",
+  "factor_upper": "272008483379/250000000000",
+  "gaussian_debit": "130699669/1073741824",
+  "gaussian_gain_control": "974565113811957/6218048969113600000000000000000",
+  "gaussian_height": 18531230,
+  "lower_band": 1874,
+  "max_native_height": 18531230,
+  "offset": 8,
+  "old_cap": 4354317571,
+  "ordinary_debit": "11239/8192",
+  "ordinary_heights": [
+    8192,
+    38102,
+    604363
+  ],
+  "ordinary_stopped_upper": "316228373425988508011581619187710971/81116228747264000000000000000000000000",
+  "predecessor_height_control": "12294789532610389/62180486335692800000000000000000",
+  "recurring_log2_C": 4285082571,
+  "recurring_saving": 69235000,
+  "scope": "one conditional price case; no full setup execution or signed replay",
+  "setup_charged_additional_indexed_actions": 1099511627776,
+  "setup_transition_upper": 217364571993743287866367176320080817069553173293686105666269057384448,
+  "signed": {
+    "entry": {
+      "functional": 4,
+      "paid_margin": "1105940374520246894659/3355443200000000000000000",
+      "stock": {
+        "absolute_log2_private_control_envelope": 3153922,
+        "binary_cuts": [
+          3077,
+          6221
+        ],
+        "first_public_offset": 4,
+        "initial_s": 7438,
+        "public_exponent_A": 7437,
+        "retimed_all_size_margin_floor": 1635,
+        "retimed_first_stripe_margin": 1701,
+        "stage_and_outer_fixed_log_overhead": 1964,
+        "storage_upper": "6.2 p T < 297.6 n bits"
+      },
+      "strict": 54
+    },
+    "terminal": {
+      "functional": 4,
+      "paid_margin": "974565113811957/6218048969113600000000000000000",
+      "stock": {
+        "absolute_log2_private_control_envelope": 18975979523,
+        "binary_cuts": [
+          8290,
+          46456,
+          650883
+        ],
+        "first_public_offset": 4,
+        "initial_s": 19182390,
+        "public_exponent_A": 19182389,
+        "retimed_all_size_margin_floor": 9289499,
+        "retimed_first_stripe_margin": 9589125,
+        "stage_and_outer_fixed_log_overhead": 1968,
+        "storage_upper": "6.2 p T < 297.6 n bits"
+      },
+      "strict": 54
+    }
+  },
+  "smaller_debit_deficit": "37210662202683956450328436805416395987426476733800682057/76624777043294442917917351357515459180936956109180108800000000000",
+  "suffix_proof": "dd2e2ff28102557f7c30619d6abd8a861e363d1d",
+  "wall_seconds_cap": 30
+}

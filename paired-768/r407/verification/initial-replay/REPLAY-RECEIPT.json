@@ -1,0 +1,236 @@
+{
+  "head": "aea1699415250d865f7a635f4df0b76f406c47b4",
+  "command": [
+    "python3.12",
+    "-IB",
+    "scripts/research_package.py",
+    "--package",
+    "research/p104-period-debit-25bit"
+  ],
+  "runner_blob": "091b4c8f58bac9a9580d76025b887dc5c873d05f",
+  "start_utc": "2026-11-23T05:45:20Z",
+  "end_utc": "2026-11-23T05:49:33Z",
+  "timings_seconds": {
+    "real": 252.88,
+    "user": 173.03,
+    "sys": 70.69
+  },
+  "minimum_sampled_free_bytes": 8964104192,
+  "clean_detached_before_and_after": true,
+  "actual_modes": [
+    {
+      "mode": "price",
+      "result": "pass",
+      "exit_code": 0,
+      "source": "committed runner checks each child exit",
+      "timeout_seconds": 150,
+      "terminal_marker": "PASS_25BIT_PERIOD_SIGNED price"
+    },
+    {
+      "mode": "calendar",
+      "result": "pass",
+      "exit_code": 0,
+      "source": "committed runner checks each child exit",
+      "timeout_seconds": 300,
+      "terminal_marker": "PASS_25BIT_PERIOD_SIGNED calendar"
+    },
+    {
+      "mode": "raw",
+      "result": "pass",
+      "exit_code": 0,
+      "source": "committed runner checks each child exit",
+      "timeout_seconds": 160,
+      "terminal_marker": "PASS_25BIT_PERIOD_SIGNED raw"
+    },
+    {
+      "mode": "exterior",
+      "result": "pass",
+      "exit_code": 0,
+      "source": "committed runner checks each child exit",
+      "timeout_seconds": 130,
+      "terminal_marker": "PASS_25BIT_PERIOD_SIGNED exterior"
+    },
+    {
+      "mode": "nested",
+      "result": "pass",
+      "exit_code": 0,
+      "source": "committed runner checks each child exit",
+      "timeout_seconds": 100,
+      "terminal_marker": "PASS_25BIT_PERIOD_SIGNED nested"
+    },
+    {
+      "mode": "product",
+      "result": "pass",
+      "exit_code": 0,
+      "source": "committed runner checks each child exit",
+      "timeout_seconds": 260,
+      "terminal_marker": "PASS_25BIT_PERIOD_SIGNED product"
+    },
+    {
+      "mode": "setup",
+      "result": "pass",
+      "exit_code": 0,
+      "source": "committed runner checks each child exit",
+      "timeout_seconds": 90,
+      "terminal_marker": "PASS_25BIT_PERIOD_SIGNED setup"
+    },
+    {
+      "mode": "8072-parent-source-pins",
+      "result": "pass",
+      "exit_code": 0,
+      "source": "committed runner checks each child exit",
+      "timeout_seconds": 10,
+      "terminal_marker": "PASS_PARENT_8072_CHANGED_FILE_BLOBS 10 75f7e1c44f48c43983016bcf8878c4d9e5e87c62"
+    }
+  ],
+  "skipped_modes": [],
+  "outcome": "verified_scoped_registered_execution",
+  "workload_completion": "PASS_REGISTERED_RESEARCH_PACKAGE research/p104-period-debit-25bit outcome=completed",
+  "direct_workload_process_status": null,
+  "workload_exit_supported_by": "All child statuses accepted by committed runner, success marker, and ordinary main fallthrough",
+  "outer_timing_wrapper": {
+    "exit_code": 1,
+    "error": "time: sysctl kern.clockrate: Operation not permitted",
+    "zero_and_seven_controls_both_returned_one": true
+  },
+  "exact_ceiling_vs_8081": {
+    "exact_cap": "15407802515941573408769828489/3952279237427200000000000000000",
+    "gap_to_candidate": "1994769718130907511/3952279237427200000000000000000",
+    "old_recurring_units_saved": 120,
+    "next_peer_g_max_ordinary_sum": 650655,
+    "next_peer_g_relaxed_ordinary_upper": "20517816774254903655487610614005459101951858675144398798928306814580765887234835355975992944325294311451881/5263056896000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+    "next_peer_g_shortfall": "12525282659796869385994540898048141324855601201071693185419234112765164644024007055674705688548119/5263056896000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+    "same_peer_profile_is_known_good": true,
+    "new_g_minus_1_margin": "17530562919056347/63236457732505600000000000000000",
+    "new_g_minus_2_shortfall": "1130188185771203/15809113594265600000000000000000"
+  },
+  "setup": {
+    "actual_terminal_carrier_bits": 18845935,
+    "added_carrier_scalar_steps": 137556398080,
+    "directory_bytes": 36094651,
+    "directory_records": 2407819,
+    "directory_sha256": "29fb8ee52fc661594ae2b97c3ebee058bd28e9cf6366ca00d45a749307b7bb13",
+    "extra_action_ceiling": 1099511627776,
+    "heights": [
+      3000,
+      3080,
+      1024,
+      8192,
+      38102,
+      604363,
+      18845934
+    ],
+    "largest_directory_integer_bits": 267,
+    "matches_predecessor_directory": false,
+    "max_parameter_bits": 25,
+    "oversized_or_invalid_scalar_controls_rejected": [
+      "eta_denominator",
+      "eta_numerator",
+      "kappa_denominator",
+      "kappa_numerator",
+      "nonpositive_stop_denominator",
+      "positive_stop_denominator"
+    ],
+    "power_of_two_upper": 228,
+    "profile_scalar_encoding_bits": {
+      "entry": {
+        "eta_denominator": 14,
+        "eta_numerator": 6,
+        "kappa_denominator": 15,
+        "kappa_numerator": 7,
+        "positive_stop_denominator": 60
+      },
+      "terminal": {
+        "eta_denominator": 14,
+        "eta_numerator": 6,
+        "kappa_denominator": 48,
+        "kappa_numerator": 40,
+        "positive_stop_denominator": 60
+      }
+    },
+    "scalar_guard_bits": 128,
+    "scope": "native fixed constructor and serial upper bound; no new WASI trace",
+    "serial_transition_upper": 217364571993743287866367176320080817069553173293686105666269057384448
+  },
+  "signed_materialized_files": 106,
+  "signed_materialized_delta": [
+    "installations.py"
+  ],
+  "signed_tape_negative_controls": [
+    {
+      "component_width": 1,
+      "modulus": 3,
+      "paid_exchanges": 3,
+      "records": 81,
+      "wrong_signed_return_rejected": true
+    },
+    {
+      "component_width": 2,
+      "modulus": 9,
+      "paid_exchanges": 1,
+      "records": 6561,
+      "wrong_signed_return_rejected": true
+    }
+  ],
+  "signed_product": {
+    "H_calls": 157248,
+    "bits": [
+      20,
+      19
+    ],
+    "coefficients_prefix": [
+      11811,
+      10996,
+      4152,
+      868,
+      77
+    ],
+    "padded_bytes": 633744,
+    "product": "-345550037539",
+    "rank": 2,
+    "seconds": 94.1704,
+    "shuttles": 138,
+    "stage_body_records": 6561
+  },
+  "conditional_kappa": "779692000101/200000000000000",
+  "complete_recurring_log2_c": 4354317451,
+  "file_sha256": {
+    "PLAN.md": "a595c69e06209b1362e3ff0df9d49d1b83ba650ca294af09c3d7dabff8409629",
+    "PLAN-SHA256.txt": "833b2205856d40d9c77550c5818c1f66c6796ba44452d484016b9ccb10a8abc4",
+    "admission-disk.log": "76226f1a45e07da970307efe4dd2c13c8922e108b8c33bac0a11aea09a8501a6",
+    "admission.utc": "a5b55bbb94a90a0f398b0998e5c2d42a5b6ac74a11f5d5c1d3d34ed809cc0392",
+    "candidate-ls-tree.log": "6e96515751d5991294c97aa831aed66e630548084cb76020df7e1ca85e10f5df",
+    "git-lineage.log": "b26d8242fbf37fad0790c8094cfdb69668adfb1dcd22870e3b62028a1c2f0f50",
+    "check-only.log": "5873404cb4424dca918a00d503569f3c29a3190fd029a007e1afb2006399f647",
+    "check-source.log": "33b3bf1a18dceae3e27b8c9945ecd4f68b91d47dcdddcaeffb478a3f23cb7f9d",
+    "check-source-first.log": "1ebccc6c1b63191accd3295bb379aa9b3493bb220cc63fea478f302f31acf27d",
+    "independent_check.py": "905d541c1b2570ff4537d8904259e887c3cb0e200f32533a512a0cb9c7214c9e",
+    "independent-invoice.json": "789df09bfe46ed6116f268ab4665dd2cf697da669385dd871d938c114fbb6d29",
+    "independent-invoice.start.utc": "ffb408508056d4c33f91108610c0465617423142b195cf98e8ad7c5f6b8e7d09",
+    "independent-invoice.end.utc": "9f2f94b3ce9cdcd2c14a3c08f940a7eb8094a3efa8dc1ab45b7ade3d0751d6e6",
+    "independent-invoice.exit": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa",
+    "materialize_trees.py": "ba82611ae4bdb8258d926ae443c239bfcd4ee91ba4c42c58222133eba72693e8",
+    "post-replay.status": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "pre-replay.status": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "python-version": "4c3569f5da09975434dd9fd9a91fadbc4367a91d8f3c3fab59e9241ab9ee4bd8",
+    "registered_replay.py": "d6f21c6a16e8dd3b58c2ac46e910d421317bf62bd682f87a0d25625ce6757a72",
+    "replay-end.utc": "149880e3b7961f3fa24b4f8a9b04c1995380f5684e98ed9164d62e798741811b",
+    "replay-observed.jsonl": "d9891c444c6635beb062f5ab94599194d57303fc7706319507c0eb3167002291",
+    "replay-start.utc": "2f98433e91631801e967ddc9351610250e26d2be87c1a51a8984ee95aaa3c2bf",
+    "replay-summary.json": "17223931324908af26e175af4254eb67f3b7cb20e3e0d7b29e226664a09d4816",
+    "replay.exit": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865",
+    "replay.log": "9d8087083e8770e3cc7ee7622c8b7387cd5985f3ca246d93fab615a3cf6ab7f9",
+    "reserved-scope.json": "d9c04420472704a7e494ced5bce42763ffff4e8e64c699cbd52f4e8f93efd3a8",
+    "run_invoice.zsh": "374d3ce29af6358b6e22a1bb9e9c6d617006f7ae6b348d71c132d01028a41cbb",
+    "seal_replay.py": "d6393354b87368eba85ab77ffa41261bb0c117bea343806d090b688178d9d3a5",
+    "time-probe-lp-zero.log": "c77823291c84f04e092fb8fac52860df41626b42067c4bc1676011d10630b432",
+    "time-probe-lp-zero.exit": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865",
+    "time-probe-lp-nonzero.log": "c77823291c84f04e092fb8fac52860df41626b42067c4bc1676011d10630b432",
+    "time-probe-lp-nonzero.exit": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865",
+    "time-probe-p-zero.log": "ac148848dd5934439bb7dabf6eae3bce3ec40974ded29a3d32a9d64386347ab6",
+    "time-probe-p-zero.exit": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa",
+    "time-probe-p-nonzero.log": "ac148848dd5934439bb7dabf6eae3bce3ec40974ded29a3d32a9d64386347ab6",
+    "time-probe-p-nonzero.exit": "10159baf262b43a92d95db59dae1f72c645127301661e0a3ce4e38b295a97c58",
+    "README.md": "01eebdc30066f7a13a9e38c26f4295505d8348d94c2c68728c59d3a3dd314abc"
+  }
+}

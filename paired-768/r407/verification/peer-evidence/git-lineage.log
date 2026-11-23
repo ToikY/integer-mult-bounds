@@ -1,0 +1,6 @@
+510113821774bb27f7ddaad4e8b94837a1c2cf52 2c4ad5e1b3e522bce2e8e2bca6d85a478fd21493 Bound all scalar encodings in the 25-bit installation and test oversize records
+2c4ad5e1b3e522bce2e8e2bca6d85a478fd21493 80f22cbcd103664e2018fe0b3e215134d6c4dd3d Align registered scope timeouts with measured 25-bit replay durations
+80f22cbcd103664e2018fe0b3e215134d6c4dd3d 0618e75a22cec54d1651394ef83d088551b7f026 Install conditional kappa 0.00389846 with a charged 25-bit native setup
+0618e75a22cec54d1651394ef83d088551b7f026 e54523517d0f03e58352e647c403a5af3e525a57 Reuse the #7257 selected-CI guide and historical snapshot repair
+e54523517d0f03e58352e647c403a5af3e525a57 f16923d466a6aba912299882e0545564d2ba7bb2 Admit conditional frontier 7000 with complete source application audit [skip ci]
+f16923d466a6aba912299882e0545564d2ba7bb2 17469fff78c22941280f04d39dc5a1faee09c840 Review PR7000 admission gaps and repair paired BIT ambient bound [skip ci]

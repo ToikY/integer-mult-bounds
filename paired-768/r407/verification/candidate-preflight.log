@@ -1,0 +1,4 @@
+PASS_RESEARCH_COMMIT_BYTES {"commit": "aea1699415250d865f7a635f4df0b76f406c47b4", "files": 30, "package": "research/p104-period-debit-25bit", "executable_modes_checked": true, "source_history_commits": ["0618e75a22cec54d1651394ef83d088551b7f026"]}
+PASS_PACKAGE_METADATA_AND_PINS (not a mathematical acceptance check)
+Planning includes 4547 unchanged sparse manifests from HEAD; materialize packages and inputs before replay.
+{"include": [{"packages": ["research/historical-selected-replay-gap", "research/p104-period-debit-25bit"]}]}

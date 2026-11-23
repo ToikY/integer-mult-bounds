@@ -1,0 +1,18 @@
+{
+  "head": "aea1699415250d865f7a635f4df0b76f406c47b4",
+  "exit_code": 124,
+  "scope": "disk reserve guard interrupted the replay",
+  "wall_seconds_over_observer": 177.13,
+  "minimum_sampled_disk_free_bytes": 7852040192,
+  "clean_detached_after": true,
+  "command": [
+    "python3.12",
+    "-IB",
+    "scripts/research_package.py",
+    "--package",
+    "research/p104-period-debit-25bit"
+  ],
+  "raw_log_sha256": "caa3088deebc46321c920e3d639563b09c4ef8506916f34ce5fabe6bc26306c5",
+  "start_utc": "2026-11-23T05:52:58Z",
+  "end_utc": "2026-11-23T05:55:55Z"
+}
