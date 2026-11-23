@@ -1,0 +1,144 @@
+{
+  "adjacent_integer_proof": {
+    "minimum_distinct_integer_tangent_loss": "3469713711272289/133465019528083668992000000000",
+    "relaxed_rate": "8548192946934630264267819/2192848398250409984000000000",
+    "rounding_loss": "439805058194123/66920422309888000000000000000000000000",
+    "slopes": [
+      "1/4194304000000",
+      "1/3884343300250",
+      "1/274877906944"
+    ]
+  },
+  "candidate_fixed_and_capped_family_ceiling": "523209464347189355219919950737/134217728000000000000000000000000",
+  "candidate_kappa": "487276785399/125000000000000",
+  "complete_invoice": {
+    "activation_exponent": 1148553,
+    "activation_offset": 4,
+    "binary_clock": 210281408,
+    "entry_clock_before_premium": 125660241,
+    "entry_premium": 515,
+    "family_stage_count_total": 7,
+    "final_recurring_clock": 318292011,
+    "fixed_setup_exponent_bound": 228,
+    "gaussian_clock": 108009000,
+    "gaussian_funding_height": 490950,
+    "height_descriptor_bits": 20,
+    "largest_axis_width": 715827883,
+    "log2_axis_count": 1148521,
+    "minimum_width_at_activation": 588060928,
+    "ordinary_standalone_funding_height": 517115,
+    "private_scalar_clock_upper": 734185088650,
+    "signed_margins": [
+      {
+        "functional_count": 4,
+        "minimum_functional": "3/1000000000000000000",
+        "minimum_strict": "1/10000000000000000000",
+        "paid_margin": "1098935360482160957159/3355443200000000000000000",
+        "strict_count": 54
+      },
+      {
+        "functional_count": 4,
+        "minimum_functional": "3/1000000000000000000",
+        "minimum_strict": "1/10000000000000000000",
+        "paid_margin": "1960615690030621/32947096780800000000000000000",
+        "strict_count": 54
+      }
+    ],
+    "stage_cuts": [
+      8290,
+      133003,
+      657355
+    ],
+    "stock": {
+      "absolute_log2_private_control_envelope": 536870915,
+      "binary_cuts": [
+        8290,
+        133003,
+        657355
+      ],
+      "first_public_offset": 4,
+      "initial_s": 1148554,
+      "public_exponent_A": 1148553,
+      "retimed_all_size_margin_floor": 554359,
+      "retimed_first_stripe_margin": 572223,
+      "stage_and_outer_fixed_log_overhead": 1968,
+      "storage_upper": "6.2 p T < 297.6 n bits"
+    }
+  },
+  "gain_above_prior_booking": "79971/500000000000000",
+  "gain_above_prior_ceiling": "263176469852170186999/1646311296204800000000000000000",
+  "gaussian_height_range": [
+    1024,
+    524288
+  ],
+  "higher_gaussian_ordinary_shortfall": "47205867732215147631/134217728000000000000000000000000",
+  "lower_adjacent": {
+    "complete_clock": 318291791,
+    "gaussian": "8417088742419431/2159216536579997696",
+    "gaussian_height": 490949,
+    "heights": [
+      8192,
+      124649,
+      524288
+    ],
+    "ordinary": "523209464347190026308559950737/134217728000000000000000000000000",
+    "ordinary_stages": [
+      "3718459644522841499/1000000000000000000000",
+      "1944587635478559863/500000000000000000000",
+      "523209464347190026308559950737/134217728000000000000000000000000"
+    ]
+  },
+  "lower_crossing_gaussian_shortfall": "748511018188731709/1647351483596800000000000000000",
+  "negative_integer_proof": {
+    "minimum_distinct_integer_tangent_loss": "54225177682329/2085357470049370112000000000",
+    "relaxed_rate": "1068515546006538046234311/274103850758045696000000000",
+    "rounding_loss": "43201499001319/8364985679872000000000000000000000000",
+    "slopes": [
+      "1/4194304000000",
+      "1/3884280976000",
+      "1/274877906944"
+    ]
+  },
+  "new_budgeted_negative": {
+    "complete_clock": 318291911,
+    "gaussian": "8417123033694045/2159225332673019904",
+    "gaussian_height": 490951,
+    "heights": [
+      8192,
+      124648,
+      524288
+    ],
+    "ordinary": "523209464299973631132424852369/134217728000000000000000000000000",
+    "ordinary_stages": [
+      "3718459644522841499/1000000000000000000000",
+      "3889175183009730287/1000000000000000000000",
+      "523209464299973631132424852369/134217728000000000000000000000000"
+    ]
+  },
+  "old_gaussian_height_shortfall": "263176469852170186999/1646311296204800000000000000000",
+  "ordinary_height_range": [
+    8192,
+    524288
+  ],
+  "prior_fixed_profile_ceiling": "6417673946269416969859534601/1646311296204800000000000000000",
+  "prior_head": "9555f2df027f4a182722f736c97e5efafa5382c6",
+  "same_ceiling_at_installed_cap": 318292011,
+  "slack_below_new_ceiling": "10527443919950737/134217728000000000000000000000000",
+  "terminal_three_stage_cap": 318292071,
+  "upper_adjacent": {
+    "complete_clock": 318292011,
+    "gaussian": "4208552944028369/1079610467313254400",
+    "gaussian_height": 490950,
+    "heights": [
+      8192,
+      124649,
+      524288
+    ],
+    "ordinary": "523209464347190026308559950737/134217728000000000000000000000000",
+    "ordinary_stages": [
+      "3718459644522841499/1000000000000000000000",
+      "1944587635478559863/500000000000000000000",
+      "523209464347190026308559950737/134217728000000000000000000000000"
+    ]
+  }
+}
