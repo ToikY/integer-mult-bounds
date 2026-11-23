@@ -1,0 +1,9 @@
+{
+  "scope": "Source-bound selector registration and wrong-scalar control; no census",
+  "installation_sha256": "c5d83f8c6acdab6828185bc6bb67537cf320ba79ab177f9da535edae7b5af72e",
+  "old_comparator_selectors": [
+    "peer",
+    "candidate"
+  ],
+  "negative_selector_rejected": true
+}

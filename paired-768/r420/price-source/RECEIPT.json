@@ -1,0 +1,22 @@
+{
+  "scope": "Literal 112-bit and 192-bit price slices with retained receipt inputs. No installed replay.",
+  "upstream_positive_envelope_reproduced": true,
+  "next_lower_debit_refused": true,
+  "prepared_inputs": {
+    "positive_debit.py": "32ee6a20e8f7fe6e2d1a3852b232179b0c6736c816f5bfd7bd9ec62cbffa9eb8",
+    "receipt.py": "5d647aea991322addecbbb68565f20cf585badc3dadc82e392ce2feb86986c62",
+    "independent_price.py": "f7e9c7f697c8af121bdaa7a8dffed21bb86f077a76d12cfc660b79c64d7df39d"
+  },
+  "transformed_sources": {
+    "positive_debit.py": "89e715555dee209867b45b0a763f207dd0a479f8bc9fbf542b73fa4048415def",
+    "receipt.py": "3aca2167fbc5995cb3d928d0f08e087be0dfa4019dd689538d1e101366118b5e",
+    "independent_price.py": "267fdaa92130165bd42c716a6579c3c25ea7424be654118d2a386ce6f1676b6e"
+  },
+  "four_aligned_factor": "257/256",
+  "positive_debit": "1039701/8388608",
+  "same_profile_rate": "121901791/31250000000",
+  "minimum_funding_heights": [
+    134136243,
+    208653
+  ]
+}
