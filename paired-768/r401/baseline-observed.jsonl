@@ -1,0 +1,15 @@
+{"marker": "CHECK Check the complete signed price, lower recurring bound, 515-bit entry conversion and true Gaussian placement.", "utc_observed": "2026-11-23T01:27:20.690+00:00", "already_present_at_monitor_start": true}
+{"marker": "PASS_OPTIMAL_ALLOCATION price", "utc_observed": "2026-11-23T01:27:20.690+00:00", "already_present_at_monitor_start": true}
+{"marker": "CHECK Check identical K7 cutoff gallery, actual middle/final seams, exact prior Gaussian exclusion with prior ordinary pass, and genuine signed returns.", "utc_observed": "2026-11-23T01:27:20.690+00:00", "already_present_at_monitor_start": true}
+{"marker": "PASS_OPTIMAL_ALLOCATION calendar", "utc_observed": "2026-11-23T01:27:28.238+00:00", "already_present_at_monitor_start": false}
+{"marker": "CHECK Execute both nonzero signed native jobs and restore all physical owners.", "utc_observed": "2026-11-23T01:27:28.743+00:00", "already_present_at_monitor_start": false}
+{"marker": "PASS_OPTIMAL_ALLOCATION raw", "utc_observed": "2026-11-23T01:27:48.896+00:00", "already_present_at_monitor_start": false}
+{"marker": "CHECK Generate the first exterior births and return all owners through the actual signed words.", "utc_observed": "2026-11-23T01:27:48.896+00:00", "already_present_at_monitor_start": false}
+{"marker": "PASS_OPTIMAL_ALLOCATION exterior", "utc_observed": "2026-11-23T01:28:15.100+00:00", "already_present_at_monitor_start": false}
+{"marker": "CHECK Carry the actual nonzero cross-type nested loan and verify both owner returns.", "utc_observed": "2026-11-23T01:28:15.100+00:00", "already_present_at_monitor_start": false}
+{"marker": "PASS_OPTIMAL_ALLOCATION nested", "utc_observed": "2026-11-23T01:28:42.843+00:00", "already_present_at_monitor_start": false}
+{"marker": "CHECK Execute the exact signed product and independently verify coefficients and restoration.", "utc_observed": "2026-11-23T01:28:42.843+00:00", "already_present_at_monitor_start": false}
+{"marker": "PASS_OPTIMAL_ALLOCATION product", "utc_observed": "2026-11-23T01:30:13.488+00:00", "already_present_at_monitor_start": false}
+{"marker": "CHECK Check canonical serial division, B\u00e9zout, rational arithmetic and the conservative fixed native setup tape bound.", "utc_observed": "2026-11-23T01:30:13.488+00:00", "already_present_at_monitor_start": false}
+{"marker": "PASS_OPTIMAL_ALLOCATION setup", "utc_observed": "2026-11-23T01:30:14.498+00:00", "already_present_at_monitor_start": false}
+{"marker": "PASS_REGISTERED_RESEARCH_PACKAGE research/p104-weighted-optimal-allocation outcome=completed", "utc_observed": "2026-11-23T01:30:14.498+00:00", "already_present_at_monitor_start": false}

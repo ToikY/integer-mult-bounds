@@ -1,0 +1,140 @@
+{
+  "baseline": "2d0d7d378929269b00dcabfac1099b2bb23b3b3b",
+  "baseline_package_pins": {
+    "PEER-SOURCE.json": "798c2e6394c258986484a116198cc542a6d2b4c1f289e5816de2cfecf5141c51",
+    "RESULT.json": "03eb56a8c62976a10cd37718fbb77a849db0620196514a5fb2ae2318de0e450b",
+    "peer8057.tar.gz": "0e0d559bdb15e7b647f88a2b5e27fcdc9e28e81d8f4145459876ba6da2e9314c",
+    "prepare.py": "f45daf92a2459de76a0a091c0fb53fa3c893edd157dd9f7d2d29df1e75f47b57",
+    "verify.py": "a30cf62aa1a9ca1dd25972135a97751c73af12e2de2c3ba64775acb000c51544"
+  },
+  "bound": {
+    "certified_old_kappa": "4872767645879/1250000000000000",
+    "gaussian_ceiling_at_old_crossing": "802250117668522377985432947/205799397785600000000000000000",
+    "gaussian_upper_below_old_crossing": "6417987860265028541722506417/1646391826841600000000000000000",
+    "integer_tangent_gap_before_snap": "83294077649679/3347234102090871603200000000",
+    "old_installed_family_ceiling": "104641888400286240891629336349/26843545600000000000000000000000",
+    "optimistic_ceiling_granting_free_gaussian_and_independent_maximum_ordinary_heights": "26788570720425128635183507/6871947673600000000000000000",
+    "optimistic_complete_ceiling_after_unchanged_interface_repair": "104641888400286240891629336349/26843545600000000000000000000000",
+    "ordinary_ideal_ceiling_at_repair_height": "3344441815324297297052755298429/857942051205939200000000000000000",
+    "raw_paid_moment_saving_if_admitted_at_old_tariff": [
+      "694860942592132251500534062290750707/2596148429267413814265248164610048",
+      "1389721885184264503001068124587428907/5192296858534827628530496329220096"
+    ],
+    "tangent_height_and_clock": [
+      [
+        8192,
+        124847,
+        524288
+      ],
+      490664,
+      318292451
+    ]
+  },
+  "inherited_peer_science": "cbe847a953b971f9c6c5a0a6661e2008acd29086",
+  "installed_source_pins": {
+    "clock_ports.py": "7d67eb9db9c50fec056440ef17acc6566cdcac740f44d74790213a5179d34b1e",
+    "grades.py": "6124744b40f806c80b6f10010a72e755bc11d64a8cc9a04f5e8316799eb6f05d",
+    "raw48.py": "86c30fd4a906830bb6f4b54cdc0be083bd2649bebf68da7383efd7beee223700",
+    "typed_raw.py": "0c268432c9d48798c17d927f2d900b5e69dfc6585166cd71f253913e389c3b47",
+    "typed_transport.py": "b76b9ad3dc0dd91473026c079585f830387eaa3c34c25a7820ee5057d5cbf941"
+  },
+  "occurrence": {
+    "actual_calendar_negative": "A physical funding edge fails strict descent",
+    "bound_check": [
+      1120,
+      1032
+    ],
+    "deferred_first_return_rejected_at_clock": 684,
+    "different_owner_tokens": true,
+    "first_intervening_instruction": [
+      "ADD",
+      4080,
+      4081,
+      [
+        "0",
+        "-1/2"
+      ]
+    ],
+    "first_intervening_read": 691,
+    "first_read_actual_field_callbacks": [
+      [
+        691,
+        "scale_add_destination"
+      ]
+    ],
+    "first_return_installed_at_clock": 684,
+    "fixture": {
+      "base_even_columns": 2,
+      "physical_columns": 4,
+      "type": 1
+    },
+    "intervening_second_root_writes": [
+      [
+        696,
+        [
+          "SCALE",
+          4095,
+          [
+            "0",
+            "-1/2"
+          ]
+        ]
+      ],
+      [
+        700,
+        [
+          "ADD",
+          4095,
+          4096,
+          [
+            "0",
+            "-1/2"
+          ]
+        ]
+      ]
+    ],
+    "max_target_grade": 258,
+    "native_tags": [
+      [
+        "IDLE_ONE",
+        684,
+        4080
+      ],
+      [
+        "IDLE_ONE",
+        707,
+        4095
+      ]
+    ],
+    "old_two_request_control": true,
+    "owner_scope": "Trace tracks literal native field binding and read order; no floating phase or arbitrary-state output claim",
+    "paid_ordinals": [
+      0,
+      1
+    ],
+    "physical_ranks": [
+      112,
+      112
+    ],
+    "root_owner_labels": [
+      [
+        "root",
+        "rotated",
+        0,
+        4080,
+        1
+      ],
+      [
+        "root",
+        "rotated",
+        0,
+        4095,
+        1
+      ]
+    ],
+    "second_operand_issued_at_clock": 707,
+    "target_grade_required_for_fused": 280
+  },
+  "scope": "First two existing type-one paid requests, one fused request, unchanged ownership ABI, typed strict-descent calendar and booked stock; exact rollback retains both original timed payments",
+  "status": "EXCLUDED_LITERAL_TWO_REQUEST_FUSION"
+}
