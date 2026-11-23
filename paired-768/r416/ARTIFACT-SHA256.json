@@ -1,0 +1,19 @@
+{
+  "CLOSEOUT.md": "7a8895c6b4c6a3b489506158722ccb7bf94c095588e64da156274afff28152df",
+  "RESTART.md": "840f67735a8437f2d4dd97b1a596f23d183980ff532eab813dc57308ea5545fa",
+  "ROUND-PLAN.md": "c0aea68519da535bb86ee11de53759f7e4d0cc87bcc4803ceac4ac21b5747d9b",
+  "setup/CENSUS-PREFLIGHT.json": "a10158e30d3b5163e04da66d8ea7d8d154485939fa867b70871b0ffa1b231a57",
+  "setup/LEGACY-SERIAL-ARITHMETIC.json": "b353975a58ddb475b846ab5e024f9666c0effc5f071f00bab699cc8da4c1a7bb",
+  "setup/README.md": "25fb4e973e19674808f24e165747516e6c878ce369caf105bb1d3a6ae394b107",
+  "setup/RECEIPT.json": "dce20236c3b5a04bd2ac9cc8fcc2c8d1530dba2b3343e75a1faef8ed08a47eca",
+  "setup/check.py": "709f77d2869a072b5215248af4eeffab06ca7c55a7b8d290052720bb4bb47bb3",
+  "setup/check_installed.py": "e16fac0f9a91930575d4f11d50e4e26b357d2dcb0992470a679f6501904629e4",
+  "setup/exit.txt": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa",
+  "setup/time.txt": "367cf1b58feca3a874bc3c2b4e79044055c876bdee7242b5dabe89b36341ab7c",
+  "signed/README.md": "63f7c75854d05a50ddf04f76bc5954f7fbe47b354ec1347236960d451405e445",
+  "signed/RECEIPT.json": "316bb1a57ea8aa87fb2b565a4899c9b0b5a64ff1513c89e14a19d83ecd58e8e1",
+  "signed/check.py": "befc9fb22e975d3fcf6103b64bfd553996686394a334bd05f9e96732c4a09cb3",
+  "signed/exit.txt": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa",
+  "signed/independent.time": "5c0035a5f36fff34608ff55be65c18d383bd5f8d7d3324140d333f2aeb721f37",
+  "signed/time.txt": "7321d568571e788d4f03fad6122575a3b9158d583c696bd44da4b1e9ba5f4055"
+}

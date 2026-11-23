@@ -1,0 +1,20 @@
+{
+  "scope": "Source pins and constructed scalar guard controls only; no production census",
+  "selectors_checked": 2,
+  "receipt_keys": [
+    "archived_source_sha256",
+    "expanded",
+    "head",
+    "installation_sha256",
+    "legacy",
+    "nine_recipe_action_allowance",
+    "nominal_exponent_cap",
+    "package_sha256",
+    "profiles",
+    "remaining_slack",
+    "scope",
+    "stale_lookup_only"
+  ],
+  "oversized_stop_rejected_for_both": true,
+  "expanded_transition_upper": 217364571993743287866367176320080817069553173293686105666269057384448
+}

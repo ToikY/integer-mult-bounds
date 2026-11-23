@@ -1,0 +1,112 @@
+{
+  "head": "c20a08dc0a79a989e3515068560d5da371c0a2a8",
+  "package_sha256": {
+    "peer8057.tar.gz": "0e0d559bdb15e7b647f88a2b5e27fcdc9e28e81d8f4145459876ba6da2e9314c",
+    "prepare.py": "bc401e5c47d275617f3c7d162d56ea4c604ef3d4c6637ab2a8aa8627a570a9f6",
+    "RESULT.json": "915e124475494b08e786eb433e6591d85f2bdedebd624a45b49504c63bbb30e6"
+  },
+  "installation_sha256": {
+    "peer": "5b31cca69a8f10c78152ae030ae7c7ab156d22feec83347b887aa3fe78098ee7",
+    "candidate": "37460b2be0a93ecfe110be25de5a4ea787c2d09973f926f680ea148453dc89e2"
+  },
+  "archived_source_sha256": {
+    "research/tiered-native-multiplier/check_serial_setup.py": "11d1c3209cb523a360ab9abaefb3122507fdf5cb469169890fe2dac636812c47",
+    "research/tiered-native-multiplier/installations.py": "1c6978b8c7d136ef87191512d9ab9eb3dda8a818844244b96cb165d46d97b1df",
+    "research/frequency-weighted-native-multiplier/portable/compiler_state.py": "11f371903410a53aa138bb9b9c49e9441393a34092fff922716a78b5521e1870"
+  },
+  "profiles": {
+    "peer": {
+      "ordinary_H": [
+        3000,
+        3080,
+        31808,
+        502922,
+        7951907,
+        125730703,
+        134217727
+      ],
+      "gaussian_H": [
+        1024,
+        208653
+      ],
+      "maximum_92H_plus_one_bits": 12348030885,
+      "maximum_control_exponent": 137438952451,
+      "gaussian_carrier_bits_per_profile": [
+        1025,
+        208654
+      ],
+      "profile_scalar_bits": {
+        "entry": [
+          7,
+          15,
+          6,
+          14,
+          60
+        ],
+        "terminal": [
+          41,
+          49,
+          1,
+          9,
+          60
+        ]
+      }
+    },
+    "candidate": {
+      "ordinary_H": [
+        3000,
+        3080,
+        31808,
+        502922,
+        7951907,
+        125730703,
+        134217727
+      ],
+      "gaussian_H": [
+        1024,
+        208653
+      ],
+      "maximum_92H_plus_one_bits": 12348030885,
+      "maximum_control_exponent": 137438952451,
+      "gaussian_carrier_bits_per_profile": [
+        1025,
+        208654
+      ],
+      "profile_scalar_bits": {
+        "entry": [
+          7,
+          15,
+          6,
+          14,
+          60
+        ],
+        "terminal": [
+          37,
+          45,
+          1,
+          9,
+          60
+        ]
+      }
+    }
+  },
+  "nine_recipe_action_allowance": 137589952512,
+  "legacy": {
+    "actions": 295147905179352825856,
+    "w": 274877906944,
+    "lookup": 170141183460469231731687303715884105728,
+    "scalar": 297105609434291902295870930944,
+    "total": 217364570380528137475793294892811967875864032914108887556978854854656
+  },
+  "expanded": {
+    "actions": 295147906278864453632,
+    "w": 274877906944,
+    "lookup": 170141184094294531845802004464235708416,
+    "scalar": 297105609434291902295870930944,
+    "total": 217364571993743287866367176320080817069553173293686105666269057384448
+  },
+  "stale_lookup_only": 217364571190274262743716685292688335482457826921929987660068646027264,
+  "nominal_exponent_cap": 228,
+  "remaining_slack": 213994574680666948848305065072233273708641137466963054031388706603008,
+  "scope": "Pinned scalar declaration and action-bound arithmetic; fixed compiler census unrun."
+}

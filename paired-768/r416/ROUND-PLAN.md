@@ -1,0 +1,7 @@
+# Round 416 plan
+
+The requested pause at Round 415 was fulfilled. The fresh active status resumes this objective without a new stop boundary. Round 415 advanced the goal by assembling and independently checking one source candidate. Recheck actual running jobs, the canonical frontier and 8 GiB capacity before any launch.
+
+Pin #8089 exact 39a03a1317b6d066c76f7fea6a5fcbbcd10cf738 as the strongest completed hosted comparable profile. Keep #8087 as the campaign cold witness and #8094 exact c20a08dc0a79a989e3515068560d5da371c0a2a8 as the stronger pending profile. The single candidate stays the lower ordinary tariff at the fixed #8094 height and projected κ 0.003900857269150. Do not use a new numerical booking to bypass its installed comparison.
+
+Round decision: resolve the exact fixed-setup accounting and prepare its nine-recipe physical census. Test one source and both pinned installation selectors, at most four minutes of source proof and one minute of source-only checks inside an eight-minute round. Spend the final quarter on verification and sealing. Stop if the expanded integer charge fails the cap or if the installed setup path lacks a traceable source preimage. A prospective installed census remains unrun while admission is below the required reserve. A separate one-interface signed-relay check may run source-only in parallel. No new paid-profile search, concurrent substantial run or publication of an unverified κ gain.

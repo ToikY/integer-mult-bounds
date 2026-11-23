@@ -1,0 +1,11 @@
+{
+  "integer_pairs": 4071,
+  "rational_cases": 7396,
+  "max_datum_bits": 274877906944,
+  "lookup": 170141183460469231731687303715884105728,
+  "local_arithmetic": 297105609434291902295870930944,
+  "all_setup": 217364570380528137475793294892811967875864032914108887556978854854656,
+  "setup_exponent": 228,
+  "wall_seconds": 0.6989419162273407,
+  "scope": "Primitive serial arithmetic and original counter only; no installation"
+}
