@@ -1,0 +1,26 @@
+2026-11-23T22:54:57Z
+Python 3.12.14
+c20a08dc0a79a989e3515068560d5da371c0a2a8
+0f702e9a2275bc2678f33fc178ed9a8c072d907e
+Filesystem   1024-blocks      Used Available Capacity iused     ifree %iused  Mounted on
+/dev/disk3s5   239362496 137776412  42003260    77% 2744255 420032600    1%   /System/Volumes/Data
+/dev/disk3s5   239362496 137776412  42003260    77% 2744255 420032600    1%   /System/Volumes/Data
+e1256016e7f51827d04fa2179255989f639ae1d97afaa9c16265f85a0c6abd70  scripts/research_package.py
+c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4  research/p104-shortcut-word-eta-27bit-5stage/LICENSE
+9bb1b93c10f93bc4d5c6cf7e0e9a25e91c0bb260a1224a536420d0c145ef58d6  research/p104-shortcut-word-eta-27bit-5stage/NOTICE.md
+798c2e6394c258986484a116198cc542a6d2b4c1f289e5816de2cfecf5141c51  research/p104-shortcut-word-eta-27bit-5stage/PEER-SOURCE.json
+b470831617155e1818b2c2d9340f39ccd88fcc8dedd2177e6bcfbe25f949fd83  research/p104-shortcut-word-eta-27bit-5stage/PROOF.md
+f2c9f0328c6263559e833dda4611d3225567dab7441f5082bc0074fd4dccacf2  research/p104-shortcut-word-eta-27bit-5stage/README.md
+915e124475494b08e786eb433e6591d85f2bdedebd624a45b49504c63bbb30e6  research/p104-shortcut-word-eta-27bit-5stage/RESULT.json
+8551f7e25bb731d6e41b9e22013d4319cd079005aeb3d0a5866cb4b4911b45cf  research/p104-shortcut-word-eta-27bit-5stage/SETUP-27BIT.md
+b3197501bae90ec16c4d99c186e74dfe28e0f5f730e6b8bb94e2d0ce78bcf69c  research/p104-shortcut-word-eta-27bit-5stage/SOURCES.json
+430a58bf48d715a5cbb2c23ffdba1854b1d81b1b9d26b6a4b62aeab6d5587450  research/p104-shortcut-word-eta-27bit-5stage/TASK.json
+bfb5e28ca4cd85c8acda2bd5c31a31be05ddd8d47b7d1ca7217c9972f91c29a7  research/p104-shortcut-word-eta-27bit-5stage/VERIFY.json
+a26eeb23591197b94f98a30d43474ffb90c1c4816db5b5ccc243eb3692b95795  research/p104-shortcut-word-eta-27bit-5stage/check_cutoff.py
+d66db3d6d01259216fc1823be7066e676541d820ea8a96a4c513a635e91eb244  research/p104-shortcut-word-eta-27bit-5stage/check_ordinary_floor.py
+b790eb6855afa255a609eaaf88a46ed9e8b04232671cca4d0f8bd0bad27f11ac  research/p104-shortcut-word-eta-27bit-5stage/check_stage_seam.py
+0e0d559bdb15e7b647f88a2b5e27fcdc9e28e81d8f4145459876ba6da2e9314c  research/p104-shortcut-word-eta-27bit-5stage/peer8057.tar.gz
+bc401e5c47d275617f3c7d162d56ea4c604ef3d4c6637ab2a8aa8627a570a9f6  research/p104-shortcut-word-eta-27bit-5stage/prepare.py
+705dd39399f315f053c23db76680816fa4e9d5da505b623dba0a27d6a0be2a12  research/p104-shortcut-word-eta-27bit-5stage/verify.py
+6ef741c346ea075c4f2ed11f9d42d7076103e72d4a9e5059d495f1cb990fd149  research/p104-shortcut-word-eta-27bit-5stage/w5669_shortcut5.json.gz
+python3.12 -IB scripts/research_package.py --package research/p104-shortcut-word-eta-27bit-5stage

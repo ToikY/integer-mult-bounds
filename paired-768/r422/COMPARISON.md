@@ -1,0 +1,54 @@
+# Round 422 independent fixed-profile comparison audit
+
+Scope is a read-only source and rational comparison. An independent rational readback of the exact peer result and pinned Round 419 receipt reconstructed all four crossings, both negative rate controls, activation, recurring cost, expanded setup and the two local factor inequalities. It exited 0 with `PASS_EXACT_COMPARISON source-only`. No native installer was invoked for this audit.
+
+## Exact inputs and comparable premises
+
+- [#8094](https://github.com/CrocSwap/integer-mult-bounds/pull/8094) sparse checkout resolves to `c20a08dc0a79a989e3515068560d5da371c0a2a8` with clean status. Its `RESULT.json` hashes to `915e124475494b08e786eb433e6591d85f2bdedebd624a45b49504c63bbb30e6`, matching the preimages of the Round 411, 416 and 419 checks. Read the installed profile from the literal `prepare.py`, `RESULT.json`, `check_stage_seam.py`, `SETUP-27BIT.md` and `VERIFY.json`. The branch's top-level README, PROOF and TASK inside this package still describe the earlier K7 floor-retune package and mix old rates, heights and debit. That metadata cannot serve as the exact #8094 claim or as candidate proof.
+- [Frozen Round 420 source and assembly](https://github.com/ToikY/integer-mult-bounds/blob/a5d5fd437a3bb3d0a78f3fb4f6412db8a04bb42a/paired-768/r420/RESTART.md) authenticates this exact peer, the #8057 archive, and the corrected Round 415 tariff preimage. The bound outside the preparatory source still awaits execution. The pinned candidate installation selector SHA-256 is `c5d83f8c6acdab6828185bc6bb67537cf320ba79ab177f9da535edae7b5af72e`. The corresponding exact #8094 selector image is `5b31cca69a8f10c78152ae030ae7c7ab156d22feec83347b887aa3fe78098ee7`.
+- The same conditional machine model and five retained research premises apply at the source level. These cover all-column native operators, owned erasure, uniform mixed compilation, fixed-tape precision and movement, and analytic recovery. The physical K7 binary word, five-shortcut complex word, 5/451 typed weights and calendars, root phases, same-stage and earlier-service receiver, and signed outer caller are inherited from the same bytes and patch chain. There is no new input, provided helper, ghost owner, shortened return, or altered provider interface. The public input remains two signed binary magnitudes, including zero and exceptional sizes. The full scan charges declared size when required. Both forward conversions, pointwise multiplication, inverse recovery, rounding, carry and input-head restoration stay within the inherited contract. No finite Python scope discharges the five all-size premises. The inherited all-size statement counts individual fixed-machine tape transitions, with finite additive setup and the charged low-size branch.
+
+## Binding inequalities
+
+For each ordinary height H, with ordinary debit d, compute `u = min(η, (249*(BINARY_C-d/H)+r)/250)` starting at r = 0. At each interior stage set r to `(floor(10^21*u)-1)/10^21`. At the final stage u is the available rate. Subtract `5/10^18` for the signed guard. The Gaussian guarded ceiling likewise equals `GAUSSIAN_C - D/G - 5/10^18`. Use `BINARY_C = 4391986206293/2^50`, `GAUSSIAN_C = 17158764376/2^42`, terminal η = 1/256, and G = 208653. The 249/250 recurrence weight is separate from the same-stage contraction.
+
+| Fixed-profile comparison | Ordinary ceiling, decimal display | Gaussian ceiling, decimal display | Binding |
+| --- | ---: | ---: | --- |
+| #8094 original price | 0.003900857267786322322 | 0.003900857269150954841 | Ordinary |
+| Round 415 ordinary tariff and original Gaussian debit | 0.003900857312674217047 | 0.003900857269150954841 | Gaussian |
+| Round 420 ordinary tariff and sharpened Gaussian debit | 0.003900857312674217047 | 0.003900857312000550659 | Gaussian |
+
+The #8094 ordinary crossing is exactly `70271596826947689616436948507028761711/18014398375264256000000000000000000000000`. The stopped Round 420 booking `0.003900857312000` clears that entire old crossing by `796482803333402923492971238289/18014398375264256000000000000000000000000`. It also clears the Round 415 Gaussian crossing. The new binding ceiling is exactly `113795043963992926650746873/29171803750400000000000000000`, with margin `16063725946873/29171803750400000000000000000` above the booked candidate, about 5.50659e-16. The exact ordinary margin is `12145614473425912940945878127/18014398375264256000000000000000000000000`, about 6.74217e-13. The adjacent higher 1e-15 booking and a Gaussian height of 208652 fail. The two changes are both needed for the proposed rate at these heights. The period improvement by itself would still leave the #8094 ordinary crossing in place.
+
+The projected gain over #8094's exact reported `0.003900857267786` is `22107/500000000000000` or `0.000000000044214`. The projected percentage gain is exactly `2210700/1950428633893` percent and displays as **+0.000001133443163%**. The gap over the Round 415 projection is exactly `857/20000000000000`. These are projections until independent installed replay.
+
+## Why the two prices compose
+
+The ordinary supplier retains floor 4474, suffix 186/25 and the existing locally justified removal of the ordinary 256/255 reserve. The exact direct path has one same-stage child. The unchanged quotient path calls all disjoint equal-volume canonical lows, including the basis and return work, with child mean bounded by `(21*x+3)/(9*x-1)` for `x=3^(N-2)`. At each installed rank N≥9 this mean is at most `2390/1024`. Both inherited width moments apply the same floor(c/N) bound. The price buys the `2391/1024` tariff, yielding contraction `2390/2391` and sum 2391. The old `75/32` mean fails at the new tariff, so the sharp mean is necessary. The original earlier-service, basis, restoration and movement bill still applies. Independent directed checks hold the ordinary debit at `1414404/2^20`, 6314 ticks below #8094's `1420718/2^20`, and reject the next lower debit. The existing recurring clock charges the geometric sum, with the entry square envelope below `2^22` and the stage allowance already sufficient. [Direct and quotient source trace](https://github.com/ToikY/integer-mult-bounds/blob/a5d5fd437a3bb3d0a78f3fb4f6412db8a04bb42a/paired-768/r414/proof-first/README.md)
+
+The Gaussian supplier keeps the literal exterior size `s=(e-8)k`, upper band `U=2 floor(M/(2S))`, S = 263772 and k≤258. It emits the four-aligned period `4 ceil(M/(4s))` and pays for the corresponding complete cycles. Hence x = M/(4s) ≥ 21981/86 > 255. For x≤256, `ceil(x)/x ≤ 256/(21981/86) < 257/256`. For x>256 take `m=ceil(x)-1≥256`. Then `ceil(x)/x < (m+1)/m ≤ 257/256`. This proof replacement sharpens the original 22067/21981 multiplier for both types. It retains the other finite factors, band endpoints, phases, tape and owner routes. Directed 112- and 192-bit checks accept `1039701/2^23`, reject the adjacent lower grid debit, and reject billing the old period at the new debit. The new debit is 75 ticks below #8094's on the same grid. [Round 419 fixed-profile control](https://github.com/ToikY/integer-mult-bounds/blob/a5d5fd437a3bb3d0a78f3fb4f6412db8a04bb42a/paired-768/r419/binding/README.md) · [Round 420 changed price code](https://github.com/ToikY/integer-mult-bounds/blob/a5d5fd437a3bb3d0a78f3fb4f6412db8a04bb42a/paired-768/r420/price-source/README.md)
+
+The ordinary bound changes the size of the same-stage child bill with no dependency on Gaussian period choices. The Gaussian change reduces only the bound on rounding of the existing typed period, without changing an ordinary child or any receiver, including mixed nesting. The revised incoming charges meet the same signed inequalities independently through `qualify`: 54 strict and four functional inequalities per tier. The only selector change after the frozen ordinary tariff stage is the exact terminal scalar. That establishes source-level compatibility for the complete source invoice and leaves physical replay as the next gate.
+
+## All-size and fixed setup comparison
+
+| Quantity | Exact #8094 and projected Round 420 |
+| --- | --- |
+| Entry ordinary H and Gaussian G | (3000, 3080), 1024 |
+| Terminal ordinary H and Gaussian G | (31808, 502922, 7951907, 125730703, 134217727), 208653 |
+| Entry κ and η | 0.00345 and 39/10000 |
+| Terminal η, guard and first header | 1/256, `1/10^18` and `2^268644472+2` |
+| Terminal cuts | (32000, 534986, 8486957, 134217724, 268435515) |
+| Entry and terminal log₂ C before selector | 125660246 and 85945126845 |
+| Entry rate conversion, selector overhead | 121121 bits, 1 bit |
+| Complete recurring log₂ C | 85945126846 |
+| Inherited live-data ceiling | 6.2 p T < 297.6 n bits |
+| Conservative fixed setup ceiling | 2^228 |
+
+The printed #8094 exact setup total in RESULT is the old n = 2^68 instance. Its written nine-recipe argument instead charges n = 2^68 + 2^40. The candidate numerical receipt source uses the expanded n in both lookup and total-action count. The exact expanded bound `217364571993743287866367176320080817069553173293686105666269057384448` is below `2^228`. Both recipes use the same nine recipe heights and 137589952512 structural action allowance. The different serialized terminal scalar still fits the same setup encoding envelope. This is an accounting correction to the fixed charge without changing κ or the coarse setup cap. The installed constructor and directory census are distinct from reproducing the arithmetic or #8094's original registered setup mode. [#8094 written setup scope](https://github.com/CrocSwap/integer-mult-bounds/blob/c20a08dc0a79a989e3515068560d5da371c0a2a8/research/p104-shortcut-word-eta-27bit-5stage/SETUP-27BIT.md)
+
+## Evidence still required
+
+The corrected independent #8094 launch had completed price and calendar and begun the raw stage at the last readback. A comparator promotion still requires all remaining exact original stages to exit successfully. The candidate source assembly matched the frozen receipt, but its cold installed price, authenticated RESULT, real rank-five dirty forward and adjoint, typed helper-173 returns at both widths, actual nine-recipe setup, calendar, raw/exterior/nested, and complete independently checked signed product remained unrun at this readback. A verified submission must separate the registered candidate scientific replay from the historical metadata and keep existing predecessor and failure controls. Unrun or capped scopes remain unresolved. Recheck exact live peer claims and overlap after the source freezes and before submission.
+
+Credit floration's #8094 profile and short-cut word, Ali Romman's #8057 signed producer and #8042 exact quotient bound, SYLforge's K7 source, the #8085 exterior-period proof, and the Round 414 tariff, Round 417 setup and Round 419 exact comparison evidence. OpenAI Codex assisted with the source inspection and arithmetic.
