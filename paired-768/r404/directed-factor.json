@@ -1,0 +1,8 @@
+{
+  "factor_lower": "516103445006462057/200000000000000000",
+  "factor_upper": "2580517225032310287/1000000000000000000",
+  "booking_grid": 8192,
+  "last_supported_booking": 11204,
+  "rejected_adjacent_booking": 11203,
+  "old_suffix_envelope_rejects_new_booking": true
+}
