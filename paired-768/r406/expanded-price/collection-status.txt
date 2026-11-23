@@ -1,0 +1,4 @@
+first outer shell exit: 1 (post-process status assignment used a reserved zsh variable)
+first Python child exit: unrecorded
+terminal JSON and timer: complete, no Python traceback or additional stderr
+quantitative scope: 15 exact price evaluations, 0.12 s of 30 s

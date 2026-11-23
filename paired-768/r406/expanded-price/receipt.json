@@ -1,0 +1,71 @@
+{
+  "activation": [
+    1601995,
+    4
+  ],
+  "binary_cuts": [
+    8290,
+    44384,
+    614134
+  ],
+  "entry_conversion": 719,
+  "entry_log2_c": 125660258,
+  "exact_percent_delta": "578741/19491700000",
+  "exact_trial_delta": "578741/500000000000000",
+  "fixed_setup_log2": 228,
+  "gaussian_debit": "64939/524288",
+  "gaussian_height": 987613,
+  "geometric_ratio": "1539316278887/1539326345216",
+  "geometric_series": "1539326345216/10066329",
+  "lower_crossing_G": 987613,
+  "max_height_increase": 9031,
+  "ordinary_debit": "695/512",
+  "ordinary_first_two_rates": [
+    "3720225789752181099/1000000000000000000000",
+    "3862620733252277247/1000000000000000000000"
+  ],
+  "ordinary_heights": [
+    8192,
+    36030,
+    569686
+  ],
+  "peer_head": "b72d3fa097d2521939f6b8536029da674648d863",
+  "peer_kappa": "0.00389834",
+  "peer_max_height": 978582,
+  "peer_ordinary_first_two_rates": [
+    "3718459644522841499/1000000000000000000000",
+    "1931205527202788217/500000000000000000000"
+  ],
+  "peer_ordinary_shorter_sum_margin": "2724955107280012401652006427554435277762081864290157805491925654425906479964924431/12532203520000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+  "peer_unchanged_invoice_stopped_ceiling_upper": "6400248450982567016889284269/1641788158771200000000000000000",
+  "price_evaluations": 15,
+  "price_gs": [
+    978582,
+    988017,
+    983299,
+    985658,
+    986837,
+    987427,
+    987722,
+    987574,
+    987648,
+    987611,
+    987629,
+    987620,
+    987615,
+    987613,
+    987614
+  ],
+  "private_log2": 1011315715,
+  "recurring_log2_C": 413727178,
+  "scenario_exact_at_trial_height": true,
+  "scenario_stopped_upper": "12918632163897138429382671467/3313879325081600000000000000000",
+  "status": "EXACT_CHARGED_FEASIBILITY_NOT_A_SIGNED_REPLAY",
+  "terminal_log2_b": 196450715,
+  "trial_excess_above_peer_stopped_ceiling": "1900221794381916834131/1641788158771200000000000000000",
+  "trial_kappa": "0.003898341157482",
+  "trial_strict_gaussian_margin": "2864931282140267/3313879325081600000000000000000",
+  "trial_strict_ordinary_margin": "21247347694276422516222427/38230980296704000000000000000000000000",
+  "upper_crossing_G": 987614,
+  "whole_recurring_cap": 413727211
+}

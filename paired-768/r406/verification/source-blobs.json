@@ -1,0 +1,446 @@
+{
+  "files": {
+    "research/frequency-weighted-native-multiplier/FINITE-LOSS.md": {
+      "mode": "100644",
+      "sha": "433a65a2826c313dadf8f39ac432756523665c99",
+      "size": 8492
+    },
+    "research/frequency-weighted-native-multiplier/GaussianFiniteLoss.lean": {
+      "mode": "100644",
+      "sha": "a819919465c68cf4390939a1373456423c690668",
+      "size": 2135
+    },
+    "research/frequency-weighted-native-multiplier/LICENSE": {
+      "mode": "100644",
+      "sha": "261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64",
+      "size": 11357
+    },
+    "research/frequency-weighted-native-multiplier/MEASUREMENTS.json": {
+      "mode": "100644",
+      "sha": "5ee018968a40f1743ba559dc55b4e73df798fd04",
+      "size": 2146
+    },
+    "research/frequency-weighted-native-multiplier/NOTICE.md": {
+      "mode": "100644",
+      "sha": "0f232c45e7cf6d0abd9900386cac414efc4dc046",
+      "size": 2629
+    },
+    "research/frequency-weighted-native-multiplier/PROOF.md": {
+      "mode": "100644",
+      "sha": "305542103fb9cfb61fe328e35ba52e99a99e246a",
+      "size": 21073
+    },
+    "research/frequency-weighted-native-multiplier/README.md": {
+      "mode": "100644",
+      "sha": "1cd388aa5811eadbcc1e16af197194879d83edd9",
+      "size": 6499
+    },
+    "research/frequency-weighted-native-multiplier/RESULT.json": {
+      "mode": "100644",
+      "sha": "c7ed01eff900b13d3cf70fc9b7c52daad598a41c",
+      "size": 8001
+    },
+    "research/frequency-weighted-native-multiplier/SOURCES.json": {
+      "mode": "100644",
+      "sha": "2edf3073fc3daddcce4ac8e9aff6fd38dcc5aaf0",
+      "size": 9428
+    },
+    "research/frequency-weighted-native-multiplier/TASK.json": {
+      "mode": "100644",
+      "sha": "d8e5e0093e038b07f91328381fce8c6ef687e7e8",
+      "size": 6267
+    },
+    "research/frequency-weighted-native-multiplier/VERIFICATION.md": {
+      "mode": "100644",
+      "sha": "de6f95b9be30d4a456199f8bb272c145cab0750c",
+      "size": 7164
+    },
+    "research/frequency-weighted-native-multiplier/VERIFY.json": {
+      "mode": "100644",
+      "sha": "95b558182be96d007a68475f623a9df2080c9ba5",
+      "size": 2947
+    },
+    "research/frequency-weighted-native-multiplier/WeightedNumerical.lean": {
+      "mode": "100644",
+      "sha": "ad5bdf94012649b96bde787ac99151beccc65f98",
+      "size": 3596
+    },
+    "research/frequency-weighted-native-multiplier/bootstrap.py": {
+      "mode": "100644",
+      "sha": "46de56ff409d025ba1f0cb6fd05ee4fe0cf56f58",
+      "size": 1535
+    },
+    "research/frequency-weighted-native-multiplier/check_calendar.py": {
+      "mode": "100644",
+      "sha": "51f810a105c490417c4af0312239cda8476182eb",
+      "size": 2433
+    },
+    "research/frequency-weighted-native-multiplier/check_exterior.py": {
+      "mode": "100644",
+      "sha": "c96ed69d00fec08ab0143fb4a57e853dbfb5fbe3",
+      "size": 7293
+    },
+    "research/frequency-weighted-native-multiplier/check_lean.py": {
+      "mode": "100644",
+      "sha": "8a3d583dfbc7fb292e39d51da06f9b4c90cbf61c",
+      "size": 1237
+    },
+    "research/frequency-weighted-native-multiplier/check_nested.py": {
+      "mode": "100644",
+      "sha": "c4797dc5dc46869be1c8c475f24c694bed9b1d3f",
+      "size": 9438
+    },
+    "research/frequency-weighted-native-multiplier/check_ownership.py": {
+      "mode": "100644",
+      "sha": "ef51ecfa334303c04d8c75aaf6052f0da12b5716",
+      "size": 5162
+    },
+    "research/frequency-weighted-native-multiplier/check_placement.py": {
+      "mode": "100644",
+      "sha": "08dfdc96bf52c2729932aff51db110f4c7e5f6ba",
+      "size": 2624
+    },
+    "research/frequency-weighted-native-multiplier/check_raw.py": {
+      "mode": "100644",
+      "sha": "959078287d15c52db7c89c9000d30d08589836a9",
+      "size": 3419
+    },
+    "research/frequency-weighted-native-multiplier/grades.py": {
+      "mode": "100644",
+      "sha": "82b8edb65553440e2a7d2083f8397f2b86d8994b",
+      "size": 4485
+    },
+    "research/frequency-weighted-native-multiplier/independent_price.py": {
+      "mode": "100644",
+      "sha": "5bf74e6a6882425ff082abdd31e6704455b59ef8",
+      "size": 3654
+    },
+    "research/frequency-weighted-native-multiplier/measure_setup.py": {
+      "mode": "100644",
+      "sha": "be04fd8b7ca4f01e5ec70a279b4620803999a818",
+      "size": 2190
+    },
+    "research/frequency-weighted-native-multiplier/portable/EVIDENCE.json": {
+      "mode": "100644",
+      "sha": "f956035d24bcc67539400a44268a43f2cdcebef9",
+      "size": 4521
+    },
+    "research/frequency-weighted-native-multiplier/portable/NOTICE.md": {
+      "mode": "100644",
+      "sha": "0e09e92a4e15c9beb6768e10ab7a6b26cf085649",
+      "size": 2001
+    },
+    "research/frequency-weighted-native-multiplier/portable/README.md": {
+      "mode": "100644",
+      "sha": "9106405e5cd1f408cc1b475abbeaebc074a0d9fb",
+      "size": 5919
+    },
+    "research/frequency-weighted-native-multiplier/portable/STACK-LOCALITY.md": {
+      "mode": "100644",
+      "sha": "90da9f1e36ea4fdd92f2cf9aacab4e4f5af075b5",
+      "size": 7449
+    },
+    "research/frequency-weighted-native-multiplier/portable/TRACE-CLOCK.md": {
+      "mode": "100644",
+      "sha": "9d51cde34fcb2eb45fd74f3b8ed9372961e395a9",
+      "size": 16019
+    },
+    "research/frequency-weighted-native-multiplier/portable/bounded_wasi.py": {
+      "mode": "100644",
+      "sha": "bd5f95b5ad13b3ad0341d54fe6beeb190c32cdcb",
+      "size": 9494
+    },
+    "research/frequency-weighted-native-multiplier/portable/compare.py": {
+      "mode": "100644",
+      "sha": "604b1e1d341839bb27aaa61acc20d03541425a46",
+      "size": 2008
+    },
+    "research/frequency-weighted-native-multiplier/portable/compiler_state.py": {
+      "mode": "100644",
+      "sha": "9bda92b8d0743c9584e2667fabcbed7e0996d0a4",
+      "size": 1668
+    },
+    "research/frequency-weighted-native-multiplier/portable/consumer.py": {
+      "mode": "100644",
+      "sha": "ec0eaa8318a47a66d426eec3176c5bcf90752a2a",
+      "size": 2910
+    },
+    "research/frequency-weighted-native-multiplier/portable/fixed_directory.py": {
+      "mode": "100644",
+      "sha": "614fb252d896ec5fb662197bc7efb88715177cdb",
+      "size": 325
+    },
+    "research/frequency-weighted-native-multiplier/portable/guest_opcodes.py": {
+      "mode": "100644",
+      "sha": "f81deff8aaa844cb8e58403719aa155d2a7991d6",
+      "size": 4423
+    },
+    "research/frequency-weighted-native-multiplier/portable/module_census.py": {
+      "mode": "100644",
+      "sha": "97726c78efbc35eacd09388981547aff885b5124",
+      "size": 2361
+    },
+    "research/frequency-weighted-native-multiplier/portable/producer.py": {
+      "mode": "100644",
+      "sha": "4e612d888b27289384c9ea435bfc334850f5bf49",
+      "size": 622
+    },
+    "research/frequency-weighted-native-multiplier/portable/record_census.py": {
+      "mode": "100644",
+      "sha": "71f058910554ba5886629368250f47daf4756130",
+      "size": 2034
+    },
+    "research/frequency-weighted-native-multiplier/portable/run.py": {
+      "mode": "100644",
+      "sha": "e5a917d41feecef317f0de9df3edd77c3a78366c",
+      "size": 9197
+    },
+    "research/frequency-weighted-native-multiplier/portable/signed.py": {
+      "mode": "100644",
+      "sha": "cc0df84109aa772d2f3ea4a094ea3bd525fabbe5",
+      "size": 1187
+    },
+    "research/frequency-weighted-native-multiplier/portable/source_image.py": {
+      "mode": "100644",
+      "sha": "638b591ea9e38215f93269d50512dcaa59d4d950",
+      "size": 6178
+    },
+    "research/frequency-weighted-native-multiplier/portable/tape_directory.py": {
+      "mode": "100644",
+      "sha": "bc50cff23d7719c48d5729a701b5401357431e47",
+      "size": 3613
+    },
+    "research/frequency-weighted-native-multiplier/portable/verify_receipt.py": {
+      "mode": "100644",
+      "sha": "e8be49e1fc1730e402c97fc41edda894e3735a35",
+      "size": 4732
+    },
+    "research/frequency-weighted-native-multiplier/positive_debit.py": {
+      "mode": "100644",
+      "sha": "66daca9a8e7df3c54ece2bd27b8d1a20c800b2c5",
+      "size": 2521
+    },
+    "research/frequency-weighted-native-multiplier/receipt.py": {
+      "mode": "100644",
+      "sha": "6c2b0e918d660a4f1052106458728e4a28ff591d",
+      "size": 10049
+    },
+    "research/frequency-weighted-native-multiplier/runtime.patch": {
+      "mode": "100644",
+      "sha": "e63a600accaff95e466866ce4320ef1f6ac1988d",
+      "size": 3182
+    },
+    "research/frequency-weighted-native-multiplier/typed_raw.py": {
+      "mode": "100644",
+      "sha": "1797e260bbd769e895d7ceea3e0bbd03850189f7",
+      "size": 1522
+    },
+    "research/frequency-weighted-native-multiplier/typed_transport.py": {
+      "mode": "100644",
+      "sha": "c58740b3b08b022f44de6b4a4b7d75032818fb7e",
+      "size": 11376
+    },
+    "research/frequency-weighted-native-multiplier/verify.py": {
+      "mode": "100644",
+      "sha": "9d83c2fcff4bb0b9952fb77df53af822c8f78fa2",
+      "size": 3254
+    },
+    "research/tiered-native-multiplier/CLOCK.md": {
+      "mode": "100644",
+      "sha": "bbd06a788dea4d72ffcf38396d950f54908c95f7",
+      "size": 11748
+    },
+    "research/tiered-native-multiplier/LICENSE": {
+      "mode": "100644",
+      "sha": "261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64",
+      "size": 11357
+    },
+    "research/tiered-native-multiplier/MEASUREMENTS.json": {
+      "mode": "100644",
+      "sha": "b5cf24202593c2a052389955580c88412bd2ef92",
+      "size": 5353
+    },
+    "research/tiered-native-multiplier/NOTICE.md": {
+      "mode": "100644",
+      "sha": "71759b91e8e5ce52ef410f47a6e8b619594c0bbc",
+      "size": 2838
+    },
+    "research/tiered-native-multiplier/NUMERICAL.md": {
+      "mode": "100644",
+      "sha": "e09739d76cc1d39ca17d06519b87d70bfedb1981",
+      "size": 9774
+    },
+    "research/tiered-native-multiplier/README.md": {
+      "mode": "100644",
+      "sha": "694dbf5f3317608f8b4d4fd8beefba933ae68c86",
+      "size": 4433
+    },
+    "research/tiered-native-multiplier/RESULT.json": {
+      "mode": "100644",
+      "sha": "0254672701ac4370de8e1d9ce88ec170b9034369",
+      "size": 3854
+    },
+    "research/tiered-native-multiplier/SERIAL-SETUP.md": {
+      "mode": "100644",
+      "sha": "b9b8b3f1e2a5bd060146aedb7ed40615541e1624",
+      "size": 7271
+    },
+    "research/tiered-native-multiplier/SETUP.md": {
+      "mode": "100644",
+      "sha": "9512c6724c9e107ed950968db62fec92b080824f",
+      "size": 6624
+    },
+    "research/tiered-native-multiplier/SOURCES.json": {
+      "mode": "100644",
+      "sha": "9d532ab36fa256de90128e3d795ffa62771053e6",
+      "size": 6687
+    },
+    "research/tiered-native-multiplier/ScaledEntrance.lean": {
+      "mode": "100644",
+      "sha": "0823ea46fc7f92273b38c8f4eb11fa228822717d",
+      "size": 880
+    },
+    "research/tiered-native-multiplier/TASK.json": {
+      "mode": "100644",
+      "sha": "0c085c2bab72ae222274749b5f9e0dffad4d16f5",
+      "size": 6001
+    },
+    "research/tiered-native-multiplier/TierCost.lean": {
+      "mode": "100644",
+      "sha": "716dec61d18f87b6195c1bb9620c9f98caaba5a0",
+      "size": 1438
+    },
+    "research/tiered-native-multiplier/VERIFICATION.md": {
+      "mode": "100644",
+      "sha": "59f0deac996dbe0a054fd37126e9ad735d06df79",
+      "size": 4421
+    },
+    "research/tiered-native-multiplier/VERIFY.json": {
+      "mode": "100644",
+      "sha": "4c1d8aadbc85c70fad56654cd94ba53d678f9856",
+      "size": 1909
+    },
+    "research/tiered-native-multiplier/bootstrap.py": {
+      "mode": "100644",
+      "sha": "89c6726b374c74abe86c56f1463678d9a0f0d03f",
+      "size": 2423
+    },
+    "research/tiered-native-multiplier/check_gaussian.py": {
+      "mode": "100644",
+      "sha": "e904a06486a57145e91e72d4d05e6c715391aeda",
+      "size": 4170
+    },
+    "research/tiered-native-multiplier/check_lean.py": {
+      "mode": "100644",
+      "sha": "fade224096b48e6b467e00607466ccd08eba398e",
+      "size": 944
+    },
+    "research/tiered-native-multiplier/check_phase_passes.py": {
+      "mode": "100644",
+      "sha": "616fe10344096e3cb16027fd41817b057997560f",
+      "size": 5353
+    },
+    "research/tiered-native-multiplier/check_placement.py": {
+      "mode": "100644",
+      "sha": "8820fe49b0ea6ff23ec90897f7487d247ef16b4f",
+      "size": 1968
+    },
+    "research/tiered-native-multiplier/check_serial_setup.py": {
+      "mode": "100644",
+      "sha": "202f8913bef201b06bc58b313b077cb4a65f3df3",
+      "size": 3025
+    },
+    "research/tiered-native-multiplier/grades.py": {
+      "mode": "100644",
+      "sha": "18b3041f682ba8ae06cebf0f701af6200ebb8b85",
+      "size": 2511
+    },
+    "research/tiered-native-multiplier/independent_price.py": {
+      "mode": "100644",
+      "sha": "f3e098a35d990ab3a1f6dbd8f7a7e2fe7ada9f32",
+      "size": 3084
+    },
+    "research/tiered-native-multiplier/installations.py": {
+      "mode": "100644",
+      "sha": "9bc60df559399566f15ea910dfadc66eb472ac89",
+      "size": 1055
+    },
+    "research/tiered-native-multiplier/measure_setup.py": {
+      "mode": "100644",
+      "sha": "75bbf0bb3338ea1d19a9cc9df3196b9487971e99",
+      "size": 2960
+    },
+    "research/tiered-native-multiplier/receipt.py": {
+      "mode": "100644",
+      "sha": "39f2ef7ae888de9cb2f7cc01198a93d9884e4614",
+      "size": 5728
+    },
+    "research/tiered-native-multiplier/runtime.patch": {
+      "mode": "100644",
+      "sha": "cd895f6240fcba916047013240e68046adece6d0",
+      "size": 8958
+    },
+    "research/tiered-native-multiplier/serial_setup.py": {
+      "mode": "100644",
+      "sha": "e3b51bf416683792441f1bd4e4167b83843ceaba",
+      "size": 3846
+    },
+    "research/tiered-native-multiplier/source/INSTALLER-NOTICE.md": {
+      "mode": "100644",
+      "sha": "5299fe7196dff94d7ec0c4fb0baff504f341e0ac",
+      "size": 3121
+    },
+    "research/tiered-native-multiplier/source/K7-NOTICE.md": {
+      "mode": "100644",
+      "sha": "d1a9e0924d384bef8bd4878559c3974f0ce5dc79",
+      "size": 2131
+    },
+    "research/tiered-native-multiplier/source/K7-STACK-LEDGER.json": {
+      "mode": "100644",
+      "sha": "2add885cf9c2f4df54761833e0fb2e2e41f125ce",
+      "size": 5977
+    },
+    "research/tiered-native-multiplier/source/activation.py": {
+      "mode": "100644",
+      "sha": "20525c7fa39de6300e0a01b1e0155dbc324d6940",
+      "size": 2983
+    },
+    "research/tiered-native-multiplier/source/check_binary_k7.py": {
+      "mode": "100644",
+      "sha": "5d5d9173f47ae608b150a6870c1b08d3ac97c7b8",
+      "size": 17149
+    },
+    "research/tiered-native-multiplier/source/installer.tar.gz": {
+      "mode": "100644",
+      "sha": "2595a83633ea02c658a0e0c4f0989a4be6e3c04e",
+      "size": 2220705
+    },
+    "research/tiered-native-multiplier/source/ordinary_clock.py": {
+      "mode": "100644",
+      "sha": "87c72664af8f888a7b6f8892d51b609685f1471a",
+      "size": 1940
+    },
+    "research/tiered-native-multiplier/source/outer_budget.py": {
+      "mode": "100644",
+      "sha": "35dd5cf836431661bcd306eadcd1da36cccca669",
+      "size": 1778
+    },
+    "research/tiered-native-multiplier/source/outer_clock.py": {
+      "mode": "100644",
+      "sha": "3c4fa183a077c1d9782753cbe1410fe4b161c15e",
+      "size": 4588
+    },
+    "research/tiered-native-multiplier/source/strong-bit-k7.json.gz": {
+      "mode": "100644",
+      "sha": "f334b505e60189e00a39a02a22279d579bcc2e7f",
+      "size": 143217
+    },
+    "research/tiered-native-multiplier/verify.py": {
+      "mode": "100644",
+      "sha": "e87b02c8d9b0253415adcfa172051712e730385d",
+      "size": 3570
+    }
+  },
+  "head": "cbe847a953b971f9c6c5a0a6661e2008acd29086",
+  "root": "e1140527cdc520bb68f9ed0902c5ec8430a177fa"
+}

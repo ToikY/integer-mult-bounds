@@ -1,0 +1,93 @@
+{
+  "status": "ONE_PERIOD_PROFILE_PRICE_PASSED",
+  "peer_head": "b72d3fa097d2521939f6b8536029da674648d863",
+  "calendar_sha256": "b76b9ad3dc0dd91473026c079585f830387eaa3c34c25a7820ee5057d5cbf941",
+  "archive_sha256": "0e0d559bdb15e7b647f88a2b5e27fcdc9e28e81d8f4145459876ba6da2e9314c",
+  "resource": {
+    "C_log2": 413727211,
+    "max_native_height": 978582,
+    "entry_conversion": 717,
+    "fixed_setup_log2": 228,
+    "terminal_ordinary_log2": 198437568,
+    "funding_floors": [
+      542838,
+      978537
+    ]
+  },
+  "old_period": "22067/21981",
+  "new_period": "257/256",
+  "factor_interval": [
+    "6155541551809958802174771/5649152000000000000000000",
+    "384721346988122425488993/353072000000000000000000"
+  ],
+  "old_debit": "64939/524288",
+  "new_debit": "32467/262144",
+  "reserve": "122861258019980097469170346872050520987348180053708121487131764669093/528399673441993272459275685126966761795542440769149206528000000000000000000",
+  "adjacent_deficit": "79792806542702174210876864016029122108881219671018188187970281246093/66049959180249159057409460640870845224442805096143650816000000000000000000",
+  "minimum_strict_debit_reduction": "6284526610318395731/1677721600000000000000000",
+  "candidate": {
+    "ordinary": [
+      8192,
+      36400,
+      575525
+    ],
+    "gaussian": 978582,
+    "kappa": "38983400039/10000000000000",
+    "checks": {
+      "entry": {
+        "stock": {
+          "binary_cuts": [
+            3077,
+            6221
+          ],
+          "public_exponent_A": 7437,
+          "first_public_offset": 4,
+          "initial_s": 7438,
+          "stage_and_outer_fixed_log_overhead": 1964,
+          "retimed_first_stripe_margin": 1701,
+          "retimed_all_size_margin_floor": 1635,
+          "absolute_log2_private_control_envelope": 3153922,
+          "storage_upper": "6.2 p T < 297.6 n bits"
+        },
+        "gaussian_slack": "1098966610482160957159/3355443200000000000000000",
+        "ordinary_slack": "55053468115579837956394099357/10334765056000000000000000000000000",
+        "signed": [
+          54,
+          4
+        ]
+      },
+      "terminal": {
+        "stock": {
+          "binary_cuts": [
+            8290,
+            44754,
+            620343
+          ],
+          "public_exponent_A": 1599173,
+          "first_public_offset": 4,
+          "initial_s": 1599174,
+          "stage_and_outer_fixed_log_overhead": 1968,
+          "retimed_first_stripe_margin": 797533,
+          "retimed_all_size_margin_floor": 772628,
+          "absolute_log2_private_control_envelope": 1002067971,
+          "storage_upper": "6.2 p T < 297.6 n bits"
+        },
+        "gaussian_slack": "9715473389681604269/1641788158771200000000000000000",
+        "ordinary_slack": "24559359514747091699261/3089826316288000000000000000000000000",
+        "signed": [
+          54,
+          4
+        ]
+      }
+    }
+  },
+  "exact_peer_gaussian_cap": "6400248450982567016889284269/1641788158771200000000000000000",
+  "gain_over_reported_peer": "39/10000000000000",
+  "gain_over_peer_gaussian_cap": "6284526610318395731/1641788158771200000000000000000",
+  "percent_over_peer": "39/389834000",
+  "excluded": [
+    "old debit at fixed max Gaussian height",
+    "unchanged ordinary shape at new rate",
+    "next lower grid debit under this factor envelope"
+  ]
+}

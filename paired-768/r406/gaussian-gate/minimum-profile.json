@@ -1,0 +1,31 @@
+{
+  "status": "CLOSED_FORM_MINIMUM",
+  "H": [
+    8192,
+    36400,
+    575525
+  ],
+  "G": 978537,
+  "cost": 413717311,
+  "kappa": "38983400039/10000000000000",
+  "stock": {
+    "binary_cuts": [
+      8290,
+      44754,
+      620343
+    ],
+    "public_exponent_A": 1599128,
+    "first_public_offset": 2,
+    "initial_s": 1599129,
+    "stage_and_outer_fixed_log_overhead": 1968,
+    "retimed_first_stripe_margin": 797510,
+    "retimed_all_size_margin_floor": 772607,
+    "absolute_log2_private_control_envelope": 1002021891,
+    "storage_upper": "6.2 p T < 297.6 n bits"
+  },
+  "premium": 717,
+  "strict_g_slack": "319756922401736383/3283425322598400000000000000000",
+  "rejected_g_minus_one_deficit": "13117023191342597/410427745894400000000000000000",
+  "exact_gain_over_peer": "39/10000000000000",
+  "exact_gain_over_campaign_predecessor": "11638647/100000000000000"
+}

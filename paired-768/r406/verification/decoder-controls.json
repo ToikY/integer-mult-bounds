@@ -1,0 +1,88 @@
+{
+  "period": [
+    {
+      "carrier": 263772,
+      "width": 258,
+      "period": 1024,
+      "fivefold": 105,
+      "phase0": [
+        0,
+        604,
+        1628
+      ],
+      "corrupted_phase1": [
+        0,
+        605,
+        1629
+      ]
+    },
+    {
+      "carrier": 264192,
+      "width": 258,
+      "period": 1024,
+      "fivefold": 0,
+      "phase0": [
+        0,
+        1024,
+        2048
+      ],
+      "corrupted_phase1": [
+        1,
+        1025,
+        2049
+      ]
+    },
+    {
+      "carrier": 264196,
+      "width": 258,
+      "period": 1028,
+      "fivefold": 257,
+      "phase0": [
+        0,
+        205,
+        1028
+      ],
+      "corrupted_phase1": [
+        0,
+        205,
+        1029
+      ]
+    },
+    {
+      "carrier": 262144,
+      "width": 193,
+      "period": 1360,
+      "fivefold": 84,
+      "phase0": [
+        0,
+        1024,
+        2384
+      ],
+      "corrupted_phase1": [
+        0,
+        1025,
+        2385
+      ]
+    }
+  ],
+  "same_clock": "The carrier and the temporal base must support each real raw word",
+  "same_delay": "The child misses its return time",
+  "omitted_native_close": "The last native owner did not return.",
+  "signed_controls": [
+    {
+      "component_width": 1,
+      "modulus": 3,
+      "records": 81,
+      "paid_exchanges": 3,
+      "wrong_signed_return_rejected": true
+    },
+    {
+      "component_width": 2,
+      "modulus": 9,
+      "records": 6561,
+      "paid_exchanges": 1,
+      "wrong_signed_return_rejected": true
+    }
+  ],
+  "signed_checker_sha256": "128a93719bbfc2d69c442283b8cbaecd9a3ca4c2a2399a7964e4c882bf0bace1"
+}

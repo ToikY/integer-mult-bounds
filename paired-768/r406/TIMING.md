@@ -1,0 +1,11 @@
+# Round 406 timing
+
+Admitted 04:52 UTC, isolated checkouts, at most two substantial single-thread jobs, floor 8 GiB. The first price gate completed in 0.13 s, exit 0, one case. Its capped Gaussian ceiling missed the newly reported #8078. Its exact earned component result was published and no old-cap literal build ran.
+
+The #8078 exact upper-profile independent replay ran 04:55:24–04:59:22 UTC, 237.17 s, actual exit 0, after all inputs authenticated. The associated independent source and whole resource reconstruction took 1.63 s. Registration ran all seven upper modes and the lower price. Choosing the new Gaussian bound and exact minimum height used .23 s and a .15 s clean reproduction of the same recorded price. The separate expanded-ordinary screen used 15/16 prices in 0.12 s. Its wrapper failed to retain the price process exit. The fixed selected-profile precision check passed in .05 s. These are separate from scientific replay. Isolated active proof and implementation time was not timed.
+
+The sole candidate builder completed regenerate 6.65 s, price 17.73 s, calendar 54.23 s, 78.61 s total. The metadata check on the exact locally tracked commit passed before independent admission. A preliminary check before committing rejected untracked inputs. Recorded exact head and all 20 committed bytes/modes then passed. This round provides no matched timing result for a workflow change.
+
+The isolated onboarding suite started 05:06:18 UTC and passed 760 tests with 31 skips, 148.52 s. Its separate historical scope and 19 controls passed in 2.63 s. The candidate's independent science started at 05:07:25 UTC. Historical and product scope were kept separate from current peer verification. #8081's larger full replay was prepared while root held the onboarding slot and could run only after actual checkout and disk admission.
+
+The clean candidate replay ended 05:11:29 UTC, 243.97 s, exit 0, 19m27s after round admission. Separate source-binding, invoice and decoder checks completed with the exact frozen inputs. The decoder path in the public wrapper was corrected and all three results reproduced. #8081's independent eight-mode science ran 05:12:10–05:16:09 UTC, 238.95 s, exit 0. Waiting and publication are tracked separately.

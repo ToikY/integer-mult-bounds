@@ -1,0 +1,254 @@
+{
+  "comparator": "b72d3fa097d2521939f6b8536029da674648d863",
+  "complete_recurring_log2_C": 413717311,
+  "evidence_file_sha256": {
+    "PLAN.md": "6fdc9043aca145c481860abb733c92049feb54e4eef33fd0be87d8251d680e21",
+    "PLAN.sha256": "7ed70d1dd25f78b6cd67c8bc9d0afaa4232d53a9b66638e83168470088e9b3ca",
+    "SOURCE-SCOPE.md": "180716d140c6487ee9158e3a7b57b062b4e4d808ff6d54f37404b9a853782940",
+    "actual-decoder.log": "562a7a5f56d50529673af3d36671f1c4331c0b821cb0906a4fb53ac87dc2a4a7",
+    "admission-disk.log": "54a86a97d4173c32f0a20904222807970bdb4a35aafe69b1064df573762fc0b2",
+    "admission-processes.log": "39cb7cf4a5039e2d0fb4ebf9aa210e39e2c1891be0d7cac32002b25bed245e61",
+    "authenticate-candidate.log": "a904e0c93dc0bc9a77aaa07458f3a78f1c23553b5ac0e833429d760194152af1",
+    "authenticate_candidate.py": "794fa281901a21e79e0bdcfd28056a703ce76ce9007e5c55afd970662a60205f",
+    "bind_images.py": "3464acd0d1b66b7eaaf0716e5b40102c91483237b460a7631a940acb2e92aa02",
+    "candidate-objects": "e7e0bd5ed19fc6e358434595934a2d80de5845c9eacf47b9cf12e0a6d9f54856",
+    "checker-diff.log": "cb841358f4646d057a089443f4e70d427f6397704ce00802a9fa54faa460596a",
+    "decoder-controls.json": "d8ff60793e733b7362d268633bac09654579e80e7295083c0c91659207603fb1",
+    "decoder-controls.time": "008fb37b580233b656a9ac14eed4830197d9ec4cddaea0cc14b84718f94dbb35",
+    "decoder_controls.py": "90d429999771b5de354393a8432467706ca1d1090ddf189239c2d07baedbe5a8",
+    "finalize.py": "67d5a2e502c7c362625493154e5629d7eb04009b1bd8207416ce01805f7973bc",
+    "historical-disk-end.log": "c5c85a00365783cbacca6b0a58af62aca0e0aab5ae24f9aa18373e2a723e6938",
+    "historical-end.utc": "3dee51e40f6d893f30cc7504814e70ea6c2349afa19891e2bb088c751070c469",
+    "historical-start.utc": "9f766b078761bb01848cc0871e1a86d6d5823611330a43338efe3e13be6131bb",
+    "historical-worktree.status": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "historical.exit": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa",
+    "historical.log": "c54b63bcbbd04e0f2aa26ff18407bad5539381d1defef364e0a1f4b80d7bf9ec",
+    "historical.sh": "7fabe30d12b2f6ffe15373fcae364e0999aac6660f23a2550e2f62d05fd4a196",
+    "history-disk.log": "a327296959e20a80fe8af750207584b951330d5793d7999cdf2e857151886e61",
+    "history-processes.log": "e4ca739b20f7d036b1e098f126d1f1230d6d35d6714cd7ed385d075bb40e1297",
+    "independent-invoice.json": "509336600df45751c4e125ff500791f0b0836e51ce81e036d3d3a8734e31c180",
+    "independent-invoice.time": "8cb03b3f789b9594695bb2ded89a0d7c22b2ffad67d2a0f5f4860629c702e732",
+    "independent_invoice.py": "341b58aeffd6708e34316b988592a84fa63fe2a6ab04de084ebd8ef7b9815940",
+    "initialize.log": "50c125b0d3c1604db5955997ffe889d893396e58d8bfc302ff1198df32f4b7b9",
+    "initialize.sh": "648ff72b5f55cc04bb7ac46bf468958c671d7abf8e741d6aa72f94da14ee7186",
+    "observe.py": "2f499daadb1337103306ff944ac5fa7c6a51b4e23642773f9c342b7dc69728b6",
+    "plan-frozen.utc": "e9c5deb21b0fb9528b41ea0153bef959acf2bcc2fa1edb47821abb0590d79392",
+    "pre-replay-worktree.status": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "python-version": "4c3569f5da09975434dd9fd9a91fadbc4367a91d8f3c3fab59e9241ab9ee4bd8",
+    "replay-end.utc": "db4082b2878268d7ba26c879ff5f7c2f1a0592c718587ab79623fb876589f9b5",
+    "replay-observed.jsonl": "64fe4151faf7e7d31e22975dda420853b7f73cdaebf01341bc5ddd66967040e4",
+    "replay-start.utc": "f4c9a9d5aba358a845b09ba6498094e215366212d788d8c76c82e7373d8a9783",
+    "replay-worktree.status": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "replay.exit": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa",
+    "replay.log": "9d2409af1b53cc8cfcba8a6ba50948c625cd125da7faedf600fe0235960e0f37",
+    "replay.sh": "1edff34f0e2aa8f671b4b79bccce28b1488449e62d9c844552965eec5f4ae455",
+    "source-binding-diff-inspection.json": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "source-binding-diff-inspection.time": "825cd6ab7f733043ad6307c6d82e73f25c706cf9201fd6f500c1c9633f4c8596",
+    "source-binding-shallow-read.json": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "source-binding-shallow-read.time": "269f17ecd05d70fbf0e84ad89762d6d113fc2ea5d75a11ffee9a0ca53314eb72",
+    "source-binding.json": "8dcdb700cc1f4e26843bfa12b9219dc53cfe5ffdaf5bcc22c4bb9892a3f9486a",
+    "source-binding.time": "38bea3c12ebe1bcafbd0ec011863efee6343500f10610a56e40fb749a7e889a8"
+  },
+  "exact_comparator_stopped_supremum": "6400248450982567016889284269/1641788158771200000000000000000",
+  "export_scope": "Interpreter and workspace roots use portable labels. See the explicit clean commands and the independent proof.",
+  "gain_vs_comparator": "39/10000000000000",
+  "gain_vs_comparator_supremum": "6284526610318395731/1641788158771200000000000000000",
+  "head": "28926ef5702071cc952ebd7a36d855ac322d97ad",
+  "historical_replay": {
+    "actual_marker": "PASS_HISTORICAL_SELECTED_REPLAY_GAP",
+    "argv": [
+      "python3.12",
+      "-IB",
+      "scripts/research_package.py",
+      "--package",
+      "research/historical-selected-replay-gap"
+    ],
+    "cwd": "campaign/round406/independent/checkout",
+    "distinct_paths": 7,
+    "end_utc": "2026-11-23T05:13:09Z",
+    "exit": 0,
+    "rejections": 19,
+    "start_utc": "2026-11-23T05:13:06Z",
+    "timing_seconds": {
+      "real": 2.47,
+      "sys": 0.64,
+      "user": 1.86
+    }
+  },
+  "independent_commands": {
+    "binding": [
+      "python3.12",
+      "-IB",
+      "bind_images.py",
+      "checkout",
+      "../peer8078/checkout",
+      "../../round403/publish",
+      "../../round402/peer-pin/source-blobs.json",
+      "."
+    ],
+    "controls": [
+      "python3.12",
+      "-IB",
+      "decoder_controls.py",
+      "candidate-image/runtime",
+      "candidate-image/source/research/frequency-weighted-native-multiplier"
+    ],
+    "invoice": [
+      "python3.12",
+      "-IB",
+      "independent_invoice.py",
+      "candidate-image/runtime",
+      "candidate-image/source/research/tiered-native-multiplier/source",
+      "checkout/research/p104-expanded-period-debit/RESULT.json"
+    ],
+    "timing_seconds": {
+      "decoder-controls": {
+        "real": 0.66,
+        "sys": 0.22,
+        "user": 0.39
+      },
+      "independent-invoice": {
+        "real": 6.54,
+        "sys": 0.1,
+        "user": 6.08
+      },
+      "source-binding": {
+        "real": 2.93,
+        "sys": 0.84,
+        "user": 1.18
+      }
+    },
+    "working_directory": "campaign/round406/independent"
+  },
+  "independent_comparator_kappa": "194917/50000000",
+  "limitations": [
+    "Finite dense product uses entry",
+    "Asymptotic claim retains five signed hypotheses",
+    "Lean and hosted checks outside local verification",
+    "Disk measurements sampled at mode boundaries"
+  ],
+  "original_receipt_sha256": "d88d4d11a5a9149de98206cd1d4eb8031271c0a2f94520d725f9762e5a3fe0ab",
+  "path_pins": {
+    "contract": {
+      "path": "campaign/round406/acceptance-contract.md",
+      "sha256": "2415afbf57dcebb7a35d5d50e188d460e5cb596beda21adf5f8bab9d68013341"
+    },
+    "frozen_independent_plan": {
+      "path": "campaign/round406/independent/PLAN.md",
+      "sha256": "6fdc9043aca145c481860abb733c92049feb54e4eef33fd0be87d8251d680e21"
+    },
+    "frozen_manifest": {
+      "path": "campaign/round406/CANDIDATE-INPUTS.json",
+      "sha256": "9e1ace77acd58e12eb4b907cee5a293b8d9aa9d9c70c3d05277eabefd0361b51"
+    },
+    "independent_8057_tree": {
+      "path": "campaign/round402/peer-pin/source-blobs.json",
+      "sha256": "9b698d0aea6a8510d4f6dc09735ae884c3894aea2051043381d3313422731927"
+    },
+    "original_peer_receipt": {
+      "path": "campaign/round406/peer8078/REPLAY-RECEIPT.json",
+      "sha256": "a4814658cbc17b342154d0ac6c6d93d2235099f6dc6fedc209f67795ba004425"
+    }
+  },
+  "qualified_kappa": "38983400039/10000000000000",
+  "recurring_delta": -9900,
+  "scientific_replay": {
+    "argv": [
+      "python3.12",
+      "-IB",
+      "scripts/research_package.py",
+      "--package",
+      "research/p104-expanded-period-debit"
+    ],
+    "clean_detached_worktree_before_and_after": true,
+    "cwd": "campaign/round406/independent/checkout",
+    "end_utc": "2026-11-23T05:11:29Z",
+    "environment": {
+      "BLIS_NUM_THREADS": "1",
+      "MKL_NUM_THREADS": "1",
+      "NUMEXPR_NUM_THREADS": "1",
+      "OMP_NUM_THREADS": "1",
+      "OPENBLAS_NUM_THREADS": "1",
+      "VECLIB_MAXIMUM_THREADS": "1"
+    },
+    "exit": 0,
+    "failed_modes": [],
+    "minimum_observed_free_bytes": 9278656512,
+    "modes": [
+      {
+        "actual_pass": "PASS_EXPANDED_PERIOD_DEBIT price",
+        "name": "price",
+        "raw_markers": [
+          "PASS_WEIGHTED_COMPLETE_PRICE 413717311",
+          "PASS_EXTERIOR_PERIOD_DEBIT 257/256 64934/524288",
+          "PASS_DIRECTED_ORDINARY_DEBIT 18960 11239/8192 375/376"
+        ]
+      },
+      {
+        "actual_pass": "PASS_EXPANDED_PERIOD_DEBIT calendar",
+        "name": "calendar",
+        "raw_markers": [
+          "PASS_TWO_NATIVE_TYPES",
+          "PASS_LITERAL_UPPER_FENCE",
+          "PASS_LITERAL_LOWER_CUTOFF",
+          "PASS_PERIOD_DEBIT_PROFILE",
+          "PASS_LITERAL_ORDINARY_FLOOR",
+          "wrong_signed_return_rejected"
+        ]
+      },
+      {
+        "actual_pass": "PASS_EXPANDED_PERIOD_DEBIT raw",
+        "name": "raw",
+        "raw_markers": [
+          "PASS_TYPED_RAW48 0 columns 2",
+          "PASS_TYPED_RAW48 1 columns 4"
+        ]
+      },
+      {
+        "actual_pass": "PASS_EXPANDED_PERIOD_DEBIT exterior",
+        "name": "exterior",
+        "raw_markers": [
+          "PASS_EXTERIOR_TYPED_RAW"
+        ]
+      },
+      {
+        "actual_pass": "PASS_EXPANDED_PERIOD_DEBIT nested",
+        "name": "nested",
+        "raw_markers": [
+          "real nested transfer completed",
+          "PASS_NONZERO_INTERIOR"
+        ]
+      },
+      {
+        "actual_pass": "PASS_EXPANDED_PERIOD_DEBIT product",
+        "name": "product",
+        "raw_markers": [
+          "\"product\": \"-345550037539\"",
+          "\"H_calls\": 157248",
+          "PASS_WEIGHTED_SIGNED_PRODUCT"
+        ]
+      },
+      {
+        "actual_pass": "PASS_EXPANDED_PERIOD_DEBIT setup",
+        "name": "setup",
+        "raw_markers": [
+          "\"integer_pairs\": 4071",
+          "\"rational_cases\": 7396",
+          "\"setup_exponent\": 228"
+        ]
+      }
+    ],
+    "product_lock": "/tmp/p104-toiky-0039/physical-product.lock",
+    "python": "Python 3.12.14",
+    "registered_outcome": "partial",
+    "sampling": "At each registered mode boundary, start and exit",
+    "skipped_modes": [],
+    "start_utc": "2026-11-23T05:07:25Z",
+    "timing_seconds": {
+      "real": 243.97,
+      "sys": 67.47,
+      "user": 168.73
+    }
+  },
+  "status": "PASS_SIGNED_INDEPENDENT_LOCAL_ROUND406"
+}

@@ -1,0 +1,9 @@
+# Bounded Round 406 allocation audit
+
+Pin #8078 at b72d3fa097d2521939f6b8536029da674648d863 at κ .00389834. Preserve its whole recurring cap 413727211 and 20-bit height words. A higher maximum native height within that range is a separate resource tradeoff. Authenticate the published #8078 result and the #8057 weighted source.
+
+Use #8076's verified suffix coefficient 8 and the prospective tighter actual quotient mean (7/3 + 2^-40). Buy both ordinary moments at 7/3 + 2^-16, incorporate the resulting geometric cost in both entry and terminal invoices, and retain the inherited Gaussian debit and words.
+
+Before pricing, verify #8078's minimal old ordinary sum and Gaussian height by the exact published recurrence and a Cauchy lower bound. Any old price that reaches its installed rate needs that sum and G at least 978582. Its full recurring bound exactly saturates the cap, so all old profiles at or above the installed rate have G fixed to 978582. Require candidate κ to exceed the exact old capped stopped upper ceiling γ(978582) - 5g.
+
+Use a global recurrence bound and a monotone crossing scan without building. Cauchy's inequality bounds the minimum ordinary sum for any trial above the peer. For each G, prove the minimum ordinary weighted loss at the fixed sum by a discrete slope exchange and solve the one-dimensional split by an integer quadratic root. Charge all fixed and linear terms and use exact fractions. Limit the entire screen to 16 quantitative profile evaluations and 30 s. Evaluate the immediately prior and next G as needed without exceeding the same case cap. If the capped screen cannot certify an optimal crossing within those limits, report tested gates and a strictly funded feasible witness if reached. Never claim more digits of the prior crossing. Reconstruct all-size price obligations first. Scientific verification, proof of exact materialized source admission and independent replay remain gates on any provisional price.

@@ -1,0 +1,175 @@
+CHECK Check the all-size paid period bound, adjacent booking rejection, source price and complete signed invoice.
+PASS_WEIGHTED_COMPLETE_PRICE 413717311
+PASS_EXTERIOR_PERIOD_DEBIT 257/256 64934/524288
+PASS_DIRECTED_ORDINARY_DEBIT 18960 11239/8192 375/376
+PASS_INDEPENDENT_WEIGHTED_AND_QUARTER_PRICES
+[
+  {
+    "H": 1024,
+    "cell": [
+      1,
+      112,
+      1,
+      258
+    ],
+    "share": "1/624",
+    "rotated_roots": 384,
+    "first_root": [
+      "root",
+      "rotated",
+      0,
+      4080,
+      1
+    ],
+    "period": 1364,
+    "tickets": [
+      0,
+      272,
+      545
+    ],
+    "first_swap": [
+      1,
+      272,
+      1
+    ]
+  },
+  {
+    "H": 978537,
+    "cell": [
+      1,
+      112,
+      1,
+      258
+    ],
+    "share": "1/624",
+    "rotated_roots": 384,
+    "first_root": [
+      "root",
+      "rotated",
+      0,
+      4080,
+      1
+    ],
+    "period": 1364,
+    "tickets": [
+      0,
+      272,
+      545
+    ],
+    "first_swap": [
+      1,
+      272,
+      1
+    ]
+  }
+]
+PASS_EXPANDED_PERIOD_DEBIT price
+CHECK Check exact predecessor ceiling, producer calendar, finite scope, seams and paid underfunding controls.
+PASS_TWO_NATIVE_TYPES 2048 1040 2 (13600, 26400) 951040 (4684, 22252) 37152 {(0, 1), (1, 0), (1, 1)}
+[
+  {
+    "frequency": [
+      1,
+      3
+    ],
+    "raw_frames": 7620,
+    "directed_bindings": {
+      "(1, 1)": 2688,
+      "(1, 0)": 420,
+      "(0, 1)": 704
+    },
+    "depth": 3,
+    "peak_simultaneous_frames": 4484,
+    "external_opens": 192,
+    "zeros": 9232,
+    "external_rows": 1152,
+    "positive_periods": [
+      16
+    ],
+    "leaf_axes": 377008,
+    "same_tick_return_before_next_loan": 3392
+  },
+  {
+    "frequency": [
+      1,
+      90
+    ],
+    "raw_frames": 25120,
+    "directed_bindings": {
+      "(1, 1)": 12320,
+      "(1, 0)": 12,
+      "(0, 1)": 24
+    },
+    "depth": 3,
+    "peak_simultaneous_frames": 16848,
+    "external_opens": 14912,
+    "zeros": 22628,
+    "external_rows": 39040,
+    "positive_periods": [
+      8,
+      12,
+      16
+    ],
+    "leaf_axes": 862608,
+    "same_tick_return_before_next_loan": 12344
+  },
+  {
+    "frequency": [
+      5,
+      451
+    ],
+    "raw_frames": 25152,
+    "directed_bindings": {
+      "(1, 1)": 12384,
+      "(1, 0)": 12,
+      "(0, 1)": 24
+    },
+    "depth": 3,
+    "peak_simultaneous_frames": 16868,
+    "external_opens": 15104,
+    "zeros": 22436,
+    "external_rows": 39552,
+    "positive_periods": [
+      8,
+      12,
+      16
+    ],
+    "leaf_axes": 862544,
+    "same_tick_return_before_next_loan": 12408
+  }
+]
+PASS_LITERAL_UPPER_FENCE 1724 1874 (1024, 978537)
+PASS_LITERAL_LOWER_CUTOFF 1874 (1866, 3732) [(0, 0, 3748, 4), (0, 1, 3748, 390), (0, 0, 3750, 4), (0, 1, 3750, 389), (1, 0, 3748, 390), (1, 1, 3748, 35187), (1, 0, 3750, 389), (1, 1, 3750, 35150)] 523324250322
+PASS_PERIOD_DEBIT_PROFILE {"binary_cuts": [8290, 44754, 620343], "compiled_stage_seams": [{"component_log": 1287, "direct": false, "predecessor_cut": 8290, "rank_log": 36400, "scanned_log": 330000, "stage": 2}, {"component_log": 20202, "direct": false, "predecessor_cut": 44754, "rank_log": 575525, "scanned_log": 5180000, "stage": 3}], "complete_log2_C": 413717311, "controls": ["second-ordinary-height-minus-one", "third-ordinary-height-minus-one", "old-heights-at-new-rate", "gaussian-height-minus-one", "outer-ordinary-margin-removed", "prefix-height-at-previous-cut", "recurring-bound-minus-one"], "conversion_bits": 717, "direct_stage_seams": [{"component_log": 195, "direct": true, "predecessor_cut": 8290, "rank_log": 36400, "scanned_log": 50000, "stage": 2}, {"component_log": 2457, "direct": true, "predecessor_cut": 44754, "rank_log": 575525, "scanned_log": 630000, "stage": 3}], "economical_invoice": {"insufficient_smaller_sum": 620116, "minimum_gaussian_height": 978537, "minimum_ordinary_height_sum": 620117, "relaxed_ordinary_shortfall": "51600548835280012401652006427554435277762081864290157805491925654425906479964924431/12532203520000000000000000000000000000000000000000000000000000000000000000000000000000000000000", "scope": "three ordinary heights at least 8192 with the inherited invoice and bookings", "smallest_invoice_bound_for_target": 413717311}, "gaussian_height": 978537, "gaussian_rate_margin": "319756922401736383/3283425322598400000000000000000", "heights": [8192, 36400, 575525], "kappa": "38983400039/10000000000000", "log2_B": 198437568, "ordinary_rate_margin": "24559359514747091699261/3089826316288000000000000000000000000", "prior_exact_stopped_ceiling": "6400248450982567016889284269/1641788158771200000000000000000", "profile": "340", "signed": {"functional": 4, "ordinary_margin": "1/1000000000000000000", "positive_margin": "319756922401736383/3283425322598400000000000000000", "smallest_margin": "1/10000000000000000000", "strict": 54}, "signed_tape_controls": [{"component_width": 1, "modulus": 3, "paid_exchanges": 3, "records": 81, "wrong_signed_return_rejected": true}, {"component_width": 2, "modulus": 9, "paid_exchanges": 1, "records": 6561, "wrong_signed_return_rejected": true}], "stock": {"absolute_log2_private_control_envelope": 1002021891, "binary_cuts": [8290, 44754, 620343], "first_public_offset": 2, "initial_s": 1599129, "public_exponent_A": 1599128, "retimed_all_size_margin_floor": 772607, "retimed_first_stripe_margin": 797510, "stage_and_outer_fixed_log_overhead": 1968, "storage_upper": "6.2 p T < 297.6 n bits"}}
+PASS_LITERAL_ORDINARY_FLOOR {"binary_all_size": {"birth_bound": "2V", "copy_group_bound": "3N^3", "first_two_columns": [18952, 18954], "fringe_upper_1e9": 7439580927, "grid_absolute_error_exponent_at_H1024": -27312, "minimum_positive_scale_h_guard": 1024, "psi_lower_floor": 386067, "whole_field_width": "N^92"}, "binary_integer_fixture": {"carrier": 8388608, "extent": "complete fixture event stream", "first_band_contacts": [[18960, 29, [[0, 0, 24764, 7], [0, 1, 24764, 7], [0, 0, 24766, 2], [0, 1, 24766, 2], [1, 0, 24764, 7], [1, 1, 24764, 7], [1, 0, 24766, 2], [1, 1, 24766, 2]]], [18962, 29, [[0, 0, 24766, 5], [0, 1, 24766, 5], [0, 0, 24768, 5], [0, 1, 24768, 5], [1, 0, 24766, 5], [1, 1, 24766, 5], [1, 0, 24768, 5], [1, 1, 24768, 5]]]], "lower": 18960, "lower_return_counts": {"18952": 108, "18954": 120}, "native_closes": 323165, "native_opens": 323165, "paid_singletons": 683705746532, "returned_paid_prefixes": 432, "tested_occupied_K7_grade": [49, 64], "upper": 24774}, "new_binary_openings": [{"ambient": 134, "first_columns": 18952, "height": 3000, "lower": 18960, "plan_arguments_checked": true}, {"ambient": 134, "first_columns": 18952, "height": 3080, "lower": 18960, "plan_arguments_checked": true}, {"ambient": 134, "first_columns": 18952, "height": 8192, "lower": 18960, "plan_arguments_checked": true}, {"ambient": 134, "first_columns": 18952, "height": 36400, "lower": 18960, "plan_arguments_checked": true}, {"ambient": 134, "first_columns": 18952, "height": 575525, "lower": 18960, "plan_arguments_checked": true}]}
+PASS_EXPANDED_PERIOD_DEBIT calendar
+CHECK Execute the actual signed physical source types and check all owner returns.
+PASS_TYPED_RAW48 0 columns 2 paid 282576 nonzero 16 writes 71808 peak 62448
+PASS_TYPED_RAW48 1 columns 4 paid 281568 nonzero 15 writes 71808 peak 62448
+PASS_EXPANDED_PERIOD_DEBIT raw
+CHECK Generate genuine exterior births and check their returned owner fields.
+PASS_EXTERIOR_TYPED_RAW (23675909805548, 2135567064460396) 73 105216 564144 [4456224, 234] [0, 121432]
+PASS_EXPANDED_PERIOD_DEBIT exterior
+CHECK Check nonzero typed nested return and owned-source restoration.
+real nested transfer completed 3418 ('helper', 9977, 0, 14) [281568, 2]
+PASS_NONZERO_INTERIOR 282576 281568 9841 4507783464 2 [0, 118692]
+PASS_EXPANDED_PERIOD_DEBIT nested
+CHECK Execute signed finite products and the physical coefficient fixture under a shared product lock.
+{"H_calls": 157248, "bits": [20, 19], "coefficients_prefix": [11811, 10996, 4152, 868, 77], "padded_bytes": 633744, "product": "-345550037539", "rank": 2, "seconds": 86.8879, "shuttles": 138, "stage_body_records": 6561}
+PASS_WEIGHTED_SIGNED_PRODUCT
+PASS_EXPANDED_PERIOD_DEBIT product
+CHECK Check serial quotient, Bezout, rational arithmetic and the complete native setup bound.
+{
+  "integer_pairs": 4071,
+  "rational_cases": 7396,
+  "max_datum_bits": 274877906944,
+  "lookup": 170141183460469231731687303715884105728,
+  "local_arithmetic": 297105609434291902295870930944,
+  "all_setup": 217364570380528137475793294892811967875864032914108887556978854854656,
+  "setup_exponent": 228
+}
+PASS_EXPANDED_PERIOD_DEBIT setup
+PASS_REGISTERED_RESEARCH_PACKAGE research/p104-expanded-period-debit outcome=partial
+real 243.97
+user 168.73
+sys 67.47

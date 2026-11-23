@@ -1,0 +1,29 @@
+{
+  "actual_precision_endpoints": [
+    {
+      "precision_bits": 1601996,
+      "precision_sha256": "781ad33a959587ffd00d3cc17bcda6e5da0e4eb3fd47e620691a75fe73cd957e",
+      "width": 1431655766
+    },
+    {
+      "precision_bits": 1601996,
+      "precision_sha256": "781ad33a959587ffd00d3cc17bcda6e5da0e4eb3fd47e620691a75fe73cd957e",
+      "width": 1431655766
+    }
+  ],
+  "axis_degree": 33,
+  "entry_log2_C_before_conversion": 125660258,
+  "entry_prefix_surcharges": [
+    0,
+    25818582
+  ],
+  "funding_heights": [
+    537336,
+    987613
+  ],
+  "initial_s": 1601996,
+  "private_scalar_clock_upper": 1467657618892,
+  "public_axis_count_log2": 1601962,
+  "scope": "exact arithmetic once at the selected profile; no scientific replay",
+  "setup_transition_upper": 217364570380528137475793294892811967875864032914108887556978854854656
+}
