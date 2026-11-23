@@ -1,0 +1,12 @@
+{
+  "NOTICE.md": "ce042bb8a827ffceffcdbd3d79250f8b98800c30310442eec870b420fcd699e4",
+  "PROOF.md": "6423f0c08bd49250b34f9cd60e44b5ce514f31248fceffb3dc65e528595b6609",
+  "README.md": "5ac2cb613b6448eca2f4472ebf4e64892fb774fc343bd2f5971257785e7b68bb",
+  "SETUP-PROOF.md": "b761c20e92b5e73c9c3776edec5310a8c8854702ae0a0e9f8ec37bfdd2338ed7",
+  "check_matched_allocator.py": "0c76d2fb9bf9d9469182763406bd890c70b3a83f48ce646322d0ac7c683559e6",
+  "check_scaled.py": "7a59b77a4a1a93e45b81eb8c39c2016fda4ad55cef631a11ecaf6a896af45fb7",
+  "check_setup_expanded.py": "a6d7d4faef625114150281489feb037ff6de8e182868cad97228c7eabb43a2ef",
+  "matched_positive_debit.py": "f9d7a422cdec4a6b5bed0033755c8f41d97a435ede74b0395d37f3127f590d99",
+  "matched_price_support.py": "4964fb80e4f2a449decbd35044808b3cc235c44405bfa926f6b12f95e9213c33",
+  "retune.py": "3497ff03377a8cc932ec2280bc6e8dbdad185fb23aecc2316496d41cab409ebc"
+}

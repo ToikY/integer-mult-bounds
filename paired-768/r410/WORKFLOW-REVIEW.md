@@ -1,0 +1,7 @@
+# Three-round workflow review
+
+The 8 GiB admission floor dominated the work in Rounds 408–410. It held the live allocator, fresh signed construction and registered native replay. Rechecking the same pressure would not resolve it. Active source tracing, proof and implementation minutes were not individually timed. No candidate CI wait accrued in these three rounds.
+
+A reversible change was to check the immutable arithmetic roster and source adapters before using a native slot. Round 408 obtained the scoped split Hall decision in 0.29 s. Round 409 obtained the exact offset-eight price in 0.42 s and passed the corrected core smoke in 0.04 s. Round 410 assembled the source in 0.21 s and checked its archive overlays, pins and frozen roster in 0.21 s. The arithmetic check caught a mixed integer/rational division that changed the enclosure. Exact rational division and a fresh assembly fixed it. A changed allocation is also rejected by the new negative control.
+
+This check paid for itself as preflight because it stopped one incorrect source revision and isolated the remaining native work. Its coverage differs from the live allocator and eight registered modes, so the matched time comparison is inconclusive. Keep the check as preparation and keep the full native criteria. On resumption record active implementation and proof time separately, capture each actual command's return directly, and compare total time only on matched coverage and the same supported runner. The required disk reserve still governs admission.

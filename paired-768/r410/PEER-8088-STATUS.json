@@ -1,0 +1,31 @@
+{
+  "refresh_utc": "2026-11-23T06:59:29Z",
+  "peer_pr": 8088,
+  "peer_head": "06691302af526a488f3dee0298035f86b6e69c51",
+  "reported_kappa": "3899574328473/1000000000000000",
+  "reported_complete_log2_C": 685495960,
+  "reported_difference_from_verified_external_8081": "1114328473/1000000000000000",
+  "reported_difference_from_verified_campaign_8087": "34822749/31250000000000",
+  "reported_difference_from_our_unverified_draft": "1114324727/1000000000000000",
+  "independent_replay": "pending",
+  "hosted": {
+    "url": "https://github.com/CrocSwap/integer-mult-bounds/actions/runs/45126601937",
+    "headSha": "06691302af526a488f3dee0298035f86b6e69c51",
+    "status": "completed",
+    "conclusion": "action_required",
+    "jobs": []
+  },
+  "exact_sources_sha256": {
+    "RESULT.json": "fc0c929df882fcabf4ba1481f5e11c69daa7e50184b3bbae7330a8c88c013f14",
+    "VERIFY.json": "44a2f204bf519b52a32db61a061a0ce58801f7e4f1de8f409ae932b3c2e64bf6",
+    "PROOF.md": "b470831617155e1818b2c2d9340f39ccd88fcc8dedd2177e6bcfbe25f949fd83",
+    "PEER-SOURCE.json": "798c2e6394c258986484a116198cc542a6d2b4c1f289e5816de2cfecf5141c51"
+  },
+  "companion": {
+    "head": "199cfbe8d26c86fcf1058d83ed5d4a537042bb5c",
+    "proof_url": "https://github.com/floration/integer-mult-bounds/blob/199cfbe8d26c86fcf1058d83ed5d4a537042bb5c/research/p104-k7-shortcut-word/PROOF.md",
+    "proof_sha256": "418286df3dafa7ac7913b17d3ad4424618eb1740569ebad519d21efbe1f8f442",
+    "verify_sha256": "62f794fc595ec0dadaaafa0fc13578672ce7c092bd9858fcd857940fdd81b936",
+    "open_scope": "separate tree, stale input paths, exact application and reserve-drop proofs not independently replayed"
+  }
+}

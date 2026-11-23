@@ -1,0 +1,5 @@
+# Predecessor credit
+
+Clear1nsight supplied the matched interior phase proof and its complete finite-error decomposition in [#8083](https://github.com/CrocSwap/integer-mult-bounds/pull/8083), and the charged 25-bit serial installer in [#8081](https://github.com/CrocSwap/integer-mult-bounds/pull/8081). Ali Romman supplied [#8057’s signed producer and caller](https://github.com/CrocSwap/integer-mult-bounds/commit/cbe847a953b971f9c6c5a0a6661e2008acd29086) and #8055 native setup. SYLforge supplied #8052 K7 and its physical replay. #8064, #8070 and #8072 supplied the earlier fences, numerical debits and weighted calendar. [#8087](https://github.com/CrocSwap/integer-mult-bounds/pull/8087) supplied the independently reproduced exact comparison, typed phase and ownership cases, and all eight verification paths. Jerry Chen supplied the #7257 historical prerequisite.
+
+This source draft assembles the same charged physical construction with the single matched offset-eight debit and independently priced profile. Retained predecessor notices and common license are preserved. OpenAI Codex materially assisted proof, implementation, independent arithmetic and packaging.
