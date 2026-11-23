@@ -1,0 +1,66 @@
+{
+  "scope": "One conditional fixed-height price and literal period-source preflight. Installed signed replay unrun.",
+  "peer": "c20a08dc0a79a989e3515068560d5da371c0a2a8",
+  "ordinary_heights_entry": [
+    3000,
+    3080
+  ],
+  "ordinary_heights_terminal": [
+    31808,
+    502922,
+    7951907,
+    125730703,
+    134217727
+  ],
+  "gaussian_heights_entry_terminal": [
+    1024,
+    208653
+  ],
+  "old_ordinary_ceiling": "70271596826947689616436948507028761711/18014398375264256000000000000000000000000",
+  "frozen_ordinary_ceiling": "70271597635576107423265784940945878127/18014398375264256000000000000000000000000",
+  "frozen_gaussian_ceiling": "113795042713992926650746873/29171803750400000000000000000",
+  "sharpened_gaussian_ceiling": "113795043963992926650746873/29171803750400000000000000000",
+  "old_peer_kappa": "1950428633893/500000000000000",
+  "frozen_kappa": "78017145383/20000000000000",
+  "projected_grid_kappa": "121901791/31250000000",
+  "delta_over_frozen": "857/20000000000000",
+  "delta_over_peer_report": "22107/500000000000000",
+  "delta_over_old_peer_crossing": "796482803333402923492971238289/18014398375264256000000000000000000000000",
+  "old_period_factor": "22067/21981",
+  "sharpened_period_factor": "257/256",
+  "old_positive_debit": "32493/262144",
+  "sharpened_positive_debit": "1039701/8388608",
+  "directed_paid_reserve_gt": "17952279789/1000000000000000000",
+  "next_lower_debit_shortfall_gt": "3604493007/50000000000000000",
+  "remaining_ordinary_headroom": "12145614473425912940945878127/18014398375264256000000000000000000000000",
+  "entry_surcharge_bits": 121121,
+  "complete_recurring_log2_C": 85945126846,
+  "signed": {
+    "entry": {
+      "strict": 54,
+      "functional": 4,
+      "smallest_margin": "1/10000000000000000000",
+      "ordinary_margin": "1/1000000000000000000",
+      "positive_margin": "138585758275144387223/419430400000000000000000"
+    },
+    "terminal": {
+      "strict": 54,
+      "functional": 4,
+      "smallest_margin": "1/10000000000000000000",
+      "ordinary_margin": "1/1000000000000000000",
+      "positive_margin": "16063725946873/29171803750400000000000000000"
+    }
+  },
+  "negative_controls": [
+    "old positive debit at new projection",
+    "adjacent higher grid rate"
+  ],
+  "source_pins": {
+    "r411/audit/inputs/8094-RESULT.json": "915e124475494b08e786eb433e6591d85f2bdedebd624a45b49504c63bbb30e6",
+    "r411/audit/inputs/outer_budget.py": "ca4438db28a447ed5c43d87d43f0ac10a0cb2b4e183342ac93139d517b9d4d02",
+    "r414/independent-price/RECEIPT.json": "778279dcc9aa74c03df29263f05ad4230f49c8ebd8c4e6384c890bad7e30d090",
+    "typed_transport.py": "b76b9ad3dc0dd91473026c079585f830387eaa3c34c25a7820ee5057d5cbf941",
+    "grades.py": "6124744b40f806c80b6f10010a72e755bc11d64a8cc9a04f5e8316799eb6f05d",
+    "positive_debit.py": "32ee6a20e8f7fe6e2d1a3852b232179b0c6736c816f5bfd7bd9ec62cbffa9eb8"
+  }
+}

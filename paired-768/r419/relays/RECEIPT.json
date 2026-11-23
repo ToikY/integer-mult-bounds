@@ -1,0 +1,126 @@
+{
+  "archive_sha256": "0e0d559bdb15e7b647f88a2b5e27fcdc9e28e81d8f4145459876ba6da2e9314c",
+  "cases": [
+    {
+      "adjoint_columns": 512,
+      "charts": [
+        412,
+        798,
+        922
+      ],
+      "dimensions": [
+        2,
+        4,
+        7
+      ],
+      "forward_columns": 512,
+      "inserted": 104489,
+      "paid_grades": [
+        2,
+        3,
+        5
+      ],
+      "quarter_turn_detected_at_column": 0,
+      "removed": [
+        95398,
+        99468
+      ],
+      "wrong_fourier_detected_at_column": 0
+    },
+    {
+      "adjoint_columns": 512,
+      "charts": [
+        614,
+        795,
+        917
+      ],
+      "dimensions": [
+        3,
+        5,
+        7
+      ],
+      "forward_columns": 512,
+      "inserted": 104490,
+      "paid_grades": [
+        2,
+        2,
+        4
+      ],
+      "quarter_turn_detected_at_column": 0,
+      "removed": [
+        97628,
+        100531
+      ],
+      "wrong_fourier_detected_at_column": 0
+    },
+    {
+      "adjoint_columns": 512,
+      "charts": [
+        392,
+        1037,
+        918
+      ],
+      "dimensions": [
+        2,
+        5,
+        7
+      ],
+      "forward_columns": 512,
+      "inserted": 104491,
+      "paid_grades": [
+        3,
+        2,
+        5
+      ],
+      "quarter_turn_detected_at_column": 0,
+      "removed": [
+        95050,
+        101275
+      ],
+      "wrong_fourier_detected_at_column": 0
+    },
+    {
+      "adjoint_columns": 512,
+      "charts": [
+        411,
+        1038,
+        921
+      ],
+      "dimensions": [
+        2,
+        5,
+        7
+      ],
+      "forward_columns": 512,
+      "inserted": 104492,
+      "paid_grades": [
+        3,
+        2,
+        5
+      ],
+      "quarter_turn_detected_at_column": 0,
+      "removed": [
+        95056,
+        95425
+      ],
+      "wrong_fourier_detected_at_column": 0
+    }
+  ],
+  "compressed_word_sha256": "6ef741c346ea075c4f2ed11f9d42d7076103e72d4a9e5059d495f1cb990fd149",
+  "head": "c20a08dc0a79a989e3515068560d5da371c0a2a8",
+  "layout_sha256": "0ce3f9e383fc4bfdd22612b9e34fc9759d97204215937b82d23aec2cedd9b8ee",
+  "predecessor_source_manifest_sha256": "b33575085bcaf8e646ad7656d1f8d2c7ad402712e6b49efd307fc926f2fb39b0",
+  "predecessor_word_sha256": "38d2b3a2311a9ba5fee091cc7aa204c7ed95651aec95d75184b2391df090cbfb",
+  "r411_check_sha256": "4550e49016c989e96d40bb2951a6d4673fb781a5e39e74354a6472817b38369e",
+  "r416_check_sha256": "befc9fb22e975d3fcf6103b64bfd553996686394a334bd05f9e96732c4a09cb3",
+  "scope": "Four remaining literal chart factors, exact Gaussian dyadic columns; physical runs not performed",
+  "source_sha256": {
+    "gauss_phase.py": "a087d0dd5f448d39e6a2dfdc876be7238b75a55b8f9c350eda3907a1865bcb56",
+    "inputs/review/clifford_exact.py": "2982ead07721e83358dc67c6f49c2b4c16a236a6bebdfd72f58221be1f5d0962",
+    "inputs/review/native_verify.py": "3049471905b47b385c88378a1a3be7a18b8858aadd035b8a6da2f4a03b470f38",
+    "phase_atlas.py": "6425300f5d3d984290496df0ff411aca6879869b285298e553cd4d94ba02faa7"
+  },
+  "status": "PASS_FOUR_RELAY_FACTORS_AND_ADJOINTS",
+  "word_git_blob": "2381d62342e3caa457e1ef498f05ba98dcc1b11c",
+  "word_sha256": "ed3bea7186f962f3a8a8ae389cecce3d1ef48a7a832cf9af6c9048a6b5919b35"
+}

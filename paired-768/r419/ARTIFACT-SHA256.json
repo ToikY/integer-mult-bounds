@@ -1,0 +1,20 @@
+{
+  "CLOSEOUT.md": "44de0814068ab77ffd0e4d08ca7f07dadab29988001455e076bd95bafadb6910",
+  "RESTART.md": "17c9939752505398ad6396412516c0881840a3feb78c6f301ba6263b3c8b0422",
+  "ROUND-PLAN.md": "3d697bef614124a2189e4d41204ca44df3ce42f193d2b397c236962f737c5197",
+  "RUNNER-REQUEST.md": "6b4bfb459aa3198f4041ae3809e72364bacd079fafcdbdbe0cfbe65ce3b9ce34",
+  "binding/README.md": "e96a68f307177339c9524dc5c225f4d0ba6dbdfb58d779679e22bf37e1cae066",
+  "binding/RECEIPT.json": "379e44bbd2ee884783f164331feb0c2999bedded3ce673e68da7e78f27ea6665",
+  "binding/check.py": "65b600bb0b89ac5b9d9a8d937c33d85cfd93b53c6337903d14f5b8286f132619",
+  "binding/exit.txt": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa",
+  "binding/time.txt": "69f9f3aa5b065ed3264861cca5720425b490a1115f7d8853c8cab77a2ff93a52",
+  "cross-price/RECEIPT.json": "f2f2c6ffb164084c3e977a1b7699754918ed1e15bee585c1285dbae3d7afb42d",
+  "cross-price/check.py": "287d8d8d52b90ffbfdf45d639152034d090a6f2705a01f31d5f69c6c3a4c5dd3",
+  "cross-price/time.txt": "41a12b7782903fdd27506cca2a48afd88976ac3019a8e5edb812922a66b527e0",
+  "exec-note.md": "5d9afe7ecd88c3c5f9bc3193ff81094193f740b2fd64ba84218cf4def401e537",
+  "relays/README.md": "43d430439032c15c95303b362184ca5cfa3c3c48438ad79bd6b46ad8977ba8d6",
+  "relays/RECEIPT.json": "cd93574aa21acd2fc53a7093b88951521777230843b4341b6cc31ef863ea089a",
+  "relays/check.py": "a772b6ff474babe046e443dcc4deeb11b16d0ff754d3b93d3148ec2cb9410483",
+  "relays/exit.txt": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa",
+  "relays/time.txt": "b70568ea318aa027ee13c45b609b43b33060f5f1e1e851bbdd9a8e24463f65d3"
+}
