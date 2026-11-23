@@ -1,0 +1,134 @@
+{
+  "actual_runtime_delta": [
+    "installations.py"
+  ],
+  "actual_runtime_files": 106,
+  "archive_members": 88,
+  "clean_detached_checkout": true,
+  "command": [
+    "python3.12",
+    "-IB",
+    "scripts/research_package.py",
+    "--package",
+    "research/p104-expanded-budget-25bit"
+  ],
+  "committed_files": 31,
+  "compared_peer_head": "b72d3fa097d2521939f6b8536029da674648d863",
+  "complete_recurring_log2_C": 4354317571,
+  "conditional_kappa": "194923/50000000",
+  "end_utc": "2026-11-23T05:16:09Z",
+  "entry_conversion": 8744,
+  "evidence_file_sha256": {
+    "README.md": "1726490a4398c73cbeaf954541e52c9bea0359b1d648ae1fcab586667677b78b",
+    "check-only.log": "5873404cb4424dca918a00d503569f3c29a3190fd029a007e1afb2006399f647",
+    "check-source.log": "ed4fb88bd2cf7c85807cbdc20be18bdc3b76f2b8791c99f8f6e4b2febff3473e",
+    "comparison-invoice.json": "4253720ad64546deb0faa27a8ca6c84b09195971561e8274c599738982d93564",
+    "comparison-invoice.time": "9fb4b5fb9b3d0fb009d4d834a8f19828a08924665343c8d4e09858cb2bc3931b",
+    "comparison.exit": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa",
+    "exact-head": "a03de9a7a153a6334a4685b3bb13c44bd863ba9504615f7a7c887d223180aa51",
+    "git-lineage.log": "4a66c426c1640bc884d77cbf3a8ac61d25ced81c01bf7a8ab0f26e497b600284",
+    "hosted-markers.log": "426609bcc7ae63b21860d66d6a377510a010a57ed5ef7aa4cc9b798a3b04f300",
+    "hosted-readback.json": "ae4dcda9c510640e63ff25ad8da2b57b04662f1bcbd025044b45c65eaf1781d3",
+    "hosted-readback.utc": "72fc3bbdfd727465180182f89f4da84afddbb5c7724dcdcf3e75ad411256da34",
+    "hosted-run.json": "33ac968141452c4c81c8661b4ed7dd624d599ae0447d20c00b451443259af244",
+    "independent_compare.py": "280e90552688c89bd639372c72658d49480b36380f1de332f51893e3e8d9b3d5",
+    "package-ls-tree.log": "1920febd63dbad1dfb859bef7451ec2bf4d3859683caf897ffc5dea13cfef49d",
+    "post-replay.status": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "pre-replay.status": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "python-version": "4c3569f5da09975434dd9fd9a91fadbc4367a91d8f3c3fab59e9241ab9ee4bd8",
+    "registered_replay.py": "3eeff85b8f55e686c293cac0ec724e383572d2dfb1fec1ac26dcd3fc99a3e6ca",
+    "replay-end.utc": "ea1d0e960bc0193c3b1a831a63f3f7ab9ed43c470261912f089fa18f73e47189",
+    "replay-observed.jsonl": "65cce8fe09d139c71c6e9f72ea1a978752ea241b87204061de5d1a4b4bd5e0ce",
+    "replay-start.utc": "fc6bb97e50c366d51f05094f5c5834f3f6b040f0ecdbdeaf6eb2c23542b55aae",
+    "replay-summary.json": "05695e80a043e1bb717648e9b5b7bd3a4ae0d8b408b48290baa6ba2f26c26806",
+    "replay.exit": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa",
+    "replay.log": "667c639a49abfb592ae70e2b06b2779c602b14cce267e7cdc41d3fa7d541c502",
+    "reserved-scope.json": "57624a1f15dfdad755285cd06f2998da11cbd25b0b75340673926558e4a14c08",
+    "seal_replay.py": "ce7510deee8604e83bc13ddfdea29912ce6ae760324b59b645cc9aea2a4eccdc"
+  },
+  "exact_stopped_family_ceiling": "15407802515941573408769828489/3952279237427200000000000000000",
+  "exit_code": 0,
+  "failed_modes": [],
+  "fixed_setup_transition_upper": 217364571993743287866367176320080817069553173293686105666269057384448,
+  "head": "510113821774bb27f7ddaad4e8b94837a1c2cf52",
+  "hosted": {
+    "actual_scope_count": 8,
+    "conclusion": "success",
+    "head": "510113821774bb27f7ddaad4e8b94837a1c2cf52",
+    "job": 137496902866,
+    "raw_log_sha256": "e29c00a156832de901599e16ad4639ad0344edbb093480cc65fede02a3846e3d",
+    "run": 45114926967,
+    "url": "https://github.com/CrocSwap/integer-mult-bounds/actions/runs/45114926967/job/137496902866"
+  },
+  "max_native_height": 18845936,
+  "minimum_sampled_disk_free_bytes": 9227022336,
+  "modes": [
+    {
+      "mode": "price",
+      "result": "pass"
+    },
+    {
+      "mode": "calendar",
+      "result": "pass"
+    },
+    {
+      "mode": "raw",
+      "result": "pass"
+    },
+    {
+      "mode": "exterior",
+      "result": "pass"
+    },
+    {
+      "mode": "nested",
+      "result": "pass"
+    },
+    {
+      "mode": "product",
+      "result": "pass"
+    },
+    {
+      "mode": "setup",
+      "result": "pass"
+    },
+    {
+      "mode": "8072-parent-source-pins",
+      "result": "pass"
+    }
+  ],
+  "peak_rss_bytes": 1254309888,
+  "peer_movement_vs_8078": "3/25000000",
+  "peer_percent_vs_8078": "600/194917",
+  "per_mode_timeouts_seconds": [
+    150,
+    300,
+    160,
+    130,
+    100,
+    260,
+    90,
+    10
+  ],
+  "profile": "460",
+  "python_version": "Python 3.12.14",
+  "registration_outcome": "partial",
+  "scope": "All eight registered high-profile modes executed",
+  "signed_scope_markers": {
+    "actual_directory": "\"directory_records\": 2407819",
+    "charged_installer": "\"actual_terminal_carrier_bits\": 18845937",
+    "exact_price": "PASS_WEIGHTED_COMPLETE_PRICE 4354317571",
+    "genuine_exterior": "PASS_EXTERIOR_TYPED_RAW",
+    "nested_grant": "4507783464",
+    "signed_four": "PASS_TYPED_RAW48 1 columns 4",
+    "signed_product": "\"product\": \"-345550037539\"",
+    "signed_two": "PASS_TYPED_RAW48 0 columns 2",
+    "symbolic_cutoff": "PASS_EXACT_SYMBOLIC_UPPER_FENCE"
+  },
+  "skipped_modes": [],
+  "start_utc": "2026-11-23T05:12:10Z",
+  "timing_seconds": {
+    "real": 238.95,
+    "sys": 64.71,
+    "user": 169.08
+  }
+}

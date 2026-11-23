@@ -1,0 +1,17 @@
+{
+  "peer": "510113821774bb27f7ddaad4e8b94837a1c2cf52",
+  "status": "input authentication only, price gate unrun",
+  "path_and_source_sha256": {
+    "research/p104-expanded-budget-25bit/RESULT-460.json": "4e173fd0a9f4b593baf706a00899cc1336dae5eab922c43e6551775256733f63",
+    "research/p104-expanded-budget-25bit/SETUP-PROOF.md": "e7955f69cdfae30a08a120ebc60c803aa2cc11b8a30c06ace6f29ccbba5fae8f",
+    "research/p104-expanded-budget-25bit/PROOF.md": "835bd553c6a114c5c6f77cb44a9aaab092383d1764715cd877c4cf0ad8f7521c",
+    "research/p104-expanded-budget-25bit/prepare.py": "76f9d4c6bfd880ee49f6ba5bde9138cf0856d669edb4d525e48ca71a9094eec3",
+    "research/p104-expanded-budget-25bit/retune.py": "ceb036d4e2c375eea74a7d20e2aca5a99f432814d235372dd6ce4bc1adea7a3e",
+    "research/p104-expanded-budget-25bit/check_setup_expanded.py": "42ef84680d093bb221b05254f534416515314d0c9adb38ea518c6d90549af3e5",
+    "research/p104-expanded-budget-25bit/PEER-SOURCE.json": "798c2e6394c258986484a116198cc542a6d2b4c1f289e5816de2cfecf5141c51",
+    "research/p104-expanded-budget-25bit/peer8057.tar.gz": "0e0d559bdb15e7b647f88a2b5e27fcdc9e28e81d8f4145459876ba6da2e9314c",
+    "#8078 RESULT-340": "f084851c816440c98c9569ed2d9b5e0b758b35c241edaa17706d031b252f46fb",
+    "Round406 period receipt": "5f3af25d3d1a9975ae43242efecbd2f5cb066d656566e61a1278946a76f72db0",
+    "Round405 directed invoice": "b6847722fbefe668fc7a9cfab50c665b16bbeb8cfe6fbdb14a25944ab8af5978"
+  }
+}

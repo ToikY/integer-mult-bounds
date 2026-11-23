@@ -1,0 +1,11 @@
+2026-11-23T05:05:14.8187118Z PASS_WEIGHTED_COMPLETE_PRICE 4354317571
+2026-11-23T05:05:14.8254833Z PASS_ENLARGED_BUDGET_SIGNED 460 price
+2026-11-23T05:06:56.1597049Z PASS_ENLARGED_BUDGET_SIGNED 460 calendar
+2026-11-23T05:07:48.5733458Z PASS_ENLARGED_BUDGET_SIGNED 460 raw
+2026-11-23T05:08:52.3366673Z PASS_ENLARGED_BUDGET_SIGNED 460 exterior
+2026-11-23T05:09:54.3435370Z PASS_ENLARGED_BUDGET_SIGNED 460 nested
+2026-11-23T05:11:15.6699746Z PASS_ENLARGED_BUDGET_SIGNED 460 product
+2026-11-23T05:11:41.3930109Z PASS_EXPANDED_SETUP {"actual_terminal_carrier_bits": 18845937, "added_carrier_scalar_steps": 137556398080, "directory_bytes": 36094651, "directory_records": 2407819, "directory_sha256": "09acde5f62a913bd4c22b38b4e4bca849e1459ba1ec2f83e9699507286909fb7", "extra_action_ceiling": 1099511627776, "heights": [3000, 3080, 1024, 8192, 38102, 604362, 18845936], "largest_directory_integer_bits": 267, "matches_recorded_directory": true, "max_parameter_bits": 25, "oversized_or_invalid_scalar_controls_rejected": ["eta_denominator", "eta_numerator", "kappa_denominator", "kappa_numerator", "nonpositive_stop_denominator", "positive_stop_denominator"], "power_of_two_upper": 228, "profile_scalar_encoding_bits": {"entry": {"eta_denominator": 14, "eta_numerator": 6, "kappa_denominator": 15, "kappa_numerator": 7, "positive_stop_denominator": 60}, "terminal": {"eta_denominator": 14, "eta_numerator": 6, "kappa_denominator": 26, "kappa_numerator": 18, "positive_stop_denominator": 60}}, "scalar_guard_bits": 128, "scope": "native fixed constructor and serial upper bound; no new WASI trace", "serial_transition_upper": 217364571993743287866367176320080817069553173293686105666269057384448}
+2026-11-23T05:11:41.8075737Z PASS_ENLARGED_BUDGET_SIGNED 460 setup
+2026-11-23T05:11:41.9733434Z PASS_PARENT_8072_CHANGED_FILE_BLOBS 10 75f7e1c44f48c43983016bcf8878c4d9e5e87c62
+2026-11-23T05:11:41.9804263Z PASS_REGISTERED_RESEARCH_PACKAGE research/p104-expanded-budget-25bit outcome=partial
