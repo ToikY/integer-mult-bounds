@@ -1,0 +1,175 @@
+CHECK Check the charged 2401/1024 ordinary tariff, fixed stage costs, adjacent and prior-envelope controls, unchanged Gaussian factor, placement and complete signed invoice.
+PASS_WEIGHTED_COMPLETE_PRICE 318291900
+PASS_DIRECTED_ORDINARY_DEBIT 18960 11178/8192 2400/2401 8/L
+PASS_CHILD_TARIFF 2401/1024 volume<=75/32 sum=2401 entry+5 terminal+9
+PASS_INDEPENDENT_WEIGHTED_AND_QUARTER_PRICES
+[
+  {
+    "H": 1024,
+    "cell": [
+      1,
+      112,
+      1,
+      258
+    ],
+    "share": "1/624",
+    "rotated_roots": 384,
+    "first_root": [
+      "root",
+      "rotated",
+      0,
+      4080,
+      1
+    ],
+    "period": 1364,
+    "tickets": [
+      0,
+      272,
+      545
+    ],
+    "first_swap": [
+      1,
+      272,
+      1
+    ]
+  },
+  {
+    "H": 509812,
+    "cell": [
+      1,
+      112,
+      1,
+      258
+    ],
+    "share": "1/624",
+    "rotated_roots": 384,
+    "first_root": [
+      "root",
+      "rotated",
+      0,
+      4080,
+      1
+    ],
+    "period": 1364,
+    "tickets": [
+      0,
+      272,
+      545
+    ],
+    "first_swap": [
+      1,
+      272,
+      1
+    ]
+  }
+]
+PASS_CHILD_TARIFF price
+CHECK Check the K7 matched-interval census, exact charged capped crossing, previous and adjacent profiles, signed restoration and compiler seams.
+PASS_TWO_NATIVE_TYPES 2048 1040 2 (13600, 26400) 951040 (4684, 22252) 37152 {(0, 1), (1, 0), (1, 1)}
+[
+  {
+    "frequency": [
+      1,
+      3
+    ],
+    "raw_frames": 7620,
+    "directed_bindings": {
+      "(1, 1)": 2688,
+      "(1, 0)": 420,
+      "(0, 1)": 704
+    },
+    "depth": 3,
+    "peak_simultaneous_frames": 4484,
+    "external_opens": 192,
+    "zeros": 9232,
+    "external_rows": 1152,
+    "positive_periods": [
+      16
+    ],
+    "leaf_axes": 377008,
+    "same_tick_return_before_next_loan": 3392
+  },
+  {
+    "frequency": [
+      1,
+      90
+    ],
+    "raw_frames": 25120,
+    "directed_bindings": {
+      "(1, 1)": 12320,
+      "(1, 0)": 12,
+      "(0, 1)": 24
+    },
+    "depth": 3,
+    "peak_simultaneous_frames": 16848,
+    "external_opens": 14912,
+    "zeros": 22628,
+    "external_rows": 39040,
+    "positive_periods": [
+      8,
+      12,
+      16
+    ],
+    "leaf_axes": 862608,
+    "same_tick_return_before_next_loan": 12344
+  },
+  {
+    "frequency": [
+      5,
+      451
+    ],
+    "raw_frames": 25152,
+    "directed_bindings": {
+      "(1, 1)": 12384,
+      "(1, 0)": 12,
+      "(0, 1)": 24
+    },
+    "depth": 3,
+    "peak_simultaneous_frames": 16868,
+    "external_opens": 15104,
+    "zeros": 22436,
+    "external_rows": 39552,
+    "positive_periods": [
+      8,
+      12,
+      16
+    ],
+    "leaf_axes": 862544,
+    "same_tick_return_before_next_loan": 12408
+  }
+]
+PASS_LITERAL_UPPER_FENCE 1724 1874 (1024, 509812)
+PASS_LITERAL_LOWER_CUTOFF 1874 (1866, 3732) [(0, 0, 3748, 4), (0, 1, 3748, 390), (0, 0, 3750, 4), (0, 1, 3750, 389), (1, 0, 3748, 390), (1, 1, 3748, 35187), (1, 0, 3750, 389), (1, 1, 3750, 35150)] 523324250322
+PASS_LITERAL_CHILD_TARIFF {"candidate_gaussian_slack": "441096658027/427661302169600000000000000000", "candidate_ordinary_slack": "6388462944784602001/134217728000000000000000000000000", "comparator_family_ceiling": "523210198560303585338978849681/134217728000000000000000000000000", "higher_adjacent_ordinary_shortfall": "52110568421972651119/134217728000000000000000000000000", "historical_debit_shortfall": "25132665927681050851/26843545600000000000000000000000", "historical_family_ceiling": "523209464347189355219919950737/134217728000000000000000000000000", "historical_gaussian_negative_gap": "5290830738777425573/274384656793600000000000000000", "historical_height_shortfall": "354613496784311279/823153970380800000000000000000", "historical_ordinary_negative_gap": "131786329075081068292016650499/77580469414725995724800000000000000000", "lower_adjacent_gaussian_shortfall": "815219532879349051/1710641853235200000000000000000", "new_family_ceiling": "1667119388378402860472786027/427661302169600000000000000000", "prior_family_ceiling": "523209442801521766233321100177/134217728000000000000000000000000", "prior_ordinary_booking_shortfall": "825268424832351836974191/134217728000000000000000000000000", "seven_level_negative_gap": "949618999849667259182401851/233169615645211570995200000000000000000", "signed_tape": [{"component_width": 1, "modulus": 3, "paid_exchanges": 3, "records": 81, "wrong_signed_return_rejected": true}, {"component_width": 2, "modulus": 9, "paid_exchanges": 1, "records": 6561, "wrong_signed_return_rejected": true}], "stage_seams": [{"compiled": [{"component_log": 4290, "direct": false, "predecessor_cut": 8290, "rank_log": 117168, "scanned_log": 1100000, "stage": 2}, {"component_log": 17160, "direct": false, "predecessor_cut": 125522, "rank_log": 524288, "scanned_log": 4400000, "stage": 3}], "cuts": [8290, 125522, 649874], "direct": [{"component_log": 546, "direct": true, "predecessor_cut": 8290, "rank_log": 117168, "scanned_log": 140000, "stage": 2}, {"component_log": 2613, "direct": true, "predecessor_cut": 125522, "rank_log": 524288, "scanned_log": 670000, "stage": 3}], "ranks": [8192, 117168, 524288]}, {"compiled": [{"component_log": 4290, "direct": false, "predecessor_cut": 8290, "rank_log": 111681, "scanned_log": 1100000, "stage": 2}, {"component_log": 17160, "direct": false, "predecessor_cut": 120035, "rank_log": 524288, "scanned_log": 4400000, "stage": 3}], "cuts": [8290, 120035, 644387], "direct": [{"component_log": 546, "direct": true, "predecessor_cut": 8290, "rank_log": 111681, "scanned_log": 140000, "stage": 2}, {"component_log": 2613, "direct": true, "predecessor_cut": 120035, "rank_log": 524288, "scanned_log": 670000, "stage": 3}], "ranks": [8192, 111681, 524288]}]}
+PASS_LITERAL_ORDINARY_FLOOR {"binary_all_size": {"birth_bound": "2V", "copy_group_bound": "3N^3", "first_two_columns": [18952, 18954], "fringe_upper_1e9": 7439580927, "grid_absolute_error_exponent_at_H1024": -27312, "minimum_positive_scale_h_guard": 1024, "normalized_error_allowance": "2^-128", "psi_lower_floor": 386067, "suffix_birth_error_upper_at_H1024": "2^30/N^5", "suffix_target_axes": 286098, "whole_field_width": "N^92"}, "binary_integer_fixture": {"carrier": 8388608, "extent": "complete fixture event stream", "first_band_contacts": [[18960, 29, [[0, 0, 24764, 7], [0, 1, 24764, 7], [0, 0, 24766, 2], [0, 1, 24766, 2], [1, 0, 24764, 7], [1, 1, 24764, 7], [1, 0, 24766, 2], [1, 1, 24766, 2]]], [18962, 29, [[0, 0, 24766, 5], [0, 1, 24766, 5], [0, 0, 24768, 5], [0, 1, 24768, 5], [1, 0, 24766, 5], [1, 1, 24766, 5], [1, 0, 24768, 5], [1, 1, 24768, 5]]]], "lower": 18960, "lower_return_counts": {"18952": 108, "18954": 120}, "native_closes": 323165, "native_opens": 323165, "paid_singletons": 683705746532, "returned_paid_prefixes": 432, "tested_occupied_K7_grade": [49, 64], "upper": 24774}, "new_binary_openings": [{"ambient": 134, "first_columns": 18952, "height": 3000, "lower": 18960, "plan_arguments_checked": true}, {"ambient": 134, "first_columns": 18952, "height": 3080, "lower": 18960, "plan_arguments_checked": true}, {"ambient": 134, "first_columns": 18952, "height": 8192, "lower": 18960, "plan_arguments_checked": true}, {"ambient": 134, "first_columns": 18952, "height": 111681, "lower": 18960, "plan_arguments_checked": true}, {"ambient": 134, "first_columns": 18952, "height": 524288, "lower": 18960, "plan_arguments_checked": true}]}
+PASS_CHILD_TARIFF calendar
+CHECK Execute both nonzero signed native jobs and restore all physical owners.
+PASS_TYPED_RAW48 0 columns 2 paid 282576 nonzero 16 writes 71808 peak 62448
+PASS_TYPED_RAW48 1 columns 4 paid 281568 nonzero 15 writes 71808 peak 62448
+PASS_CHILD_TARIFF raw
+CHECK Generate the first exterior births and return all owners through the actual signed words.
+PASS_EXTERIOR_TYPED_RAW (23675909805548, 2135567064460396) 73 105216 564144 [4456224, 234] [0, 121432]
+PASS_CHILD_TARIFF exterior
+CHECK Carry the actual nonzero cross-type nested loan and verify both owner returns.
+real nested transfer completed 3418 ('helper', 9977, 0, 14) [281568, 2]
+PASS_NONZERO_INTERIOR 282576 281568 9841 4507783464 2 [0, 118692]
+PASS_CHILD_TARIFF nested
+CHECK Execute the exact signed product and independently verify coefficients and restoration.
+{"H_calls": 157248, "bits": [20, 19], "coefficients_prefix": [11811, 10996, 4152, 868, 77], "padded_bytes": 633744, "product": "-345550037539", "rank": 2, "seconds": 71.5994, "shuttles": 138, "stage_body_records": 6561}
+PASS_WEIGHTED_SIGNED_PRODUCT
+PASS_CHILD_TARIFF product
+CHECK Check canonical serial division, Bézout, rational arithmetic and the conservative fixed native setup tape bound.
+{
+  "integer_pairs": 4071,
+  "rational_cases": 7396,
+  "max_datum_bits": 274877906944,
+  "lookup": 170141183460469231731687303715884105728,
+  "local_arithmetic": 297105609434291902295870930944,
+  "all_setup": 217364570380528137475793294892811967875864032914108887556978854854656,
+  "setup_exponent": 228
+}
+PASS_CHILD_TARIFF setup
+PASS_REGISTERED_RESEARCH_PACKAGE research/p104-weighted-child-tariff outcome=completed
+real 223.92
+user 166.62
+sys 53.39

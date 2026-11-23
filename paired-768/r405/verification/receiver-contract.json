@@ -1,0 +1,69 @@
+{
+  "quotient_low_census": [
+    {
+      "rank": 2,
+      "lows": 16,
+      "frames": 24,
+      "sharp_histogram": {
+        "5": 8,
+        "1": 8
+      },
+      "same_high_count_at_modulus_9": 27,
+      "exact_worst_mean": "3"
+    },
+    {
+      "rank": 3,
+      "lows": 416,
+      "frames": 234,
+      "sharp_histogram": {
+        "5": 96,
+        "3": 128,
+        "1": 192
+      },
+      "same_high_count_at_modulus_9": 729,
+      "exact_worst_mean": "33/13"
+    }
+  ],
+  "signed_direct": [
+    {
+      "width": 1,
+      "modulus": 3,
+      "records": 1296,
+      "one_child_each_direction": true,
+      "child_shape": [
+        1,
+        2,
+        6,
+        6,
+        8
+      ]
+    },
+    {
+      "width": 2,
+      "modulus": 9,
+      "records": 104976,
+      "one_child_each_direction": true,
+      "child_shape": [
+        1,
+        2,
+        18,
+        18,
+        8
+      ]
+    }
+  ],
+  "max_child_volume_per_paid_owner": "75/32",
+  "normalized_moments": [
+    "t",
+    "1"
+  ],
+  "child_contraction": "2400/2401",
+  "finite_geometric_sum": 2401,
+  "receiver_source_sha256": {
+    "five_exchange.py": "cf56446080a3b31b654e58d91d3d62dc8790f0f06e3d458775d2723d607ae8fe",
+    "inputs/triangular/quotient_route.py": "3243f45d6097a80bc8b077d8682426e4555f6c4a3097bd0a12ffd4f1f5c45ba8",
+    "inputs/triangular/direct_body.py": "cdaa0d01caa678fca495713ae9ae4efcc33c1af063d7c7de76a76d6da077b1fc",
+    "inputs/triangular/receiver.py": "5d9faeabe8ccc4a4ccf670f91322016cf33b2c2a497fd78b41f3750fbadae560",
+    "inputs/triangular/same_order_body.py": "56a15ce431daf25794741cb5157e136ce509ed646b32aaea34348088396e459d"
+  }
+}

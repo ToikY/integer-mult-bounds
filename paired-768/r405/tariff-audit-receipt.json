@@ -1,0 +1,18 @@
+{
+  "above_prior_stopped_family_ceiling": "66295326661021150319/134217728000000000000000000000000",
+  "absolute_rate_gain_if_replayed": "247/500000000000000",
+  "archive_head": "cbe847a953b971f9c6c5a0a6661e2008acd29086",
+  "charge_both_moments": "2401",
+  "child_ratio": "2400/2401",
+  "comparator_head": "cf4c4b7ea4b746be174ee4ba4e49f03b5bc79f8e",
+  "entry_ordinary_log2_B": 125433364,
+  "negative_coarse_tariff_geometric_ratio": "1",
+  "receiver_head": "dfd25d553a843a946ca0b94130a5ff8943e98fdd",
+  "terminal_ordinary_log2_B": 207887177,
+  "two_stage_entry_coefficients": [
+    "1731856/25",
+    "282475249/100"
+  ],
+  "whole_recurring_log2_C": 318291820,
+  "whole_recurring_log2_C_change": -91
+}

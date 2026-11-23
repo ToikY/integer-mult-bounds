@@ -1,0 +1,1329 @@
+{
+  "actual_nested_marker": "real nested transfer completed 3418 ('helper', 9977, 0, 14) [281568, 2]",
+  "clean_detached_checkout": true,
+  "command": "python3.12 -IB scripts/research_package.py --package research/p104-weighted-child-tariff",
+  "corrected_candidate_inputs_sha256": {
+    "research/p104-weighted-child-tariff/LICENSE": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+    "research/p104-weighted-child-tariff/NOTICE.md": "1c0c2c629461ab50460f41761febfd49c728f1ce1797664d381f618d0e39ea9d",
+    "research/p104-weighted-child-tariff/PEER-SOURCE.json": "798c2e6394c258986484a116198cc542a6d2b4c1f289e5816de2cfecf5141c51",
+    "research/p104-weighted-child-tariff/PROOF.md": "aa38434530dc31c284a5610e177d6cf090407aee02b3cba1b6d3d6f7916bfde0",
+    "research/p104-weighted-child-tariff/README.md": "899e0bf09a211b6cc6de8aaaaa98c16aa32ba859873bf7b7ec6b6a4da4087869",
+    "research/p104-weighted-child-tariff/RESULT.json": "e37781c0ffcda49b6adc31501cf062d3bbcb6344765440183e96b2572c65411b",
+    "research/p104-weighted-child-tariff/SOURCES.json": "b3197501bae90ec16c4d99c186e74dfe28e0f5f730e6b8bb94e2d0ce78bcf69c",
+    "research/p104-weighted-child-tariff/TASK.json": "d6afd1c7f5111d51b36ece0cb409ff3cc0185b9f4077b03448480ecb98570560",
+    "research/p104-weighted-child-tariff/VERIFY.json": "b27dc7710a15b211a4109055faa35b66db13fe62d2a2454795f3720b7bab7e84",
+    "research/p104-weighted-child-tariff/check_cutoff.py": "07bb320dc80b0ceab90b6820af7fe19e4c30f6a6a6d8d24982243911007d874b",
+    "research/p104-weighted-child-tariff/check_ordinary_floor.py": "01336deda6a999a17723222879217c2ca52598e629deae1f8ed362093e95fdce",
+    "research/p104-weighted-child-tariff/check_stage_seam.py": "822ffc5fafa13655c6f6f98de057c09fa56dc2a38b145d90688b6f742a891ec3",
+    "research/p104-weighted-child-tariff/peer8057.tar.gz": "0e0d559bdb15e7b647f88a2b5e27fcdc9e28e81d8f4145459876ba6da2e9314c",
+    "research/p104-weighted-child-tariff/prepare.py": "cc7e6c5176f1bc19d98a85cf0da5d436d9d9c5caa80c979b53178678a96901f6",
+    "research/p104-weighted-child-tariff/verify.py": "315d21e737c151428fada558c347bd8c92777c641a11ffe4503dc4bdb0d411ef"
+  },
+  "dependency_roots": {
+    "candidate_checkout": "corrected/checkout/",
+    "canonical_object_store": "../../round347/cold-verification/.git/objects",
+    "comparator_evidence": "../../round404/independent",
+    "invoice_primitives": "../../round403/independent/independent_invoice.py",
+    "peer_blob_pin": "../../round402/peer-pin",
+    "publisher": "../publish",
+    "receiver_proof": "../../round394/independent/sources",
+    "runtime": "candidate-image/runtime",
+    "signed_source": "peer-source/research/tiered-native-multiplier/source"
+  },
+  "end_utc": "2026-11-23T04:29:52Z",
+  "evidence_file_sha256": {
+    "../../round394/independent/sources/ORDINARY-CLOCK.md": "4694db0b2218796e348c1128271cebb3fc779151a639b0e0fb5bbecf9f3ccb94",
+    "../../round394/independent/sources/RECEIVER.md": "f31089b6304fc5352feb9aa8a963cc5a950a828165d3426e16e8a973529d814e",
+    "../../round394/independent/sources/TRANSFER.md": "7164831a5dd9f5c6231bf4c3f4b2061d91cbfab559071a0a5d68966e3f7ac55c",
+    "../../round394/independent/verified.json": "1eef4f1fb8c85e2ae81cf9cd4bede2a9e83f7c2e7e0a3508534100ce6e3e6ba7",
+    "../../round402/peer-pin/source-blobs.json": "9b698d0aea6a8510d4f6dc09735ae884c3894aea2051043381d3313422731927",
+    "../../round403/independent/independent_invoice.py": "7b06abca74493ca369601c426574e60ef15f5a5c8c76b4cfea2a8387fe32557c",
+    "../../round404/independent/REPLAY-RECEIPT.json": "0654a74dd2c424ff2e8b26cb9828f451b76bde6f8b35762cb2cb69ba83fdd1ce",
+    "../CANDIDATE-INPUTS-METADATA-REJECTED.json": "a2341307c832d64fa410bf696a072fbab196dffa2b9870f59a78a6b64aa8ad71",
+    "../CANDIDATE-INPUTS.json": "2720ac7e1db38ce9e320d4f14507ac6c7668775f7126f39de02949de27ad77c6",
+    "../acceptance-contract.md": "53e486851b2bfda6876f30723f6e785afe38b7a29c2c51b54ff1949fc871e1b9",
+    "../frontier/8073.json": "d683dddd4b005a1733757239769c39cc187804d0e1c20392a759da38a7fa2c2a",
+    "../metadata-only-correction.diff": "8186d671863560f52d7a899e7c2d44279bde05374072060c9aef6ca4e99e80d6",
+    "CORRECTED-HEAD.txt": "2ce5bdc7d4eebd9fe4ed4d0e39dfe9c861401cb2895deafd6e19034c112026a8",
+    "PLAN-ADDENDUM.md": "8338be9dff8caf91f1cab0acacfb12433c2f3698a9ea17cb0f56fdcd58f8f316",
+    "PLAN-ADDENDUM.sha256": "bce562da46d2c79d233e227b109c49551b2c528f7ba087b54edbdfdfcc63fd34",
+    "PLAN.md": "8925b0920be7cf9e849e03e0ac2217dd81dd5557687ad5b70e42036fd8b33fa6",
+    "PLAN.sha256": "24aebbd26a0cfa6505d4998a7376311a25bf35db1754d06fd4d5759114fdf957",
+    "SOURCE-SCOPE.md": "a40a5e5ab252bb3fe6955d1bff4b44342ece55365a4f93365409de2237a23f81",
+    "authenticate-candidate.log": "73929a73580fe655ad6521b850c3dcfce48315a8899cc33730d50903ea8de072",
+    "authenticate-sources.log": "c84765eccd23c08a679d43b8ebfa5cfbfc58f759c10db21b1b5f1dc75edea9d0",
+    "authenticate_candidate.py": "a477c7df1dcf4a826850f893129a2d5c801755e0476acb01ee6de39bcf4296b1",
+    "authenticate_sources.py": "95d77cfddfaf35b4ace93375121409455cbc5589a0a9ca4868940cf284861c6d",
+    "candidate-objects": "85c619e68eaaae99c031beefe819b6eceab476c23ac2138bc9b956cedbdef366",
+    "corrected/authenticate-candidate.log": "c181f221d78258813ccddc28f5c423d2524217c6dab882c27cf1d958e47eaf45",
+    "corrected/authenticate_candidate.py": "9a34d07ba3504f1eda0fe62a8633b2268a682d5a81b03464bb55655db6978f9c",
+    "corrected/candidate-objects": "8bf386c01b8aed414b654877595982fd4fe14600a2e1ef5384c47ceea694c8a9",
+    "corrected/correction-proof.log": "8186d671863560f52d7a899e7c2d44279bde05374072060c9aef6ca4e99e80d6",
+    "corrected/freeze.sha256": "9e055e114a06f6f1e946cd262131fc4f85c46cc5c4cafd266f705fd2e8606624",
+    "corrected/initialize.sh": "33e82c3694ce3f8c8a1ff287f4064adc22c63594553931aead34dbe74a3f1ea0",
+    "corrected/observe.py": "b07262111412cc66391a523f045c301ca44d3f915fe629a0075af9786329bbb5",
+    "corrected/pre-replay-worktree.status": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "corrected/replay-end.utc": "8af75e70d7074420e84affe36a92b23acf6bd7035600b784b984f04d1a3dfd2a",
+    "corrected/replay-observed.jsonl": "6df247bd6d59d2f412446d5c02695d7212b3816ab4eb7cb5d16bce9af4742ff7",
+    "corrected/replay-start.utc": "d92cbbd5ffaf02c11747bec767c8b5a87588c891528d927dd986df1624323f6d",
+    "corrected/replay-worktree.status": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "corrected/replay.exit": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa",
+    "corrected/replay.log": "5da4d8c2da91bf6d11b6392d49b60acc92916077552e19b83c20cf73ad57adbe",
+    "corrected/replay.sh": "88d34ff622441bd8fbb2142a98e1f250945dbda1c2a265b3f85140288caa53c6",
+    "finalize.py": "8c176c377c3d80a5a0d6adea04e2e48b6882eebd6cbfd65b13f5da100a0d2c87",
+    "independent-invoice.json": "b6847722fbefe668fc7a9cfab50c665b16bbeb8cfe6fbdb14a25944ab8af5978",
+    "independent-invoice.time": "e41d25fe13ef9960ab69b0dccbc459f549645e10a145c86ae2bfea662583e2f9",
+    "independent_invoice.py": "e004de53fbb51948a9387f83fca4f446e7510f6139f925c3d1daecf3f40f39c6",
+    "initialize.sh": "216609b28026f53b434b44a676933cb7bf3e74cb062aa5a61f72834033a0833a",
+    "observe.py": "b07262111412cc66391a523f045c301ca44d3f915fe629a0075af9786329bbb5",
+    "operator-images.json": "eb91f7053fdcd2e592ece4c0193e482fe4198057552048c9213b83978d45d257",
+    "operator_images.py": "20a5d419fdf2b652c54720a848e5a1a1d8d6d5e446034dd8bbd2ce7d8b7056f0",
+    "pre-replay-worktree.status": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "receiver-contract.json": "cf2db1d67a4ba2757065c5df417f805f799989ed24fdbab03f660da3e7ba8636",
+    "receiver-contract.time": "1f7a3d568e77f2ad90d105b5060e75b33dfeeea037bbe65718c659093ddb5a63",
+    "receiver_contract.py": "566f97e65ddf40b728704628349e2399cadb5c617060715bfb7ab842cbe0edc1",
+    "replay-end.utc": "c8667b9934803a792a908a88964218232b50f9e0ed5130a51ec58806d2c89da7",
+    "replay-observed.jsonl": "ba2489dd6fecd5b1f2099f82d8a97541ef35414fb8ac0bd9b63ed2961e10ca22",
+    "replay-start.utc": "c8667b9934803a792a908a88964218232b50f9e0ed5130a51ec58806d2c89da7",
+    "replay-worktree.status": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "replay.exit": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865",
+    "replay.log": "422dc441a7e1869dba54ca35290404c9594bd57d20002ad7f2e84eafdb49c559",
+    "replay.sh": "c8c4dafbb861ac93450c752f019edda96bfe315aef5a13cd753bcec3f83d29bb"
+  },
+  "exact_increase_over_prior_family_ceiling": "518607092213701021150319/134217728000000000000000000000000",
+  "exact_invocation": [
+    "python3.12",
+    "-IB",
+    "scripts/research_package.py",
+    "--package",
+    "research/p104-weighted-child-tariff"
+  ],
+  "exit_code": 0,
+  "export_scope": "Interpreter and workspace roots use portable labels here. The explicit clean replay and included evidence are documented in README.md.",
+  "exterior_marker": "PASS_EXTERIOR_TYPED_RAW (23675909805548, 2135567064460396) 73 105216 564144 [4456224, 234] [0, 121432]",
+  "failed_modes": [],
+  "first_registration": {
+    "exit_code": 1,
+    "failed_before_any_mode": true,
+    "head": "6d5cee90b363c52b988ff1e7e9e7974a358d130b",
+    "manifest_sha256": "a2341307c832d64fa410bf696a072fbab196dffa2b9870f59a78a6b64aa8ad71",
+    "raw_log": "replay.log",
+    "reason": "README heading required plural \"questions\""
+  },
+  "head": "d502eb21637717fe22fc16d4c4e3ede6ec59a106",
+  "independent_invoice": {
+    "bookings": {
+      "adjacent_allowance": [
+        "257465635021951243/100000000000000000",
+        "2574656350219512431/1000000000000000000"
+      ],
+      "adjacent_shortfall": [
+        "70152981358993/1000000000000000000",
+        "35076490679497/500000000000000000"
+      ],
+      "allowance": [
+        "10299496832173347/4000000000000000",
+        "2574874208043336751/1000000000000000000"
+      ],
+      "booking_reserve": [
+        "73852421232663/500000000000000000",
+        "147704842465327/1000000000000000000"
+      ],
+      "contraction": "2400/2401",
+      "gaussian_adjacent_shortfall": "756169145831/1000000000000000000",
+      "gaussian_allowance": [
+        "1089647358728632153/1000000000000000000",
+        "544823679364316077/500000000000000000"
+      ],
+      "gaussian_factor": [
+        "1089646674305021263/1000000000000000000",
+        "68102917144063829/62500000000000000"
+      ],
+      "gaussian_share_sha256": "f3a5ef6339bd13de6984af4c958966b49a5652d8a0580b58fb43a7c606534782",
+      "grade_actions": 269057152,
+      "k7_share_sha256": "b4b855b293473f5c72b7042acf5963a0c66faa8637d3629376a3feb1cd62c0b8",
+      "new_factor": [
+        "2514381350782101/976562500000000",
+        "102989060128034857/40000000000000000"
+      ],
+      "old_factor": [
+        "516103445006462057/200000000000000000",
+        "1290258612516155143/500000000000000000"
+      ],
+      "series": "2401",
+      "source_sha256": {
+        "binary_ports": "6c42f7115c2ea44507e1d959c3886a46c6b4abc22a8bbe49a4f9c5003d5e4a6b",
+        "binary_word": "e24bd735598d278dbd46cada584a63da01796d77ad557a45b80a4dfc7bbbd0b0",
+        "caller": "64673cce85c94f90c498ca01bfda138bb98e08b56ad3777c6565be86bde09020",
+        "graph": "64673cce85c94f90c498ca01bfda138bb98e08b56ad3777c6565be86bde09020",
+        "word": "b0f18924be837173ccbbd1b7814a7a9a27228d68ff0dcbaf44a90a2065d0574c"
+      },
+      "unit_tariff_control": "1"
+    },
+    "entry": {
+      "activation_exponent": 7437,
+      "activation_offset": 4,
+      "activation_width_required": 7347,
+      "cuts": [
+        3077,
+        6221
+      ],
+      "entry_ordinary_surcharges": [
+        0,
+        25818582
+      ],
+      "first_header_precision_and_tape": {
+        "absolute_log2_private_control_envelope": 3153922,
+        "actual_dense_root_entry_log2": 11184812,
+        "coefficient_precision_bit_lengths": [
+          7438,
+          7438
+        ],
+        "coefficient_precision_endpoints_sha256": [
+          "00f54a7df7250d0a63d1e47fe85465fe47d0153e62db0c2948e68db355888c03",
+          "00f54a7df7250d0a63d1e47fe85465fe47d0153e62db0c2948e68db355888c03"
+        ],
+        "first_extent_bits_minus_b": -7433,
+        "initial_s": 7438,
+        "largest_axis_width": 5592406,
+        "last_extent_bits_minus_b": -7432,
+        "live_storage_multiplier": "31/5",
+        "log2_axis_count": 7412,
+        "minimum_width": 3809536,
+        "padded_input_storage_multiplier": "1488/5",
+        "private_clock_log2_upper": 5734316302,
+        "retimed_all_size_margin_floor": 1635,
+        "retimed_first_stripe_margin": 1701,
+        "stage_and_outer_fixed_log_overhead": 1964
+      },
+      "functional_min": "3/1000000000000000000",
+      "gaussian_ceiling": "16613657019/4398046511104",
+      "gaussian_height": 1024,
+      "gaussian_height_log_charge": 225280,
+      "gaussian_margin": "1098935360482160957159/3355443200000000000000000",
+      "heights": [
+        3000,
+        3080
+      ],
+      "intermediate_rates": [
+        "3432249250140364693/1000000000000000000000"
+      ],
+      "kappa": "69/20000",
+      "log2_C_before_entry_and_selector": 125660246,
+      "max_native_height": 3080,
+      "ordinary_ceiling": "35734980766016175511781674099357/10334765056000000000000000000000000",
+      "ordinary_log2_B": 125433364,
+      "ordinary_margin": "80041322816123837956394099357/10334765056000000000000000000000000",
+      "signed_functional": [
+        "3/1000000000000000000",
+        "996999999999999997009/1000000000000000000000",
+        "19250000000000000001/250000000000000000",
+        "248999999999999999253/250000000000000000000"
+      ],
+      "signed_paid": "1098935360482160957159/3355443200000000000000000",
+      "signed_strict": [
+        "1/1000000000000000000",
+        "1/1000000000000000000",
+        "3450000000000003/1000000000000000000",
+        "1/500000000000000000",
+        "1/1000000000000000000",
+        "1/1000000000000000000",
+        "999999999999999999/1000000000000000000",
+        "199309999999999999/200000000000000000000000000000000000",
+        "1/1000000000000000000",
+        "399309999999999999/200000000000000000000000000000000000",
+        "1/2000000000000000000",
+        "3/2000000000000000000",
+        "1/2000000000000000000",
+        "1/2000000000000000000",
+        "399309999999999999/200000000000000000000000000000000000",
+        "999999999999999999/1000000000000000000",
+        "1/1000000000000000000",
+        "409700000000000002996549999999999997/1000000000000000000000000000000000000",
+        "90299999999999996003450000000000003/1000000000000000000000000000000000000",
+        "999999999999999997/1000000000000000000",
+        "1/500000000000000000",
+        "3/1000000000000000000",
+        "90299999999999998453450000000000003/500000000000000000000000000000000000",
+        "90299999999999998503450000000000003/500000000000000000000000000000000000",
+        "9/10000000000000000000",
+        "1/1000000000000000000",
+        "1/10000000000000000000",
+        "1/500000000000000000",
+        "1/1000000000000000000",
+        "79000000000000000003/1000000000000000000",
+        "1/1000000000000000000",
+        "199309999999999999/200000000000000000",
+        "5559999999999999/200000000000000000",
+        "1951441519231",
+        "2",
+        "1090299999999999997003450000000000003/1000000000000000000000000000000000000",
+        "5",
+        "3/1000000000000000000",
+        "3/1000000000000000000",
+        "1/1000000000000000000",
+        "496549999999999997/500000000000000000000000000000000000",
+        "1/1000000000000000000",
+        "859514790400418148631/500000000000000000000000",
+        "1/1000000000000000000",
+        "11/2",
+        "2996549999999999997/1000000000000000000000000000000000000",
+        "1/250000000000000000",
+        "3989649999999999991/1000000000000000000000000000000000000",
+        "1247412499999999997/250000000000000000000000000000000000",
+        "498274999999999999/500000000000000000",
+        "3996549999999999997/1000000000000000000000000000000000000",
+        "406250000000000003996549999999999997/1000000000000000000000000000000000000",
+        "996549999999999999/1000000000000000000",
+        "19249137500000000001/250000000000000000"
+      ],
+      "stopped_target": "690000000000001/200000000000000000",
+      "strict_min": "1/10000000000000000000"
+    },
+    "fixed_setup": {
+      "all_setup": 217364570380528137475793294892811967875864032914108887556978854854656,
+      "local_arithmetic": 297105609434291902295870930944,
+      "lookup": 170141183460469231731687303715884105728,
+      "max_datum_bits": 274877906944,
+      "setup_exponent": 228
+    },
+    "gain_over_prior_exact_cap": "518607092213701021150319/134217728000000000000000000000000",
+    "known_good_entry": {
+      "activation_exponent": 7437,
+      "activation_offset": 4,
+      "activation_width_required": 7347,
+      "cuts": [
+        3077,
+        6221
+      ],
+      "entry_ordinary_surcharges": [
+        0,
+        25818582
+      ],
+      "first_header_precision_and_tape": {
+        "absolute_log2_private_control_envelope": 3153922,
+        "actual_dense_root_entry_log2": 11184812,
+        "coefficient_precision_bit_lengths": [
+          7438,
+          7438
+        ],
+        "coefficient_precision_endpoints_sha256": [
+          "00f54a7df7250d0a63d1e47fe85465fe47d0153e62db0c2948e68db355888c03",
+          "00f54a7df7250d0a63d1e47fe85465fe47d0153e62db0c2948e68db355888c03"
+        ],
+        "first_extent_bits_minus_b": -7433,
+        "initial_s": 7438,
+        "largest_axis_width": 5592406,
+        "last_extent_bits_minus_b": -7432,
+        "live_storage_multiplier": "31/5",
+        "log2_axis_count": 7412,
+        "minimum_width": 3809536,
+        "padded_input_storage_multiplier": "1488/5",
+        "private_clock_log2_upper": 5734316302,
+        "retimed_all_size_margin_floor": 1635,
+        "retimed_first_stripe_margin": 1701,
+        "stage_and_outer_fixed_log_overhead": 1964
+      },
+      "functional_min": "3/1000000000000000000",
+      "gaussian_ceiling": "16613657019/4398046511104",
+      "gaussian_height": 1024,
+      "gaussian_height_log_charge": 225280,
+      "gaussian_margin": "1098935360482160957159/3355443200000000000000000",
+      "heights": [
+        3000,
+        3080
+      ],
+      "intermediate_rates": [
+        "3431195539202864693/1000000000000000000000"
+      ],
+      "kappa": "69/20000",
+      "log2_C_before_entry_and_selector": 125660241,
+      "max_native_height": 3080,
+      "ordinary_ceiling": "35724330204996271511781674099357/10334765056000000000000000000000000",
+      "ordinary_log2_B": 125433359,
+      "ordinary_margin": "69390761796219837956394099357/10334765056000000000000000000000000",
+      "signed_functional": [
+        "3/1000000000000000000",
+        "996999999999999997009/1000000000000000000000",
+        "19250000000000000001/250000000000000000",
+        "248999999999999999253/250000000000000000000"
+      ],
+      "signed_paid": "1098935360482160957159/3355443200000000000000000",
+      "signed_strict": [
+        "1/1000000000000000000",
+        "1/1000000000000000000",
+        "3450000000000003/1000000000000000000",
+        "1/500000000000000000",
+        "1/1000000000000000000",
+        "1/1000000000000000000",
+        "999999999999999999/1000000000000000000",
+        "199309999999999999/200000000000000000000000000000000000",
+        "1/1000000000000000000",
+        "399309999999999999/200000000000000000000000000000000000",
+        "1/2000000000000000000",
+        "3/2000000000000000000",
+        "1/2000000000000000000",
+        "1/2000000000000000000",
+        "399309999999999999/200000000000000000000000000000000000",
+        "999999999999999999/1000000000000000000",
+        "1/1000000000000000000",
+        "409700000000000002996549999999999997/1000000000000000000000000000000000000",
+        "90299999999999996003450000000000003/1000000000000000000000000000000000000",
+        "999999999999999997/1000000000000000000",
+        "1/500000000000000000",
+        "3/1000000000000000000",
+        "90299999999999998453450000000000003/500000000000000000000000000000000000",
+        "90299999999999998503450000000000003/500000000000000000000000000000000000",
+        "9/10000000000000000000",
+        "1/1000000000000000000",
+        "1/10000000000000000000",
+        "1/500000000000000000",
+        "1/1000000000000000000",
+        "79000000000000000003/1000000000000000000",
+        "1/1000000000000000000",
+        "199309999999999999/200000000000000000",
+        "5559999999999999/200000000000000000",
+        "1951441519231",
+        "2",
+        "1090299999999999997003450000000000003/1000000000000000000000000000000000000",
+        "5",
+        "3/1000000000000000000",
+        "3/1000000000000000000",
+        "1/1000000000000000000",
+        "496549999999999997/500000000000000000000000000000000000",
+        "1/1000000000000000000",
+        "859514790400418148631/500000000000000000000000",
+        "1/1000000000000000000",
+        "11/2",
+        "2996549999999999997/1000000000000000000000000000000000000",
+        "1/250000000000000000",
+        "3989649999999999991/1000000000000000000000000000000000000",
+        "1247412499999999997/250000000000000000000000000000000000",
+        "498274999999999999/500000000000000000",
+        "3996549999999999997/1000000000000000000000000000000000000",
+        "406250000000000003996549999999999997/1000000000000000000000000000000000000",
+        "996549999999999999/1000000000000000000",
+        "19249137500000000001/250000000000000000"
+      ],
+      "stopped_target": "690000000000001/200000000000000000",
+      "strict_min": "1/10000000000000000000"
+    },
+    "known_good_terminal": {
+      "activation_exponent": 1151953,
+      "activation_offset": 4,
+      "activation_width_required": 1151807,
+      "complete_log2_C": 318291911,
+      "cuts": [
+        8290,
+        125522,
+        649874
+      ],
+      "entry_conversion_bits": 517,
+      "entry_ordinary_surcharges": [],
+      "first_header_precision_and_tape": {
+        "absolute_log2_private_control_envelope": 536870915,
+        "actual_dense_root_entry_log2": 1431655766,
+        "coefficient_precision_bit_lengths": [
+          1151954,
+          1151954
+        ],
+        "coefficient_precision_endpoints_sha256": [
+          "271470e6b95a09dd4a6741954f80406effd4a3b2fda2ea5e27e5671ceb9405bf",
+          "271470e6b95a09dd4a6741954f80406effd4a3b2fda2ea5e27e5671ceb9405bf"
+        ],
+        "first_extent_bits_minus_b": -1151949,
+        "initial_s": 1151954,
+        "largest_axis_width": 715827883,
+        "last_extent_bits_minus_b": -1151948,
+        "live_storage_multiplier": "31/5",
+        "log2_axis_count": 1151921,
+        "minimum_width": 589801728,
+        "padded_input_storage_multiplier": "1488/5",
+        "private_clock_log2_upper": 734188573650,
+        "retimed_all_size_margin_floor": 556006,
+        "retimed_first_stripe_margin": 573923,
+        "stage_and_outer_fixed_log_overhead": 1968
+      },
+      "functional_min": "3/1000000000000000000",
+      "gaussian_ceiling": "8603667567594205/2207076078713831424",
+      "gaussian_height": 501831,
+      "gaussian_height_log_charge": 110402820,
+      "gaussian_margin": "46823865845862929/1683865416499200000000000000000",
+      "heights": [
+        8192,
+        117168,
+        524288
+      ],
+      "intermediate_rates": [
+        "929744774750514757/250000000000000000000",
+        "1944256865196699369/500000000000000000000"
+      ],
+      "kappa": "1949109876753/500000000000000",
+      "log2_C_before_entry_and_selector": 318291910,
+      "max_native_height": 524288,
+      "ordinary_ceiling": "523210198560304256427618849681/134217728000000000000000000000000",
+      "ordinary_log2_B": 207887488,
+      "ordinary_margin": "8230970978849681/134217728000000000000000000000000",
+      "select_entry_after_conversion": 125660758,
+      "signed_functional": [
+        "3/1000000000000000000",
+        "996999999999999997009/1000000000000000000000",
+        "19250000000000000001/250000000000000000",
+        "248999999999999999253/250000000000000000000"
+      ],
+      "signed_paid": "46823865845862929/1683865416499200000000000000000",
+      "signed_strict": [
+        "1/1000000000000000000",
+        "1/1000000000000000000",
+        "3898219753506003/1000000000000000000",
+        "1/500000000000000000",
+        "1/1000000000000000000",
+        "1/1000000000000000000",
+        "999999999999999999/1000000000000000000",
+        "199220356049298799/200000000000000000000000000000000000",
+        "1/1000000000000000000",
+        "399220356049298799/200000000000000000000000000000000000",
+        "1/2000000000000000000",
+        "3/2000000000000000000",
+        "1/2000000000000000000",
+        "1/2000000000000000000",
+        "399220356049298799/200000000000000000000000000000000000",
+        "999999999999999999/1000000000000000000",
+        "1/1000000000000000000",
+        "410148219753506002996101780246493997/1000000000000000000000000000000000000",
+        "89851780246493996003898219753506003/1000000000000000000000000000000000000",
+        "999999999999999997/1000000000000000000",
+        "1/500000000000000000",
+        "3/1000000000000000000",
+        "89851780246493998453898219753506003/500000000000000000000000000000000000",
+        "89851780246493998503898219753506003/500000000000000000000000000000000000",
+        "9/10000000000000000000",
+        "1/1000000000000000000",
+        "1/10000000000000000000",
+        "1/500000000000000000",
+        "1/1000000000000000000",
+        "79000000000000000003/1000000000000000000",
+        "1/1000000000000000000",
+        "199220356049298799/200000000000000000",
+        "5470356049298799/200000000000000000",
+        "1951441519231",
+        "2",
+        "1089851780246493997003898219753506003/1000000000000000000000000000000000000",
+        "5",
+        "3/1000000000000000000",
+        "3/1000000000000000000",
+        "1/1000000000000000000",
+        "496101780246493997/500000000000000000000000000000000000",
+        "1/1000000000000000000",
+        "1083624667153418148631/500000000000000000000000",
+        "1/1000000000000000000",
+        "11/2",
+        "2996101780246493997/1000000000000000000000000000000000000",
+        "1/250000000000000000",
+        "3988305340739481991/1000000000000000000000000000000000000",
+        "1247076335184870497/250000000000000000000000000000000000",
+        "498050890123246999/500000000000000000",
+        "3996101780246493997/1000000000000000000000000000000000000",
+        "406250000000000003996101780246493997/1000000000000000000000000000000000000",
+        "996101780246493999/1000000000000000000",
+        "19249025445061623501/250000000000000000"
+      ],
+      "stopped_target": "779643950701201/200000000000000000",
+      "strict_min": "1/10000000000000000000"
+    },
+    "stopped_cap_candidate": {
+      "binding": "Gaussian",
+      "guard": "1/200000000000000000",
+      "installed_reserve": "441096658027/427661302169600000000000000000",
+      "lower_shortfall": "815219532879349051/1710641853235200000000000000000",
+      "slices": [
+        {
+          "actual_floor_loss": "28867304687739/6662031147008000000000000000000000000",
+          "charge": 318291680,
+          "discrete_deviation_loss_floor": "154629/19810951838187520000000",
+          "exact_gaussian": "8740489753304065/2242172489872441344",
+          "exact_ordinary": "523210717173784933073424602001/134217728000000000000000000000000",
+          "floors": [
+            "3719364979472334907/1000000000000000000000",
+            "3887972377690491723/1000000000000000000000"
+          ],
+          "heights": [
+            8192,
+            111681,
+            524288
+          ]
+        },
+        {
+          "actual_floor_loss": "28867304687739/6662031147008000000000000000000000000",
+          "charge": 318291900,
+          "discrete_deviation_loss_floor": "154629/19810951838187520000000",
+          "exact_gaussian": "2185126724735343/560544221979738112",
+          "exact_ordinary": "523210717173784933073424602001/134217728000000000000000000000000",
+          "floors": [
+            "3719364979472334907/1000000000000000000000",
+            "3887972377690491723/1000000000000000000000"
+          ],
+          "heights": [
+            8192,
+            111681,
+            524288
+          ]
+        },
+        {
+          "actual_floor_loss": "909129008999/187367948288000000000000000000000000",
+          "charge": 318291800,
+          "discrete_deviation_loss_floor": "154629/19810419676733440000000",
+          "exact_gaussian": "8740524044578679/2242181285965463552",
+          "exact_ordinary": "523210717115285901706667348881/134217728000000000000000000000000",
+          "floors": [
+            "3719364979472334907/1000000000000000000000",
+            "3887972268727554713/1000000000000000000000"
+          ],
+          "heights": [
+            8192,
+            111680,
+            524288
+          ]
+        }
+      ],
+      "supremum": "1667119388378402860472786027/427661302169600000000000000000",
+      "upper_shortfall": "52110568421972651119/134217728000000000000000000000000"
+    },
+    "stopped_cap_prior": {
+      "binding": "ordinary",
+      "guard": "1/200000000000000000",
+      "installed_reserve": "8230970978849681/134217728000000000000000000000000",
+      "lower_shortfall": "11162322984731929/24055172300800000000000000000",
+      "slices": [
+        {
+          "actual_floor_loss": "6690245074091/1310501896192000000000000000000000000",
+          "charge": 318291691,
+          "discrete_deviation_loss_floor": "232483/34315139567967232000000",
+          "exact_gaussian": "614546458711207/157647977190522880",
+          "exact_ordinary": "523210198560304256427618849681/134217728000000000000000000000000",
+          "floors": [
+            "929744774750514757/250000000000000000000",
+            "1944256865196699369/500000000000000000000"
+          ],
+          "heights": [
+            8192,
+            117168,
+            524288
+          ]
+        },
+        {
+          "actual_floor_loss": "6690245074091/1310501896192000000000000000000000000",
+          "charge": 318291911,
+          "discrete_deviation_loss_floor": "232483/34315139567967232000000",
+          "exact_gaussian": "8603667567594205/2207076078713831424",
+          "exact_ordinary": "523210198560304256427618849681/134217728000000000000000000000000",
+          "floors": [
+            "929744774750514757/250000000000000000000",
+            "1944256865196699369/500000000000000000000"
+          ],
+          "heights": [
+            8192,
+            117168,
+            524288
+          ]
+        },
+        {
+          "actual_floor_loss": "345507460371581/62903554146304000000000000000000000000",
+          "charge": 318291811,
+          "discrete_deviation_loss_floor": "232483/34314260961691648000000",
+          "exact_gaussian": "1075460589153939/275885059595042816",
+          "exact_ordinary": "523210198507032374142381446033/134217728000000000000000000000000",
+          "floors": [
+            "929744774750514757/250000000000000000000",
+            "3888513631166785609/1000000000000000000000"
+          ],
+          "heights": [
+            8192,
+            117167,
+            524288
+          ]
+        }
+      ],
+      "supremum": "523210198560303585338978849681/134217728000000000000000000000000",
+      "upper_shortfall": "53263651314258553967/134217728000000000000000000000000"
+    },
+    "terminal": {
+      "activation_exponent": 1154447,
+      "activation_offset": 4,
+      "activation_width_required": 1154301,
+      "complete_log2_C": 318291900,
+      "cuts": [
+        8290,
+        120035,
+        644387
+      ],
+      "entry_conversion_bits": 518,
+      "entry_ordinary_surcharges": [],
+      "first_header_precision_and_tape": {
+        "absolute_log2_private_control_envelope": 536870915,
+        "actual_dense_root_entry_log2": 1431655766,
+        "coefficient_precision_bit_lengths": [
+          1154448,
+          1154448
+        ],
+        "coefficient_precision_endpoints_sha256": [
+          "dc27abe6d60f7e29936c555ca796d1ae23f3d72997124a3a4eb0ba190e2754ae",
+          "dc27abe6d60f7e29936c555ca796d1ae23f3d72997124a3a4eb0ba190e2754ae"
+        ],
+        "first_extent_bits_minus_b": -1154443,
+        "initial_s": 1154448,
+        "largest_axis_width": 715827883,
+        "last_extent_bits_minus_b": -1154442,
+        "live_storage_multiplier": "31/5",
+        "log2_axis_count": 1154415,
+        "minimum_width": 591078656,
+        "padded_input_storage_multiplier": "1488/5",
+        "private_clock_log2_upper": 734191130000,
+        "retimed_all_size_margin_floor": 557214,
+        "retimed_first_stripe_margin": 575170,
+        "stage_and_outer_fixed_log_overhead": 1968
+      },
+      "functional_min": "3/1000000000000000000",
+      "gaussian_ceiling": "2185126724735343/560544221979738112",
+      "gaussian_height": 509812,
+      "gaussian_height_log_charge": 112158640,
+      "gaussian_margin": "441096658027/427661302169600000000000000000",
+      "heights": [
+        8192,
+        111681,
+        524288
+      ],
+      "intermediate_rates": [
+        "3719364979472334907/1000000000000000000000",
+        "3887972377690491723/1000000000000000000000"
+      ],
+      "kappa": "389822361743/100000000000000",
+      "log2_C_before_entry_and_selector": 318291899,
+      "max_native_height": 524288,
+      "ordinary_ceiling": "523210717173784933073424602001/134217728000000000000000000000000",
+      "ordinary_log2_B": 206131657,
+      "ordinary_margin": "6388462944784602001/134217728000000000000000000000000",
+      "select_entry_after_conversion": 125660764,
+      "signed_functional": [
+        "3/1000000000000000000",
+        "996999999999999997009/1000000000000000000000",
+        "19250000000000000001/250000000000000000",
+        "248999999999999999253/250000000000000000000"
+      ],
+      "signed_paid": "441096658027/427661302169600000000000000000",
+      "signed_strict": [
+        "1/1000000000000000000",
+        "1/1000000000000000000",
+        "3898223617430003/1000000000000000000",
+        "1/500000000000000000",
+        "1/1000000000000000000",
+        "1/1000000000000000000",
+        "999999999999999999/1000000000000000000",
+        "199220355276513999/200000000000000000000000000000000000",
+        "1/1000000000000000000",
+        "399220355276513999/200000000000000000000000000000000000",
+        "1/2000000000000000000",
+        "3/2000000000000000000",
+        "1/2000000000000000000",
+        "1/2000000000000000000",
+        "399220355276513999/200000000000000000000000000000000000",
+        "999999999999999999/1000000000000000000",
+        "1/1000000000000000000",
+        "410148223617430002996101776382569997/1000000000000000000000000000000000000",
+        "89851776382569996003898223617430003/1000000000000000000000000000000000000",
+        "999999999999999997/1000000000000000000",
+        "1/500000000000000000",
+        "3/1000000000000000000",
+        "89851776382569998453898223617430003/500000000000000000000000000000000000",
+        "89851776382569998503898223617430003/500000000000000000000000000000000000",
+        "9/10000000000000000000",
+        "1/1000000000000000000",
+        "1/10000000000000000000",
+        "1/500000000000000000",
+        "1/1000000000000000000",
+        "79000000000000000003/1000000000000000000",
+        "1/1000000000000000000",
+        "199220355276513999/200000000000000000",
+        "5470355276513999/200000000000000000",
+        "1951441519231",
+        "2",
+        "1089851776382569997003898223617430003/1000000000000000000000000000000000000",
+        "5",
+        "3/1000000000000000000",
+        "3/1000000000000000000",
+        "1/1000000000000000000",
+        "496101776382569997/500000000000000000000000000000000000",
+        "1/1000000000000000000",
+        "1083626599115418148631/500000000000000000000000",
+        "1/1000000000000000000",
+        "11/2",
+        "2996101776382569997/1000000000000000000000000000000000000",
+        "1/250000000000000000",
+        "3988305329147709991/1000000000000000000000000000000000000",
+        "1247076332286927497/250000000000000000000000000000000000",
+        "498050888191284999/500000000000000000",
+        "3996101776382569997/1000000000000000000000000000000000000",
+        "406250000000000003996101776382569997/1000000000000000000000000000000000000",
+        "996101776382569999/1000000000000000000",
+        "19249025444095642501/250000000000000000"
+      ],
+      "stopped_target": "779644723486001/200000000000000000",
+      "strict_min": "1/10000000000000000000"
+    }
+  },
+  "manifest_sha256": "2720ac7e1db38ce9e320d4f14507ac6c7668775f7126f39de02949de27ad77c6",
+  "minimum_observed_free_bytes": 10875944960,
+  "modes": [
+    {
+      "end_utc": "2026-11-23T04:26:26.052+00:00",
+      "exit_code": 0,
+      "launch_free_bytes": 10893336576,
+      "mode": "price",
+      "observed_wall_seconds": 17.637,
+      "prior_observed_wall_seconds": 18.875,
+      "result": "pass",
+      "start_utc": "2026-11-23T04:26:08.415+00:00",
+      "timeout_seconds": 140
+    },
+    {
+      "end_utc": "2026-11-23T04:27:21.165+00:00",
+      "exit_code": 0,
+      "launch_free_bytes": 10893893632,
+      "mode": "calendar",
+      "observed_wall_seconds": 55.113,
+      "prior_observed_wall_seconds": 57.111,
+      "result": "pass",
+      "start_utc": "2026-11-23T04:26:26.052+00:00",
+      "timeout_seconds": 160
+    },
+    {
+      "end_utc": "2026-11-23T04:27:40.860+00:00",
+      "exit_code": 0,
+      "launch_free_bytes": 10888871936,
+      "mode": "raw",
+      "observed_wall_seconds": 19.695,
+      "prior_observed_wall_seconds": 21.724,
+      "result": "pass",
+      "start_utc": "2026-11-23T04:27:21.165+00:00",
+      "timeout_seconds": 170
+    },
+    {
+      "end_utc": "2026-11-23T04:28:05.120+00:00",
+      "exit_code": 0,
+      "launch_free_bytes": 10887811072,
+      "mode": "exterior",
+      "observed_wall_seconds": 24.26,
+      "prior_observed_wall_seconds": 25.464,
+      "result": "pass",
+      "start_utc": "2026-11-23T04:27:40.860+00:00",
+      "timeout_seconds": 190
+    },
+    {
+      "end_utc": "2026-11-23T04:28:32.863+00:00",
+      "exit_code": 0,
+      "launch_free_bytes": 10875944960,
+      "mode": "nested",
+      "observed_wall_seconds": 27.743,
+      "prior_observed_wall_seconds": 26.028,
+      "result": "pass",
+      "start_utc": "2026-11-23T04:28:05.120+00:00",
+      "timeout_seconds": 200
+    },
+    {
+      "end_utc": "2026-11-23T04:29:51.231+00:00",
+      "exit_code": 0,
+      "launch_free_bytes": 10893905920,
+      "mode": "product",
+      "observed_wall_seconds": 78.368,
+      "prior_observed_wall_seconds": 78.568,
+      "result": "pass",
+      "start_utc": "2026-11-23T04:28:32.863+00:00",
+      "timeout_seconds": 220
+    },
+    {
+      "end_utc": "2026-11-23T04:29:52.177+00:00",
+      "exit_code": 0,
+      "launch_free_bytes": 10890301440,
+      "mode": "setup",
+      "observed_wall_seconds": 0.946,
+      "prior_observed_wall_seconds": 0.965,
+      "result": "pass",
+      "start_utc": "2026-11-23T04:29:51.231+00:00",
+      "timeout_seconds": 90
+    }
+  ],
+  "nested_marker": "PASS_NONZERO_INTERIOR 282576 281568 9841 4507783464 2 [0, 118692]",
+  "new_family_ceiling": "1667119388378402860472786027/427661302169600000000000000000",
+  "ordinary_floor_fixture": {
+    "carrier": 8388608,
+    "extent": "complete fixture event stream",
+    "first_band_contacts": [
+      [
+        18960,
+        29,
+        [
+          [
+            0,
+            0,
+            24764,
+            7
+          ],
+          [
+            0,
+            1,
+            24764,
+            7
+          ],
+          [
+            0,
+            0,
+            24766,
+            2
+          ],
+          [
+            0,
+            1,
+            24766,
+            2
+          ],
+          [
+            1,
+            0,
+            24764,
+            7
+          ],
+          [
+            1,
+            1,
+            24764,
+            7
+          ],
+          [
+            1,
+            0,
+            24766,
+            2
+          ],
+          [
+            1,
+            1,
+            24766,
+            2
+          ]
+        ]
+      ],
+      [
+        18962,
+        29,
+        [
+          [
+            0,
+            0,
+            24766,
+            5
+          ],
+          [
+            0,
+            1,
+            24766,
+            5
+          ],
+          [
+            0,
+            0,
+            24768,
+            5
+          ],
+          [
+            0,
+            1,
+            24768,
+            5
+          ],
+          [
+            1,
+            0,
+            24766,
+            5
+          ],
+          [
+            1,
+            1,
+            24766,
+            5
+          ],
+          [
+            1,
+            0,
+            24768,
+            5
+          ],
+          [
+            1,
+            1,
+            24768,
+            5
+          ]
+        ]
+      ]
+    ],
+    "lower": 18960,
+    "lower_return_counts": {
+      "18952": 108,
+      "18954": 120
+    },
+    "native_closes": 323165,
+    "native_opens": 323165,
+    "paid_singletons": 683705746532,
+    "returned_paid_prefixes": 432,
+    "tested_occupied_K7_grade": [
+      49,
+      64
+    ],
+    "upper": 24774
+  },
+  "original_local_receipt_sha256": "b2121697aabf7657542b900d21d8216d15a8d853711b61a00b68185027f78b62",
+  "package": "research/p104-weighted-child-tariff",
+  "physical_product": {
+    "H_calls": 157248,
+    "bits": [
+      20,
+      19
+    ],
+    "coefficients_prefix": [
+      11811,
+      10996,
+      4152,
+      868,
+      77
+    ],
+    "padded_bytes": 633744,
+    "product": "-345550037539",
+    "rank": 2,
+    "seconds": 71.5994,
+    "shuttles": 138,
+    "stage_body_records": 6561
+  },
+  "physical_product_scope": "finite dense coefficient fixture at entry; signed callers on both installed tier objects",
+  "prior_family_ceiling": "523210198560303585338978849681/134217728000000000000000000000000",
+  "prior_head": "cf4c4b7ea4b746be174ee4ba4e49f03b5bc79f8e",
+  "python_binary_sha256": "fd6a9a25baeac2f807628268048be5473a498e781ab7a45941fdf35c8050f365",
+  "python_version": "3.12.14",
+  "raw_native_markers": [
+    "PASS_TYPED_RAW48 0 columns 2 paid 282576 nonzero 16 writes 71808 peak 62448",
+    "PASS_TYPED_RAW48 1 columns 4 paid 281568 nonzero 15 writes 71808 peak 62448"
+  ],
+  "receiver_contract": {
+    "child_contraction": "2400/2401",
+    "finite_geometric_sum": 2401,
+    "max_child_volume_per_paid_owner": "75/32",
+    "normalized_moments": [
+      "t",
+      "1"
+    ],
+    "quotient_low_census": [
+      {
+        "exact_worst_mean": "3",
+        "frames": 24,
+        "lows": 16,
+        "rank": 2,
+        "same_high_count_at_modulus_9": 27,
+        "sharp_histogram": {
+          "1": 8,
+          "5": 8
+        }
+      },
+      {
+        "exact_worst_mean": "33/13",
+        "frames": 234,
+        "lows": 416,
+        "rank": 3,
+        "same_high_count_at_modulus_9": 729,
+        "sharp_histogram": {
+          "1": 192,
+          "3": 128,
+          "5": 96
+        }
+      }
+    ],
+    "receiver_source_sha256": {
+      "five_exchange.py": "cf56446080a3b31b654e58d91d3d62dc8790f0f06e3d458775d2723d607ae8fe",
+      "inputs/triangular/direct_body.py": "cdaa0d01caa678fca495713ae9ae4efcc33c1af063d7c7de76a76d6da077b1fc",
+      "inputs/triangular/quotient_route.py": "3243f45d6097a80bc8b077d8682426e4555f6c4a3097bd0a12ffd4f1f5c45ba8",
+      "inputs/triangular/receiver.py": "5d9faeabe8ccc4a4ccf670f91322016cf33b2c2a497fd78b41f3750fbadae560",
+      "inputs/triangular/same_order_body.py": "56a15ce431daf25794741cb5157e136ce509ed646b32aaea34348088396e459d"
+    },
+    "signed_direct": [
+      {
+        "child_shape": [
+          1,
+          2,
+          6,
+          6,
+          8
+        ],
+        "modulus": 3,
+        "one_child_each_direction": true,
+        "records": 1296,
+        "width": 1
+      },
+      {
+        "child_shape": [
+          1,
+          2,
+          18,
+          18,
+          8
+        ],
+        "modulus": 9,
+        "one_child_each_direction": true,
+        "records": 104976,
+        "width": 2
+      }
+    ]
+  },
+  "reserve_below_new_supremum": "441096658027/427661302169600000000000000000",
+  "scope": "Exact conditional signed installation and declared capped family, with all five hypotheses preserved",
+  "serial_setup": {
+    "all_setup": 217364570380528137475793294892811967875864032914108887556978854854656,
+    "integer_pairs": 4071,
+    "local_arithmetic": 297105609434291902295870930944,
+    "lookup": 170141183460469231731687303715884105728,
+    "max_datum_bits": 274877906944,
+    "rational_cases": 7396,
+    "setup_exponent": 228
+  },
+  "signed_checks_per_tier": {
+    "functional": 4,
+    "strict": 54
+  },
+  "signed_runtime_sha256": {
+    "ACTIVATION-SPACE.md": "e805961b0b3f5263cfb0b5c559dd99243330b8821d0a2c932c2bfabde79181c4",
+    "ACTUAL-SETUP.md": "071abc2a2f9ad6d53923ccbc3f0ef09ae31430dd1ba03f54bca2bb661cda954b",
+    "APPLICATION.md": "e84215c5ca9faeeb5aa9567fe6db0f1dc817bbc909c8c4e6caf3aa6d65ca938a",
+    "BAND.md": "4c0adb553b4357ead618e26af4fe8c600fdafc816449c54b48a9b2dfa0cff494",
+    "LICENSE": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+    "LINEAR-GEOMETRY.md": "8f6a9045ebcb4b8ddeb6339e7414bc897a6583e02ae689b15d4dac0394659550",
+    "NOTICE.md": "c00f5acddbb6516a69f1fd9a3ef01e737f4c10fabb36a19eef5623b1fbc1edbe",
+    "README.md": "0814b1c07155a037347127fc941c47ec3d5c23b8e8c06d23f46993085f0f6798",
+    "REQUIREMENTS.json": "6de3056c25423a952d35c89f661ba511594981544c4dd270f6a5b58920edb1aa",
+    "SOURCES.json": "0d22a7cfdde48de7a106fca872601d5ed345a4ae3631b0acff2e05407eae2e65",
+    "STRONG-BINARY.md": "548e4d8e2290c4e58845ddd20f9099d9fc866cd3b19997ad0791b056e66ccd92",
+    "STRONG-COMPLEX.md": "724e816015c2329414d503a7b29683bf563be4b7469a8149cfe2cfc888696b44",
+    "TASK.json": "9372161b8b3de4bb6ec5efa1f3519a0bbe45a87c2cc8d1c5a6f76bd6f2c0da56",
+    "VERIFICATION.md": "1906c8a2564b83df5ed386ffea3ba8c675c225051ff9800d0147223cea0fe1bd",
+    "VERIFY.json": "9b935893bb78c26ff753e21f290d3007762cc8f3c1781e06c13bd628632f82de",
+    "band_compiler.py": "64d96e1b732117983bf5f5cba3c59ba91b672ae0f03fc23477c8727c4109a701",
+    "band_positive.py": "a279e7f4261f947f32f6b0e641bacf95b69755e7ac9263e3df60698bb425b5e8",
+    "band_product.py": "0a2a243378ced624fa94100d7743bab5209edacda1e3b5a5c2fda6fd0a66791b",
+    "binary_receiver.py": "a7cc759e9a88e60dbcd59ca314ae5b9d39a33b5c642b56e680bbab775b0f06c5",
+    "build_charts.py": "5ae0a7e6509ed81b03e42534ea2a82a01b8edf5dec3ef9d9b9dca49bd424725c",
+    "calibration.py": "444f185c619ef01bdea6328af3dc7ba30014b5cfebe7d1de875966e656fd57ff",
+    "check_activation_space.py": "51df69d2e2c396a8bf4d6f51572e3d04250237ee23b6d3bce25bf02625f07eee",
+    "check_band.py": "21343d0f71d82986a5cfeb2fd7f2da4836bee5ac54eeca3608d012f994c237f6",
+    "check_dense_band.py": "7b06a2d8c0e23897b93dbd9075123553495d51258a63ee9b8c940d76cb1db44b",
+    "check_epoch_reentry.py": "5764c34527e1c7b06456864f8628fdd12cc8ec2f0c47f07d4a75151663abf129",
+    "check_linear_geometry.py": "57ed4d3111de70a9ed1ac42717f7c2c9d02073878ca2b3e211cb22e2989c5616",
+    "check_nonzero_eight.py": "e0955bbbdef1a19668cc62fc1f500574705fc484224e571c47426793a6ec631a",
+    "check_product.py": "1c1b8ad7143451294fcbce810ec9310bf19ccdff241f2e137fc07e16ef3e1774",
+    "check_strong_binary.py": "dd5acaa148e4bf04fd395515010660678600e7fc1e8ef806c6446a448568aa8b",
+    "check_strong_complex.py": "ab3ae76bfbd2238d7c41b130a4de8f73f65f7bec3bba92973d914abaaa72cd0a",
+    "check_strong_physical.py": "c1497710e88267cff463ca0ad47acca4d8e88d48c8c4cf563e6ad35c2836d978",
+    "check_strong_raw_word.py": "946fbb355f21536287a9af5812bc833c14a50a0aa0a455c5fdaff2b28ff15465",
+    "check_weighted_binary.py": "fe70753a3c62f8e3b9b39e526311ae1e5bf4743bfba9d66f0320adcbaa52fade",
+    "clock_ports.py": "7d67eb9db9c50fec056440ef17acc6566cdcac740f44d74790213a5179d34b1e",
+    "epoch_tape.py": "c66b8c040571471170581b0c577a36f5d2c1283aac517bdc6f407122b945df04",
+    "fiscal_scans.py": "bacc9db2bad0254081309c11269da09b1719479aac8542d34c7e463a8e6aa428",
+    "five_exchange.py": "cf56446080a3b31b654e58d91d3d62dc8790f0f06e3d458775d2723d607ae8fe",
+    "gauss_phase.py": "a087d0dd5f448d39e6a2dfdc876be7238b75a55b8f9c350eda3907a1865bcb56",
+    "grades.py": "6124744b40f806c80b6f10010a72e755bc11d64a8cc9a04f5e8316799eb6f05d",
+    "independent_binary_price.py": "05f77dd77baff30ff241744901769b952de43859e00afb0739c8b4e18dc30dd2",
+    "inputs/complex-source.json": "b33575085bcaf8e646ad7656d1f8d2c7ad402712e6b49efd307fc926f2fb39b0",
+    "inputs/complex-source/BANK-FACTORS.json.gz": "b009cd6bb13036879214cb6d43beb923578ef7fb4c83f36a1cc971ab4ea23543",
+    "inputs/complex-source/BIDIRECTIONAL-QUOTIENT-RECEIPT.json": "459f519593242a3e8ecf42817f178fb214a6833e0df0e1ce727c5809035d02de",
+    "inputs/complex-source/BIDIRECTIONAL-QUOTIENT.json.gz": "ed725d5c69a507352efc6a18f3e4f7e5c20592a655a7b80193034232feb43d6f",
+    "inputs/complex-source/BIDIRECTIONAL.json.gz": "baf07c7085f588ce06201e2a6bf4f5f58632801202783ca195d3b8369ff74836",
+    "inputs/complex-source/HELPER-SPLITS-RECEIPT.json": "712b783baf1463b738bd5c5ad3023bf42681d7d0105dd550ba3549c02674f711",
+    "inputs/complex-source/HELPER-SPLITS.json": "f70ba89a9ed5839476bbe298d4cb8f4d9eeb703621d5f478c884861cdd91fb20",
+    "inputs/complex-source/LAYOUT.json.gz": "84cd1d11ff454eecf3504e4b3f26adc371539b17553bfce1bcfda7a331811998",
+    "inputs/complex-source/LICENSE": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+    "inputs/complex-source/PARENT-NOTICE": "b213998c8dae6d88e4a1f0fd17c81dd78c31ef35bc9460fa16ca692326f1a02b",
+    "inputs/complex-source/WORD.json.gz": "731246c085638706bdb97e7e88618f8923e27ee4ce8eb4869f0847f8f4699f7c",
+    "inputs/complex-source/replay.py": "9c847a1242e730acf1dfd3a83f4801470e3e2da6c3079f53ccb7ada620b37a7b",
+    "inputs/complex-source/verify_bidirectional.py": "ef85db5c6f348b55e0db4d61517dde6a58b027737037e14b9fdea04f8b96e716",
+    "inputs/complex-source/verify_component.py": "163b1ca3a35531da94ef454229f040592c754675f59dfb805d0a9aadb33b8d65",
+    "inputs/complex-source/verify_split_helpers.py": "6a0b59657bd1902d19b9c0f8badef2caa13c8ba84e0311550d6391360bdf186b",
+    "inputs/new-charts.json.gz": "b626b1ebc3359a36c4437b6916a340597bc74403b65f5a05f057602f5b6d35b0",
+    "inputs/review.json": "614a5d273fc8a676b12d512ae9282f88990e696f978a2800f6cd7f986d295874",
+    "inputs/review/check_complex.py": "ce8dc94ccc9fc780b991aad35aceba03b95335f9fd5b77235deb9e1a7f52e9f8",
+    "inputs/review/check_periodic.py": "c1a5c81b5a4121498886758dd021ffdaa237c9fdc6e71e0d315a80947edc70d5",
+    "inputs/review/check_powered.py": "fc81d8d652b4290f473874114f72d4c7c8213ee4f26f5be8968894e01f786c35",
+    "inputs/review/clifford_exact.py": "2982ead07721e83358dc67c6f49c2b4c16a236a6bebdfd72f58221be1f5d0962",
+    "inputs/review/graph_identity.py": "90440581667a00a8e0a8e02a8a5a196a88dc0edb48eb8e89c22603e615524681",
+    "inputs/review/native_verify.py": "3049471905b47b385c88378a1a3be7a18b8858aadd035b8a6da2f4a03b470f38",
+    "inputs/triangular.json": "d4f8ac1e33dac533f0c400d5790165e4c4fc45e08850e8f23691809d2abc30b1",
+    "inputs/triangular/LICENSE": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+    "inputs/triangular/NOTICE.md": "7ec57034ab47631a47e35ab9cd86a563a6a4bb2ce7397d545861f898281c696c",
+    "inputs/triangular/direct_body.py": "cdaa0d01caa678fca495713ae9ae4efcc33c1af063d7c7de76a76d6da077b1fc",
+    "inputs/triangular/inputs/retained.json": "4d0dd81eb156c97403d752a3dc654d85a93b0284aed8cfa5eed840259f6abd88",
+    "inputs/triangular/inputs/retained.tar.gz": "77742c09b088f27e8742c3fad7b7148d3397e4d51b95312106f39a8970165903",
+    "inputs/triangular/limb_scale.py": "ed7c27348c2bc8259683b617c45bb0ee6aacb781c0ad04168c59035b7b5cf8ff",
+    "inputs/triangular/multiplier.py": "e805fb05caaa76d4c65dc3a55b99c6332a1c3772516547cf24e8027ade718cf4",
+    "inputs/triangular/quotient_route.py": "3243f45d6097a80bc8b077d8682426e4555f6c4a3097bd0a12ffd4f1f5c45ba8",
+    "inputs/triangular/receiver.py": "5d9faeabe8ccc4a4ccf670f91322016cf33b2c2a497fd78b41f3750fbadae560",
+    "inputs/triangular/retained.py": "970e71bb0fcab41a03ccc5068ddc5e0df5c00953098f542fdc1a3e0e2048ffda",
+    "inputs/triangular/same_order_body.py": "56a15ce431daf25794741cb5157e136ce509ed646b32aaea34348088396e459d",
+    "inputs/triangular/staged_carriers.py": "6c925ae4b39dc9999ac5891d1a27dcbb38e129a36e1473b2b418f27a806b6fc4",
+    "inputs/triangular/triangular_ordinary.py": "1f69f21881229566e0b251a2edd8a3c9ac6409eeebdb68ee046f27e74dd8af71",
+    "installations.py": "da357ce3887acc3020d66a8bf752218a632cb9cd9001ee7e01cfff5d4c495552",
+    "lean/.gitignore": "fde850d24186b6e99c8c0debd641fb3ab85198b109eb66f71a1fea02bd6ea1b3",
+    "lean/BandFlow.lean": "c47338afcf5a35e992df47ea4d11e89709a848041ef680a77c39acd57384342a",
+    "lean/Profiles.lean": "53bcad234dac897478d35260598d602cc79b545e979df18efb6f82ba6667617a",
+    "lean/SquareSieve.lean": "4aa9e9693a8006981aac783f7a7302b4102505c544203f69062d3073c4e83618",
+    "lean/lake-manifest.json": "3b30b2d7e59f23142ff2028b8beec632936359b7fe3e904e8984d842a44b1488",
+    "lean/lakefile.toml": "34e23113b620bf67211a36526ebb9a768d4cddb5ba2e990b8d3222540875e19d",
+    "lean/lean-toolchain": "d5edba4e4b8faad9c1baeadb265716d20d03be4d1a2647dc5e35b0c0325bea7b",
+    "linear_geometry.py": "6628fcddf1eed2ffa39c2d3256d79577b950e04c4a688161a66ba92baa3fb7c2",
+    "ordinary_carrier.py": "aa1a64d48daf22f3918922481899a460dfe8e70268388e41f133279bc78f141d",
+    "phase_atlas.py": "6425300f5d3d984290496df0ff411aca6879869b285298e553cd4d94ba02faa7",
+    "positive_dispatch.py": "8bd147f6fd1a22b8b4519d165a290b46ab50870246345cbb0740a405f49a9a73",
+    "prior_setup.py": "28fa12b5290033e50e145e374d2c42b564b30ecdb2f4309213834b5a10981d5a",
+    "raw_binary_stage.py": "e24bd735598d278dbd46cada584a63da01796d77ad557a45b80a4dfc7bbbd0b0",
+    "resources.py": "13027d55cb74e2f53f2c182c6dce3a99c0886d2f6bc51da62df5746e3054f94e",
+    "retimed_supplier.py": "2a87c2781ca93fa854aee098dcb7c50a65f2a46267ba926e3997b442e5a25f2c",
+    "sparse_helpers.py": "823144823a54b0e79ee9891ed0bc7ba6fb7ecd846fbc1d0d287f19b3a046ecbd",
+    "strict_moment.py": "f13c79ed45ce41c67a3f47c1767601be032ae65a908b9ee3a80643b0ac08689a",
+    "strong-bit.json.gz": "9e7392c52bcf29c0cc58c54c619f95c28f476394c33e8e0a5aa30c9557d31362",
+    "strong_binary.py": "64673cce85c94f90c498ca01bfda138bb98e08b56ad3777c6565be86bde09020",
+    "strong_complex.py": "b0f18924be837173ccbbd1b7814a7a9a27228d68ff0dcbaf44a90a2065d0574c",
+    "transport.py": "9eb8f0d77a4c53fc4fddffdfe198cab930b6d1f49e2b6d43c970397051bb7818",
+    "typed_raw.py": "0c268432c9d48798c17d927f2d900b5e69dfc6585166cd71f253913e389c3b47",
+    "typed_transport.py": "b76b9ad3dc0dd91473026c079585f830387eaa3c34c25a7820ee5057d5cbf941",
+    "unpowered_price.py": "a6c80d4605065889bb49144c034965a6bf33d8fad7f73ef97dcf1089e48316b4",
+    "upstream.py": "d9b079965d8abc04be3eda662fc84ba9a08c4f03e8ccc7bd3e775876164e6c10",
+    "verify.py": "20ab1e4bc2d2944ddb59f774c09977439a70e10389b7f28454f0b00fd81d5cc9",
+    "verify_formal.py": "b9e908e09467794a52fd10d32ed6a1eb6f63e1d37726520af493825285f1db85",
+    "verify_sources.py": "6ef97baeafb01cb0fc9afb6ff7beb779cea93755620f836f9e4db5307e3cd365"
+  },
+  "signed_width_controls": [
+    {
+      "component_width": 1,
+      "modulus": 3,
+      "paid_exchanges": 3,
+      "records": 81,
+      "wrong_signed_return_rejected": true
+    },
+    {
+      "component_width": 2,
+      "modulus": 9,
+      "paid_exchanges": 1,
+      "records": 6561,
+      "wrong_signed_return_rejected": true
+    }
+  ],
+  "skipped_modes": [],
+  "stage_seams": [
+    {
+      "compiled": [
+        {
+          "component_log": 4290,
+          "direct": false,
+          "predecessor_cut": 8290,
+          "rank_log": 117168,
+          "scanned_log": 1100000,
+          "stage": 2
+        },
+        {
+          "component_log": 17160,
+          "direct": false,
+          "predecessor_cut": 125522,
+          "rank_log": 524288,
+          "scanned_log": 4400000,
+          "stage": 3
+        }
+      ],
+      "cuts": [
+        8290,
+        125522,
+        649874
+      ],
+      "direct": [
+        {
+          "component_log": 546,
+          "direct": true,
+          "predecessor_cut": 8290,
+          "rank_log": 117168,
+          "scanned_log": 140000,
+          "stage": 2
+        },
+        {
+          "component_log": 2613,
+          "direct": true,
+          "predecessor_cut": 125522,
+          "rank_log": 524288,
+          "scanned_log": 670000,
+          "stage": 3
+        }
+      ],
+      "ranks": [
+        8192,
+        117168,
+        524288
+      ]
+    },
+    {
+      "compiled": [
+        {
+          "component_log": 4290,
+          "direct": false,
+          "predecessor_cut": 8290,
+          "rank_log": 111681,
+          "scanned_log": 1100000,
+          "stage": 2
+        },
+        {
+          "component_log": 17160,
+          "direct": false,
+          "predecessor_cut": 120035,
+          "rank_log": 524288,
+          "scanned_log": 4400000,
+          "stage": 3
+        }
+      ],
+      "cuts": [
+        8290,
+        120035,
+        644387
+      ],
+      "direct": [
+        {
+          "component_log": 546,
+          "direct": true,
+          "predecessor_cut": 8290,
+          "rank_log": 111681,
+          "scanned_log": 140000,
+          "stage": 2
+        },
+        {
+          "component_log": 2613,
+          "direct": true,
+          "predecessor_cut": 120035,
+          "rank_log": 524288,
+          "scanned_log": 670000,
+          "stage": 3
+        }
+      ],
+      "ranks": [
+        8192,
+        111681,
+        524288
+      ]
+    }
+  ],
+  "start_utc": "2026-11-23T04:26:08Z",
+  "timing_seconds": {
+    "real": 223.92,
+    "sys": 53.39,
+    "user": 166.62
+  }
+}

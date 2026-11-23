@@ -1,0 +1,3 @@
+# Round 405 frozen README check and rerun plan
+
+The initial frozen head 6d5cee90b363c52b988ff1e7e9e7974a358d130b failed package registration before any scientific mode. The runner requires the literal heading "## Open next questions". Keep the original checkout, input authentication, raw replay log, status, and exit. After receiving the documentary correction and its exact manifest, require the exact tree diff to consist of that one heading before creating a second clean detached checkout. Authenticate all package inputs against the revised manifest. Apply the already frozen proof scope and single-slot admission to the corrected checkout. Run the registered command without a bypass.

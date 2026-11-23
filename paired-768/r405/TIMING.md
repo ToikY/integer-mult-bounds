@@ -1,0 +1,7 @@
+# Round 405 timing
+
+Admission 04:12:48 UTC. Saved one-case price screen 0.095296 seconds, exit 0. The exact cap and whole signed invoice search checked 17 profiles out of 24 with a 30 s cap and took 0.59 s. Source tracing, active implementation and proof were not individually timed. The first bounded case and cap computation completed within their separate limits.
+
+Sole numerical build took 77.64 s: regeneration 6.32 s, price 17.43 s, calendar 53.89 s. Candidate first frozen 04:23:06 UTC. Metadata rejection at initial scientific preflight took 0.04 s and ran no mode. Amended exact head changed only a plural in the required README heading. We also corrected the local preflight invocation to allow the sibling import and copied only missing objects. The amended checkout had the exact expected history, fixtures and test tree before science.
+
+The separate fresh independent replay ran 04:26:08–04:29:52 UTC, 223.92 s wall, 166.62 user and 53.39 sys, exit 0. The latter time is 17m04s from round start to the first independently checked complete signed decision. Reopened stage and allocated invoice checks reconstructed the two exact receipts in a clean explicit-root replay. Local onboarding ran 04:26:32–04:28:59 UTC, 147.39 s, 760 tests and 31 skips. The separate historical check took 2.62 s, exit 0 for its declared partial scope. No method comparison was matched in this round. Separate publication and hosted times are recorded when they complete.

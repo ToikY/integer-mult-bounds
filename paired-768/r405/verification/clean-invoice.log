@@ -1,0 +1,3 @@
+PASS operator-images.json eb91f7053fdcd2e592ece4c0193e482fe4198057552048c9213b83978d45d257
+PASS independent-invoice.json b6847722fbefe668fc7a9cfab50c665b16bbeb8cfe6fbdb14a25944ab8af5978
+PASS receiver-contract.json cf2db1d67a4ba2757065c5df417f805f799989ed24fdbab03f660da3e7ba8636
