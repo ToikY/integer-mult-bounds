@@ -1,0 +1,67 @@
+PASS_WEIGHTED_COMPLETE_PRICE 85945126846
+PASS_SHARPER_POSITIVE_PERIOD 257/256 1039701/8388608
+ORDINARY_RESERVE 1.3581206042808134e-06 3.3267701604892585e-07 0.0227193413440062
+PASS_DIRECTED_ORDINARY_DEBIT 4474 1420718/1048576 2400/2401 (186/25)/L, no 256/255
+PASS_CHILD_TARIFF 2401/1024 volume<=75/32 sum=2401 entry+5 terminal+9
+PASS_SHARPER_CHILD_TARIFF 4474 1414404/1048576 2390/2391
+PASS_INDEPENDENT_WEIGHTED_AND_QUARTER_PRICES
+[
+  {
+    "H": 1024,
+    "cell": [
+      1,
+      112,
+      1,
+      258
+    ],
+    "share": "1/624",
+    "rotated_roots": 384,
+    "first_root": [
+      "root",
+      "rotated",
+      0,
+      4080,
+      1
+    ],
+    "period": 1364,
+    "tickets": [
+      0,
+      272,
+      545
+    ],
+    "first_swap": [
+      1,
+      272,
+      1
+    ]
+  },
+  {
+    "H": 208653,
+    "cell": [
+      1,
+      112,
+      1,
+      258
+    ],
+    "share": "1/624",
+    "rotated_roots": 384,
+    "first_root": [
+      "root",
+      "rotated",
+      0,
+      4080,
+      1
+    ],
+    "period": 1364,
+    "tickets": [
+      0,
+      272,
+      545
+    ],
+    "first_swap": [
+      1,
+      272,
+      1
+    ]
+  }
+]

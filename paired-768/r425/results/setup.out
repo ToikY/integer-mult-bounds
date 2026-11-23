@@ -1,0 +1,57 @@
+{
+  "directory": {
+    "bytes": 36702587,
+    "dictionary_set_keys": 312177,
+    "edges": 5168271,
+    "largest_integer_bits": 266,
+    "largest_key_bytes": 28,
+    "largest_record": 418608,
+    "records": 2492277,
+    "tag_counts": {
+      "0": 1,
+      "2": 600092,
+      "3": 341148,
+      "4": 97591,
+      "5": 760355,
+      "6": 407075,
+      "7": 143374,
+      "8": 6,
+      "9": 1,
+      "10": 142614,
+      "11": 2,
+      "12": 2,
+      "13": 1,
+      "14": 2,
+      "15": 7,
+      "16": 4,
+      "17": 2
+    }
+  },
+  "directory_sha256": "ed2ef2315123fb257eb6c7213d05ffa3f873e05a1d8ffb070abf88b64c244122",
+  "extra_indexed_action_budget": 1099511627776,
+  "heights": [
+    [
+      3000,
+      3080,
+      1024
+    ],
+    [
+      31808,
+      502922,
+      7951907,
+      125730703,
+      134217727,
+      208653
+    ]
+  ],
+  "installation_sha256": "c5d83f8c6acdab6828185bc6bb67537cf320ba79ab177f9da535edae7b5af72e",
+  "positive_carrier_bits": [
+    1025,
+    208654
+  ],
+  "profile": "period",
+  "scope": "Observed fixed constructor and directory census; conditional all-size setup bound",
+  "serial_transition_upper": 217364571993743287866367176320080817069553173293686105666269057384448,
+  "serial_upper_power": 228,
+  "structural_added_action_ceiling": 137589952512
+}
