@@ -1,0 +1,9 @@
+# Round 403 · VERIFIED IMPROVEMENT
+
+[PR #8072](https://github.com/CrocSwap/integer-mult-bounds/pull/8072) certifies conditional κ 0.003898214283192 at exact head 75f7e1c44f48c43983016bcf8878c4d9e5e87c62. The exact campaign gain over independently reproduced #8071 is 79971/500000000000000, or (106628/25988094155)%. The comparable external #8057 remains at 0.00389821. The exact difference is 535399/125000000000000, or (535399/4872762500)%. The maintainer-selected #7000 remains separate.
+
+The exact integer proof closes the fixed-booking, capped three-ordinary-stage family. The installed ordinary heights (8192,124649,524288) and G=490950 strictly beat #8071's stopped ceiling. The recurring log₂ C bound falls by 60 to 318292011, and the terminal activation exponent rises by 97 to 1148553 with offset 4. Entry conversion stays at 515 bits, maximum native height 524288 and conservative serial setup below 2^228. Both signed native itineraries and the five premises are retained. [Independent whole price and ceiling](verification/README.md)
+
+All seven local scientific modes passed in 217.61 s. The GitHub scientific replay passed them again in 280 s on the exact submitted head, including actual nonzero nested owner return and the signed product. Onboarding and historical prerequisite also passed. Raw hosted scientific log SHA-256 b283607af4025a894b375eb12a6da993f59947ab0e4509a07ee0c8ff09384fe4. [All hosted jobs](https://github.com/CrocSwap/integer-mult-bounds/actions/runs/45105496814) · [Actual scientific job](https://github.com/CrocSwap/integer-mult-bounds/actions/runs/45105496814/job/137467200734) · [Stored markers](hosted/scientific-markers.log)
+
+The [next bounded K7 suffix gate](NEXT.md) changes a charged proof term after the allocation ceiling. The separate #8058 wide replay awaits a supported runner. [Runner handoff](https://github.com/CrocSwap/integer-mult-bounds/discussions/1166#discussioncomment-19821920)
