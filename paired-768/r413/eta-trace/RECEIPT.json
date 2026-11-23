@@ -1,0 +1,112 @@
+{
+  "status": "PASS_ETA_DOMAIN_AND_ORDINARY_CLOCK_AT_SEVEN_LITERAL_RECIPES",
+  "elapsed_cap_seconds": 30,
+  "entry": [
+    {
+      "height": 3000,
+      "predecessor_cut": 0,
+      "native_cut": 3077,
+      "quotient_width_log": 6088,
+      "uniform_quotient_width_log": 6089,
+      "min_component_log2": 10,
+      "early_surcharge_bits": 0,
+      "paid_rate": "429429543222806817/125000000000000000000",
+      "eta_slack": "58070456777193183/125000000000000000000"
+    },
+    {
+      "height": 3080,
+      "predecessor_cut": 3077,
+      "native_cut": 6221,
+      "quotient_width_log": 6249,
+      "uniform_quotient_width_log": 6249,
+      "min_component_log2": 11,
+      "early_surcharge_bits": 25818582,
+      "paid_rate": "690000000000001/200000000000000000",
+      "eta_slack": "89999999999999/200000000000000000"
+    }
+  ],
+  "terminal": [
+    {
+      "height": 31808,
+      "predecessor_cut": 0,
+      "native_cut": 32000,
+      "quotient_width_log": 63930,
+      "uniform_quotient_width_log": 63936,
+      "min_component_log2": 123,
+      "early_surcharge_bits": null,
+      "paid_rate": "120088687817902031/31250000000000000000",
+      "eta_slack": "1981624682097969/31250000000000000000"
+    },
+    {
+      "height": 502922,
+      "predecessor_cut": 32000,
+      "native_cut": 534986,
+      "quotient_width_log": 1009853,
+      "uniform_quotient_width_log": 1009948,
+      "min_component_log2": 1963,
+      "early_surcharge_bits": null,
+      "paid_rate": "779590393282934239/200000000000000000000",
+      "eta_slack": "1659606717065761/200000000000000000000"
+    },
+    {
+      "height": 7951907,
+      "predecessor_cut": 534986,
+      "native_cut": 8486957,
+      "quotient_width_log": 15966247,
+      "uniform_quotient_width_log": 15967749,
+      "min_component_log2": 31061,
+      "early_surcharge_bits": null,
+      "paid_rate": "3900686000905168083/1000000000000000000000",
+      "eta_slack": "5563999094831917/1000000000000000000000"
+    },
+    {
+      "height": 125730703,
+      "predecessor_cut": 8486957,
+      "native_cut": 134217724,
+      "quotient_width_log": 252447594,
+      "uniform_quotient_width_log": 252471356,
+      "min_component_log2": 491134,
+      "early_surcharge_bits": null,
+      "paid_rate": "3900855909461999139/1000000000000000000000",
+      "eta_slack": "5394090538000861/1000000000000000000000"
+    },
+    {
+      "height": 134217727,
+      "predecessor_cut": 134217724,
+      "native_cut": 268435515,
+      "quotient_width_log": 269488207,
+      "uniform_quotient_width_log": 269513573,
+      "min_component_log2": 524286,
+      "early_surcharge_bits": null,
+      "paid_rate": "780171453557201/200000000000000000",
+      "eta_slack": "1078546442799/200000000000000000"
+    }
+  ],
+  "eta_lift_head": "af73b476d5fdeaa763e0bff2dd87b2ecaf097c49",
+  "composed_head": "c20a08dc0a79a989e3515068560d5da371c0a2a8",
+  "eta_lift_proof_sha256": "2cf917cb25145644c44c4ab981f3f4e4fd5f53719a54424d8c5bf6ed31749e72",
+  "composed_sha256": {
+    "prepare.py": "bc401e5c47d275617f3c7d162d56ea4c604ef3d4c6637ab2a8aa8627a570a9f6",
+    "RESULT.json": "915e124475494b08e786eb433e6591d85f2bdedebd624a45b49504c63bbb30e6",
+    "check_ordinary_floor.py": "d66db3d6d01259216fc1823be7066e676541d820ea8a96a4c513a635e91eb244",
+    "check_stage_seam.py": "b790eb6855afa255a609eaaf88a46ed9e8b04232671cca4d0f8bd0bad27f11ac"
+  },
+  "archive_sha256": "0e0d559bdb15e7b647f88a2b5e27fcdc9e28e81d8f4145459876ba6da2e9314c",
+  "archive_member_sha256": {
+    "research/tiered-native-multiplier/CLOCK.md": "cf71e4a3216df23eb7e4fa8a8d9de3735e6257c65ca8a60a5085d9f3c90c4ecb",
+    "research/tiered-native-multiplier/source/installer.tar.gz/retimed-source.tar.gz/machine.patch": "c1f53687f856898641d2c81f0deeaecfbf8daa7a7b66d2a9fda2bb7e85447431",
+    "research/tiered-native-multiplier/source/installer.tar.gz/retimed-source.tar.gz/predecessor/predecessor-8030.tar.gz/ordinary_carrier.py": "c8e87147661a394bc7e1b879744546b7697fcde7f3636556b39ca1623a9d7b31",
+    "research/tiered-native-multiplier/source/installer.tar.gz/retimed-source.tar.gz/predecessor/predecessor-8030.tar.gz/inputs/triangular/triangular_ordinary.py": "1f69f21881229566e0b251a2edd8a3c9ac6409eeebdb68ee046f27e74dd8af71",
+    "research/tiered-native-multiplier/source/installer.tar.gz/retimed-source.tar.gz/predecessor/predecessor-8030.tar.gz/inputs/triangular/inputs/retained.tar.gz/1f3e60a5baae12a679ae64ad8fc7e5456f2040862fb938a99541fdd0b2018ac0": "1f3e60a5baae12a679ae64ad8fc7e5456f2040862fb938a99541fdd0b2018ac0"
+  },
+  "controls": [
+    "old terminal eta rejects claimed booked rate",
+    "quotient lower-adjacent threshold is insufficient",
+    "three source-executed nondyadic integer roots"
+  ],
+  "limitations": [
+    "fixed inherited all-column, ownership, compiler, tape/precision and recovery premises",
+    "signed installed replay and nine-recipe setup census unrun",
+    "source-anchor and exact parameter audit, no astronomical typed native opening"
+  ]
+}

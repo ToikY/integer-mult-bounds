@@ -1,0 +1,7 @@
+# Round 413 plan
+
+Round three of the five-round pause window. Pin #8089 exact 39a03a1317b6d066c76f7fea6a5fcbbcd10cf738 and #8094 exact c20a08dc0a79a989e3515068560d5da371c0a2a8. #8094 remains pending pending exact native and signed checks, and testing only its changed clock seam cannot certify a gain. Reuse exact Round 411/412 scope receipts.
+
+Lead: prove or rule out the wider η ordinary clock seam across all seven literal #8094 ordinary recipes, with fixed floor 4474, tariff 2401/1024 and earlier matched-phase debit. It outranks building more paid deletions because the source-composed one-tick scalar candidate already clears all 54+4 inequalities. Test the #8084 exact written transplant first; stop at an unchanged premise or unaffordable charge. Six minutes source discovery and up to seven finite clocks or 60 seconds for the independent seam. Total eight minutes with two reserved for verification and handoff. An alternative tariff source audit can run concurrently in memory, with one paper-backed frame bound, four minutes tracing and 30 seconds arithmetic. A new tariff calculation or any native work requires a newly selected lead and refreshed admission. Use no substantial compute below 8 GiB.
+
+A missing source anchor or proof term is an unresolved interface. A literal counterexample to a required bound stops this transplant. A source-checked seam permits assembly of the one-tick parameter candidate with other signed and installed gates still enforced.

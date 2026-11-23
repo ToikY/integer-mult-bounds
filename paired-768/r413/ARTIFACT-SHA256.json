@@ -1,0 +1,22 @@
+{
+  "CLOSEOUT.md": "bcdafbec9ab76af244872fea5f9d4eaf7c67e7e0088533017b7be908411da0f6",
+  "RESTART.md": "290b6ec79b243ce35075e790665f5f15e5a2923e7d9d62cb11f3925d3d4eaa1d",
+  "ROUND-PLAN.md": "b8a6e51da0ec19ea216e620dc105d708163269c03ae193ebe2c856ab2afeef84",
+  "eta-trace/README.md": "9e391dfc022d7db9edef5f0f8ffe32433666ee89489605cb89d82a8dbe95af2f",
+  "eta-trace/RECEIPT.json": "cffe6910d0f66bfc59c026fb6e65aaf972de6db66488511a388cfa0ad3e45336",
+  "eta-trace/check.py": "fcc980e4799b0cd6189993f02d4a879c82887aac63bbb8425b5800e966f2e538",
+  "eta-trace/exit.txt": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa",
+  "eta-trace/independent.time": "03f1633da7cb620866c4fa11af8d3604deffeb3663bc3c02253c018f50a482ae",
+  "eta-trace/time.txt": "f68f4bcc2c7905a9b61eebe746ebc867cb6cd3bed1a2be6ac63c74f88cd093cb",
+  "seam/README.md": "0575a7087f4d2e60ebaadb27438f3905a4636f93db2190b85e31028f987095d2",
+  "seam/RECEIPT.json": "abfa4b925aa1277913529a3e213c61d23057c05f78cb6fa2eb5cb4d83a51291d",
+  "seam/check.py": "b538c8e9a3739abc4f75afe6cbd12ce94d3e49e934b7da23e9feddc47d667020",
+  "seam/exit.txt": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa",
+  "seam/independent.time": "2c7a01f9b1932de7daca037dfd5fc61ecfa8dda59fd8241b17f4490295aed40b",
+  "seam/time.txt": "2d07c0fc0911ba5990e33af232cd04cafe0ecc719ad592e36cad682dc94df528",
+  "tariff-plan/README.md": "2b00ca30cc58f9ad23751167e0c543470e3ff84372fdf18e3c37bdecee202721",
+  "tariff-plan/RECEIPT.json": "885a7c76aed1a966b761823a12103b4315577680501efe9ebc8773cfb599bab5",
+  "tariff-plan/check.py": "3bbefb41ee090067e0b04a897279857a79091369cb2a5a9b03676c9c13b64d7d",
+  "tariff-plan/exit.txt": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa",
+  "tariff-plan/time.txt": "69f9f3aa5b065ed3264861cca5720425b490a1115f7d8853c8cab77a2ff93a52"
+}

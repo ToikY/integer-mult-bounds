@@ -1,0 +1,45 @@
+{
+  "scope": "One unchanged physical receiver and #8094 ordinary price substitution only.",
+  "hashes": {
+    "RECEIVER.md": "f31089b6304fc5352feb9aa8a963cc5a950a828165d3426e16e8a973529d814e",
+    "ORDINARY-CLOCK.md": "4694db0b2218796e348c1128271cebb3fc779151a639b0e0fb5bbecf9f3ccb94",
+    "8094-prepare.py": "bc401e5c47d275617f3c7d162d56ea4c604ef3d4c6637ab2a8aa8627a570a9f6",
+    "8094-RESULT.json": "915e124475494b08e786eb433e6591d85f2bdedebd624a45b49504c63bbb30e6",
+    "matched_price_support.py": "4964fb80e4f2a449decbd35044808b3cc235c44405bfa926f6b12f95e9213c33"
+  },
+  "ordinary_heights": {
+    "entry": [
+      3000,
+      3080
+    ],
+    "terminal": [
+      31808,
+      502922,
+      7951907,
+      125730703,
+      134217727
+    ]
+  },
+  "smallest_rank_covered": 9,
+  "quotient_mean_at_9": "22965/9841",
+  "paid_child_mean_upper": "1195/512",
+  "proposed_tariff": "2391/1024",
+  "same_stage_contraction_upper": "2390/2391",
+  "child_depth_sum_upper": "2391",
+  "entry_clock_exponent_allowance": 22,
+  "terminal_added_bits_kept_per_stage": 3,
+  "ordinary_grid_denominator": 1048576,
+  "old_adjacent_debits_fail_pass": [
+    1420717,
+    1420718
+  ],
+  "proposed_adjacent_debits_fail_pass": [
+    1414403,
+    1414404
+  ],
+  "ordinary_debit_saving_ticks": 6314,
+  "controls": {
+    "rank_8_excluded": true,
+    "old_child_bound_breaks_new_tariff": true
+  }
+}

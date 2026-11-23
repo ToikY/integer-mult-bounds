@@ -1,0 +1,158 @@
+{
+  "head": "c20a08dc0a79a989e3515068560d5da371c0a2a8",
+  "cases": 7,
+  "elapsed_cap_seconds": 60,
+  "sources_sha256": {
+    "RESULT.json": "915e124475494b08e786eb433e6591d85f2bdedebd624a45b49504c63bbb30e6",
+    "prepare.py": "bc401e5c47d275617f3c7d162d56ea4c604ef3d4c6637ab2a8aa8627a570a9f6",
+    "check_stage_seam.py": "b790eb6855afa255a609eaaf88a46ed9e8b04232671cca4d0f8bd0bad27f11ac"
+  },
+  "archive_sha256": "0e0d559bdb15e7b647f88a2b5e27fcdc9e28e81d8f4145459876ba6da2e9314c",
+  "archived_entry_path": "research/tiered-native-multiplier/installations.py",
+  "archived_entry_sha256": "1c6978b8c7d136ef87191512d9ab9eb3dda8a818844244b96cb165d46d97b1df",
+  "scope": "Exact dyadic dispatch, floor, stock and cut arithmetic only. No native action, all-size clock or signed caller reach was executed.",
+  "controls": {
+    "terminal_old_eta_rejected": true,
+    "neighbor_at_predecessor_cut_plus_2_rejected": true
+  },
+  "tiers": {
+    "entry": {
+      "eta": "39/10000",
+      "fits_old_eta": true,
+      "recipes": [
+        {
+          "stage": 1,
+          "rank_log": 3000,
+          "entry_cut": 3077,
+          "previous_cut": null,
+          "next_cut": 6221,
+          "predecessor_rank_gap_after_two_bits": null,
+          "cut_root_margin_above_H_plus_64": "173/250",
+          "cut_floor_margin_above_H_plus_64": null,
+          "entry_stock_lower_log": 3064,
+          "predecessor_floor_at_entry": false,
+          "previous_full_width_log_if_called_at_admission": null,
+          "last_predecessor_floor_dyadic_log": null,
+          "last_direct_dyadic_log": 24096,
+          "first_compiled_dyadic_log_if_stage_capped": 24097,
+          "compiled_dyadic_anchor_in_uncapped_stage": false,
+          "quotient_stock_log_bound": 6088
+        },
+        {
+          "stage": 2,
+          "rank_log": 3080,
+          "entry_cut": 6221,
+          "previous_cut": 3077,
+          "next_cut": null,
+          "predecessor_rank_gap_after_two_bits": 1,
+          "cut_root_margin_above_H_plus_64": "763029/250",
+          "cut_floor_margin_above_H_plus_64": 0,
+          "entry_stock_lower_log": 3143,
+          "predecessor_floor_at_entry": true,
+          "previous_full_width_log_if_called_at_admission": 3077,
+          "last_predecessor_floor_dyadic_log": 769250,
+          "last_direct_dyadic_log": 27717,
+          "first_compiled_dyadic_log_if_stage_capped": 27718,
+          "compiled_dyadic_anchor_in_uncapped_stage": true,
+          "quotient_stock_log_bound": 6249
+        }
+      ]
+    },
+    "terminal": {
+      "eta": "1/256",
+      "fits_old_eta": false,
+      "recipes": [
+        {
+          "stage": 1,
+          "rank_log": 31808,
+          "entry_cut": 32000,
+          "previous_cut": null,
+          "next_cut": 534986,
+          "predecessor_rank_gap_after_two_bits": null,
+          "cut_root_margin_above_H_plus_64": "0",
+          "cut_floor_margin_above_H_plus_64": null,
+          "entry_stock_lower_log": 31872,
+          "predecessor_floor_at_entry": false,
+          "previous_full_width_log_if_called_at_admission": null,
+          "last_predecessor_floor_dyadic_log": null,
+          "last_direct_dyadic_log": 255485,
+          "first_compiled_dyadic_log_if_stage_capped": 255486,
+          "compiled_dyadic_anchor_in_uncapped_stage": true,
+          "quotient_stock_log_bound": 63930
+        },
+        {
+          "stage": 2,
+          "rank_log": 502922,
+          "entry_cut": 534986,
+          "previous_cut": 32000,
+          "next_cut": 8486957,
+          "predecessor_rank_gap_after_two_bits": 470920,
+          "cut_root_margin_above_H_plus_64": "3732507/125",
+          "cut_floor_margin_above_H_plus_64": 0,
+          "entry_stock_lower_log": 502985,
+          "predecessor_floor_at_entry": true,
+          "previous_full_width_log_if_called_at_admission": 32000,
+          "last_predecessor_floor_dyadic_log": 8000000,
+          "last_direct_dyadic_log": 4055376,
+          "first_compiled_dyadic_log_if_stage_capped": 4055377,
+          "compiled_dyadic_anchor_in_uncapped_stage": true,
+          "quotient_stock_log_bound": 1009853
+        },
+        {
+          "stage": 3,
+          "rank_log": 7951907,
+          "entry_cut": 8486957,
+          "previous_cut": 534986,
+          "next_cut": 134217724,
+          "predecessor_rank_gap_after_two_bits": 7416919,
+          "cut_root_margin_above_H_plus_64": "125259543/250",
+          "cut_floor_margin_above_H_plus_64": 0,
+          "entry_stock_lower_log": 7951970,
+          "predecessor_floor_at_entry": true,
+          "previous_full_width_log_if_called_at_admission": 534986,
+          "last_predecessor_floor_dyadic_log": 133746500,
+          "last_direct_dyadic_log": 64150242,
+          "first_compiled_dyadic_log_if_stage_capped": 64150243,
+          "compiled_dyadic_anchor_in_uncapped_stage": true,
+          "quotient_stock_log_bound": 15966247
+        },
+        {
+          "stage": 4,
+          "rank_log": 125730703,
+          "entry_cut": 134217724,
+          "previous_cut": 8486957,
+          "next_cut": 268435515,
+          "predecessor_rank_gap_after_two_bits": 117243744,
+          "cut_root_margin_above_H_plus_64": "993760763/125",
+          "cut_floor_margin_above_H_plus_64": 0,
+          "entry_stock_lower_log": 125730766,
+          "predecessor_floor_at_entry": true,
+          "previous_full_width_log_if_called_at_admission": 8486957,
+          "last_predecessor_floor_dyadic_log": 2121739250,
+          "last_direct_dyadic_log": 1014332581,
+          "first_compiled_dyadic_log_if_stage_capped": 1014332582,
+          "compiled_dyadic_anchor_in_uncapped_stage": false,
+          "quotient_stock_log_bound": 252447594
+        },
+        {
+          "stage": 5,
+          "rank_log": 134217727,
+          "entry_cut": 268435515,
+          "previous_cut": 134217724,
+          "next_cut": null,
+          "predecessor_rank_gap_after_two_bits": 1,
+          "cut_root_margin_above_H_plus_64": "6657199097/50",
+          "cut_floor_margin_above_H_plus_64": 0,
+          "entry_stock_lower_log": 134217790,
+          "predecessor_floor_at_entry": true,
+          "previous_full_width_log_if_called_at_admission": 134217724,
+          "last_predecessor_floor_dyadic_log": 33554431000,
+          "last_direct_dyadic_log": 1207959540,
+          "first_compiled_dyadic_log_if_stage_capped": 1207959541,
+          "compiled_dyadic_anchor_in_uncapped_stage": true,
+          "quotient_stock_log_bound": 269488207
+        }
+      ]
+    }
+  }
+}
