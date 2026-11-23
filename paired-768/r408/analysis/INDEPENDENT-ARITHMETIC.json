@@ -1,0 +1,27 @@
+{
+  "scope": "Actual #8087 raw grade census at its exact trial, unchanged (5,451) weights, scales (1,2), target roster and 5r≤4k edges; prebuild support/moment only.",
+  "target_tags": "52608",
+  "paid_tags_before_splits": "281568",
+  "weighted_grade_one_targets": "5040",
+  "reconstructed_directed_margin": "50803612971593099397385261823/24054211488961849122338563785759685737032",
+  "no_transport_from_1005_or_fewer_splits": {
+    "tested_splits": 1005,
+    "lower_real_compulsory_paid_work_minus_upper_true_capacity_k_at_least_two": "110419835000470055474627290238631/81129638414606681695789005144064",
+    "removals_excluded": [
+      3,
+      1008
+    ]
+  },
+  "normalized_hall_at_1006": {
+    "cuts": 22,
+    "proper_cuts": 21,
+    "weakest_proper_source_grade": "1/1",
+    "least_slack_directed_units_of_moment": "1761482736754714535959407151565258723141786790387684834995751185306420995/487877370111988155338285418760956789024415030758306018026467574794944512",
+    "retained_one_removal_transfers_by_monotonicity": true
+  },
+  "maximum_compatible_removals_for_this_scope": 2,
+  "gross_real_moment_saving_at_two": {
+    "lower": "35124140732998224936144857195775/1298074214633706907132624082305024",
+    "upper": "4390517591624778117018107149485/162259276829213363391578010288128"
+  }
+}

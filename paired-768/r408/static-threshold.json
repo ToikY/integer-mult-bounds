@@ -1,0 +1,51 @@
+{
+  "scope": "Independent arithmetic on one fixed shape using #8083's reported booking. No factor, archived word or signed application executed.",
+  "benchmark": {
+    "head": "aea1699415250d865f7a635f4df0b76f406c47b4",
+    "kappa": "779692000101/200000000000000",
+    "C": "4354317451",
+    "binding": "Gaussian guarded rate at full cap",
+    "ordinary_sum": "650657",
+    "gaussian_height_cap": "18845934",
+    "relaxed_ordinary_sum_floor": "650656",
+    "relaxed_gaussian_height_cap": "18845935",
+    "generous_stopped_upper": {
+      "exact": "49304965441196404811631259733/12647292888678400000000000000000",
+      "decimal_truncated": "0.00389846000050597464642"
+    }
+  },
+  "trial": {
+    "kappa": "1949230001873/500000000000000",
+    "reported_gaussian_debit": "130699669/1073741824",
+    "strict_net_gaussian_debit_threshold_at_old_cap": {
+      "exact": "207686345105746269568353/1677721600000000000000000",
+      "decimal_truncated": "0.12379070824727193687460"
+    },
+    "max_feasible_tick_at_old_cap": "132919260",
+    "min_decrease_from_old_booking_ticks": "65572",
+    "first_improved_decimal_max_debit_tick": "132984824",
+    "positive_trial_gaussian_margin": {
+      "exact": "974565113811957/6218048969113600000000000000000",
+      "decimal_truncated": "0.00000000000000015673165"
+    },
+    "negative_smaller_height_shortfall": {
+      "exact": "12294789532610389/62180486335692800000000000000000",
+      "decimal_truncated": "0.00000000000000019772745"
+    },
+    "ordinary_stopped_upper": {
+      "exact": "316228373425988508011581619187710971/81116228747264000000000000000000000000",
+      "decimal_truncated": "0.00389846000374684202243"
+    },
+    "trial_ordinary_slack": {
+      "exact": "68301684330675187710971/81116228747264000000000000000000000000",
+      "decimal_truncated": "0.00000000000000084202243"
+    },
+    "gap_over_generous_old_crossing": {
+      "exact": "40977549613358026667/12647292888678400000000000000000",
+      "decimal_truncated": "0.00000000000324002535357"
+    },
+    "gaussian_height_at_reported_debit": "18531230",
+    "log2_C_projected": "4285082571",
+    "saving_in_log2_C": "69234880"
+  }
+}
