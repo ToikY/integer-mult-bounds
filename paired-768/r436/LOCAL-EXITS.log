@@ -1,0 +1,21 @@
+Scientific replay: exit 0, UTC start 2026-11-24T01:19:49Z, UTC end 2026-11-24T01:25:44Z
+Python 3.12.14
+real 354.43
+user 281.56
+sys 62.53
+2026-11-24T01:27:21Z census START
+2026-11-24T01:27:30Z census 0
+2026-11-24T01:27:30Z onboarding START
+2026-11-24T01:29:43Z onboarding 1
+2026-11-24T01:30:39Z host-onboarding START
+2026-11-24T01:33:09Z host-onboarding 0
+2026-11-24T01:33:09Z plan START
+2026-11-24T01:33:11Z plan 0
+2026-11-24T01:33:11Z historical START
+2026-11-24T01:33:13Z historical 0
+Ran 760 tests in 150.128s
+OK (skipped=31)
+The initial sandboxed onboarding attempt denied process inspection and failed its child cleanup fixture. All onboarding tests passed under standard process permissions.
+PASS_PACKAGE_METADATA_AND_PINS (not a mathematical acceptance check)
+PASS_RESEARCH_COMMIT_BYTES {"commit": "c7d4441c5e4406bff4a79576cf6b2ce0a596390a", "files": 28, "package": "research/p104-10shortcut-child-tariff", "executable_modes_checked": true, "source_history_commits": ["0618e75a22cec54d1651394ef83d088551b7f026"]}
+{"include": [{"packages": ["research/historical-selected-replay-gap", "research/p104-10shortcut-child-tariff"]}]}

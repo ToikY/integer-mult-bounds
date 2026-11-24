@@ -1,0 +1,70 @@
+{
+  "directory": {
+    "bytes": 36702350,
+    "dictionary_set_keys": 312251,
+    "edges": 5168055,
+    "largest_integer_bits": 273,
+    "largest_key_bytes": 28,
+    "largest_record": 418608,
+    "records": 2492209,
+    "tag_counts": {
+      "0": 1,
+      "2": 600113,
+      "3": 341150,
+      "4": 97611,
+      "5": 760256,
+      "6": 407055,
+      "7": 143377,
+      "8": 8,
+      "9": 1,
+      "10": 142614,
+      "11": 2,
+      "12": 2,
+      "13": 1,
+      "14": 2,
+      "15": 8,
+      "16": 6,
+      "17": 2
+    }
+  },
+  "directory_sha256": "8cc4139b6b8cb796eabae89df03066e68fa85f497c47bee1c6207b90f39aa219",
+  "heights": [
+    [
+      3000,
+      3080,
+      1024
+    ],
+    [
+      8192,
+      63614,
+      1005821,
+      15903360,
+      251454111,
+      268435455,
+      52270
+    ]
+  ],
+  "positive_carrier_bits": [
+    1025,
+    52271
+  ],
+  "profile": "tariff",
+  "scope": "Observed fixed native constructor and compact directory, with conditional setup accounting.",
+  "serial_transition_upper": 217364571993743287866367176320080817069553173293686105666269057384448,
+  "source_sha256": {
+    "portable/compiler_state.py": "11f371903410a53aa138bb9b9c49e9441393a34092fff922716a78b5521e1870",
+    "portable/record_census.py": "8132c345cfcc5e7d89494fa437685673273f878f2dc40e0187bf2b84eee17e08",
+    "portable/tape_directory.py": "70bf289334f724cabf1cfa9e074199e6be93ef0aeba8193f279e5ef1336de97b",
+    "runtime/grades.py": "8f8ec926213345e38e73110c2230e0bf03a2282252e924b5710cf212ca514be7",
+    "runtime/installations.py": "d34b860c4c35aeb302767216bf58dd9da627fe2b1b2b646fd70d6a544563648e",
+    "runtime/raw_binary_stage.py": "934d2ae0b305caa364f155cc407c0e8ca479837ba70b906b8f516f67a5cc17b6",
+    "runtime/retimed_supplier.py": "2a87c2781ca93fa854aee098dcb7c50a65f2a46267ba926e3997b442e5a25f2c",
+    "runtime/strong_complex.py": "2e87911b30d2d6467ceca95c4455f71ac010d7d258af3ff167320763fbccfd84",
+    "runtime/transport.py": "9eb8f0d77a4c53fc4fddffdfe198cab930b6d1f49e2b6d43c970397051bb7818",
+    "runtime/typed_raw.py": "41f7e353bbf1914ed54f2c1c087476561dbcc06d1d5d4c828e20ebdd5bd8f28d",
+    "runtime/typed_transport.py": "8968c44fb4349b3e0404c7b47dafad51e373d0ad1d290323674d6ad3cfa04348",
+    "runtime/w5664_shortcut10.json.gz": "ce395afbf5c32be64c4e62389acaf9ce8cf8a9aaaa2fb7a278135bcfa0e635aa"
+  },
+  "structural_added_action_ceiling": 137606729728
+}
+PASS_10SHORTCUT_TARIFF_SCOPE census
