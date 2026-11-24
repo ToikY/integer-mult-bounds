@@ -1,0 +1,21 @@
+{
+  "scope": "One-column dense physical chart and actual graph scratch lifecycle, with synthetic identity boundary",
+  "node": 104493,
+  "charts": [
+    365,
+    529
+  ],
+  "literal_donor": 94870,
+  "paid_tag": [
+    "return",
+    9977,
+    0,
+    104493
+  ],
+  "paid_rank": 5,
+  "spectator_fibres": 4,
+  "forward_values": 2048,
+  "adjoint_values": 2048,
+  "wrong_fourier_rejected": true,
+  "external_owner_restored": true
+}

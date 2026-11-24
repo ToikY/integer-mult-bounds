@@ -1,0 +1,7 @@
+# Hosted exact-head closure for the integral fringe improvement
+
+[PR #8096](https://github.com/CrocSwap/integer-mult-bounds/pull/8096) at `40a82e7974cabfc8509363ea6ad8dd269e446098` passed all three hosted checks. The [clean local replay and exact gain](../r430/REPLAY.md) reported κ 0.003900857312674, up exactly 0.000000000000674 over #8095 and 0.000000000044888 over the prior external #8094.
+
+[Run 45297786148](https://github.com/CrocSwap/integer-mult-bounds/actions/runs/45297786148) resolved on 2026-11-24 at 00:47 UTC. [Onboarding](https://github.com/CrocSwap/integer-mult-bounds/actions/runs/45297786148/job/138122461763), the [historical prerequisite](https://github.com/CrocSwap/integer-mult-bounds/actions/runs/45297786148/job/138124573178), and the [actual scientific replay](https://github.com/CrocSwap/integer-mult-bounds/actions/runs/45297786148/job/138124573174) all passed. GitHub checked merge commit `8719b24f54fd664bc3260f880fc5b53de47175de` with exact tree `07f70ef8021e44c1ca499dd44fbf5a07fe7aa083`, identical to the local publication head's tree. The job emitted all seven scope markers, both true-helper widths, the fixed setup digest and the complete registered package pass marker. Local and hosted directory hashes match.
+
+[Actual marker excerpt](HOSTED-SCIENCE.log) · [Exact merge tree](HOSTED-TREE.json) · [Final PR checks](PR-CHECKS.json) · [Run outcomes](HOSTED-RUN.json). Review and merge remain with the maintainers.

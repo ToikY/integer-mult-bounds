@@ -1,0 +1,2 @@
+PASS_TYPED_RAW48 0 columns 2 paid 282336 nonzero 16 writes 71808 peak 62448
+PASS_TYPED_RAW48 1 columns 4 paid 281328 nonzero 15 writes 71808 peak 62448

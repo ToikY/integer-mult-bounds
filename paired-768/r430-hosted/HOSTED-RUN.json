@@ -1,0 +1,35 @@
+{
+  "headSha": "40a82e7974cabfc8509363ea6ad8dd269e446098",
+  "status": "completed",
+  "conclusion": "success",
+  "url": "https://github.com/CrocSwap/integer-mult-bounds/actions/runs/45297786148",
+  "jobs": [
+    {
+      "databaseId": 138122461763,
+      "name": "plan",
+      "status": "completed",
+      "conclusion": "success",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/actions/runs/45297786148/job/138122461763",
+      "startedAt": "2026-11-24T00:31:03Z",
+      "completedAt": "2026-11-24T00:35:40Z"
+    },
+    {
+      "databaseId": 138124573174,
+      "name": "replay (research/historical-selected-replay-gap, research/p104-k7-integral-fringe) / replay (research/p104-k7-integral-fringe)",
+      "status": "completed",
+      "conclusion": "success",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/actions/runs/45297786148/job/138124573174",
+      "startedAt": "2026-11-24T00:35:43Z",
+      "completedAt": "2026-11-24T00:47:16Z"
+    },
+    {
+      "databaseId": 138124573178,
+      "name": "replay (research/historical-selected-replay-gap, research/p104-k7-integral-fringe) / replay (research/historical-selected-replay-gap)",
+      "status": "completed",
+      "conclusion": "success",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/actions/runs/45297786148/job/138124573178",
+      "startedAt": "2026-11-24T00:35:43Z",
+      "completedAt": "2026-11-24T00:37:10Z"
+    }
+  ]
+}
