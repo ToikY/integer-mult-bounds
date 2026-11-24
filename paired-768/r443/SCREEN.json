@@ -1,0 +1,40 @@
+{
+  "scope": "Fixed periodic factor, 256/255 reserve, 2401 paid geometric budget and 2^-20 debit grid.",
+  "head": "fae237c8aee774bb2256d4e394fed9f3934147c2",
+  "inputs_sha256": {
+    "package/RESULT.json": "a674764a45ce4b974bfaaf80d17695b5a91590fa78e0008f4a2e2fc1bafed722",
+    "handoff/paired-768/r441/SCREEN.json": "74791c2561cd37925d6b72c2b4e6696371583a34811ed0558827d240ac3f7029"
+  },
+  "optimistic_mean": "7/3",
+  "maximum_contraction": "2400/2401",
+  "limiting_tariff": "16807/7200",
+  "factor_ratio_to_verified": "18832940/18832941",
+  "target_debit_tick": 1411926,
+  "dyadic_numerators": {
+    "112": {
+      "optimistic_charge": [
+        13203885305655512679284913264505303,
+        13203885305655512679284913264505748
+      ],
+      "allowance": [
+        13203883702249445585659167938798640,
+        13203883702249445585659167938798700
+      ],
+      "lower_charge_minus_upper_allowance": 1603406067093625745325706603,
+      "upper_charge_minus_lower_allowance": 1603406067093625745325707108
+    },
+    "192": {
+      "optimistic_charge": [
+        15962517865237149125999450298858310252008446290432043631583,
+        15962517865237149125999450298858310252008446290432043631919
+      ],
+      "allowance": [
+        15962515926838155289768848714862064427674321348363838681542,
+        15962515926838155289768848714862064427674321348363838681612
+      ],
+      "lower_charge_minus_upper_allowance": 1938398993836230601583996245824334124942068204949971,
+      "upper_charge_minus_lower_allowance": 1938398993836230601583996245824334124942068204950377
+    }
+  },
+  "excluded_at_both_precisions": true
+}
