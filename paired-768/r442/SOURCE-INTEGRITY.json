@@ -1,0 +1,26 @@
+{
+  "changed_paths": {
+    "research/frequency-weighted-native-multiplier/SOURCES.json": {
+      "new": "fc44126841019e6356387c2f938171ce74f69a2f713d2cf3ce659c1a6f4f4fa4",
+      "old": "3d9ede5bcc951dd21c514608384e3a7e83fc47bdaf7039d90f76fe3b4afa22af"
+    },
+    "research/frequency-weighted-native-multiplier/check_stage_seam.py": {
+      "new": "0e0d9f2986c77285f1704a97f0afd8a24b420c48816dc9680df1335c42678e62",
+      "old": "fc00540e8c20eeae803c4e90ec8324ff765e3598d10efcb33b461f821f2eab7c"
+    },
+    "research/frequency-weighted-native-multiplier/independent_price.py": {
+      "new": "f6d3533e7bae8f7cb7b4d6d8e70885ff79186398c72c96c100254c673f102cdc",
+      "old": "d2d956a03099c6ea580e9076e5c4847fe609e7e1feb04863c9d7179ef6e7237e"
+    },
+    "research/frequency-weighted-native-multiplier/receipt.py": {
+      "new": "7720731fde6b8c2793bcd64d58d5d00e60eb05a22197fde12a9da927d89999bd",
+      "old": "16c045b4907770da8974db9a96d4c9fc5606648473be95519edf317e2ea484e0"
+    },
+    "research/frequency-weighted-native-multiplier/runtime.patch": {
+      "new": "81223960c0d5cddbca86cba29498c436bb58ac9b327897e535b245fa7dacdd39",
+      "old": "7ae0e168b2e28da16797b80972b5d2932c99d44965d8a7c4b2e6412b4eadc75e"
+    }
+  },
+  "checked_paths": 93,
+  "only_installed_selector_rate_changed": true
+}

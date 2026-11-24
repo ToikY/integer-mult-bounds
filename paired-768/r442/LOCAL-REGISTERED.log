@@ -1,0 +1,161 @@
+CHECK Reconstruct the full periodic factor at N≥16 with reserve 256/255, the charged 2401 recursion sum, exact adjacent debits under both tariffs and complete invoice.
+PASS_WEIGHTED_COMPLETE_PRICE 171810078109
+PASS_INDEPENDENT_PERIODIC_DEBITS ord=1418665/2^20 pos=32401/262144 2400/2401 reserve=256/255
+PASS_EXACT_TARIFF_TRANSFER 10981863/4703998 ord=1414569/2^20 reserve=256/255 clock_budget=2401
+PASS_MINIMAL_TARIFF_DEBITS 1412105 1411929 1411927 2^20
+PASS_INDEPENDENT_3TYPE_AND_PERIODIC_PRICES
+[
+  {
+    "H": 1024,
+    "cell": [
+      2,
+      168,
+      2,
+      387
+    ],
+    "share": "1/624",
+    "rotated_roots": 384,
+    "first_root": [
+      "root",
+      "rotated",
+      0,
+      4080,
+      1
+    ],
+    "period": 1364,
+    "tickets": [
+      0,
+      272,
+      545
+    ],
+    "first_swap": [
+      1,
+      272,
+      1
+    ]
+  },
+  {
+    "H": 52270,
+    "cell": [
+      2,
+      168,
+      2,
+      387
+    ],
+    "share": "1/624",
+    "rotated_roots": 384,
+    "first_root": [
+      "root",
+      "rotated",
+      0,
+      4080,
+      1
+    ],
+    "period": 1364,
+    "tickets": [
+      0,
+      272,
+      545
+    ],
+    "first_swap": [
+      1,
+      272,
+      1
+    ]
+  }
+]
+PASS_10SHORTCUT_TARIFF_SCOPE price
+CHECK Check the 3-type calendar and ownership, ordinary floor and empirical suffix replay, 28-bit 6-stage seams, five matched comparator tier controls, and signed restoration.
+PASS_THREE_NATIVE_TYPES 2048 1390 2 (13600, 26400, 39360) 1490816 (2395, 13886, 12396) 65552 [(0, 1), (1, 0), (1, 1), (1, 2), (2, 0), (2, 1), (2, 2)]
+[
+  {
+    "weights": [
+      1,
+      3,
+      5
+    ],
+    "raw_frames": 16824,
+    "directed_bindings": {
+      "(2, 2)": 2328,
+      "(1, 2)": 1488,
+      "(2, 1)": 2072,
+      "(1, 1)": 1248,
+      "(0, 1)": 704,
+      "(2, 0)": 300,
+      "(1, 0)": 144
+    },
+    "depth": 4,
+    "peak_simultaneous_frames": 8536,
+    "external_opens": 480,
+    "zeros": 13676,
+    "external_rows": 3120,
+    "positive_periods": [
+      12,
+      16
+    ],
+    "leaf_axes": 603680,
+    "same_tick_return_before_next_loan": 4024
+  },
+  {
+    "weights": [
+      1,
+      45,
+      2025
+    ],
+    "raw_frames": 568264,
+    "directed_bindings": {
+      "(2, 1)": 11752,
+      "(1, 2)": 5956,
+      "(2, 2)": 269964,
+      "(2, 0)": 60,
+      "(1, 1)": 120,
+      "(0, 1)": 24
+    },
+    "depth": 3,
+    "peak_simultaneous_frames": 290652,
+    "external_opens": 180384,
+    "zeros": 112420,
+    "external_rows": 473344,
+    "positive_periods": [
+      8,
+      12,
+      16
+    ],
+    "leaf_axes": 8521440,
+    "same_tick_return_before_next_loan": 11896
+  }
+]
+PASS_LITERAL_UPPER_FENCE 1724 1164 (1024, 52270)
+PASS_LITERAL_LOWER_CUTOFF 1164 (1156, 2312, 3468) [(0, 0, 2328, 3), (0, 1, 2328, 141), (0, 2, 2328, 6384), (0, 0, 2330, 3), (0, 1, 2330, 141), (0, 2, 2330, 6373), (1, 0, 2328, 141), (1, 1, 2328, 6384), (1, 2, 2328, 287283), (1, 0, 2330, 141), (1, 1, 2330, 6373), (1, 2, 2330, 286792), (2, 0, 2328, 6384), (2, 1, 2328, 287283), (2, 2, 2328, 12927773), (2, 0, 2330, 6373), (2, 1, 2330, 286792), (2, 2, 2330, 12905642)] 75916419825894
+PASS_10SHORTCUT_3TYPE_28BIT_6STAGE_SEAM {"binary_cuts": [8290, 71968, 1077853, 16981277, 268435452, 536870971], "comparators": {"20bit": {"G": 33856, "kappa": "0.003899576196608", "log2_C": 678415820}, "25bit_4stage": {"G": 51501, "kappa": "0.003900827024476", "log2_C": 21485944123}, "27bit_5stage": {"G": 52158, "kappa": "0.003900857282381", "log2_C": 85910697946}, "8089_0039": {"G": 38302, "kappa": "0.0039", "log2_C": 574949140}, "strict_cap": {"G": 25003, "kappa": "0.003898283457829", "log2_C": 318291840}}, "compiled_stage_seams": [{"component_log": 2500, "direct": false, "predecessor_cut": 8290, "rank_log": 63614, "scanned_log": 640000, "stage": 2}, {"component_log": 35625, "direct": false, "predecessor_cut": 71968, "rank_log": 1005821, "scanned_log": 9120000, "stage": 3}, {"component_log": 559375, "direct": false, "predecessor_cut": 1077853, "rank_log": 15903360, "scanned_log": 143200000, "stage": 4}, {"component_log": 8840625, "direct": false, "predecessor_cut": 16981277, "rank_log": 251454111, "scanned_log": 2263200000, "stage": 5}, {"component_log": 9437500, "direct": false, "predecessor_cut": 268435452, "rank_log": 268435455, "scanned_log": 2416000000, "stage": 6}], "complete_log2_C": 171810078109, "controls": ["peer8097-ordinary-height-0-minus-861", "peer8097-ordinary-height-1-minus-231", "peer8097-ordinary-height-2-minus-232", "peer8097-ordinary-height-3-minus-232", "peer8097-ordinary-height-4-minus-232", "peer8097-ordinary-height-5-minus-2", "ordinary-height-0-plus-one-breaks-prefix", "ordinary-height-1-plus-one-breaks-prefix", "ordinary-height-2-plus-one-breaks-prefix", "ordinary-height-3-plus-one-breaks-prefix", "ordinary-height-4-plus-one-breaks-prefix", "first-ordinary-height-below-8192", "five-stage-28bit-profile-at-new-rate", "pr8094-27bit-profile-at-new-rate", "pr8090-25bit-profile-at-new-rate", "capped-20bit-profile-at-new-rate", "gaussian-height-minus-one", "peer8097-ordinary-debit-at-new-rate", "peer8098-booked-debit-at-new-rate", "peer8098-tight-debit-at-new-rate", "domain-only-debit-at-new-rate", "next-displayed-kappa-at-fixed-six-stage-profile", "inherited-cap-318292011", "outer-ordinary-margin-removed", "prefix-height-at-previous-cut", "recurring-bound-minus-one", "old-eta-39/10000"], "conversion_bits": 242079, "direct_stage_seams": [{"component_log": 625, "direct": true, "predecessor_cut": 8290, "rank_log": 63614, "scanned_log": 160000, "stage": 2}, {"component_log": 4375, "direct": true, "predecessor_cut": 71968, "rank_log": 1005821, "scanned_log": 1120000, "stage": 3}, {"component_log": 66875, "direct": true, "predecessor_cut": 1077853, "rank_log": 15903360, "scanned_log": 17120000, "stage": 4}, {"component_log": 1048750, "direct": true, "predecessor_cut": 16981277, "rank_log": 251454111, "scanned_log": 268480000, "stage": 5}, {"component_log": 2097500, "direct": true, "predecessor_cut": 268435452, "rank_log": 268435455, "scanned_log": 536960000, "stage": 6}], "gaussian_height": 52270, "heights": [8192, 63614, 1005821, 15903360, 251454111, 268435455], "kappa": "243803896823/62500000000000", "log2_B": 171798577106, "signed": {"functional": 4, "ordinary_margin": "1/1000000000000000000", "positive_margin": "6884917217641149/548090675200000000000000000", "smallest_margin": "1/10000000000000000000", "strict": 54}, "signed_tape": [{"component_width": 1, "modulus": 3, "paid_exchanges": 3, "records": 81, "wrong_signed_return_rejected": true}, {"component_width": 2, "modulus": 9, "paid_exchanges": 1, "records": 6561, "wrong_signed_return_rejected": true}]}
+PASS_LITERAL_ORDINARY_FLOOR {"binary_all_size": {"birth_bound": "2V", "copy_group_bound": "3N^3", "first_two_columns": [1148, 1150], "fringe_upper_1e9": 4525997076, "grid_absolute_error_exponent_at_H1024": -27312, "minimum_positive_scale_h_guard": 1024, "normalized_error_allowance": "2^-128", "psi_lower_floor": 386067, "suffix_birth_error_upper_at_H1024": "2^30/N^5", "suffix_target_axes": 286098, "whole_field_width": "N^92"}, "binary_integer_fixture": {"carrier": 524288, "empirical_suffix_axes": 10812, "extent": "complete fixture event stream", "first_band_contacts": [[1156, 29, [[0, 0, 1508, 1], [0, 0, 1510, 16], [0, 0, 1512, 4]]], [1158, 29, [[0, 0, 1512, 12], [0, 0, 1514, 9]]]], "lower": 1156, "lower_return_counts": {"1148": 105, "1150": 105}, "native_closes": 20135, "native_opens": 20135, "paid_singletons": 1265397230, "periodic_suffix_bound": 11626349.165348984, "returned_paid_prefixes": 405, "tested_occupied_K7_grade": [49, 64], "upper": 1520}, "new_binary_openings": [{"ambient": 134, "first_columns": 1148, "height": 3000, "literal_cross_checked": true, "lower": 1156, "plan_arguments_checked": true, "trace": "symbolic-exact-operator-interception"}, {"ambient": 134, "first_columns": 1148, "height": 3080, "literal_cross_checked": true, "lower": 1156, "plan_arguments_checked": true, "trace": "symbolic-exact-operator-interception"}, {"ambient": 134, "first_columns": 1148, "height": 8192, "literal_cross_checked": true, "lower": 1156, "plan_arguments_checked": true, "trace": "symbolic-exact-operator-interception"}, {"ambient": 134, "first_columns": 1148, "height": 63614, "literal_cross_checked": true, "lower": 1156, "plan_arguments_checked": true, "trace": "symbolic-exact-operator-interception"}, {"ambient": 134, "first_columns": 1148, "height": 1005821, "literal_cross_checked": true, "lower": 1156, "plan_arguments_checked": true, "trace": "symbolic-exact-operator-interception"}, {"ambient": 134, "first_columns": 1148, "height": 15903360, "literal_cross_checked": false, "lower": 1156, "plan_arguments_checked": true, "trace": "symbolic-exact-operator-interception"}, {"ambient": 134, "first_columns": 1148, "height": 251454111, "literal_cross_checked": false, "lower": 1156, "plan_arguments_checked": true, "trace": "symbolic-exact-operator-interception"}, {"ambient": 134, "first_columns": 1148, "height": 268435455, "literal_cross_checked": false, "lower": 1156, "plan_arguments_checked": true, "trace": "symbolic-exact-operator-interception"}]}
+PASS_10SHORTCUT_TARIFF_SCOPE calendar
+CHECK Execute all three nonzero signed w5664 Gaussian native word scales (1, 2, 3) and restore all physical owners.
+PASS_TYPED_RAW48 0 columns 2 paid 282096 nonzero 16 writes 71808 peak 62448
+PASS_TYPED_RAW48 1 columns 4 paid 281088 nonzero 15 writes 71808 peak 62448
+PASS_TYPED_RAW48 2 columns 6 paid 281088 nonzero 15 writes 71808 peak 62448
+PASS_10SHORTCUT_TARIFF_SCOPE raw
+CHECK Generate the first exterior births across all three native types on w5664 and return all owners through the actual signed words.
+PASS_EXTERIOR_3TYPE_RAW (4735235857933, 213085613606962, 9588852612313289) 76 157824 844272 [8912448, 468] [0, 181726]
+PASS_10SHORTCUT_TARIFF_SCOPE exterior
+CHECK Carry actual nonzero cross-type nested loans (0->1 and 1->2) on w5664 and verify all owner returns.
+real nested transfer completed 3418 ('helper', 9977, 0, 14) [281088, 2]
+PASS_NONZERO_INTERIOR 282096 281088 9841 450370432 2 [0, 118692]
+PASS_10SHORTCUT_TARIFF_SCOPE nested
+CHECK Execute the exact signed product and independently verify coefficients and restoration.
+{"H_calls": 157248, "bits": [20, 19], "coefficients_prefix": [11811, 10996, 4152, 868, 77], "padded_bytes": 633744, "product": "-345550037539", "rank": 2, "seconds": 68.1081, "shuttles": 138, "stage_body_records": 6561}
+PASS_WEIGHTED_SIGNED_PRODUCT
+PASS_10SHORTCUT_TARIFF_SCOPE product
+CHECK Check canonical serial division, Bezout, fixed native setup tape bound, and full w5664 3-prime linear/transpose + 25M-term literal_grid + Clifford catalogue verification.
+{
+  "integer_pairs": 4071,
+  "rational_cases": 7396,
+  "max_datum_bits": 274877906944,
+  "lookup": 170141183460469231731687303715884105728,
+  "local_arithmetic": 297105609434291902295870930944,
+  "all_setup": 217364570380528137475793294892811967875864032914108887556978854854656,
+  "setup_exponent": 228
+}
+PASS_W5664_SHORTCUT10 {"catalogue_digest": "34eef62b6701db0565dce3471f165f4224194ff2782be822774f9c1255553a8d", "gz_sha256": "ce395afbf5c32be64c4e62389acaf9ce8cf8a9aaaa2fb7a278135bcfa0e635aa", "images": {"basis_images": 1936896, "distinct_factors": 3783, "factor_occurrences": 6130, "maximum_factor_records": 93}, "moves": 5664, "nontrivial": 17229517, "products": 25142049, "word_digest": "668125b34a34c9a59a97bd66a236118d1d32f19b60dcd872b29f7dd690be0c3e"}
+PASS_10SHORTCUT_TARIFF_SCOPE setup
+PASS_REGISTERED_RESEARCH_PACKAGE research/p104-10shortcut-child-tariff outcome=partial

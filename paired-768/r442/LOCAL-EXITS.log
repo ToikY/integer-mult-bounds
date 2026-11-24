@@ -1,0 +1,18 @@
+Scientific replay: UTC start 2026-11-24T02:28:39Z, UTC end 2026-11-24T02:34:25Z, exit 0
+Python 3.12.14
+real 345.78
+user 276.49
+sys 60.99
+2026-11-24T02:36:12Z census START
+2026-11-24T02:36:22Z census 0
+2026-11-24T02:36:22Z onboarding START
+2026-11-24T02:38:55Z onboarding 0
+2026-11-24T02:38:55Z plan START
+2026-11-24T02:38:56Z plan 0
+2026-11-24T02:38:56Z historical START
+2026-11-24T02:38:58Z historical 0
+Ran 760 tests in 152.590s
+OK (skipped=31)
+PASS_PACKAGE_METADATA_AND_PINS (not a mathematical acceptance check)
+PASS_RESEARCH_COMMIT_BYTES {"commit": "fae237c8aee774bb2256d4e394fed9f3934147c2", "files": 34, "package": "research/p104-10shortcut-child-tariff", "executable_modes_checked": true, "source_history_commits": ["0618e75a22cec54d1651394ef83d088551b7f026"]}
+{"include": [{"packages": ["research/historical-selected-replay-gap", "research/p104-10shortcut-child-tariff"]}]}
