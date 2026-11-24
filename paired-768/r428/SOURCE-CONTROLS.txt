@@ -1,0 +1,3 @@
+PASS_STATIC_ASSEMBLY_CONTROLS
+Separate output receipt, corrupt preimage rejection, frozen reader identity, unchanged seam/tape AST, arithmetic floors and exact setup selector.
+Native replay unrun.
