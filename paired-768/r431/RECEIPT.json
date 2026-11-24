@@ -1,0 +1,28 @@
+{
+  "scope": "One fixed profile, ordinary charge only, no native run",
+  "inputs_sha256": {
+    "package/RESULT.json": "6894e85cec33111c46ca03a56ddad9a33cd913f267e4ec5c5d2ed95bc1adb8af",
+    "assembled/receipt.py": "c39a9f0e754348849a210a291989b68d234e7639633977b18f7b4afc231b94fe",
+    "handoff/round427/check_fringe.py": "63c8b56140e5f42f504ac98bb4824934e90e4a5ff26fa3065fe10c8e199640c4"
+  },
+  "minimum_rank": 9,
+  "worst_exact_child": "22965/9841",
+  "previous_tariff": "2391/1024",
+  "proposed_tariff": "10981863/4703998",
+  "factor_ratio": "2351616/2351999",
+  "geometric_sum": 2391,
+  "old_ordinary_debit": "353601/262144",
+  "tested_ordinary_debit": "353569/262144",
+  "directed_precisions": [
+    112,
+    192
+  ],
+  "previous_tariff_fails_drop": true,
+  "binding_after_drop": "Gaussian",
+  "old_ordinary_guarded": "70271597635576107423265784940945878127/18014398375264256000000000000000000000000",
+  "new_ordinary_guarded": "14054319530393790932842397761445693667/3602879675052851200000000000000000000000",
+  "gaussian_guarded": "341385131991978779952240619/87515411251200000000000000000",
+  "projected_kappa": "3900857313143/1000000000000000",
+  "projected_delta": "469/1000000000000000",
+  "complete_log2_C": 85945126846
+}
