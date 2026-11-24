@@ -1,0 +1,4 @@
+PASS_RESEARCH_COMMIT_BYTES {"commit": "40a82e7974cabfc8509363ea6ad8dd269e446098", "files": 46, "package": "research/p104-k7-integral-fringe", "source_history_commits": ["0618e75a22cec54d1651394ef83d088551b7f026"]}
+real 0.13
+user 0.09
+sys 0.06
