@@ -1,0 +1,27 @@
+2026-11-24T00:55:04Z
+Python 3.12.14
+e1c251401fe254909ac7e7bf2c773b921a1b6b57
+699394c6bff1760dbed606bc01d2c8273430cb6b
+Filesystem   1024-blocks      Used Available Capacity  Mounted on
+/dev/disk3s5   239362496 148656592  26928724    85%    /System/Volumes/Data
+/dev/disk3s5   239362496 148656592  26928724    85%    /System/Volumes/Data
+e1256016e7f51827d04fa2179255989f639ae1d97afaa9c16265f85a0c6abd70  scripts/research_package.py
+c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4  research/p104-10shortcut-3type-28bit-6stage/LICENSE
+ff2f77f937170cf4f708d46d170867cc5c517f602d4923b7ccb8ee2614792e52  research/p104-10shortcut-3type-28bit-6stage/NOTICE.md
+798c2e6394c258986484a116198cc542a6d2b4c1f289e5816de2cfecf5141c51  research/p104-10shortcut-3type-28bit-6stage/PEER-SOURCE.json
+53583b6f16e168fc3cca5e36d25404599575b8b573b989f5bbb06d4cc0c5ed2d  research/p104-10shortcut-3type-28bit-6stage/PROOF.md
+b2836a5ceb9d4dcb3b3623473a1387e06c6369cd57ee9ce0961d38c6a21521ee  research/p104-10shortcut-3type-28bit-6stage/README.md
+f3ff96fb44169735871b27c1a22dd3f499e20a77401896fe53845f546aa1c9f5  research/p104-10shortcut-3type-28bit-6stage/RESULT.json
+1fb9a0897f42f5a2080793f4ee88eddc2e7e8dd3dd6c9806329dba82c3b8ae9e  research/p104-10shortcut-3type-28bit-6stage/SETUP-28BIT.md
+cabe1f027b30b520db428d644710bdd904068fcb354fcf0cb74bb1643ce859e0  research/p104-10shortcut-3type-28bit-6stage/SOURCES.json
+b4deb37e6d49be047d0e154ec46c5d14cacf4339a356631257aa1cb8b3404343  research/p104-10shortcut-3type-28bit-6stage/TASK.json
+747c907579b42d905d20fd6f1cbba68839462599137dcb0eb60304b7ca9540c5  research/p104-10shortcut-3type-28bit-6stage/VERIFY.json
+e0c7e48d4469844de861e1e4ba83eed9c5ccd58e5c9f480c4a6a82da7524e31c  research/p104-10shortcut-3type-28bit-6stage/check_cutoff.py
+9c60d0ff1d88a0981625ae1c998638a8ad28d7ce0d3ffa01eba141cbbb99c3a8  research/p104-10shortcut-3type-28bit-6stage/check_ordinary_floor.py
+f65ba986ef88b58c2e88fd43fdf40043d9b47f9952a83cb8277881776c914183  research/p104-10shortcut-3type-28bit-6stage/check_stage_seam.py
+e2c878d9805c79859c134b2a0d545e13650320720197a40efa16a49a4decd4cf  research/p104-10shortcut-3type-28bit-6stage/check_w5664.py
+0e0d559bdb15e7b647f88a2b5e27fcdc9e28e81d8f4145459876ba6da2e9314c  research/p104-10shortcut-3type-28bit-6stage/peer8057.tar.gz
+5c54f3b1f1156eb4710038b1d0124d83db9241c80cb06c59abe1f0d132f8a55b  research/p104-10shortcut-3type-28bit-6stage/prepare.py
+19820110cacbabd1436937092da5059fc641d7fafad0588fd5a901b5d7c817f4  research/p104-10shortcut-3type-28bit-6stage/verify.py
+ce395afbf5c32be64c4e62389acaf9ce8cf8a9aaaa2fb7a278135bcfa0e635aa  research/p104-10shortcut-3type-28bit-6stage/w5664_shortcut10.json.gz
+python3.12 -IB scripts/research_package.py --package research/p104-10shortcut-3type-28bit-6stage

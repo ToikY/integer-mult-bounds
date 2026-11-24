@@ -1,0 +1,14 @@
+{
+  "scope": "Independent setup arithmetic only. Exact original peer checkout remains untouched.",
+  "source_sha256": {
+    "peer8097/research/p104-10shortcut-3type-28bit-6stage/RESULT.json": "f3ff96fb44169735871b27c1a22dd3f499e20a77401896fe53845f546aa1c9f5"
+  },
+  "recorded_serial_actions": 295147905179352825856,
+  "expanded_serial_actions": 295147906278864453632,
+  "observed_profile_recipe_count": 10,
+  "structural_action_upper": 137606729728,
+  "legacy_reported_transition_upper": 217364570380528137475793294892811967875864032914108887556978854854656,
+  "expanded_transition_upper": 217364571993743287866367176320080817069553173293686105666269057384448,
+  "setup_power": 228,
+  "installed_census": "pending"
+}
