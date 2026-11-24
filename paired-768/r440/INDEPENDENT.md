@@ -1,0 +1,9 @@
+# Round 440 independent limiting audit
+
+Exact #8098 517eac577bc12a1519eaf346a6816ad91bc9df90 books κ 0.003900862349161. For x=3^(N−2), its proved mean function has derivative −48/(9x−1)^2 and remainder 16/[3(9x−1)] above 7/3. The infimum under this law is 7/3. At contraction 2390/2391 it gives optimistic tariff 5579/2390.
+
+I independently subtracted the outward allowance upper from the limiting charge lower in each SCREEN interval and matched the signed gaps. They are +7156630525441444964131727669/2^112 and +8651835423648373103335476825563190486418502685541839/2^192. Hence even the unattainable limit fails 1411928/2^20. This closes tighter domain floors under the same quotient-law bound, contraction and whole-factor expression. It gives no lower bound on actual physical child volume, or on a different price/receiver.
+
+#8097 charged contraction 2400/2401 and sum 2401 at these same direct and equal-volume quotient leaves and heights. R439 retained the 2401 budget, entry +5 and terminal +18, since 2401<8·376 and (7·2401/10)^2<2^22. Both moments use child width floor(c/N), so the charged reserve remains valid with this larger contraction. No width, precision, ownership, phase or restore change was found. Retain 256/255 independently of that sum.
+
+With N≥16 unchanged, tariff 5024210149/2152336000 gives contraction 2400/2401. Its ratio to current tariff is 573839/573840. Positive rescaling of the exact outward limiting-charge intervals by 171540889373/171541179200 and fresh directed threshold arithmetic at both precisions funds 1411927/2^20 and rejects 1411926/2^20. Exact recurrence gives guarded ceiling 9369558483568853482515080195691818401/2401919792316416000000000000000000000000 and projects κ 0.003900862349168, Δκ 7/10^15. Next authenticate the fixed envelope and one proposed literal price under the already charged maximum clock budget. No native, candidate or public work ran in this audit.

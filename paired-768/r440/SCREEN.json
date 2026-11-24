@@ -1,0 +1,46 @@
+{
+  "scope": "Fixed periodic envelope, contraction, reserve and geometry. Quotient-domain bound only.",
+  "head": "517eac577bc12a1519eaf346a6816ad91bc9df90",
+  "pinned_inputs": {
+    "package/verify.py": "66ef63d6a7e89d0424641c63afa23149b7f8259d29333dc4b745ec612b4358f6",
+    "package/INPUTS.json": "be77a83e9b702928c3b8e16554fae12aefb635b99bfb01c5a175e9105f440c09",
+    "package/RESULT.json": "4ae4c5332a66396a63c0732c5fb1f797f96ebae0e397665de382a3ea31861fa6",
+    "package/source/domain/ASSEMBLY.json": "1f7d6217d3212147c01ba84b56772b1a6709325cfc16ce4ba2e047553c654908",
+    "assembled/receipt.py": "16c045b4907770da8974db9a96d4c9fc5606648473be95519edf317e2ea484e0",
+    "assembled/independent_price.py": "d2d956a03099c6ea580e9076e5c4847fe609e7e1feb04863c9d7179ef6e7237e",
+    "runtime/installations.py": "83c9616cadecbb6da76a0c4e0d909abe62490d48f35c47c08c68d879c65e13c7",
+    "handoff/round438/check_minimal_debit.py": "34c82423ef62ec15eae6ba1f68b0a9be8ca1a54e43fdd34cd46e3a2acfddf9e4"
+  },
+  "minimum_limiting_child_mean": "7/3",
+  "mean_minus_limit": "16/(3*(9*x-1)) for x=3^(N-2)",
+  "limiting_tariff": "5579/2390",
+  "tested_lower_debit": "176491/131072",
+  "booked_debit": "1411929/1048576",
+  "dyadic_interval_numerators": {
+    "112": {
+      "limiting_charge": [
+        13203908315393968335858759386698575,
+        13203908315393968335858759386699018
+      ],
+      "lower_debit_allowance": [
+        13203901158763442894413795254970852,
+        13203901158763442894413795254970906
+      ],
+      "lower_charge_minus_upper_allowance": 7156630525441444964131727669
+    },
+    "192": {
+      "limiting_charge": [
+        15962545682304070748874727161271458989389927870537770903595,
+        15962545682304070748874727161271458989389927870537770903929
+      ],
+      "lower_debit_allowance": [
+        15962537030468647100501623825794633426199441452035085361696,
+        15962537030468647100501623825794633426199441452035085361756
+      ],
+      "lower_charge_minus_upper_allowance": 8651835423648373103335476825563190486418502685541839
+    }
+  },
+  "excluded_at_both_precisions": true,
+  "limit_funds_at_both_precisions": false,
+  "decision": "Stop fixed-envelope domain refinements"
+}
