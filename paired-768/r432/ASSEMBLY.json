@@ -1,0 +1,33 @@
+{
+  "baseline_terminal_kappa": "0.003900857312674",
+  "candidate_RESULT": "not generated",
+  "candidate_installation_sha256": "4793148b05ea33ef5140d9afe4f79c409ec7e9493314afec295ba810e03f13d8",
+  "changed": {
+    "research/frequency-weighted-native-multiplier/SOURCES.json": {
+      "after": "df5702a8ac4c6ef34131a1a2c2a61306ef68331d05e4d2acd808953a71b98efa",
+      "before": "434bdd0322622aa5dd7d592fe2b7fa2e19e5e741e2554ac094084164926708c2"
+    },
+    "research/frequency-weighted-native-multiplier/check_stage_seam.py": {
+      "after": "3e2404efa6ac581e8e554cbbfd46858f24fc8b9fc665e8d9a148b0d41005992f",
+      "before": "dbaa72c655cc46e5db7264b6f7453a61f3e7ea0b3d76ba712f5e55746df09740"
+    },
+    "research/frequency-weighted-native-multiplier/independent_price.py": {
+      "after": "32624b182d77ef4514af990077c96a0520e6abf7a25256dd2fdf71db643c0086",
+      "before": "c78812589570aac1a18070ba74c60416aa1a2672789482d51b83082dd2bd72f9"
+    },
+    "research/frequency-weighted-native-multiplier/receipt.py": {
+      "after": "0a5bdc846b03fdab50b4b1d9a63ac778c65aedd58a74e61f55f43b31fe89c2e0",
+      "before": "c39a9f0e754348849a210a291989b68d234e7639633977b18f7b4afc231b94fe"
+    },
+    "research/frequency-weighted-native-multiplier/runtime.patch": {
+      "after": "374870a091f15536f675a717950bb98ba9827581cf39760f957c2c4dbb6012c5",
+      "before": "72782749b01521fa307e4117eda263eeb21f3750dc4f0abcfd09354edf2bb8c8"
+    }
+  },
+  "installation_preimage_sha256": "1c6978b8c7d136ef87191512d9ab9eb3dda8a818844244b96cb165d46d97b1df",
+  "old_installation_sha256": "6dc565fad3b91bcb43ff71397897afcc54fd5f9d595a8f88b91234994d8e70be",
+  "predecessor_result_sha256": "6894e85cec33111c46ca03a56ddad9a33cd913f267e4ec5c5d2ed95bc1adb8af",
+  "projected_delta": "469/1000000000000000",
+  "projected_terminal_kappa": "0.003900857313143",
+  "scope": "Frozen source assembly and exact selector image only. Installed replay unrun."
+}
