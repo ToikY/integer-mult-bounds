@@ -1,0 +1,26 @@
+{
+  "scope": "One fixed profile, source geometry and directed price only",
+  "inputs_sha256": {
+    "package/RESULT.json": "ad6ca3a20b296033ed586821db1f42ffee2d9b5cd9723dbcb1720605f143f609",
+    "runtime/grades.py": "6124744b40f806c80b6f10010a72e755bc11d64a8cc9a04f5e8316799eb6f05d",
+    "runtime/transport.py": "9eb8f0d77a4c53fc4fddffdfe198cab930b6d1f49e2b6d43c970397051bb7818",
+    "runtime/typed_transport.py": "b76b9ad3dc0dd91473026c079585f830387eaa3c34c25a7820ee5057d5cbf941"
+  },
+  "integer_suffix_bound": "10*k - 5",
+  "weighted_slot_count_lower": "112874336/43",
+  "fringe_reduction_lower_fraction": "1/516",
+  "old_debit": "1039701/8388608",
+  "tested_debit": "1039699/8388608",
+  "directed_precisions": [
+    112,
+    192
+  ],
+  "old_factor_negative_control": "rejected at tested debit",
+  "old_gaussian_guarded": "113795043963992926650746873/29171803750400000000000000000",
+  "new_gaussian_guarded": "341385131991978779952240619/87515411251200000000000000000",
+  "ordinary_guarded": "70271597635576107423265784940945878127/18014398375264256000000000000000000000000",
+  "binding_after_two_ticks": "ordinary",
+  "projected_kappa": "1950428656337/500000000000000",
+  "projected_delta": "337/500000000000000",
+  "complete_log2_C": 85945126846
+}
