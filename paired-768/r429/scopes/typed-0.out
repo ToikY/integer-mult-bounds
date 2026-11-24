@@ -1,0 +1,22 @@
+{
+  "kind": 0,
+  "columns": 2,
+  "seed_tag": [
+    "helper",
+    9977,
+    0,
+    173
+  ],
+  "observed_tag": [
+    "return",
+    9977,
+    0,
+    104493
+  ],
+  "paid_axes": 10,
+  "original_owners": 52608,
+  "nonzero_paid": 3785,
+  "exact_terminal": true,
+  "bad_seed_164_absent": true,
+  "retired_relay_scratch": true
+}
