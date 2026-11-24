@@ -1,0 +1,18 @@
+{
+  "local_and_hosted_registered_scopes": [
+    "price",
+    "calendar",
+    "raw",
+    "exterior",
+    "nested",
+    "product",
+    "setup"
+  ],
+  "exact_equal_local_and_hosted_receipts": [
+    "PASS_10SHORTCUT_3TYPE_28BIT_6STAGE_SEAM",
+    "PASS_W5664_SHORTCUT10"
+  ],
+  "hosted_task_outcome": "completed",
+  "hosted_rate": "0.003900862339776",
+  "hosted_recurring_log2_C": 171810078109
+}

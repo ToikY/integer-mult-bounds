@@ -1,0 +1,12 @@
+{
+  "scope": "Fixed-profile price projection only; literal selector and complete signed replay remain unrun.",
+  "existing_tariff_crossing": "9369558482049099685712283454905036193/2401919792316416000000000000000000000000",
+  "existing_tariff_provisional_rate": "0.003900862348535",
+  "new_domain_crossing": "9369558483551777597159040818267598241/2401919792316416000000000000000000000000",
+  "new_domain_provisional_rate": "0.003900862349161",
+  "provisional_delta_over_reproduced_8098": "0.000000000009385",
+  "provisional_delta_over_tightened_existing_tariff": "0.000000000000626",
+  "gaussian_ceiling": "2138026285702664495874749/548090675200000000000000000",
+  "binding": "ordinary",
+  "log2_C": 171810078109
+}
