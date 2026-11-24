@@ -1,0 +1,21 @@
+{
+  "hosted_scopes": [
+    "price",
+    "calendar",
+    "raw",
+    "exterior",
+    "nested",
+    "product",
+    "setup"
+  ],
+  "identical_local_and_hosted_exact_json": [
+    "PASS_10SHORTCUT_3TYPE_28BIT_6STAGE_SEAM",
+    "PASS_W5664_SHORTCUT10"
+  ],
+  "ordinary_minimal_ticks": [
+    1412105,
+    1411929
+  ],
+  "kappa": "3900862349161/1000000000000000",
+  "complete_log2_C": 171810078109
+}
