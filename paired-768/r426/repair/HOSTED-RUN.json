@@ -1,0 +1,35 @@
+{
+  "headSha": "490cd470f86157d29c9d3f8da9f96d6e2c3c04e5",
+  "status": "completed",
+  "conclusion": "success",
+  "url": "https://github.com/CrocSwap/integer-mult-bounds/actions/runs/45294927135",
+  "jobs": [
+    {
+      "databaseId": 138112789178,
+      "name": "plan",
+      "status": "completed",
+      "conclusion": "success",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/actions/runs/45294927135/job/138112789178",
+      "startedAt": "2026-11-24T00:10:14Z",
+      "completedAt": "2026-11-24T00:14:20Z"
+    },
+    {
+      "databaseId": 138114765990,
+      "name": "replay (research/historical-selected-replay-gap, research/p104-k7-sharper-period) / replay (research/historical-selected-replay-gap)",
+      "status": "completed",
+      "conclusion": "success",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/actions/runs/45294927135/job/138114765990",
+      "startedAt": "2026-11-24T00:14:22Z",
+      "completedAt": "2026-11-24T00:15:56Z"
+    },
+    {
+      "databaseId": 138114766017,
+      "name": "replay (research/historical-selected-replay-gap, research/p104-k7-sharper-period) / replay (research/p104-k7-sharper-period)",
+      "status": "completed",
+      "conclusion": "success",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/actions/runs/45294927135/job/138114766017",
+      "startedAt": "2026-11-24T00:14:23Z",
+      "completedAt": "2026-11-24T00:26:44Z"
+    }
+  ]
+}

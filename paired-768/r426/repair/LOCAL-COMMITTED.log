@@ -1,0 +1,4 @@
+PASS_RESEARCH_COMMIT_BYTES {"commit": "490cd470f86157d29c9d3f8da9f96d6e2c3c04e5", "files": 42, "package": "research/p104-k7-sharper-period", "source_history_commits": ["0618e75a22cec54d1651394ef83d088551b7f026"]}
+real 0.15
+user 0.09
+sys 0.06
